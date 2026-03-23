@@ -66,10 +66,13 @@ router.push({
 - Vertical safe-area edges can be controlled per screen via `edges` prop
 	- Current cards/home screens use `edges={['left', 'right']}` for edge-to-edge vertical layout
 
+
 ## Binder Builder Rules
 
 - Binder builder is the only current orientation-gated surface.
+- Binder builder now uses edge-to-edge layout: SafeAreaView is set to `edges={['top', 'bottom']}` to remove left/right insets and allow true full-width content.
 - Do not hard-lock device orientation yet; instead, detect portrait and render the rotate prompt.
+- Orientation is locked to landscape only while on the binder builder screen, and restored to portrait on exit.
 - Until the full editor lands, all binder-open actions should still route to `/binder-builder` so the flow can be validated end-to-end.
 
 ## Naming and Terminology

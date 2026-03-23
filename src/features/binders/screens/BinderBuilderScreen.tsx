@@ -145,14 +145,13 @@ export function BinderBuilderScreen({ binderId }: Props) {
 		       translateStartY.value = translateY.value;
 	       })
 	       .onUpdate((event) => {
-		       // Allow extra leeway beyond the binder edge
-		       const leeway = theme.spacing.xxl;
-		       const maxX = (coverWidth * (scale.value - 1)) / 2 + leeway;
-		       const maxY = (coverHeight * (scale.value - 1)) / 2 + leeway;
-		       const nextX = translateStartX.value + event.translationX;
-		       const nextY = translateStartY.value + event.translationY;
-		       translateX.value = clamp(nextX, -maxX, maxX);
-		       translateY.value = clamp(nextY, -maxY, maxY);
+			   // No extra leeway for binder builder screen
+			   const maxX = (coverWidth * (scale.value - 1)) / 2;
+			   const maxY = (coverHeight * (scale.value - 1)) / 2;
+			   const nextX = translateStartX.value + event.translationX;
+			   const nextY = translateStartY.value + event.translationY;
+			   translateX.value = clamp(nextX, -maxX, maxX);
+			   translateY.value = clamp(nextY, -maxY, maxY);
 	       });
 
 	const binderGesture = Gesture.Simultaneous(doubleTapGesture, pinchGesture, panGesture);
@@ -179,7 +178,7 @@ export function BinderBuilderScreen({ binderId }: Props) {
 
 	       return (
 		       <SafeAreaView
-			       edges={['top', 'left', 'right', 'bottom']}
+			       edges={['top']}
 			       style={styles.safeArea}
 		       >
 			       <View style={styles.builderShell}>
@@ -330,6 +329,14 @@ const createStyles = (theme: ReturnType<typeof useAppTheme>) =>
 		safeArea: {
 			flex: 1,
 			backgroundColor: theme.colors.background,
+
+        },
+        // Initial loading state for binder cover
+        loadingCover: {
+            width: 200,
+            height: 280,
+            borderRadius: theme.radius.md,
+            backgroundColor: theme.colors.surfaceAlt,
 		},
 		// Portrait / rotate
 		rotateShell: {

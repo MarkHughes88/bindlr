@@ -69,7 +69,11 @@ This checklist is intentionally ordered. Work top to bottom.
 - [ ] Build login/register forms
 - [ ] Add Google sign-in path (feature-flagged if needed)
 
+
 ## 3. Binder Builder (Main Feature)
+
+- [x] Binder builder screen: edge-to-edge layout (SafeAreaView `edges={['top', 'bottom']}`)
+- [x] Binder builder: orientation lock/unlock handled at screen level
 
 - [x] Create binder list screen
 - [x] Create first binder builder route with landscape gate + placeholder canvas
