@@ -1,0 +1,3045 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "mep-1",
+      "name": "Meganium",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Bayleef"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Wild Growth",
+          "text": "Each Basic Grass Energy attached to all of your Pokémon provides GrassGrass Energy. The effect of Wild Growth doesn't stack."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Solar Beam",
+          "damage": "140"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "001",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Uninori",
+      "national_pokedex_numbers": [
+        154
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Anyone who stands beside it becomes refreshed, just as if they were soaking in the soothing atmosphere of a forest.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-1/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-1/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-2",
+      "name": "Inteleon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Drizzile"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bring Down",
+          "text": "Choose a Pokémon in play (yours or your opponent's) that has the least HP remaining, except for this Pokémon, and it is Knocked Out."
+        },
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Shot",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": "110"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Kazumasa Yasukuni",
+      "national_pokedex_numbers": [
+        818
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It uses special lenses in its eyes to sense things about its opponents—like their body heat—then attacks once it identifies a weak spot.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-2/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-2/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-3",
+      "name": "Alakazam",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Kadabra"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Psychic Draw",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Draw 3 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Powerful Hand",
+          "text": "Place 2 damage counters on your opponent's Active Pokémon for each card in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "cochi8i",
+      "national_pokedex_numbers": [
+        65
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Alakazam wields potent psychic powers. It's said that this Pokémon used these powers to create the spoons it holds.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-3/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-3/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-4",
+      "name": "Lunatone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "110",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Lunar Cycle",
+          "text": "Once during your turn, if you have Solrock in play, you may discard a Basic Fighting Energy card from your hand in order to use this Ability. Draw 3 cards. You can't use more than 1 Lunar Cycle Ability each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Power Gem",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Ounishi",
+      "national_pokedex_numbers": [
+        337
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-4/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-4/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-5",
+      "name": "Drifloon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pull",
+          "text": "Flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Shimaris Yukichi",
+      "national_pokedex_numbers": [
+        425
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-5/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-5/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-6",
+      "name": "Drifblim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Drifloon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Creepy Wind",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Balloon Return",
+          "text": "Put this Pokémon and all attached cards into your hand.",
+          "damage": "110"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Shimaris Yukichi",
+      "national_pokedex_numbers": [
+        426
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It can generate and release gas within its body. That's how it can control the altitude of its drift.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-6/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-6/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-7",
+      "name": "Psyduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Damp",
+          "text": "Pokémon in play (both yours and your opponent's) lose any Ability that requires the Pokémon using it to Knock Out itself."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ram",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Jiro Sasumo",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-7/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-7/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-8",
+      "name": "Golduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Psyduck"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Damp",
+          "text": "Pokémon in play (both yours and your opponent's) lose any Ability that requires the Pokémon using it to Knock Out itself."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hydro Pump",
+          "text": "This attack does 20 more damage for each Water Energy attached to this Pokémon.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Jiro Sasumo",
+      "national_pokedex_numbers": [
+        55
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-8/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-8/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-9",
+      "name": "Alakazam",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Kadabra"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Psychic Draw",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. Draw 3 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Powerful Hand",
+          "text": "Place 2 damage counters on your opponent's Active Pokémon for each card in your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        65
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Alakazam wields potent psychic powers. It's said that this Pokémon used these powers to create the spoons it holds.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-9/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-9/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "pokemonCenterStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-10",
+      "name": "Riolu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Accelerating Stab",
+          "text": "During your next turn, this Pokémon can't use Accelerating Stab.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "10",
+      "printed_number": "010",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "GOSSAN",
+      "national_pokedex_numbers": [
+        447
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "They communicate with one another using their auras. They are able to run all through the night.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-10/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-10/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "pokemonCenterStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-11",
+      "name": "Mega Latias ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "280",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Strafe",
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Illusory Impulse",
+          "text": "Discard all Energy from this Pokémon.",
+          "damage": "300"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "11",
+      "printed_number": "011",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        380
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-11/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-11/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-12",
+      "name": "Mega Lucario ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1",
+        "MEGA",
+        "ex"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "340",
+      "evolves_from": [
+        "Riolu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Aura Jab",
+          "text": "Attach up to 3 Basic Fighting Energy cards from your discard pile to your Benched Pokémon in any way you like.",
+          "damage": "130"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mega Brave",
+          "text": "During your next turn, this Pokémon can't use Mega Brave.",
+          "damage": "270"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "12",
+      "printed_number": "012",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-12/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-12/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-13",
+      "name": "Mega Venusaur ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2",
+        "MEGA",
+        "ex"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "380",
+      "evolves_from": [
+        "Ivysaur"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Solar Transfer",
+          "text": "As often as you like during your turn, you may use this Ability. Move a Basic Grass Energy from 1 of your Pokémon to another of your Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Jungle Dump",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": "240"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "13",
+      "printed_number": "013",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        3
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-13/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-13/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-14",
+      "name": "Ceruledge",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Charcadet"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Infernal Slash",
+          "text": "Discard 4 Basic Fire Energy cards from your hand. If you can't discard 4 cards in this way, this attack does nothing.",
+          "damage": "220"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "014",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Anesaki Dynamic",
+      "national_pokedex_numbers": [
+        937
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-14/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-14/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-15",
+      "name": "Zacian",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Limit Break",
+          "text": "If your opponent has 3 or fewer Prize cards remaining, this attack does 90 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "15",
+      "printed_number": "015",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Shiburingaru",
+      "national_pokedex_numbers": [
+        888
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Able to cut down anything with a single strike, it became known as the Fairy King's Sword, and it inspired awe in friend and foe alike.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-15/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-15/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-16",
+      "name": "Flygon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Vibrava"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Sandy Flapping",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. You may also use this Ability if this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon. Discard the top 2 cards of your opponent's deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Cutting Wind",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "016",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Oswaldo KATO",
+      "national_pokedex_numbers": [
+        330
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Known as the Desert Spirit, this Pokémon hides in the sandstorms it causes by beating its wings.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-16/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-16/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-17",
+      "name": "Toxtricity",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Toxel"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Sinister Surge",
+          "text": "Once during your turn, you may use this Ability. Search your deck for a Basic Darkness Energy card and attach it to 1 of your Benched Darkness Pokémon. Then, shuffle your deck. If you attached Energy to a Pokémon in this way, place 2 damage counters on that Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Gentle Slap",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "017",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Krgc",
+      "national_pokedex_numbers": [
+        849
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As it scatters toxic sweat and emits electricity, a melody that sounds like it came from a guitar reverberates through the surrounding area.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-17/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-17/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-18",
+      "name": "Cottonee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Collect",
+          "text": "Draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Kariya",
+      "national_pokedex_numbers": [
+        546
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy— altogether top quality.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-18/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-18/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-19",
+      "name": "Whimsicott",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Cottonee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Healing Fluff",
+          "text": "Heal all damage from 1 of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "U-turn",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "019",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Yuka Tanaka",
+      "national_pokedex_numbers": [
+        547
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-19/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-19/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-20",
+      "name": "Sneasel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Dig Claws",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Scratch",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "020",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        215
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This cunning Pokémon hides under the cover of darkness, waiting to attack its prey.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-20/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-20/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-21",
+      "name": "Weavile",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Sneasel"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Retaliatory Claw",
+          "text": "If this Pokémon's remaining HP is 50 or less, this attack does 170 more damage.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Cut",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "021",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "matazo",
+      "national_pokedex_numbers": [
+        461
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-21/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-21/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-22",
+      "name": "Charcadet",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gather Strength",
+          "text": "Search your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Chop",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "22",
+      "printed_number": "022",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        935
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Burnt charcoal came to life and became a Pokémon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-22/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-22/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "pokemonCenterStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-23",
+      "name": "Mega Charizard X ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2",
+        "MEGA",
+        "ex"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "360",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Inferno X",
+          "text": "Discard any amount of Fire Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way.",
+          "damage": "90×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "23",
+      "printed_number": "023",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Saboteri",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-23/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-23/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-24",
+      "name": "Oricorio ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "190",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Excited Turbo",
+          "text": "As often as you like during your turn, if you have any Fire Mega Evolution Pokémon ex in play, you may use this Ability. Attach a Basic Fire Energy card from your hand to 1 of your Benched Fire Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Fire Wing",
+          "damage": "110"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "24",
+      "printed_number": "024",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Shinji Kanda",
+      "national_pokedex_numbers": [
+        741
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-24/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-24/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-25",
+      "name": "Mega Kangaskhan ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "300",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Run Errand",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may use this Ability. Draw 2 cards. You can't use more than 1 Run Errand Ability each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rapid-Fire Combo",
+          "text": "Flip a coin until you get tails. This attack does 50 more damage for each heads.",
+          "damage": "200+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "25",
+      "printed_number": "025",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        115
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-25/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-25/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-26",
+      "name": "Meloetta",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Soothing Melody",
+          "text": "Heal 120 damage from 1 of your Benched Psychic Pokémon."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Magical Shot",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "026",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Keisin",
+      "national_pokedex_numbers": [
+        648
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-26/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-26/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-27",
+      "name": "Haunter",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Gastly"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spooky Shot",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "27",
+      "printed_number": "027",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Arai Kiriko",
+      "national_pokedex_numbers": [
+        93
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-27/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-27/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-28",
+      "name": "Celebratory Fanfare",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "Once during each player's turn, that player may heal 10 damage from each of their Pokémon. If a player healed any damage in this way, their turn ends.",
+        "You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name can't be played."
+      ],
+      "number": "28",
+      "printed_number": "028",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Yuu Nishida",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-28/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-28/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "asiaChampionshipStamp",
+          "prices": []
+        },
+        {
+          "name": "leagueStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-29",
+      "name": "Mega Charizard X ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2",
+        "MEGA",
+        "ex"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "360",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Inferno X",
+          "text": "Discard any amount of Fire Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way.",
+          "damage": "90x"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "29",
+      "printed_number": "029",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "takuyoa",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "regulation_mark": "I",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-29/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-29/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-30",
+      "name": "Mega Charizard Y ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "MEGA",
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "360",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Explosion Y",
+          "text": "Discard 3 Energy from this Pokémon, and this attack does 280 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "030",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Ultimateinudog",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "regulation_mark": "J",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-30/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-30/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mep-31",
+      "name": "N's Zekrom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": "70"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Rampaging Thunder",
+          "text": "During your next turn, this Pokémon can't use attacks.",
+          "damage": "250"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "31",
+      "printed_number": "031",
+      "rarity": "Promo",
+      "rarity_code": "PROMO",
+      "artist": "Bun Toujo",
+      "national_pokedex_numbers": [
+        644
+      ],
+      "regulation_mark": "I",
+      "flavor_text": "When the interior part of its tail spins like a motor, Zekrom can generate many bolts of lightning to blast its surrounds.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mep-31/small",
+          "medium": "https://images.scrydex.com/pokemon/mep-31/medium",
+          "large": "https://images.scrydex.com/pokemon/mep-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "mep",
+        "name": "Mega Evolution Black Star Promos",
+        "series": "Mega Evolution",
+        "code": "MEP",
+        "total": 28,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/09/26",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "pokemonCenterStamp",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 31
+}

@@ -1,0 +1,3134 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "dc1-1",
+      "name": "Team Magma's Numel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ember",
+          "text": "Discard an Energy attached to this Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "1/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        322
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "No matter how heavy the cargo, we can transport it to our destination with ease, thanks to Numel.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-1/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-1/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-2",
+      "name": "Team Magma's Camerupt",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Team Magma's Numel"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Burning Draft",
+          "text": "Once during your turn (before your attack), you may attach a Fighting or Fire Energy card from your discard pile to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Flame Ball",
+          "text": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "2",
+      "printed_number": "2/34",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        323
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Camerupt, with its strength against fire, played a big role in rescuing team members.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-2/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-2/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-3",
+      "name": "Team Aqua's Spheal",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Gun",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "3",
+      "printed_number": "3/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        363
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Spheal's Water Gun can put out any fire. Flames used by opponents have no effect!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-3/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-3/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-4",
+      "name": "Team Aqua's Sealeo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Team Aqua's Spheal"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Splatter",
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hail Storm",
+          "text": "If your opponent's Active Pokémon is a Team Magma Pokémon, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "4",
+      "printed_number": "4/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        364
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It provides support by making paths of ice. It can win any battle as long as it's on ice.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-4/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-4/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-5",
+      "name": "Team Aqua's Walrein",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Team Aqua's Sealeo"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Power Blow",
+          "text": "This attack does 30 damage times the amount of Energy attached to this Pokémon.",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Dual Blizzard",
+          "text": "Discard 2 Water Energy attached to this Pokémon. This attack does 80 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "5",
+      "printed_number": "5/34",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        365
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It's good at attacks that freeze opponents with a powerful cold snap. Then, it pulverizes a frozen foe with its sharp tusks!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-5/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-5/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-6",
+      "name": "Team Aqua's Kyogre-EX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "190",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Power Saver",
+          "text": "If there are 4 or fewer Team Aqua Pokémon in play, this Pokémon can't attack."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Aqua Impact",
+          "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "6",
+      "printed_number": "6/34",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        382
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-6/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-6/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-7",
+      "name": "Team Aqua's Grimer",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mud-Slap",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "7/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        88
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its flexible body, which allows it to squeeze into any cracks, comes in handy when invading enemy hideouts.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-7/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-7/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-8",
+      "name": "Team Aqua's Muk",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Team Aqua's Grimer"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Sludge Festival",
+          "text": "The Retreat Cost of each Pokémon in play (except for Team Aqua Pokémon) is Colorless more."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pester",
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "8",
+      "printed_number": "8/34",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        89
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It immobilizes its opponents by wrapping them in its huge, poisonous body. It'll smoosh you, too!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-8/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-8/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-9",
+      "name": "Team Aqua's Seviper",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Venomous Fang",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venom Tail",
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, discard an Energy attached to that Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        336
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Seviper's tail is a sharp blade. It can even poison you!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-9/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-9/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-10",
+      "name": "Team Magma's Baltoy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Telekinesis",
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "10/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        343
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "They all cry out at once to let us know when they spot an enemy. It really helps out!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-10/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-10/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-11",
+      "name": "Team Magma's Claydol",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Team Magma's Baltoy"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Magma Switch",
+          "text": "Once during your turn (before your attack), you may move a basic Energy from 1 of your Pokémon to 1 of your Team Magma Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Power Beam",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "11",
+      "printed_number": "11/34",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        344
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Claydol's beam can seize opponents and keep them from moving. Long-range attacks are its specialty!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-11/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-11/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-12",
+      "name": "Team Magma's Aron",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gnaw",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "12/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        304
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Aron, which even devour metal, can eat and destroy enemy ships in an instant.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-12/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-12/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-13",
+      "name": "Team Magma's Lairon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Team Magma's Aron"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Gnaw",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Take Down",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "13",
+      "printed_number": "13/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        305
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When Lairon uses Take Down, the impact from its solid body is enough to destroy concrete!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-13/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-13/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-14",
+      "name": "Team Magma's Aggron",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Team Magma's Lairon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rock Stomp",
+          "text": "Discard as many Fighting Energy attached to your Pokémon as you like. This attack does 40 damage times the amount of Fighting Energy you discarded.",
+          "damage": "40×"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Boulder Storm",
+          "text": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "14",
+      "printed_number": "14/34",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "TOKIYA",
+      "national_pokedex_numbers": [
+        306
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Aggron's metal horns can smash through any defenses, no matter how strong!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-14/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-14/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-15",
+      "name": "Team Magma's Groudon-EX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "190",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Power Saver",
+          "text": "If there are 4 or fewer Team Magma Pokémon in play, this Pokémon can't attack."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Magma Quake",
+          "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "15",
+      "printed_number": "15/34",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        383
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-15/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-15/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-16",
+      "name": "Team Aqua's Poochyena",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Roar",
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "16/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        261
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Poochyena can easily detect invading foes with its acute sense of smell. It's an excellent lookout!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-16/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-16/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-17",
+      "name": "Team Magma's Poochyena",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Infiltrate",
+          "text": "Your opponent reveals his or her hand."
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "17/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "TOKIYA",
+      "national_pokedex_numbers": [
+        261
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Poochyena's nose can identify any scent. It's very useful for reconnaissance.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-17/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-17/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-18",
+      "name": "Team Aqua's Mightyena",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Team Aqua's Poochyena"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Teampact",
+          "text": "Flip a coin for each Team Aqua Pokémon you have in play. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Crunch",
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "18/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        262
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Thanks to Mightyena's outstanding leadership, it's very good at combination attacks that can leave a foe helpless.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-18/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-18/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-19",
+      "name": "Team Magma's Mightyena",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Team Magma's Poochyena"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hostile Fang",
+          "text": "If your opponent's Active Pokémon is a Team Aqua Pokémon, this attack does 40 more damage.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "19/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        262
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This Pokémon is loyal to its master. It will protect its partner to the end, no matter what.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-19/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-19/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-20",
+      "name": "Team Aqua's Carvanha",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fin Smack",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "20/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        318
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "You can't keep up with its movements underwater, can you? If you get caught in this whirlpool, there'll be no escape.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-20/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-20/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-21",
+      "name": "Team Aqua's Sharpedo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Team Aqua's Carvanha"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Aqua Search",
+          "text": "Once during your turn (before your attack), you may search your deck for a Team Aqua Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sharp Fang",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "number": "21",
+      "printed_number": "21/34",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        319
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It boasts fangs so powerful that they knock opponents out in one shot! Enemies that slip up will be taken down without fail!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-21/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-21/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-22",
+      "name": "Team Magma's Zangoose",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Call for Family",
+          "text": "Search your deck for up to 2 Basic Team Magma Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Team Play",
+          "text": "This attack does 20 damage times the number of Team Magma Pokémon on your Bench.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "22/34",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        335
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Can you handle the formation attack of the fearless Zangoose?",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-22/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-22/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-23",
+      "name": "Aqua Diffuser",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Aqua Diffuser",
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        }
+      ],
+      "rules": [
+        "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+        "The Team Aqua Pokémon this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.)",
+        "You may play as many Item cards as you like during your turn (before your attack)."
+      ],
+      "number": "23",
+      "printed_number": "23/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-23/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-23/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-24",
+      "name": "Magma Pointer",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Magma Pointer",
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+        "The Team Magma Pokémon this card is attached to can also use the attack on this card. (You still need the necessary Energy to use this attack.)",
+        "You may play as many Item cards as you like during your turn (before your attack)."
+      ],
+      "number": "24",
+      "printed_number": "24/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-24/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-24/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-25",
+      "name": "Team Aqua Admin",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Attach a basic Energy card from your discard pile to your Active Team Aqua Pokémon.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "25",
+      "printed_number": "25/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "GAME FREAK inc.",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-25/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-25/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-26",
+      "name": "Team Aqua Grunt",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard a card from your hand. (If you can't discard a card, you can't play this card.) Draw 3 cards. If you discarded a Team Aqua Pokémon, draw 1 more card.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "26",
+      "printed_number": "26/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "GAME FREAK inc.",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-26/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-26/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-27",
+      "name": "Team Aqua's Great Ball",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Search your deck for a Basic Team Aqua Pokémon and a basic Water Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+        "You may play as many Item cards as you like during your turn (before your attack)."
+      ],
+      "number": "27",
+      "printed_number": "27/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-27/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-27/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-28",
+      "name": "Team Aqua's Secret Base",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "The Retreat Cost of each Pokémon in play (except for Team Aqua Pokémon) is Colorless more.",
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+      ],
+      "number": "28",
+      "printed_number": "28/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-28/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-28/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-29",
+      "name": "Team Magma Admin",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Put up to 3 Team Magma Pokémon from your discard pile into your hand.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "29",
+      "printed_number": "29/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "GAME FREAK inc.",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-29/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-29/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-30",
+      "name": "Team Magma Grunt",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard a card from your hand. (If you can't discard a card, you can't play this card.) Draw 3 cards. If you discarded a Team Magma Pokémon, draw 1 more card.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "30",
+      "printed_number": "30/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "GAME FREAK inc.",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-30/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-30/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-31",
+      "name": "Team Magma's Great Ball",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Search your deck for a Basic Team Magma Pokémon and a basic Fighting Energy card, reveal them, and put them into your hand. Shuffle your deck afterward.",
+        "You may play as many Item cards as you like during your turn (before your attack)."
+      ],
+      "number": "31",
+      "printed_number": "31/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-31/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-31/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-32",
+      "name": "Team Magma's Secret Base",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "Whenever any player puts a Basic Pokémon (except for Team Magma Pokémon) from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon.",
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+      ],
+      "number": "32",
+      "printed_number": "32/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-32/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-32/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-33",
+      "name": "Double Aqua Energy",
+      "supertype": "Energy",
+      "subtypes": [
+        "Special"
+      ],
+      "rules": [
+        "This card can only be attached to Team Aqua Pokémon. Discard this card at the end of the turn you attached it.",
+        "This card provides WaterWater Energy only while it is attached to a Team Aqua Pokémon.",
+        "(If this card is attached to anything other than a Team Aqua Pokémon, discard this card.)"
+      ],
+      "number": "33",
+      "printed_number": "33/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-33/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-33/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dc1-34",
+      "name": "Double Magma Energy",
+      "supertype": "Energy",
+      "subtypes": [
+        "Special"
+      ],
+      "rules": [
+        "This card can only be attached to Team Magma Pokémon. Discard this card at the end of the turn you attached it.",
+        "This card provides FightingFighting Energy only while it is attached to a Team Magma Pokémon.",
+        "(If this card is attached to anything other than a Team Magma Pokémon, discard this card.)"
+      ],
+      "number": "34",
+      "printed_number": "34/34",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dc1-34/small",
+          "medium": "https://images.scrydex.com/pokemon/dc1-34/medium",
+          "large": "https://images.scrydex.com/pokemon/dc1-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "dc1",
+        "name": "Double Crisis",
+        "series": "XY",
+        "code": "DCR",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2015/03/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 34
+}

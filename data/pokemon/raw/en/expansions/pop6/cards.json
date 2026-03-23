@@ -1,0 +1,1726 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "pop6-1",
+      "name": "Bastiodon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Shieldon"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Protective Wall",
+          "text": "Prevent all damage done to your Benched Pokémon by your opponent's attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Anger Revenge",
+          "text": "If Bastiodon was damaged by an attack during your opponent's last turn, this attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+40"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "1",
+      "printed_number": "1/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kazuyuki Kano",
+      "national_pokedex_numbers": [
+        411
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-1/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-1/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-2",
+      "name": "Lucario",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Riolu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Feint",
+          "text": "This attack's damage isn't affected by Resistance.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Aura Sphere",
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "2/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It has the ability to sense the auras of all things. It understands human speech.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-2/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-2/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-3",
+      "name": "Manaphy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Call for Family",
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Aqua Ring",
+          "text": "Switch Manaphy with 1 of your Benched Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        490
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-3/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-3/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-4",
+      "name": "Pachirisu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Minor Errand-Running",
+          "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thunder Jolt",
+          "text": "Flip a coin. If tails, Pachirisu does 10 damage to itself.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        417
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-4/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-4/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-5",
+      "name": "Rampardos",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Cranidos"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Assurance",
+          "text": "As long as the Defending Pokémon's remaining HP is 60 or less, this attack's base damage is 60 instead of 30.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hasty Headbutt",
+          "text": "Rampardos does 20 damage to itself. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "5/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kazuyuki Kano",
+      "national_pokedex_numbers": [
+        409
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-5/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-5/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-6",
+      "name": "Drifloon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Blowing Wind",
+          "text": "Flip a coin. If heads, put 1 of your Benched Pokémon and all cards attached to it on top of your deck. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ominous Wind",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and can't retreat during your opponent's next turn.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        425
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A Pokémon formed by the spirits of people and Pokémon. It loves damp, humid seasons.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-6/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-6/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-7",
+      "name": "Gible",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "Oran Berry: Remove 1 damage counter from Gible at the end of your turn."
+      ],
+      "number": "7",
+      "printed_number": "7/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        443
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-7/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-7/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-8",
+      "name": "Riolu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Wild Kick",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "8/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        447
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-8/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-8/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-9",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spark",
+          "text": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "Oran Berry: Remove 1 damage counter from Pikachu at the end of your turn."
+      ],
+      "number": "9",
+      "printed_number": "9/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-9/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-9/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "pokemonDayStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-10",
+      "name": "Staravia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Starly"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Whirlwind",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Clutch",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "number": "10",
+      "printed_number": "10/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        397
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It flies around forests and fields in search of bug Pokémon. It stays within a huge flock.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-10/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-10/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-11",
+      "name": "Bidoof",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Amnesia",
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scavenge",
+          "text": "Search your discard pile for a Trainer card, show it to your opponent, an put it into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "11/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        399
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-11/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-11/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-12",
+      "name": "Buneary",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Splash",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Jump Kick",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "12/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        427
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It slams foes by sharply uncoiling is rolled ears. It stings enough to make a grown-up cry in pain.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-12/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-12/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-13",
+      "name": "Cherubi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sleep Powder",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leech Seed",
+          "text": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Cherubi.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "13/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        420
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-13/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-13/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-14",
+      "name": "Chimchar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ember",
+          "text": "Flip a coin. If heads discard a Fire Energy attached to Chimchar.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "14/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        390
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It agilely scales cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-14/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-14/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-15",
+      "name": "Piplup",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Peck",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Spash",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "15/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        393
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-15/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-15/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "dylanLefavour",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-16",
+      "name": "Starly",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gust",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "16/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        396
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "They flock in great numbers. Though small, they flap their wings with great power.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-16/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-16/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop6-17",
+      "name": "Turtwig",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Razor Leaf",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "17/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        387
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop6-17/small",
+          "medium": "https://images.scrydex.com/pokemon/pop6-17/medium",
+          "large": "https://images.scrydex.com/pokemon/pop6-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop6",
+        "name": "POP Series 6",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 17
+}

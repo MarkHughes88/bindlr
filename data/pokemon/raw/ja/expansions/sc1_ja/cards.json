@@ -1,0 +1,3476 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "sc1_ja-1",
+      "name": "ツタージャ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "せいちょう",
+          "text": "自分の手札からGrassエネルギーを1枚選び、このポケモンにつける。"
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "はっぱカッター",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Eske Yoshinob",
+      "national_pokedex_numbers": [
+        495
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "太陽の 光を 浴びると いつもよりも すばやく 動ける。 手よりも ツルを うまく使う。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Snivy",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Growth",
+              "text": "Attach a Grass Energy card from your hand to this Pokémon."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Razor Leaf",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-2",
+      "name": "ジャノビー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "ツタージャ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "リーフブレード",
+          "text": "コインを1回投げオモテなら、30ダメージを追加。",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "つるのムチ",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        496
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "体が 汚れると はっぱで 光合成が できなくなるので いつも 清潔に している。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Servine",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Leaf Blade",
+              "text": "Flip a coin. If heads, this attack does 30 more damage.",
+              "damage": "10+"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Vine Whip",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Snivy"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-3",
+      "name": "ジャローダ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "ジャノビー"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ロイヤルガーデン",
+          "text": "このポケモンにGrassエネルギーがついているなら、このポケモンのにげるために必要なエネルギーは、すべてなくなる。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ソーラービーム",
+          "text": "",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "3",
+      "printed_number": "003/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        497
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ジャローダの 気高い ひとみで 射すくめられても 平気な 強い 相手にだけ 本気を だす。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Serperior",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Royal Garden",
+              "text": "If this Pokémon has any Grass Energy attached to it, this Pokémon has no Retreat Cost."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Solar Beam",
+              "text": "",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Servine"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-4",
+      "name": "ガーディ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ねむる",
+          "text": "このポケモンをねむりにする。このポケモンのHPをすべて回復する。"
+        },
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "とびかかる",
+          "text": "コインを1回投げウラなら、このワザは失敗。",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "printed_number": "004/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        58
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "トレーナーに とても 忠実で うっかり 近づくと 激しく ほえたて 街の外に 追い払う。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Growlithe",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Rest",
+              "text": "Heal all damage from this Pokémon. This Pokémon is now Asleep."
+            },
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Lunge",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-5",
+      "name": "アチャモ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "つつく",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ひだね",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kanako Eo",
+      "national_pokedex_numbers": [
+        255
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "体内で 炎が 燃えているので 抱きしめると とても 温かい。 １０００度の 火の玉を 飛ばす。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Torchic",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Peck",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Live Coal",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-6",
+      "name": "ポッチャマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "あまえる",
+          "text": "次の相手の番、このワザを受けた相手のバトルポケモンが使うワザのダメージは「-20」される。"
+        },
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "つつく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        393
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "歩くのは 苦手で こけたりするが ポッチャマの プライドは 高く 気にせず 堂々と 胸を はる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Piplup",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Charm",
+              "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Peck",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-7",
+      "name": "ピカチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "でんきショック",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "しっぽではたく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "弱った 仲間の ピカチュウに 電気を流し ショックを与えて 元気を 分けることも ある。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Pikachu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Thundershock",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tail Whap",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-8",
+      "name": "ラルトス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みつめる",
+          "text": "相手のバトルポケモンをねむりにする。"
+        },
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "はたく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        280
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "赤いツノで 人や ポケモンの 温かな 気持ちを キャッチすると 全身が ほのかに 熱くなる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Ralts",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hypnotic Gaze",
+              "text": "The Defending Pokémon is now Asleep."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Pound",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-9",
+      "name": "キルリア",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "ラルトス"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "プリマステップ",
+          "text": "このポケモンについているPsychicエネルギーの数ぶん、自分の山札を引く。"
+        },
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "おうふくビンタ",
+          "text": "コインを2回投げ、オモテの数×20ダメージ。",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        281
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "トレーナーが 喜ぶと キルリアに エネルギーが 満ちあふれ 楽しそうに くるくると 踊る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Kirlia",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tiptoe Step",
+              "text": "Draw a card for each Psychic Energy attached to this Pokémon."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Double Slap",
+              "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Ralts"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-10",
+      "name": "サーナイト",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "サーナイトGX"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "サイケこうせん",
+          "text": "相手のバトルポケモンをこんらんにする。",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "エターナルブライト",
+          "text": "このポケモンにのっているダメカンをすべて、相手のバトルポケモンにのせ替える。次の自分の番、このポケモンは「エターナルブライト」を使えない。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        282
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "トレーナーを 守るためなら サイコパワーを 使いきり 小さな ブラックホールを 作り出す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Gardevoir",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Psybeam",
+              "text": "The Defending Pokémon is now Confused.",
+              "damage": "40"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Eternal Radiance",
+              "text": "Move all damage counters from this Pokémon to the Defending Pokémon. This Pokémon can't use Eternal Radiance during your next turn."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Kirlia"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-11",
+      "name": "メロエッタEX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "シャイニーボイス",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。ウラなら、相手のバトルポケモンをこんらんにする。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 3,
+          "name": "りんしょう",
+          "text": "ワザ「りんしょう」を持つ自分のポケモンの数×30ダメージ。",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/020",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Eske Yoshinob",
+      "national_pokedex_numbers": [
+        648
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Meloetta-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Brilliant Voice",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Confused.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Round",
+              "text": "Does 30 damage times the number of your Pokémon that have the Round attack.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-12",
+      "name": "マッギョ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "メロメロ",
+          "text": "次の相手の番、このワザを受けた相手のバトルポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "どろかけ",
+          "text": "",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "12",
+      "printed_number": "012/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        618
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "相手が しびれてくれないときは 予想外の すばやさで 体を くねらせ 飛び跳ね 逃げるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Stunfisk",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Attract",
+              "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Mud-Slap",
+              "text": "",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-13",
+      "name": "チョロネコ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ゆうわく",
+          "text": "コインを1回投げオモテなら、相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "013/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        509
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "かわいらしい 仕草で 油断させ 大事な ものを 盗むのは 人の 困った 様子を みたいから。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Purrloin",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Captivate",
+              "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with the Defending Pokémon."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-14",
+      "name": "イーブイ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ふいをつく",
+          "text": "コインを1回投げウラなら、このワザは失敗。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "014/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "不安定な 遺伝子の おかげで さまざまな 進化の 可能性を 秘めている 特殊な ポケモン。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Eevee",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Surprise Attack",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-15",
+      "name": "ヒメグマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みつをなめる",
+          "text": "このポケモンのHPを「20」回復する。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ひっかく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "15",
+      "printed_number": "015/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        216
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "甘い ミツを 手のひらに 染み込ませて いつも なめている。 ヒメグマによって 味が 違う。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Teddiursa",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Honey Snack",
+              "text": "Heal 20 damage from this Pokémon."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Scratch",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-16",
+      "name": "リングマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "ヒメグマ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "おでかけびより",
+          "text": "自分のトラッシュから「ヒメグマ」を1枚選び、ベンチに出す。その後、自分のトラッシュからエネルギーを1枚選び、そのポケモンにつける。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "みだれひっかき",
+          "text": "コインを3回投げ、オモテの数×50ダメージ。",
+          "damage": "50×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "16",
+      "printed_number": "016/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        217
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "縄張りにある おいしい 木の実や 果物の なる 木 には ツメで 傷跡を つける。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Ursaring",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Picnic Weather",
+              "text": "Put a Teddiursa from your discard pile onto your Bench. Then, attach an Energy card from your discard pile to that Pokémon."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Fury Swipes",
+              "text": "Flip 3 coins. This attack does 50 damage times the number of heads.",
+              "damage": "50×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Teddiursa"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-17",
+      "name": "タブンネ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ごろごろ",
+          "text": "ウラが出るまでコインを投げ続け、オモテの数×30ダメージ。",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "017/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        531
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "耳の 触角で 相手の 体調や タマゴから ポケモンが いつ でてくるのかも わかるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Audino",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Relaxed Roll",
+              "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-18",
+      "name": "チラーミィ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "スイープビンタ",
+          "text": "コインを2回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        572
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "お互いの しっぽで 相手を とことん きれいに してあげるのが チラーミィ同士の あいさつ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Minccino",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tail Slap",
+              "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-19",
+      "name": "チラチーノ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "チラーミィ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "なめらかコート",
+          "text": "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "エコーボイス",
+          "text": "次の自分の番、このポケモンが使う「エコーボイス」のダメージは「+50」される。",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "019/020",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        573
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "チラチーノの 体は 特別な 脂で 被われており パンチなど 相手の 攻撃を 受け流す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Cinccino",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Smooth Coat",
+              "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Echoed Voice",
+              "text": "During your next turn, this Pokémon's attack does 50 more damage (before applying Weakness and Resistance).",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Minccino"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-20",
+      "name": "カミツレ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の山札から「ポケモンのどうぐ」を3枚選び、相手に見せてから、手札に加える。そして山札を切る。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "20",
+      "printed_number": "020/020",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Yusuke Ohmura",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Elesa",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-21",
+      "name": "Shaymin-EX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "110",
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "021/020",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "Kanako Eo",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Shaymin-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-22",
+      "name": "Reshiram",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "130",
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "22",
+      "printed_number": "022/020",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "Kagemaru Himeno",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Reshiram",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-23",
+      "name": "Emolga",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "23",
+      "printed_number": "023/020",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "Atsuko Nishida",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Emolga",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-24",
+      "name": "Mew-EX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "120",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "Versatile",
+          "text": "This Pokémon can use the attacks of any Pokémon in play (both yours and your opponent's). (You still need the necessary Energy to use each attack.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "024/020",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "MAHOU",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Mew-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Versatile",
+              "text": "This Pokémon can use the attacks of any Pokémon in play (both yours and your opponent's). (You still need the necessary Energy to use each attack.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sc1_ja-25",
+      "name": "Meloetta-EX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "110",
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "025/020",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "Eske Yoshinob",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sc1_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/sc1_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/sc1_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "sc1_ja",
+        "name": "シャイニーコレクション",
+        "series": "Black & White",
+        "code": "SC",
+        "total": 25,
+        "printed_total": 20,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2013/02/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Meloetta-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Shiny Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 25
+}

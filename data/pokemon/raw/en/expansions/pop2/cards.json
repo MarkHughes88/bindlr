@@ -1,0 +1,1567 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "pop2-1",
+      "name": "Entei",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Stomp",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Fire Spin",
+          "text": "Discard 2 Basic Energy cards attached to Entei or this attack does nothing.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        244
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-1/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-1/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-2",
+      "name": "Pidgeot",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Pidgeotto"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Beating Wings",
+          "text": "Once during your turn (before your attack), if Pidgeot is your Active Pokémon, you may shuffle 1 of your Benched Pokémon and all cards attached to it into your deck. This power can't be used if Pidgeot is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sharp Beak",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 30 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "2",
+      "printed_number": "2/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        18
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-2/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-2/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-3",
+      "name": "Raikou",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Roar",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thunder",
+          "text": "Flip a coin. If tails, Raikou does 20 damage to itself.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        243
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-3/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-3/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-4",
+      "name": "Suicune",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Mirror Coat",
+          "text": "If Suicune is Burned or Poisoned by an opponent's attack (even if Suicune is Knocked Out), the Attacking Pokémon is now affected by the same Special Conditions (1 if there is only 1)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bubblebeam",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        245
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-4/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-4/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-5",
+      "name": "Tauros",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rage",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Tauros.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Take Down",
+          "text": "Tauros does 10 damage to itself.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "5/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        128
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-5/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-5/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-6",
+      "name": "Venusaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Ivysaur"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Wide Solarbeam",
+          "text": "Does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Hard Plant",
+          "text": "Venusaur can't use Hard Plant during your next turn.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "6",
+      "printed_number": "6/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        3
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-6/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-6/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-7",
+      "name": "Ivysaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Bulbasaur"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Poison Seed",
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Razor Leaf",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "7/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        2
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-7/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-7/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-8",
+      "name": "Mr. Briney's Compassion",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Choose 1 of your Pokémon in play (excluding Pokémon-ex). Return that Pokémon and all cards attached to it to your hand."
+      ],
+      "number": "8",
+      "printed_number": "8/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-8/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-8/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-9",
+      "name": "Multi Technical Machine 01",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Technical Machine"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Paralyzing Gaze",
+          "text": "The Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "Attach this card to 1 of your Pokémon in play. That Pokémon may use this card's attack instead of its own. At the end of your turn, discard Multi Technical Machine 01."
+      ],
+      "number": "9",
+      "printed_number": "9/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "\"Big Mama\" Tagawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-9/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-9/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-10",
+      "name": "Pokémon Park",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+        "Once during each player's turn, when that player attaches an Energy card from his or her hand to 1 of his or her Benched Pokémon, he or she removes 1 damage counter from that Pokémon."
+      ],
+      "number": "10",
+      "printed_number": "10/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kazuo Yazawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-10/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-10/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-11",
+      "name": "TV Reporter",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Draw 3 cards. Then discard any 1 card from your hand."
+      ],
+      "number": "11",
+      "printed_number": "11/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-11/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-11/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "jasonKlaczynski",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-12",
+      "name": "Bulbasaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Razor Leaf",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "12/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        1
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-12/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-12/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-13",
+      "name": "Cacnea",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sand Attack",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "13/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        331
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-13/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-13/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-14",
+      "name": "Luvdisc",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Paralyzing Kiss",
+          "text": "If there are 2 Defending Pokémon in play, choose 1 of the Defending Pokémon. That Pokémon is now Paralyzed. (If there is only 1 Defending Pokémon, this attack does nothing.)"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fast Stream",
+          "text": "Move 1 Energy card attached to the Defending Pokémon to the other Defending Pokémon. (Ignore this effect if your opponent has only 1 Defending Pokémon.)",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "14/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        370
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-14/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-14/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-15",
+      "name": "Phanpy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Double Spin",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Body Slam",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "15/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        231
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-15/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-15/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-16",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gnaw",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunder Jolt",
+          "text": "Flip a coin. If tails, Pikachu does 10 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "16/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-16/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-16/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop2-17",
+      "name": "Celebi ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Time Reversal",
+          "text": "Once during your turn, when you put Celebi ex from your hand onto your Bench, you may search your discard pile for a card, show it to your opponent, and put it on top of your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psychic Shield",
+          "text": "Prevent all effects of attacks, including damage, done to Celebi ex by your opponent's Pokémon-ex during your opponent's next turn.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "17",
+      "printed_number": "17/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        251
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop2-17/small",
+          "medium": "https://images.scrydex.com/pokemon/pop2-17/medium",
+          "large": "https://images.scrydex.com/pokemon/pop2-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop2",
+        "name": "POP Series 2",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2005/08/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "cosmosHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 17
+}

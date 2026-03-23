@@ -1,0 +1,2467 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "cel25-1",
+      "name": "Ho-Oh",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sacred Fire",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Fire Blast",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        250
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It will reveal itself before a pure-hearted Trainer by shining its bright, rainbow-colored wings.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-1/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-1/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-2",
+      "name": "Reshiram",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Scorching Wind",
+          "text": "This attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Black Flame",
+          "text": "If Zekrom is on your Bench, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "2",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        643
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-2/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-2/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-3",
+      "name": "Kyogre",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Aqua Storm",
+          "text": "Discard the top 5 cards of your deck, and then choose 2 of your opponent's Benched Pokémon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Surf",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "3",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Ryuta Fuse",
+      "national_pokedex_numbers": [
+        382
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-3/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-3/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-4",
+      "name": "Palkia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "130",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Absolute Space",
+          "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Overdrive Smash",
+          "text": "During your next turn, this Pokémon's Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        484
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-4/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-4/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-5",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gnaw",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunder Jolt",
+          "text": "Flip a coin. If tails, this Pokémon also does 10 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-5/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-5/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-6",
+      "name": "Flying Pikachu V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "190",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thunder Shock",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Fly",
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "6",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-6/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-6/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-7",
+      "name": "Flying Pikachu VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "310",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Balloon",
+          "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+          "damage": "160"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "7",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-7/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-7/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-8",
+      "name": "Surfing Pikachu V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "200",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Surf",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "8",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-8/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-8/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-9",
+      "name": "Surfing Pikachu VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "310",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Surfer",
+          "text": "This attack also does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "160"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "9",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-9/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-9/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-10",
+      "name": "Zekrom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Field Crush",
+          "text": "If your opponent has a Stadium in play, discard it.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "White Thunder",
+          "text": "If Reshiram is on your Bench, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "10",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        644
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-10/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-10/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-11",
+      "name": "Mew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Mysterious Tail",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psyshot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Yuu Nishida",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-11/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-11/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-12",
+      "name": "Xerneas",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Breath of Life",
+          "text": "Search your deck for up to 3 basic Energy cards of different types and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Aurora Horns",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        716
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-12/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-12/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-13",
+      "name": "Cosmog",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Star Protection",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        789
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Whether or not it's a Pokémon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-13/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-13/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-14",
+      "name": "Cosmoem",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Star Protection",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "14",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        790
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-14/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-14/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-15",
+      "name": "Lunala",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "160",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Lunar Pain",
+          "text": "Double the number of damage counters on each of your opponent's Pokémon."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psychic Shot",
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "15",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        792
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-15/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-15/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-16",
+      "name": "Zacian V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "220",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Roar of the Sword",
+          "text": "Once during your turn, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Storm Slash",
+          "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "16",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        888
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-16/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-16/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-17",
+      "name": "Groudon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Magma Volcano",
+          "text": "Discard the top 5 cards of your deck. This attack does 80 damage for each Energy card you discarded in this way.",
+          "damage": "80×"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Massive Rend",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "17",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Ryuta Fuse",
+      "national_pokedex_numbers": [
+        383
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This legendary Pokémon is said to represent the land. It went to sleep after dueling Kyogre.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-17/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-17/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-18",
+      "name": "Zamazenta V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "220",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Growl of the Shield",
+          "text": "All of your Fighting Pokémon take 20 less damage from attacks from your opponent's Pokémon VMAX (after applying Weakness and Resistance). You can't apply more than 1 Growl of the Shield Ability at a time."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Heavy Impact",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "18",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        889
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-18/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-18/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-19",
+      "name": "Yveltal",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Cry of Destruction",
+          "text": "Discard up to 3 Special Energy from your opponent's Pokémon."
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dark Feather",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "19",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        717
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-19/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-19/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-20",
+      "name": "Dialga",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Temporal Backflow",
+          "text": "Put a card from your discard pile into your hand."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Metal Blast",
+          "text": "This attack does 20 more damage for each Metal Energy attached to this Pokémon.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "20",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        483
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-20/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-20/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-21",
+      "name": "Solgaleo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "170",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Rush In",
+          "text": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Solar Geyser",
+          "text": "Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "21",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        791
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "In writings from the distant past, it's called by the name \"the beast that devours the sun.\"",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-21/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-21/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-22",
+      "name": "Lugia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Aero Ball",
+          "text": "This attack does 20 damage for each Energy attached to both Active Pokémon.",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Deep Crush",
+          "text": "During your next turn, this Pokémon can't attack.",
+          "damage": "160"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "22",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        249
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-22/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-22/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-23",
+      "name": "Professor's Research (Professor Oak)",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard your hand and draw 7 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "23",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "KIYOTAKA OSHIYAMA",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-23/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-23/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-24",
+      "name": "Professor's Research (Professor Oak)",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard your hand and draw 7 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "24",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Ken Sugimori",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-24/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-24/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cel25-25",
+      "name": "Mew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Mysterious Tail",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psyshot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Saki Hayashiro",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cel25-25/small",
+          "medium": "https://images.scrydex.com/pokemon/cel25-25/medium",
+          "large": "https://images.scrydex.com/pokemon/cel25-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "cel25",
+        "name": "Celebrations",
+        "series": "Sword & Shield",
+        "code": "CEL",
+        "total": 25,
+        "printed_total": 25,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/10/08",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 25
+}

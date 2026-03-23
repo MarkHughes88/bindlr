@@ -1,0 +1,1677 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "pop8-1",
+      "name": "Heatran",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Body Slam",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Fire Spin",
+          "text": "Discard 2 Basic Energy cards attached to Heatran. (If you can't discard cards, this attack does nothing.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "1",
+      "printed_number": "1/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        485
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-1/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-1/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-2",
+      "name": "Lucario",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Riolu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Blocking Punch",
+          "text": "During your opponent's next turn, any damage done to Lucario by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Striking Kick",
+          "text": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "2/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kent Kanetsuna",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "By catching the aura emanating from others, it can read their thoughts and movements.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-2/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-2/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-3",
+      "name": "Luxray",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Luxio"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Intimidating Fang",
+          "text": "As long as Luxray is your Active Pokémon, any damage done by an opponent's attack is reduced by 10 (before applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Thunder",
+          "text": "Flip a coin. If tails, Luxray does 40 damage to itself.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        405
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When its eyes gleam gold, it can spot hiding prey–even those taking shelter behind a wall.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-3/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-3/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-4",
+      "name": "Probopass",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Nosepass"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rock Slide",
+          "text": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Triple Nose",
+          "text": "Flip 3 coins. This attack does 50 damage plus 20 more damage for each heads.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "4",
+      "printed_number": "4/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        476
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It exudes strong magnetism from all cover. It controls three small units called Mini-Noses.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-4/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-4/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-5",
+      "name": "Yanmega",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Yanma"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Air Slash",
+          "text": "Flip a coin. If tails, discard an Energy attached to Yanmega.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "number": "5",
+      "printed_number": "5/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        469
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-5/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-5/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-6",
+      "name": "Cherrim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Cherubi"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Worry Seed",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Magical Leaf",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage and remove 3 damage counters from Cherrim.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "6",
+      "printed_number": "6/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        421
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It blooms during times of strong sunlight. It tries to make up for everything it endured as a bud.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-6/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-6/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "crackedIceHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-7",
+      "name": "Carnivine",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Swallow Up",
+          "text": "Before doing damage, count the remaining HP of the Defending Pokémon and Carnivine. If the Defending Pokémon has fewer remaining HP than Carnivine's, this attack does 60 damage instead.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wring Out",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and discard an Energy card attached to the Defending Pokémon.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "7/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        455
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-7/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-7/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "crackedIceHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-8",
+      "name": "Luxio",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Shinx"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fasten Claw",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 30 more damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunder Fang",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "number": "8",
+      "printed_number": "8/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        404
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-8/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-8/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-9",
+      "name": "Night Maintenance",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Search your discard pile for up to 3 in any combination of Pokémon and basic Energy cards. Show them to your opponent and shuffle them into your deck."
+      ],
+      "number": "9",
+      "printed_number": "9/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-9/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-9/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-10",
+      "name": "Rare Candy",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.)"
+      ],
+      "number": "10",
+      "printed_number": "10/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-10/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-10/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-11",
+      "name": "Roseanne's Research",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your deck for up to 2 in any combination of Basic Pokémon and basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      ],
+      "number": "11",
+      "printed_number": "11/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kanako Eo",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-11/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-11/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-12",
+      "name": "Chimchar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ember",
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to Chimchar.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "12/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        390
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-12/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-12/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "crackedIceHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-13",
+      "name": "Croagunk",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ghastly Sound",
+          "text": "Flip a coin. If heads, your opponent can't play any Supporter cards from his or her hand during his or her next turn."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Finger Poke",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "13/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        453
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-13/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-13/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-14",
+      "name": "Happiny",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Chansey from your hand onto Happiny (this counts as evolving Happiny) and remove all damage counters from Happiny."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Lively",
+          "text": "Remove 2 damage counters from 1 of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "14/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        440
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It loves round white things. It carries an egg-shaped rock in imitation of CHANSEY.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-14/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-14/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-15",
+      "name": "Piplup",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Peck",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Splash",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "15/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        393
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-15/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-15/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-16",
+      "name": "Riolu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Inner Focus",
+          "text": "Riolu can't be Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "16/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        447
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its body is lithe yet powerful. It can crest three mountains and cross two canyons in one night.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-16/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-16/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "crackedIceHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop8-17",
+      "name": "Turtwig",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Razor Leaf",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "17/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        387
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop8-17/small",
+          "medium": "https://images.scrydex.com/pokemon/pop8-17/medium",
+          "large": "https://images.scrydex.com/pokemon/pop8-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop8",
+        "name": "POP Series 8",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/09/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 17
+}

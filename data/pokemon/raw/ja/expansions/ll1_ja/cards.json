@@ -1,0 +1,5818 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "ll1_ja-1",
+      "name": "コンパン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "きゅうけつ",
+          "text": "相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "たいあたり",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Hideaki Hakozaki",
+      "national_pokedex_numbers": [
+        48
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Venonat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Leech Life",
+              "text": "Remove from Venonat the number of damage counters equal to the damage you did to the Defending Pokémon.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tackle",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-2",
+      "name": "モルフォン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "コンパン"
+      ],
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Poison Moth Wind",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned. If tails, your Active Pokémon is now Poisoned. This power can't be used if Venomoth is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "しびれごな",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/040",
+      "rarity": "レアホロ",
+      "rarity_code": "R",
+      "artist": "Hideaki Hakozaki",
+      "national_pokedex_numbers": [
+        49
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Venomoth",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Poison Moth Wind",
+              "text": "Once during your turn (before your attack), you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned. If tails, your Active Pokémon is now Poisoned. This power can't be used if Venomoth is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Stun Spore",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Venonat"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-3",
+      "name": "モンジャラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "えいようほきゅう",
+          "text": "自分の山札のGrassエネルギーを1枚、自分のポケモンにつける。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "どくのこな",
+          "text": "相手のバトルポケモンをどくにする。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "3",
+      "printed_number": "003/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Hideaki Hakozaki",
+      "national_pokedex_numbers": [
+        114
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Tangela",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Nutritional Support",
+              "text": "Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Poisonpowder",
+              "text": "The Defending Pokémon is now Poisoned.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-4",
+      "name": "モジャンボ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "モンジャラ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "おしつぶす",
+          "text": "このポケモンについているエネルギーの数×20ダメージ。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "しばきたおす",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。ウラなら、相手のバトルポケモンについているエネルギーを1個、ロストゾーンにおく。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "4",
+      "printed_number": "004/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Hideaki Hakozaki",
+      "national_pokedex_numbers": [
+        465
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Tangrowth",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Grind",
+              "text": "Does 20 damage times the amount of Energy attached to Tangrowth.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Plow Over",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, put 1 Energy card attached to the Defending Pokémon in the Lost Zone.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Tangela"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-5",
+      "name": "バルビート",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "とつげきミサイル",
+          "text": "相手のベンチポケモン1匹に、30ダメージ。自分の場に「イルミーゼ」がいないなら、このワザは失敗。［ベンチへのダメージは弱点・抵抗力の計算をしない。］"
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ほたるび",
+          "text": "相手のバトルポケモンをやけどとこんらんにする。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kent Kanetsuna",
+      "national_pokedex_numbers": [
+        313
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Volbeat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Illumisile",
+              "text": "If you don't have Illumise in play, this attack does nothing. Choose 1 of your opponent's Benched Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Firefly Light",
+              "text": "The Defending Pokémon is now Burned and Confused.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-6",
+      "name": "イルミーゼ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "あまいかおり",
+          "text": "自分のポケモン1匹のHPを「30」回復する。"
+        },
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "バルカンパンチ",
+          "text": "自分の場の「バルビート」の数ぶんコインを投げ、オモテ×30ダメージ。",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kent Kanetsuna",
+      "national_pokedex_numbers": [
+        314
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Illumise",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sweet Scent",
+              "text": "Remove 3 damage counters from 1 of your Pokémon."
+            },
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Vulcan Beat",
+              "text": "Flip a coin for each Volbeat you have in play. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-7",
+      "name": "マスキッパ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "だえきでさそう",
+          "text": "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "からめてすいとる",
+          "text": "このポケモンのHPを「30」回復する。次の相手の番、このワザを受けた相手のバトルポケモンは、にげられない。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "007/040",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        455
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Carnivine",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Saliva Lure",
+              "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Stick and Absorb",
+              "text": "Remove 3 damage counters from Carnivine. The Defending Pokémon can't retreat during your opponent's next turn.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-8",
+      "name": "ジーランス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "たいこのちえ",
+          "text": "自分の手札を1枚、ロストゾーンにおく。その後、自分の山札からカードを3枚引く。"
+        },
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "いしあたま",
+          "text": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "008/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        369
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Relicanth",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Prehistoric Wisdom",
+              "text": "Choose a card from your hand and put it in the Lost Zone. Then, draw 3 cards."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Granite Head",
+              "text": "During your opponent's next turn, any damage done to Relicanth by attacks is reduced by 30 (after applying Weakness and Resistance).",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-9",
+      "name": "コイル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "はんぱつ",
+          "text": "このポケモンをベンチポケモンと入れ替える。"
+        },
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "でんきショック",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Noriko Hotta",
+      "national_pokedex_numbers": [
+        81
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Magnemite",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Magnetic Switch",
+              "text": "Switch Magnemite with 1 of your Benched Pokémon."
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Thundershock",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-10",
+      "name": "レアコイル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "コイル"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "スピードボール",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "トライアタック",
+          "text": "コインを3回投げ、オモテ×20ダメージ。",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Noriko Hotta",
+      "national_pokedex_numbers": [
+        82
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Magneton",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Speed Ball",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tri Attack",
+              "text": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Magnemite"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-11",
+      "name": "ジバコイル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化",
+        "極上"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "ジバコイルex"
+      ],
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Magnetic Draw",
+          "text": "Once during your turn (before your attack), you may draw cards until you have 6 cards in your hand. This power can't be used if Magnezone is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ロストバーン",
+          "text": "自分のポケモンについているエネルギーを好きなだけロストゾーンにおき、そのエネルギーの枚数×50ダメージ。",
+          "damage": "50×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "11",
+      "printed_number": "011/040",
+      "artist": "Noriko Hotta",
+      "national_pokedex_numbers": [
+        462
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Magnezone",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2",
+            "Prime"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Magnetic Draw",
+              "text": "Once during your turn (before your attack), you may draw cards until you have 6 cards in your hand. This power can't be used if Magnezone is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Lost Burn",
+              "text": "Put as many Energy cards attached to your Pokémon as you like in the Lost Zone. This attack does 50 damage times the number of Energy cards put in the Lost Zone in this way.",
+              "damage": "50×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Magneton"
+          ],
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-12",
+      "name": "パチリス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Self-Generation",
+          "text": "Once during your turn, when you put Pachirisu from your hand onto your Bench, you may attach up to 2 Lightning Energy cards from your hand to Pachirisu."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ビリビリボルト",
+          "text": "このポケモンについているエネルギーをすべて、ロストゾーンにおく。",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/040",
+      "rarity": "レアホロ",
+      "rarity_code": "R",
+      "artist": "Noriko Hotta",
+      "national_pokedex_numbers": [
+        417
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Pachirisu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Self-Generation",
+              "text": "Once during your turn, when you put Pachirisu from your hand onto your Bench, you may attach up to 2 Lightning Energy cards from your hand to Pachirisu."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Shocking Bolt",
+              "text": "Put all Energy cards attached to Pachirisu in the Lost Zone.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-13",
+      "name": "ゴース",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "そっとのせる",
+          "text": "相手のポケモン1匹に、ダメカンを1個のせる。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "013/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Takashi Yamaguchi",
+      "national_pokedex_numbers": [
+        92
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Gastly",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sneaky Placement",
+              "text": "Put 1 damage counter on 1 of your opponent's Pokémon."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-14",
+      "name": "ゴースト",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "ゴース"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "そっとのせる",
+          "text": "相手のポケモン1匹に、ダメカンを2個のせる。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ねむけどく",
+          "text": "相手のバトルポケモンをどくとねむりにする。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "14",
+      "printed_number": "014/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Takashi Yamaguchi",
+      "national_pokedex_numbers": [
+        93
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Haunter",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sneaky Placement",
+              "text": "Put 2 damage counters on 1 of your opponent's Pokémon."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Sleep Poison",
+              "text": "The Defending Pokémon is now Asleep and Poisoned."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "evolves_from": [
+            "Gastly"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-15",
+      "name": "ゲンガー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化",
+        "極上"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "ゲンガーex"
+      ],
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Catastrophe",
+          "text": "As long as Gengar is your Active Pokémon, if any of your opponent's Pokémon would be Knocked Out, put that Pokémon in the Lost Zone instead of discarding. (Discard all cards attached to that Pokémon.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "やみにぶちこむ",
+          "text": "相手の手札を見て、その中のポケモンを、このポケモンについているPsychicエネルギーの数ぶんまで選び、ロストゾーンにおく。"
+        },
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "のろいのしずく",
+          "text": "ダメカン4個を、相手のポケモンに好きなようにのせる。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "15",
+      "printed_number": "015/040",
+      "artist": "Takashi Yamaguchi",
+      "national_pokedex_numbers": [
+        94
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Gengar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2",
+            "Prime"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Catastrophe",
+              "text": "As long as Gengar is your Active Pokémon, if any of your opponent's Pokémon would be Knocked Out, put that Pokémon in the Lost Zone instead of discarding. (Discard all cards attached to that Pokémon.)"
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hurl into Darkness",
+              "text": "Look at your opponent's hand and choose a number of Pokémon you find there up to the number of Psychic Energy attached to Gengar. Put the Pokémon you chose in the Lost Zone."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Cursed Drop",
+              "text": "Put 4 damage counters on your opponent's Pokémon in any way you like."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "evolves_from": [
+            "Haunter"
+          ],
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-16",
+      "name": "マネネ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "30",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Sweet Sleeping Face",
+          "text": "As long as Mime Jr. is Asleep, prevent all damage done to Mime Jr. by attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 1,
+          "name": "ねぼけロスト",
+          "text": "相手の山札を上から1枚、ロストゾーンにおく。このポケモンをねむりにする。"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "16",
+      "printed_number": "016/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Noriko Hotta",
+      "national_pokedex_numbers": [
+        439
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Mime Jr.",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Sweet Sleeping Face",
+              "text": "As long as Mime Jr. is Asleep, prevent all damage done to Mime Jr. by attacks."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [],
+              "converted_energy_cost": 1,
+              "name": "Sleepy Lost",
+              "text": "Put the top card of your opponent's deck in the Lost Zone. Mime Jr. is now Asleep."
+            }
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-17",
+      "name": "バリヤード",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Trick Reveal",
+          "text": "Once during your turn (before your attack), you may have both you and your opponent reveal your hands. This power can't be used if Mr. Mime is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ジャグリング",
+          "text": "コインを4回投げ、オモテ×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "017/040",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Noriko Hotta",
+      "national_pokedex_numbers": [
+        122
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Mr. Mime",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Trick Reveal",
+              "text": "Once during your turn (before your attack), you may have both you and your opponent reveal your hands. This power can't be used if Mr. Mime is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Juggling",
+              "text": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-18",
+      "name": "ミュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "極上"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Lost Link",
+          "text": "Mew can use the attacks of all of the Pokémon in the Lost Zone (both yours and your opponent's). (You still need the necessary Energy to use each attack.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "よみおくり",
+          "text": "自分の山札のポケモンを1枚、ロストゾーンにおく。そして山札を切る。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "18",
+      "printed_number": "018/040",
+      "artist": "Hideaki Hakozaki",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Mew",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "Prime"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Lost Link",
+              "text": "Mew can use the attacks of all of the Pokémon in the Lost Zone (both yours and your opponent's). (You still need the necessary Energy to use each attack.)"
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "See Off",
+              "text": "Search your deck for 1 Pokémon and put it in the Lost Zone. Shuffle your deck afterward."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-19",
+      "name": "ハブネーク",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "どくをためる",
+          "text": "このポケモンをどくにする。"
+        },
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ポイズンエフェクト",
+          "text": "このポケモンがどくなら、60ダメージを追加。その後、このポケモンのどくを回復する。",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "19",
+      "printed_number": "019/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        336
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Seviper",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Poison Buildup",
+              "text": "Seviper is now Poisoned."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Poison Effect",
+              "text": "If Seviper is Poisoned, this attack does 20 damage plus 60 more damage and remove the Special Condition Poisoned from Seviper.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-20",
+      "name": "カゲボウズ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かなしばり",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンのワザを1つ選ぶ。次の相手の番、このワザを受けた相手のバトルポケモンは、選ばれたワザを使えない。"
+        },
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "のろう",
+          "text": "相手のバトルポケモンに、ダメカンを1個のせる。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "020/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        353
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Shuppet",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Disable",
+              "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+            },
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Haunt",
+              "text": "Put 1 damage counter on the Defending Pokémon."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-21",
+      "name": "ジュペッタ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "カゲボウズ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ロストクラッシュ",
+          "text": "コインを1回投げオモテなら、相手のポケモンについているエネルギーを1個、ロストゾーンにおく。"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ブレイクダウン",
+          "text": "相手の手札の枚数ぶんのダメカンを、相手のバトルポケモンにのせる。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "021/040",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        354
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Banette",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Lost Crush",
+              "text": "Flip a coin. If heads, choose 1 Energy card attached to 1 of your opponent's Pokémon and put it in the Lost Zone."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Breakdown",
+              "text": "Count the number of cards in your opponent's hand. Put that many damage counters on the Defending Pokémon."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Shuppet"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-22",
+      "name": "ミカルゲ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Spooky Whirlpool",
+          "text": "Once during your turn, when you put Spiritomb from your hand onto your Bench, you may use this power. Your opponent shuffles his or her hand into his or her deck and draws 6 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "いろおに",
+          "text": "Grassの中から1つを選び、選ばれたタイプの相手のポケモン全員に、ダメカンをそれぞれ1個ずつのせる。"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "022/040",
+      "rarity": "レアホロ",
+      "rarity_code": "R",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        442
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Spiritomb",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Spooky Whirlpool",
+              "text": "Once during your turn, when you put Spiritomb from your hand onto your Bench, you may use this power. Your opponent shuffles his or her hand into his or her deck and draws 6 cards."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Color Tag",
+              "text": "Choose Grass Fire Water Lightning Psychic Fighting Darkness Metal or Colorless type. Put 1 damage counter on each Pokémon your opponent has in play of the type you chose."
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-23",
+      "name": "ディグダ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "すながくれ",
+          "text": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+        },
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ミニじしん",
+          "text": "自分のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "printed_number": "023/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        50
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Diglett",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sand Veil",
+              "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to Diglett during your opponent's next turn."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Mini Earthquake",
+              "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-24",
+      "name": "ダグトリオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "ディグダ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "あなをほる",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "サンドインパクト",
+          "text": "このポケモンについているFightingエネルギーの数ぶんコインを投げ、オモテ×20ダメージを追加。",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "24",
+      "printed_number": "024/040",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        51
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Dugtrio",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Dig",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Sand Impact",
+              "text": "Flip a coin for each Fighting Energy attached to Dugtrio. This attack does 50 damage plus 20 more damage for each heads.",
+              "damage": "50+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-20"
+            }
+          ],
+          "evolves_from": [
+            "Diglett"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-25",
+      "name": "リオル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ずっこけ",
+          "text": "次の自分の番、このポケモンはワザを使えない。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "025/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Takashi Yamaguchi",
+      "national_pokedex_numbers": [
+        447
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Riolu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tumble Over",
+              "text": "Riolu can't attack during your next turn.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-26",
+      "name": "ルカリオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ルカリオGX"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "じげんだん",
+          "text": "自分のロストゾーンのポケモンの枚数×20ダメージを追加。",
+          "damage": "30+"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "スカイアッパー",
+          "text": "このワザのダメージは抵抗力の計算をしない。",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "026/040",
+      "rarity": "レアホロ",
+      "rarity_code": "R",
+      "artist": "Takashi Yamaguchi",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Lucario",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Dimension Sphere",
+              "text": "Does 30 damage plus 20 more damage for each of your Pokémon in the Lost Zone.",
+              "damage": "30+"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Sky Uppercut",
+              "text": "This attack's damage isn't affected by Resistance.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Riolu"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-27",
+      "name": "アブソル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "極上"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Eye of Disaster",
+          "text": "As long as Absol is your Active Pokémon, whenever your opponent puts a Basic Pokémon from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ブラッディクロー",
+          "text": "自分の手札のポケモンを1枚、ロストゾーンにおく。ロストゾーンにおけないなら、このワザは失敗。",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "27",
+      "printed_number": "027/040",
+      "artist": "Hideaki Hakozaki",
+      "national_pokedex_numbers": [
+        359
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Absol",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "Prime"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Eye of Disaster",
+              "text": "As long as Absol is your Active Pokémon, whenever your opponent puts a Basic Pokémon from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Vicious Claw",
+              "text": "Choose 1 Pokémon from your hand and put it in the Lost Zone. (If you can't put a Pokémon in the Lost Zone, this attack does nothing.)",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-28",
+      "name": "カビゴン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "くっちゃね",
+          "text": "このポケモンのHPをすべて回復する。次の自分の番、このポケモンは「くっちゃね」を使えない。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ドコドコドッシン",
+          "text": "このポケモンについているエネルギーを1個、ロストゾーンにおく。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "28",
+      "printed_number": "028/040",
+      "rarity": "レアホロ",
+      "rarity_code": "R",
+      "artist": "Kent Kanetsuna",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Snorlax",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Layabout",
+              "text": "Remove all damage counters from Snorlax. Snorlax can't use Layabout during your next turn."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Clomp Clomp Clobber",
+              "text": "Put 1 Energy card attached to Snorlax in the Lost Zone.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-29",
+      "name": "ミニリュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "まとわりつく",
+          "text": "次の相手の番、このワザを受けた相手のバトルポケモンは、にげられない。",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ぶつかる",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "無",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "printed_number": "029/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        147
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Dratini",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Gentle Wrap",
+              "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Ram",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Colorless",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-30",
+      "name": "ハクリュー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "ミニリュウ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "おさそいサーチ",
+          "text": "自分の山札のポケモンを2枚まで、相手に見せてから、手札に加える。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "たたきつける",
+          "text": "コインを2回投げ、オモテ×40ダメージ。",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "無",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "030/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        148
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Dragonair",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Search and Invite",
+              "text": "Search your deck for up to 2 Pokémon, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Slam",
+              "text": "Flip 2 coins. This attack does 40 damage times the number of heads.",
+              "damage": "40×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Colorless",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Dratini"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-31",
+      "name": "カイリュー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "ハクリュー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "やすらぎウインド",
+          "text": "このポケモンの特殊状態をすべて回復する。",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ドラゴンスタンプ",
+          "text": "コインを2回投げ、すべてオモテなら、相手のバトルポケモンをマヒにする。すべてウラなら、このワザは失敗。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "無",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "31",
+      "printed_number": "031/040",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Dragonite",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Calming Wind",
+              "text": "Remove all Special Conditions from Dragonite.",
+              "damage": "50"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Dragon Stamp",
+              "text": "Flip 2 coins. If both of them are tails, this attack does nothing. If both of them are heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Colorless",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Dragonair"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-32",
+      "name": "チルット",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "つばさではじく",
+          "text": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "printed_number": "032/040",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        333
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Swablu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Wing Flick",
+              "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-33",
+      "name": "チルタリス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "チルット"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "くろいひとみ",
+          "text": "相手のバトルポケモンをねむりにする。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "スタジアムパワー",
+          "text": "場に「スタジアム」が出ているなら、30ダメージを追加。",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "無",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "33",
+      "printed_number": "033/040",
+      "rarity": "レアホロ",
+      "rarity_code": "R",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        334
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Altaria",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Midnight Eyes",
+              "text": "The Defending Pokémon is now Asleep.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Stadium Power",
+              "text": "If there is any Stadium card in play, this attack does 40 damage plus 30 more damage.",
+              "damage": "40+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Colorless",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "evolves_from": [
+            "Swablu"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-34",
+      "name": "ザングース",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "つるぎのまい",
+          "text": "次の自分の番、このポケモンが使う「ロストクロー」のダメージは「60」になる。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ロストクロー",
+          "text": "相手の手札から、オモテを見ないでカードを1枚選び、ロストゾーンにおく。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "34",
+      "printed_number": "034/040",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        335
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Zangoose",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Swords Dance",
+              "text": "During your next turn, Zangoose's Lost Claw attack's base damage is 60."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Lost Claw",
+              "text": "Choose 1 card from your opponent's hand without looking and put it in the Lost Zone.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-35",
+      "name": "ダークライ&クレセリアLEGEND",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "レジェンド"
+      ],
+      "types": [
+        "悪",
+        "超"
+      ],
+      "hp": "150",
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ロストクライシス",
+          "text": "このポケモンについているエネルギーを2個、ロストゾーンにおく。このワザのダメージできぜつしたポケモンと、ついているすべてのカードは、ロストゾーンにおく。",
+          "damage": "100"
+        },
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "つきのいざない",
+          "text": "相手のポケモンにのっているダメカンを好きなだけ選び、相手のポケモンに好きなようにのせ替える。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        },
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "35",
+      "printed_number": "035/040",
+      "rarity": "レジェンド",
+      "rarity_code": "れじぇんど",
+      "artist": "Noriko Takaya",
+      "national_pokedex_numbers": [
+        488,
+        491
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Darkrai & Cresselia LEGEND",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "LEGEND"
+          ],
+          "types": [
+            "Darkness",
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Lost Crisis",
+              "text": "Choose 2 Energy attached to Darkrai & Cresselia LEGEND and put them in the Lost Zone. If any of your opponent's Pokémon would be Knocked Out by damage from this attack, put that Pokémon and all cards attached to it in the Lost Zone instead of discarding it.",
+              "damage": "100"
+            },
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Moon's Invite",
+              "text": "Move as many damage counters on your opponent's Pokémon as you like to any of your opponent's other Pokémon in any way you like."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            },
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "LEGEND",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-36",
+      "name": "Darkrai & Cresselia LEGEND",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "レジェンド"
+      ],
+      "types": [
+        "悪",
+        "超"
+      ],
+      "hp": "150",
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        },
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "36",
+      "printed_number": "036/040",
+      "rarity": "レジェンド",
+      "rarity_code": "れじぇんど",
+      "artist": "Noriko Takaya",
+      "national_pokedex_numbers": [
+        488,
+        491
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Darkrai & Cresselia LEGEND",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "LEGEND"
+          ],
+          "types": [
+            "Darkness",
+            "Psychic"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            },
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "LEGEND",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-37",
+      "name": "研究の記録",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札を上から4枚見て、その中のカードを好きなだけ選び、好きな順番で山札の下にもどす。その後、残りのカードを好きな順番で山札の上にもどす。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "37",
+      "printed_number": "037/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Hideaki Hakozaki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Research Record",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-38",
+      "name": "ロストリムーバー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "相手のポケモンについている特殊エネルギーを1個、ロストゾーンにおく。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "38",
+      "printed_number": "038/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Wataru Kawahara",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Lost Remover",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-39",
+      "name": "探究者",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "おたがいのプレイヤーは、それぞれ、自分のベンチポケモン1匹と、ついているすべてのカードを、手札にもどす。手札にもどすのは自分から。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "39",
+      "printed_number": "039/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Wataru Kawahara",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Seeker",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ll1_ja-40",
+      "name": "ロストワールド",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "rules": [
+        "おたがいのプレイヤーは、それぞれ、自分の番に、相手側のロストゾーンにポケモンが6枚以上あるなら、対戦を終了し、自分の勝ちを宣言できる。",
+        "スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。"
+      ],
+      "number": "40",
+      "printed_number": "040/040",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Hideaki Hakozaki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ll1_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/ll1_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/ll1_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "ll1_ja",
+        "name": "ロストリンク",
+        "series": "LEGEND",
+        "code": "LL",
+        "total": 40,
+        "printed_total": 40,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/04/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Lost World",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Lost Link"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 40
+}

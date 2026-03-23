@@ -1,0 +1,6564 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "sm115-1",
+      "name": "Caterpie",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "tetsuya koizumi",
+      "national_pokedex_numbers": [
+        10
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Perhaps because it would like to grow up quickly, it has a voracious appetite, eating a hundred leaves a day.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-1/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-1/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-2",
+      "name": "Metapod",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Caterpie"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tackle",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "2/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        11
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its shell is filled with a thick liquid. All of the cells throughout its body are being rebuilt in preparation for evolution.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-2/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-2/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-3",
+      "name": "Butterfree",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Metapod"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Gust",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        12
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie, Butterfree sprinkles its scales on them to drive them off.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-3/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-3/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-4",
+      "name": "Paras",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Slash",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "OOYAMA",
+      "national_pokedex_numbers": [
+        46
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Whether it's due to a lack of moisture or a lack of nutrients, in Alola the mushrooms on Paras don't grow up quite right.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-4/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-4/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-5",
+      "name": "Scyther",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Slash",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sharp Scythe",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "5/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        123
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its two sharp scythes are more than just weapons. It uses them with dexterity to dress its prey before eating.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-5/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-5/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-6",
+      "name": "Pinsir-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "GX"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "180",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Superpowered Horns",
+          "damage": "110"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Guillotine-GX",
+          "text": "(You can't use more than 1 GX attack in a game.)",
+          "damage": "160"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "6",
+      "printed_number": "6/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        127
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-6/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-6/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-7",
+      "name": "Charmander",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gnaw",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Flare",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "7/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Megumi Mizutani",
+      "national_pokedex_numbers": [
+        4
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-7/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-7/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-8",
+      "name": "Charmeleon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Charmander"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Slash",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Flamethrower",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "8/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        5
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It lashes about with its tail to knock down its foe. It then tears up the fallen opponent with sharp claws.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-8/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-8/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "charizardStamp15",
+          "prices": []
+        },
+        {
+          "name": "charizardStamp30",
+          "prices": []
+        },
+        {
+          "name": "charizardStamp51",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-9",
+      "name": "Charizard-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2",
+        "GX"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "250",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Flamethrower",
+          "damage": "140"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Flare Blitz-GX",
+          "text": "(You can't use more than 1 GX attack in a game.)",
+          "damage": "300"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "9",
+      "printed_number": "9/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-9/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-9/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "charizardStamp60",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-10",
+      "name": "Magmar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fire Punch",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "10",
+      "printed_number": "10/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Satoshi Shirai",
+      "national_pokedex_numbers": [
+        126
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its entire body is burning. When it breathes, the temperature rises. When it sneezes, flames shoot out!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-10/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-10/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-11",
+      "name": "Psyduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headache",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "11/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-11/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-11/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-12",
+      "name": "Slowpoke",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Yawn",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "12/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Misa Tsutsui",
+      "national_pokedex_numbers": [
+        79
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Alolan home cooking involves drying Slowpoke tails and then simmering them into a salty stew.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-12/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-12/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-13",
+      "name": "Staryu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Numbing Water",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "13/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        120
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "In many places, there are folktales of stardust falling into the ocean and becoming Staryu.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-13/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-13/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-14",
+      "name": "Starmie-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1",
+        "GX"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "190",
+      "evolves_from": [
+        "Staryu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Star Stream",
+          "text": "Attach 2 Water Energy cards from your discard pile to 1 of your Pokémon.",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Spinning Attack",
+          "damage": "100"
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hydro Pump-GX",
+          "text": "This attack does 40 more damage times the amount of Water Energy attached to this Pokémon. (You can't use more than 1 GX attack in a game.)",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "14",
+      "printed_number": "14/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "PLANETA Otani",
+      "national_pokedex_numbers": [
+        121
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-14/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-14/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-15",
+      "name": "Magikarp",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Splash",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "15/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        129
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-15/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-15/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-16",
+      "name": "Gyarados-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1",
+        "GX"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "230",
+      "evolves_from": [
+        "Magikarp"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Dragon Rage",
+          "damage": "130"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Hyper Beam-GX",
+          "text": "(You can't use more than 1 GX attack in a game.)",
+          "damage": "240"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "16",
+      "printed_number": "16/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        130
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-16/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-16/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-17",
+      "name": "Lapras",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Aqua Wave",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "17/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        131
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It likes swimming around with people on its back. In the Alola region, it's an important means of transportation over water.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-17/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-17/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-18",
+      "name": "Vaporeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Gun",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Bubble Drain",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "18",
+      "printed_number": "18/68",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        134
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Clean, clear waters are its usual habitat. When it's about to be attacked by an invading enemy, it dives into the water to hide.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-18/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-18/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-19",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Quick Attack",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Electro Ball",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "19/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-19/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-19/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "pikachuStamp15",
+          "prices": []
+        },
+        {
+          "name": "pikachuStamp2",
+          "prices": []
+        },
+        {
+          "name": "pikachuStamp30",
+          "prices": []
+        },
+        {
+          "name": "pikachuStamp55",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-20",
+      "name": "Raichu-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1",
+        "GX"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "210",
+      "evolves_from": [
+        "Pikachu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thunderbolt",
+          "damage": "120"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Spark Ball-GX",
+          "text": "(You can't use more than 1 GX attack in a game.)",
+          "damage": "200"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "20",
+      "printed_number": "20/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        26
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-20/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-20/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "pikachuStamp60",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-21",
+      "name": "Voltorb",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lightning Ball",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "21/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "SATOSHI NAKAI",
+      "national_pokedex_numbers": [
+        100
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-21/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-21/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-22",
+      "name": "Electrode",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Voltorb"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lightning Ball",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Electroblast",
+          "text": "Flip 2 coins. This attack does 30 more damage for each heads.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "22/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Anesaki Dynamic",
+      "national_pokedex_numbers": [
+        101
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It explodes in response to even minor stimuli. It is feared, with the nickname of \"The Bomb Ball.\"",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-22/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-22/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-23",
+      "name": "Jolteon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Electromagnetic Wall",
+          "text": "As long as this Pokémon is your Active Pokémon, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunderbolt",
+          "text": "Discard all Energy from this Pokémon.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "number": "23",
+      "printed_number": "23/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        135
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its lungs contain an organ that creates electricity. The crackling sound of electricity can be heard when it exhales.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-23/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-23/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-24",
+      "name": "Zapdos",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hurricane Call",
+          "text": "Flip 4 coins. For each heads, search your deck for a Lightning Energy card and attach it to 1 of your Pokémon-GX or Pokémon-EX. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sky-High Claws",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "24",
+      "printed_number": "24/68",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        145
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-24/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-24/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-25",
+      "name": "Ekans",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Wrap",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "25/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        23
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-25/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-25/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-26",
+      "name": "Ekans",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tail Whap",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "26/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        23
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-26/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-26/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-27",
+      "name": "Arbok",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Ekans"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Last Pattern",
+          "text": "If this Pokémon is Knocked Out by damage from an opponent's attack, discard 2 random cards from your opponent's hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rocket Tail",
+          "text": "If Jessie & James is in your discard pile, this attack does 80 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "27",
+      "printed_number": "27/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        24
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The latest research has determined that there are over 20 possible arrangements of the patterns on its stomach.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-27/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-27/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-28",
+      "name": "Koffing",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "printed_number": "28/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Saya Tsuruta",
+      "national_pokedex_numbers": [
+        109
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-28/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-28/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-29",
+      "name": "Weezing",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Koffing"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Surrender Now",
+          "text": "Once during your turn, if this Pokémon is discarded with the effect of Jessie & James, you may have your opponent discard a card from their hand. (They discard that card after the effect of Jessie & James.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "29",
+      "printed_number": "29/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        110
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-29/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-29/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-30",
+      "name": "Jynx",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Slap",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Lovely Kiss",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "30/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        124
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It sways its hips to a rhythm all its own. The precise movements of Jynx living in Alola are truly wonderful.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-30/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-30/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-31",
+      "name": "Mewtwo-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "GX"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "180",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Super Psy Bolt",
+          "damage": "110"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psycrush-GX",
+          "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "31",
+      "printed_number": "31/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-31/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-31/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "mewtwoStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-32",
+      "name": "Mew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psyshot",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "printed_number": "32/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-32/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-32/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "mewtwoStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-33",
+      "name": "Geodude",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "33",
+      "printed_number": "33/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        74
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Geodude that have lived a long life have had all their edges smoothed out until they're totally round. They also have a calm, quiet disposition.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-33/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-33/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-34",
+      "name": "Graveler",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Geodude"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tackle",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Mudslide",
+          "text": "Discard 2 Fighting Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "34",
+      "printed_number": "34/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        75
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-34/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-34/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-35",
+      "name": "Golem",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Graveler"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rock Slide",
+          "text": "This attack does 20 damage to 3 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "60"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Land Crush",
+          "damage": "140"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "35",
+      "printed_number": "35/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        76
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-35/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-35/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-36",
+      "name": "Onix-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "GX"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "200",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bind",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Heavy Impact",
+          "damage": "150"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Rocky Avalanche-GX",
+          "text": "During your opponent's next turn, this Pokémon takes 100 less damage from attacks (after applying Weakness and Resistance). (You can't use more than 1 GX attack in a game.)",
+          "damage": "200"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "36",
+      "printed_number": "36/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        95
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-36/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-36/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-37",
+      "name": "Cubone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sharpshooting",
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "37",
+      "printed_number": "37/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        104
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The skull it wears on its head is that of its dead mother. According to some, it will evolve when it comes to terms with the pain of her death.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-37/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-37/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-38",
+      "name": "Clefairy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lead",
+          "text": "Flip a coin. If heads, search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Fairy"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "printed_number": "38/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Saya Tsuruta",
+      "national_pokedex_numbers": [
+        35
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "They're popular, but they're rare. Trainers who show them off recklessly may be targeted by thieves.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-38/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-38/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-39",
+      "name": "Clefairy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fairy"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Moon Dance",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "39",
+      "printed_number": "39/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        35
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "They're popular, but they're rare. Trainers who show them off recklessly may be targeted by thieves.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-39/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-39/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-40",
+      "name": "Clefable",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Clefairy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pound",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Moon Impact",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "40",
+      "printed_number": "40/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        36
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It can't help but hear a pin drop from over half a mile away, so it lives deep in the mountains where there aren't many people or Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-40/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-40/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-41",
+      "name": "Jigglypuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fairy"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Singing Voice",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rollout",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "printed_number": "41/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        39
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Recordings of Jigglypuff's strange lullabies can be purchased from department stores. These CDs can be found near the bedding area.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-41/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-41/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-42",
+      "name": "Wigglytuff-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1",
+        "GX"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "210",
+      "evolves_from": [
+        "Jigglypuff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rolling Rush",
+          "text": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+          "damage": "100+"
+        },
+        {
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lovely Star-GX",
+          "text": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "42",
+      "printed_number": "42/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        40
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-42/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-42/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-43",
+      "name": "Mr. Mime",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Fairy"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Happy Mime",
+          "text": "Each player draws a card."
+        },
+        {
+          "cost": [
+            "Fairy",
+            "Fairy"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Double Slap",
+          "text": "Flip 2 coins. This attack does 40 damage for each heads.",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "43/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        122
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its pantomime skills are wonderful. You may become enraptured while watching it, but next thing you know, Mr. Mime has made a real wall.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-43/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-43/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-44",
+      "name": "Moltres & Zapdos & Articuno-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "TAG TEAM",
+        "GX"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "300",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Water",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Trinity Burn",
+          "damage": "210"
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sky Legends-GX",
+          "text": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack's cost), this attack does 110 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "44",
+      "printed_number": "44/68",
+      "rarity": "Rare Holo GX",
+      "rarity_code": "Rare Holo GX",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        144,
+        145,
+        146
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-44/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-44/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-45",
+      "name": "Farfetch'd",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leek Slap",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "printed_number": "45/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Eri Yamaki",
+      "national_pokedex_numbers": [
+        83
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-45/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-45/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-46",
+      "name": "Chansey",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Double-Edge",
+          "text": "This Pokémon does 20 damage to itself.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "46",
+      "printed_number": "46/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "sowsow",
+      "national_pokedex_numbers": [
+        113
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It seems that other Pokémon's efforts to take its delicious, nutritious egg away from it caused Chansey to get faster at fleeing.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-46/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-46/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "pikachuStamp47",
+          "prices": []
+        },
+        {
+          "name": "pikachuStamp5",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-47",
+      "name": "Kangaskhan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Parental Fury",
+          "text": "Flip a coin until you get tails. This attack does 40 damage for each heads.",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "47",
+      "printed_number": "47/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "You Iribi",
+      "national_pokedex_numbers": [
+        115
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Kangaskhan protects its child by keeping it in its pouch. It has zero forgiveness for those who harm its child and will beat them down.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-47/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-47/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-48",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Curiosity",
+          "text": "Your opponent reveals their hand."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spin Tackle",
+          "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "48",
+      "printed_number": "48/68",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The question of why only Eevee has such unstable genes has still not been solved.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-48/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-48/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-49",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gnaw",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "49",
+      "printed_number": "49/68",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Current studies show it can evolve into an incredible eight different species of Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-49/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-49/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "charizardStamp26",
+          "prices": []
+        },
+        {
+          "name": "charizardStamp36",
+          "prices": []
+        },
+        {
+          "name": "mewtwoStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-50",
+      "name": "Snorlax",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "150",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Incredible Snore",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "50",
+      "printed_number": "50/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It doesn't do anything other than eat and sleep. When prompted to make a serious effort, though, it apparently displays awesome power.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-50/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-50/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "mewtwoStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-51",
+      "name": "Bill's Analysis",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Look at the top 7 cards of your deck. You may reveal up to 2 Trainer cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "51",
+      "printed_number": "51/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-51/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-51/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-52",
+      "name": "Blaine's Last Stand",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "You can play this card only when it is the last card in your hand.",
+        "Draw 2 cards for each Fire Pokémon you have in play.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "52",
+      "printed_number": "52/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-52/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-52/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-53",
+      "name": "Brock's Grit",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "53",
+      "printed_number": "53/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Megumi Mizutani",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-53/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-53/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-54",
+      "name": "Brock's Pewter City Gym",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "Onix-GX (both yours and your opponent's) take 40 less damage from the opponent's attacks (after applying Weakness and Resistance).",
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+      ],
+      "number": "54",
+      "printed_number": "54/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-54/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-54/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-55",
+      "name": "Brock's Training",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Attach an Energy card from your hand to 1 of your Geodude, Graveler, Golem, Onix-GX, Cubone, Rhyhorn, Rhydon, or Sudowoodo.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "55",
+      "printed_number": "55/68",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "TOKIYA",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-55/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-55/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-56",
+      "name": "Erika's Hospitality",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "You can play this card only if you have 4 or fewer other cards in your hand.",
+        "Draw a card for each of your opponent's Pokémon in play.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "56",
+      "printed_number": "56/68",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Sanosuke Sakuma",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-56/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-56/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-57",
+      "name": "Giovanni's Exile",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard up to 2 of your Benched Pokémon that have no damage counters on them and all cards attached to them.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "57",
+      "printed_number": "57/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Megumi Mizutani",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-57/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-57/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-58",
+      "name": "Jessie & James",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Each player discards 2 cards from their hand. Your opponent discards first.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "58",
+      "printed_number": "58/68",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Megumi Mizutani",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-58/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-58/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-59",
+      "name": "Koga's Trap",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Your opponent's Active Pokémon is now Confused and Poisoned.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "59",
+      "printed_number": "59/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Megumi Mizutani",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-59/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-59/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-60",
+      "name": "Lt. Surge's Strategy",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "You can play this card only if you have more Prize cards remaining than your opponent.",
+        "During this turn, you can play 3 Supporter cards (including this card).",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "60",
+      "printed_number": "60/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Megumi Mizutani",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-60/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-60/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-61",
+      "name": "Misty's Cerulean City Gym",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "The attacks of Starmie-GX (both yours and your opponent's) do 40 more damage to the opponent's Active Pokémon (before applying Weakness and Resistance).",
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card."
+      ],
+      "number": "61",
+      "printed_number": "61/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-61/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-61/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-62",
+      "name": "Misty's Determination",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "62",
+      "printed_number": "62/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Megumi Mizutani",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-62/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-62/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-63",
+      "name": "Misty's Water Command",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Move any number of Water Energy from your Pokémon to your Psyduck, Horsea, Staryu, Starmie-GX, Magikarp, Gyarados, or Lapras in any way you like.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "63",
+      "printed_number": "63/68",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "TOKIYA",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-63/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-63/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-64",
+      "name": "Pokémon Center Lady",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Heal 60 damage and remove all Special Conditions from 1 of your Pokémon.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "64",
+      "printed_number": "64/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "TOKIYA",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-64/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-64/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-65",
+      "name": "Sabrina's Suggestion",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Your opponent reveals their hand. You may choose a Supporter card you find there and use the effect of that card as the effect of this card.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "65",
+      "printed_number": "65/68",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Hitoshi Ariga",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-65/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-65/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-65/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 65,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-66",
+      "name": "Moltres & Zapdos & Articuno-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "TAG TEAM",
+        "GX"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "300",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Water",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Trinity Burn",
+          "damage": "210"
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sky Legends-GX",
+          "text": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack's cost), this attack does 110 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "66",
+      "printed_number": "66/68",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        144,
+        145,
+        146
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-66/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-66/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-66/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 66,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-67",
+      "name": "Giovanni's Exile",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard up to 2 of your Benched Pokémon that have no damage counters on them and all cards attached to them.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "67",
+      "printed_number": "67/68",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "TOKIYA",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-67/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-67/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-67/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 67,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-68",
+      "name": "Jessie & James",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Each player discards 2 cards from their hand. Your opponent discards first.",
+        "You may play only 1 Supporter card during your turn (before your attack)."
+      ],
+      "number": "68",
+      "printed_number": "68/68",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-68/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-68/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-68/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 68,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm115-69",
+      "name": "Moltres & Zapdos & Articuno-GX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "TAG TEAM",
+        "GX"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "300",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Water",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Trinity Burn",
+          "damage": "210"
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sky Legends-GX",
+          "text": "Shuffle this Pokémon and all cards attached to it into your deck. If this Pokémon has at least 1 extra Fire, Water, and Lightning Energy attached to it (in addition to this attack's cost), this attack does 110 damage to 3 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "69",
+      "printed_number": "69/68",
+      "rarity": "Rare Rainbow",
+      "rarity_code": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        144,
+        145,
+        146
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm115-69/small",
+          "medium": "https://images.scrydex.com/pokemon/sm115-69/medium",
+          "large": "https://images.scrydex.com/pokemon/sm115-69/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm115",
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "code": "HIF",
+        "total": 69,
+        "printed_total": 68,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/08/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 69,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 69
+}

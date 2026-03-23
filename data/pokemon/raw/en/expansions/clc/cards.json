@@ -1,0 +1,2626 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "clc-1",
+      "name": "Charmander",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Ember",
+          "text": "Discard a Fire Energy from this Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        4
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Obviously prefers hot places. If it gets caught in the rain, steam is said to spout from the tip of its tail.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-1/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-1/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-2",
+      "name": "Charmeleon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Charmander"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Slash",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Flamethrower",
+          "text": "Discard a Fire Energy from this Pokémon.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        5
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it swings its burning tail, it raises the temperature to unbearably high levels.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-2/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-2/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-3",
+      "name": "Charizard",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Energy Burn",
+          "text": "All Energy attached to this Pokémon are Fire Energy instead of their usual type. This Pokémon Power stops working if this Pokémon is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "name": "Fire Spin",
+          "text": "Discard 2 Energy from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "3",
+      "printed_number": "003/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-3/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-3/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-4",
+      "name": "Ponyta",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Flame Tail",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/034",
+      "artist": "Jiro Sasumo",
+      "national_pokedex_numbers": [
+        77
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "These Pokémon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-4/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-4/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-5",
+      "name": "Rapidash",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Ponyta"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Combustion",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Ring of Fire",
+          "text": "Your opponent's Active Pokémon is now Burned. During your opponent's next turn, that Pokémon can't retreat.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/034",
+      "artist": "Ligton",
+      "national_pokedex_numbers": [
+        78
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-5/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-5/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-6",
+      "name": "Magmar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Smokescreen",
+          "text": "During your opponent's next turn, if the Defending Pokémon tries to attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "name": "Smog",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        126
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Found at the mouths of volcanoes and extremely hard to spot. There are very few instances of capturing this Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-6/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-6/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-7",
+      "name": "Ho-Oh ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "220",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Phoenix Breath",
+          "text": "Attach up to 2 Basic Energy cards from your discard pile to your  Pokémon in any way you like."
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Eternal Blaze",
+          "text": "During your next turn, this Pokémon can't attack.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "007/034",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        250
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-7/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-7/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-8",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Gnaw",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Thunder Jolt",
+          "text": "Flip a coin. If tails, this Pokémon also does 10 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When several of these Pokémon gather, their electricity can cause lightning storms.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-8/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-8/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-9",
+      "name": "Raichu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Pain-Full Punch",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Mach Bolt",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/034",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        26
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-9/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-9/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-10",
+      "name": "Voltorb",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Tackle",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/034",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        100
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-10/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-10/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-11",
+      "name": "Electrode",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Voltorb"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Buzzap",
+          "text": "Once during your turn, you may Knock Out this Pokémon and attach it to 1 of your other Pokémon as a Special Energy card. While this card is attached to a Pokémon, it provides every type of Energy but provides only 2 Energy at a time. This Pokémon Power can't be used if this Pokémon is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "name": "Thunder Jolt",
+          "text": "Flip a coin. If tails, this Pokémon also does 10 damage to itself.",
+          "damage": "50"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/034",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        101
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-11/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-11/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-12",
+      "name": "Zapdos",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Thunder Shock",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Drill Peck",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/034",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        145
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A legendary bird Pokémon that is said to appear from clouds while dropping enormous lightning bolts.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-12/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-12/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-13",
+      "name": "Clefairy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Sing",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Metronome",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "013/034",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        35
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-13/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-13/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-14",
+      "name": "Clefable",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Clefairy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Metronome",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Minimize",
+          "text": "During your opponent's next turn, this Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "014/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        36
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A timid Fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-14/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-14/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-15",
+      "name": "Dunsparce",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Strike and Run",
+          "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck. If you put any Pokémon onto your Bench in this way, you may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Sudden Flash",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "015/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        206
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-15/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-15/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-16",
+      "name": "Stantler",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [],
+          "name": "Lead",
+          "text": "Search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Frighten Horn",
+          "text": "If your opponent's Active Pokémon is a Basic Pokémon, it is now Confused.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "016/034",
+      "artist": "Kouki Saitou",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-16/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-16/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-17",
+      "name": "Miltank",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [],
+          "name": "Healing Milk",
+          "text": "Choose 1 of your Pokémon, and then flip 2 coins. For each heads, heal 30 damage from that Pokémon."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Continuous Tumble",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "017/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        241
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is said that kids who drink MILTANK's milk grow up to become hearty, healthy adults.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-17/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-17/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-18",
+      "name": "Bill",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Draw 2 cards."
+      ],
+      "number": "18",
+      "printed_number": "018/034",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-18/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-18/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-19",
+      "name": "Boss's Orders",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Switch in 1 of your opponent's Benched Pokémon to the Active Spot."
+      ],
+      "number": "19",
+      "printed_number": "019/034",
+      "artist": "nagimiso",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-19/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-19/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-20",
+      "name": "Computer Search",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "You can use this card only if you discard 2 other cards from your hand.",
+        "Search your deck for a card and put it into your hand. Then, shuffle your deck."
+      ],
+      "number": "20",
+      "printed_number": "020/034",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-20/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-20/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-21",
+      "name": "Poké Ball",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "number": "21",
+      "printed_number": "021/034",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-21/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-21/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-22",
+      "name": "Pokémon Fan Club",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "number": "22",
+      "printed_number": "022/034",
+      "artist": "Sanosuke Sakuma",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-22/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-22/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-23",
+      "name": "Professor Oak",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Discard your hand and draw 7 cards."
+      ],
+      "number": "23",
+      "printed_number": "023/034",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-23/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-23/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-24",
+      "name": "Rare Candy",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn."
+      ],
+      "number": "24",
+      "printed_number": "024/034",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-24/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-24/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-25",
+      "name": "Rocket's Admin",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Each player shuffles their hand into their deck. Then, each player draws a card for each of their remaining Prize cards."
+      ],
+      "number": "25",
+      "printed_number": "025/034",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-25/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-25/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-26",
+      "name": "Scorching Charcoal",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "The attacks used by the Charizard this card is attached to do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+      ],
+      "number": "26",
+      "printed_number": "026/034",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-26/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-26/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-27",
+      "name": "Super Rod",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "number": "27",
+      "printed_number": "027/034",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-27/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-27/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-28",
+      "name": "Super Scoop Up",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Flip a coin. If heads, put 1 of your Pokémon and all attached cards into your hand."
+      ],
+      "number": "28",
+      "printed_number": "028/034",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-28/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-28/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-29",
+      "name": "Switch",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "number": "29",
+      "printed_number": "029/034",
+      "artist": "Studio Bora Inc.",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-29/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-29/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-30",
+      "name": "Ultra Ball",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "You can use this card only if you discard 2 other cards from your hand.",
+        "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "number": "30",
+      "printed_number": "030/034",
+      "artist": "sadaji",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-30/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-30/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-31",
+      "name": "VS Seeker",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Put a Supporter card from your discard pile into your hand."
+      ],
+      "number": "31",
+      "printed_number": "031/034",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-31/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-31/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-32",
+      "name": "Double Colorless Energy",
+      "supertype": "Energy",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "As long as this card is attached to a Pokémon, it provides 2 Colorless Energy."
+      ],
+      "number": "32",
+      "printed_number": "032/034",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-32/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-32/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-33",
+      "name": "Basic Fire Energy",
+      "supertype": "Energy",
+      "converted_retreat_cost": 0,
+      "number": "33",
+      "printed_number": "033/034",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-33/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-33/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clc-34",
+      "name": "Basic Lightning Energy",
+      "supertype": "Energy",
+      "converted_retreat_cost": 0,
+      "number": "34",
+      "printed_number": "034/034",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clc-34/small",
+          "medium": "https://images.scrydex.com/pokemon/clc-34/medium",
+          "large": "https://images.scrydex.com/pokemon/clc-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "clc",
+        "name": "Pokémon TCG Classic - Charizard",
+        "series": "Other",
+        "code": "CLC",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 34
+}

@@ -1,0 +1,1 @@
+export type { CatalogRepository } from "./catalog.types";

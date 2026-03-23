@@ -1,0 +1,1128 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "mcd11-1",
+      "name": "Snivy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Slam",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        495
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-1/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-1/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-2",
+      "name": "Maractus",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Mega Drain",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pin Missile",
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "2/12",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        556
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-2/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-2/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-3",
+      "name": "Tepig",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ember",
+          "text": "Discard an Energy attached to this Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "3",
+      "printed_number": "3/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        498
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-3/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-3/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-4",
+      "name": "Oshawott",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Pulse",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        501
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-4/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-4/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-5",
+      "name": "Alomomola",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pound",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Wave Splash",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "5",
+      "printed_number": "5/12",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        594
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-5/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-5/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-6",
+      "name": "Blitzle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        522
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-6/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-6/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-7",
+      "name": "Munna",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Yawn",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "7/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        517
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-7/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-7/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-8",
+      "name": "Sandile",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sand Tomb",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "8/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        551
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-8/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-8/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-9",
+      "name": "Zorua",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        570
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-9/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-9/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-10",
+      "name": "Klink",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Charge Beam",
+          "text": "Flip a coin. If heads, attach an Energy card from your discard pile to this Pokémon.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Irongrip",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "10/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        599
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-10/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-10/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-11",
+      "name": "Pidove",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Growl",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gust",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "11/12",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        519
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-11/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-11/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd11-12",
+      "name": "Audino",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Double Slap",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "12/12",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        531
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd11-12/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd11-12/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd11-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd11",
+        "name": "McDonald's Collection 2011",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2011/06/17",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 12
+}

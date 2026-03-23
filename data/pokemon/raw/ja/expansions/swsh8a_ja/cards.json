@@ -1,0 +1,4808 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "swsh8a_ja-1",
+      "name": "ピカチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かじる",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "でんげき",
+          "text": "コインを1回投げウラなら、このポケモンにも10ダメージ。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/028",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ほっぺたの両側に小さい電気袋をもつ。ピンチのときに放電する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Pikachu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Gnaw",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Thunder Jolt",
+              "text": "Flip a coin. If tails, this Pokémon also does 10 damage to itself.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-2",
+      "name": "ミュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ふしぎなしっぽ",
+          "text": "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札を上から6枚見る。その中からグッズを1枚選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "サイコショット",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/028",
+      "artist": "Yuu Nishida",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "遺伝子には すべての ポケモンの 情報が 含まれているので あらゆる 技が 使えるという。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Mew",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Mysterious Tail",
+              "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Psyshot",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-3",
+      "name": "博士の研究（オーキド博士）",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の手札をすべてトラッシュし、山札を7枚引く。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "3",
+      "printed_number": "003/028",
+      "artist": "KIYOTAKA OSHIYAMA",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Professor's Research",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-4",
+      "name": "ホウオウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "せいなるほのお",
+          "text": "相手のポケモン1匹に、50ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "だいもんじ",
+          "text": "このポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "printed_number": "004/028",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        250
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "心正しき トレーナーの 前に 七色の 翼を 光らせながら 姿を 現すと 伝えられる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Ho-Oh",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Sacred Fire",
+              "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Fire Blast",
+              "text": "Discard an Energy from this Pokémon.",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-5",
+      "name": "ルギア",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "エアロボール",
+          "text": "おたがいのバトルポケモンについているエネルギーの数×20ダメージ。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ディープクラッシュ",
+          "text": "次の自分の番、このポケモンはワザが使えない。",
+          "damage": "160"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "5",
+      "printed_number": "005/028",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        249
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "海の神様と 伝えられる ポケモン。 嵐の 夜 姿を 見たという 話が 伝えられる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Lugia",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Aero Ball",
+              "text": "This attack does 20 damage for each Energy attached to both Active Pokémon.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Deep Crush",
+              "text": "During your next turn, this Pokémon can't attack.",
+              "damage": "160"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-6",
+      "name": "グラードン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "マグマボルケーノ",
+          "text": "自分の山札を上から5枚トラッシュし、その中にあるエネルギーの枚数×80ダメージ。",
+          "damage": "80×"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "だいせつだん",
+          "text": "",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "6",
+      "printed_number": "006/028",
+      "artist": "Ryuta Fuse",
+      "national_pokedex_numbers": [
+        383
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "カイオーガと 死闘の末 長い 眠りに ついた。大地の 化身と 言われる 伝説の ポケモン。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Groudon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Magma Volcano",
+              "text": "Discard the top 5 cards of your deck. This attack does 80 damage for each Energy card you discarded in this way.",
+              "damage": "80×"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Massive Rend",
+              "text": "",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-7",
+      "name": "カイオーガ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "アクアストーム",
+          "text": "自分の山札を上から5枚トラッシュし、その中にあるエネルギーの枚数×50ダメージを、相手のベンチポケモン2匹にそれぞれ与える。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "なみのり",
+          "text": "",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "7",
+      "printed_number": "007/028",
+      "artist": "Ryuta Fuse",
+      "national_pokedex_numbers": [
+        382
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "大雨を 降らせる 能力で 海を 広げたと 言われている。 海溝の 底で 眠っていた。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Kyogre",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Aqua Storm",
+              "text": "Discard the top 5 cards of your deck, and then choose 2 of your opponent's Benched Pokémon. This attack does 50 damage for each Energy card you discarded in this way to each of those Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Surf",
+              "text": "",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-8",
+      "name": "ディアルガ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "鋼"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ときのぎゃくりゅう",
+          "text": "自分のトラッシュから好きなカードを1枚選び、相手に見せて、手札に加える。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "メタルブラスト",
+          "text": "このポケモンについているMetalエネルギーの数×20ダメージ追加。",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "草",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "008/028",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        483
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "時間を 操る 力を 持つ。 シンオウ地方では 神様と 呼ばれ 神話に 登場する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Dialga",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Temporal Backflow",
+              "text": "Put a card from your discard pile into your hand."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Metal Blast",
+              "text": "This attack does 20 more damage for each Metal Energy attached to this Pokémon.",
+              "damage": "60+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Grass",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-9",
+      "name": "パルキア",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "130",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ぜったいくうかん",
+          "text": "このポケモンがバトル場にいるかぎり、相手は手札からスタジアムを出せない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "オーバースマッシュ",
+          "text": "次の自分の番、このポケモンの「オーバースマッシュ」のダメージは「+80」される。",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "printed_number": "009/028",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        484
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "空間を ゆがめる 能力を 持ち シンオウ地方の 神話では 神様として 描かれている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Palkia",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Absolute Space",
+              "text": "As long as this Pokémon is in the Active Spot, your opponent can't play any Stadium cards from their hand."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Overdrive Smash",
+              "text": "During your next turn, this Pokémon's Overdrive Smash attack does 80 more damage (before applying Weakness and Resistance).",
+              "damage": "80+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-10",
+      "name": "レシラム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "しゃくねつのかぜ",
+          "text": "相手のベンチポケモン全員に、それぞれ20ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ブラックフレイム",
+          "text": "自分のベンチに「ゼクロム」がいるなら、80ダメージ追加。",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "10",
+      "printed_number": "010/028",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        643
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "レシラムの 尻尾が 燃えると 熱エネルギーで 大気が 動いて 世界の 天気が 変化する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Reshiram",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Scorching Wind",
+              "text": "This attack does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Black Flame",
+              "text": "If Zekrom is on your Bench, this attack does 80 more damage.",
+              "damage": "80+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-11",
+      "name": "ゼクロム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "フィールドクラッシュ",
+          "text": "場に出ている相手のスタジアムをトラッシュする。",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ホワイトサンダー",
+          "text": "自分のベンチに「レシラム」がいるなら、80ダメージ追加。",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "11",
+      "printed_number": "011/028",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        644
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "尻尾で 電気を 作り出す。 全身を 雷雲に 隠して イッシュ地方の 空を 飛ぶ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Zekrom",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Field Crush",
+              "text": "If your opponent has a Stadium in play, discard it.",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "White Thunder",
+              "text": "If Reshiram is on your Bench, this attack does 80 more damage.",
+              "damage": "80+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-12",
+      "name": "ゼルネアス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "せいめいのいぶき",
+          "text": "自分の山札から、それぞれちがうタイプの基本エネルギーを3枚まで選び、自分のポケモンに好きなようにつける。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "オーロラホーン",
+          "text": "",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "012/028",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        716
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "頭の ツノが 七色に 輝くとき 永遠の 命を 分け与えると 言われている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Xerneas",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Breath of Life",
+              "text": "Search your deck for up to 3 basic Energy cards of different types and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Aurora Horns",
+              "text": "",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-13",
+      "name": "イベルタル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "はかいのさけび",
+          "text": "相手の場のポケモンについている特殊エネルギーを3枚まで選び、トラッシュする。"
+        },
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ダークフェザー",
+          "text": "",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "13",
+      "printed_number": "013/028",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        717
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "寿命が つきるとき あらゆる 生き物の 命を 吸いつくし 繭の 姿に 戻るという。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Yveltal",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Cry of Destruction",
+              "text": "Discard up to 3 Special Energy from your opponent's Pokémon."
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Dark Feather",
+              "text": "",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-14",
+      "name": "コスモッグ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ほしのまもり",
+          "text": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "014/028",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        789
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "この世界の ポケモンかは 謎。 ピンチに なると ワープを 使って 安全な 場所へ 身を 隠す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Cosmog",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Star Protection",
+              "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-15",
+      "name": "コスモウム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "コスモッグ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ほしのまもり",
+          "text": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "15",
+      "printed_number": "015/028",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        790
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "光を 吸いながら 成長を 続けている。 金色の カラは 驚くほどに 頑丈。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Cosmoem",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Star Protection",
+              "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Cosmog"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-16",
+      "name": "ソルガレオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "コスモウム"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "かけつける",
+          "text": "このポケモンがベンチにいるなら、自分の番に1回使える。このポケモンを自分のバトルポケモンと入れ替える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ソーラーゲイザー",
+          "text": "自分のトラッシュから基本エネルギーを2枚まで選び、ベンチポケモン1匹につける。",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "草",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "16",
+      "printed_number": "016/028",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        791
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "遥か 大昔の 文献に 太陽を 喰らいし 獣と いう 名前で 記録が 残っている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Solgaleo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Rush In",
+              "text": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Solar Geyser",
+              "text": "Attach up to 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Grass",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Cosmoem"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-17",
+      "name": "ルナアーラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "コスモウム"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ルナティックペイン",
+          "text": "相手のポケモン全員に、それぞれのっているダメカンの数が2倍になるように、ダメカンをのせる。"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "サイコバレット",
+          "text": "相手のベンチポケモン1匹にも、30ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "017/028",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        792
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "異世界に 通じる 穴 から 未知の 力や 生命を この 世界に 呼び寄せることも ある。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Lunala",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Lunar Pain",
+              "text": "Double the number of damage counters on each of your opponent's Pokémon."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Psychic Shot",
+              "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "130"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Cosmoem"
+          ],
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-18",
+      "name": "ザシアンV",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "V"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "220",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "けんのほうこう",
+          "text": "自分の番に1回使えて、使ったなら、自分の番は終わる。自分の山札からPsychicエネルギーを1枚選び、自分のポケモンにつける。そして山札を切る。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ストームスラッシュ",
+          "text": "このポケモンについているPsychicエネルギーの数×30ダメージ追加。",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "ポケモンVがきぜつしたとき、相手はサイドを2枚とる。"
+      ],
+      "number": "18",
+      "printed_number": "018/028",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        888
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Zacian V",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "V"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Roar of the Sword",
+              "text": "Once during your turn, you may search your deck for a Psychic Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck. If you use this Ability, your turn ends."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Storm Slash",
+              "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon.",
+              "damage": "60+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-19",
+      "name": "ザマゼンタV",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "V"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "220",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "たてのうなり",
+          "text": "このポケモンがいるかぎり、自分のFightingポケモン全員が、相手の「ポケモンVMAX」から受けるワザのダメージは「-20」される。この効果は、この特性を持つポケモンが何匹いても、重ならない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ヘビーインパクト",
+          "text": "",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "ポケモンVがきぜつしたとき、相手はサイドを2枚とる。"
+      ],
+      "number": "19",
+      "printed_number": "019/028",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        889
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Zamazenta V",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "V"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Growl of the Shield",
+              "text": "All of your Fighting Pokémon take 20 less damage from attacks from your opponent's Pokémon VMAX (after applying Weakness and Resistance). You can't apply more than 1 Growl of the Shield Ability at a time."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Heavy Impact",
+              "text": "",
+              "damage": "150"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-20",
+      "name": "ピカチュウV",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "V"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "190",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ボルテッカー",
+          "text": "このポケモンにも30ダメージ。",
+          "damage": "210"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "ポケモンVがきぜつしたとき、相手はサイドを2枚とる。"
+      ],
+      "number": "20",
+      "printed_number": "020/028",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Pikachu V",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "V"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Volt Tackle",
+              "text": "This Pokémon also does 30 damage to itself.",
+              "damage": "210"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-21",
+      "name": "なみのりピカチュウV",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "V"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "200",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 3,
+          "name": "なみのり",
+          "text": "",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "ポケモンVがきぜつしたとき、相手はサイドを2枚とる。"
+      ],
+      "number": "21",
+      "printed_number": "021/028",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Surfing Pikachu V",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "V"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Surf",
+              "text": "",
+              "damage": "150"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-22",
+      "name": "なみのりピカチュウVMAX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "310",
+      "evolves_from": [
+        "なみのりピカチュウV"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ダイサーフ",
+          "text": "相手のベンチポケモン全員にも、それぞれ30ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
+          "damage": "160"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "ポケモンVMAXがきぜつしたとき、相手はサイドを3枚とる。"
+      ],
+      "number": "22",
+      "printed_number": "022/028",
+      "rarity": "トリプルレア",
+      "rarity_code": "RRR",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Surfing Pikachu VMAX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "VMAX"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Max Surfer",
+              "text": "This attack also does 30 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "160"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Surfing Pikachu V"
+          ],
+          "rarity": "Triple Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-23",
+      "name": "そらをとぶピカチュウV",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "V"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "190",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "でんきショック",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "そらをとぶ",
+          "text": "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "rules": [
+        "ポケモンVがきぜつしたとき、相手はサイドを2枚とる。"
+      ],
+      "number": "23",
+      "printed_number": "023/028",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Flying Pikachu V",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "V"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Thunder Shock",
+              "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Fly",
+              "text": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from and effects of attacks done to this Pokémon.",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-24",
+      "name": "そらをとぶピカチュウVMAX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "310",
+      "evolves_from": [
+        "そらをとぶピカチュウV"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ダイバルーン",
+          "text": "次の相手の番、このポケモンはたねポケモンからワザのダメージを受けない。",
+          "damage": "160"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "rules": [
+        "ポケモンVMAXがきぜつしたとき、相手はサイドを3枚とる。"
+      ],
+      "number": "24",
+      "printed_number": "024/028",
+      "rarity": "トリプルレア",
+      "rarity_code": "RRR",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Flying Pikachu VMAX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "VMAX"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Max Balloon",
+              "text": "During your opponent's next turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon.",
+              "damage": "160"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Flying Pikachu V"
+          ],
+          "rarity": "Triple Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-25",
+      "name": "ピカチュウV-UNION",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "Vユニオン",
+        "V"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "300",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ユニオンゲイン",
+          "text": "自分のトラッシュからElectricエネルギーを2枚まで選び、このポケモンにつける。"
+        },
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ビリビリショック",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "120"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "でんじしょうがい",
+          "text": "次の相手の番、相手は手札からグッズを出して使えない。",
+          "damage": "150"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "みんなでエレキボール",
+          "text": "",
+          "damage": "250"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "25",
+      "printed_number": "025/028",
+      "rarity": "トリプルレア",
+      "rarity_code": "RRR",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Pikachu V-UNION",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "V-UNION",
+            "V"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Union Gain",
+              "text": "Attach up to 2 Lightning Energy cards from your discard pile to this Pokémon."
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Shocking Shock",
+              "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+              "damage": "120"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Disconnect",
+              "text": "During your opponent's next turn, they can't play any Item cards from their hand.",
+              "damage": "150"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Electro Ball Together",
+              "text": "",
+              "damage": "250"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Triple Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-26",
+      "name": "Pikachu V-UNION",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "Vユニオン",
+        "V"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "300",
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "26",
+      "printed_number": "026/028",
+      "rarity": "トリプルレア",
+      "rarity_code": "RRR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Pikachu V-UNION",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "V-UNION",
+            "V"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Triple Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-27",
+      "name": "Pikachu V-UNION",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "Vユニオン",
+        "V"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "300",
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "27",
+      "printed_number": "027/028",
+      "rarity": "トリプルレア",
+      "rarity_code": "RRR",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Pikachu V-UNION",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "V-UNION",
+            "V"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Triple Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-28",
+      "name": "Pikachu V-UNION",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "Vユニオン",
+        "V"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "300",
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "28",
+      "printed_number": "028/028",
+      "rarity": "トリプルレア",
+      "rarity_code": "RRR",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Pikachu V-UNION",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "V-UNION",
+            "V"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Triple Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-29",
+      "name": "博士の研究（オーキド博士）",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の手札をすべてトラッシュし、山札を7枚引く。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "29",
+      "printed_number": "029/028",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "Ken Sugimori",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Professor's Research",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-30",
+      "name": "Mew",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "Mysterious Tail",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "030/028",
+      "rarity": "ウルトラレア",
+      "rarity_code": "UR",
+      "artist": "Saki Hayashiro",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Mew",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Mysterious Tail",
+              "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Ultra Rare",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-31",
+      "name": "Grass Energy",
+      "supertype": "エネルギー",
+      "number": "31",
+      "printed_number": "031/028",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Grass Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-32",
+      "name": "Fire Energy",
+      "supertype": "エネルギー",
+      "number": "32",
+      "printed_number": "032/028",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Fire Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-33",
+      "name": "Water Energy",
+      "supertype": "エネルギー",
+      "number": "33",
+      "printed_number": "033/028",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Water Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-34",
+      "name": "Lightning Energy",
+      "supertype": "エネルギー",
+      "number": "34",
+      "printed_number": "034/028",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Lightning Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-35",
+      "name": "Psychic Energy",
+      "supertype": "エネルギー",
+      "number": "35",
+      "printed_number": "035/028",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Psychic Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-36",
+      "name": "Fighting Energy",
+      "supertype": "エネルギー",
+      "number": "36",
+      "printed_number": "036/028",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Fighting Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-37",
+      "name": "Darkness Energy",
+      "supertype": "エネルギー",
+      "number": "37",
+      "printed_number": "037/028",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Darkness Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh8a_ja-38",
+      "name": "Metal Energy",
+      "supertype": "エネルギー",
+      "number": "38",
+      "printed_number": "038/028",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh8a_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh8a_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh8a_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh8a_ja",
+        "name": "25th Anniversary Collection",
+        "series": "Sword & Shield",
+        "code": "S8a",
+        "total": 38,
+        "printed_total": 28,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2021/10/22",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Metal Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "25th Anniversary Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 38
+}

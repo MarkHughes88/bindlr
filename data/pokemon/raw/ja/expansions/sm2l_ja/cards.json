@@ -1,0 +1,8050 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "sm2l_ja-1",
+      "name": "ボクレー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "たいあたり",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "あやしいひかり",
+          "text": "相手のバトルポケモンをこんらんにする。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "001/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        708
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "森で 死んだ 子どもの 魂が 切り株に 宿った。 悲鳴の ような 不気味な 声で 鳴く。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Phantump",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tackle",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Confuse Ray",
+              "text": "Your opponent's Active Pokémon is now Confused."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-2",
+      "name": "オーロット",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "ボクレー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ポルターガイスト",
+          "text": "相手の手札を見て、その中にあるトレーナーズの枚数×30ダメージ。",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ウッドホーン",
+          "text": "このポケモンのHPを「30」回復する。",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "002/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Hiroyuki Yamamoto",
+      "national_pokedex_numbers": [
+        709
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "森を 荒らす者を 喰ってしまうと いわれる ポケモン。 森に 暮らす 生き物たちには とても 優しい。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Trevenant",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Poltergeist",
+              "text": "Your opponent reveals their hand. This attack does 30 damage for each Trainer card you find there.",
+              "damage": "30×"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Horn Leech",
+              "text": "Heal 30 damage from this Pokémon.",
+              "damage": "90"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Phantump"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-3",
+      "name": "ヒトモシ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ゆれるほのお",
+          "text": "相手のバトルポケモンをねむりにする。",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        607
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "明かりを 灯して 道案内を するように 見せかけながら 生命力を 吸い取っている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Litwick",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Flickering Flames",
+              "text": "Your opponent's Active Pokémon is now Asleep.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-4",
+      "name": "ランプラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "ヒトモシ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "おにび",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "0313",
+      "national_pokedex_numbers": [
+        608
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "魂を 吸いとり 火を灯す。 人が 死ぬのを 待つため 病院を うろつくようになった。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Lampent",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Will-O-Wisp",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Litwick"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-5",
+      "name": "シャンデラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "ランプラー"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "シャドームーブ",
+          "text": "自分の番に1回使える。おたがいの場のポケモンにのっているダメカンを1個、おたがいの場の別のポケモンにのせ替える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ほのおでこがす",
+          "text": "相手のバトルポケモンをやけどにする。",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/050",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        609
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "シャンデラの 炎に 包まれると 魂が 吸い取られ 燃やされる。 抜け殻の 体 だけが 残る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Chandelure",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Shady Move",
+              "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 Pokémon to another Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Super Singe",
+              "text": "Your opponent's Active Pokémon is now Burned.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Lampent"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-6",
+      "name": "ヤトウモリ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ひっかく",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ベノムショック",
+          "text": "相手のバトルポケモンがどくなら、40ダメージ追加。",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "TOKIYA",
+      "national_pokedex_numbers": [
+        757
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "体液を 燃やし 毒ガスを たく。 ガスを 吸った 敵が フラフラに なったあと 襲いかかるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Salandit",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scratch",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Venoshock",
+              "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-7",
+      "name": "エンニュート",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "ヤトウモリ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ホットポイズン",
+          "text": "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のバトルポケモンをどくとやけどにする。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "かえんほうしゃ",
+          "text": "このポケモンについているエネルギーを、1個トラッシュする。",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        758
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "なぜか ♀しか 見つかっていない。 ヤトウモリの♂を 引き連れて 逆ハーレムを 作って 暮らす。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Salazzle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Hot Poison",
+              "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may leave your opponent's Active Pokémon Burned and Poisoned."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Flamethrower",
+              "text": "Discard an Energy from this Pokémon.",
+              "damage": "90"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Salandit"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-8",
+      "name": "メノクラゲ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ヘドロショック",
+          "text": "次の相手の番、このワザを受けたポケモンのHPは、回復しない。",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        72
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ビーチなどで 干からびているが まだ 生きていることも 多い。 水に 浸せば ふやけて 復活。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Tentacool",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sludge Shock",
+              "text": "The Defending Pokémon can't be healed during your opponent's next turn.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-9",
+      "name": "ドククラゲ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "メノクラゲ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "どくばり",
+          "text": "相手のバトルポケモンをどくにする。",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "あばれしょくしゅ",
+          "text": "コインを1回投げオモテなら、40ダメージ追加。ウラなら、相手のバトルポケモンをマヒにする。",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "printed_number": "009/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        73
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "毒の触手は 普通 ８０本。 長く 生きているもの ほど その 本数は 減っていく。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Tentacruel",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Poison Sting",
+              "text": "Your opponent's Active Pokémon is now Poisoned.",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Seething Tentacles",
+              "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed.",
+              "damage": "40+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Tentacool"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-10",
+      "name": "ホエルコ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "はねる",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "なみのり",
+          "text": "",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "10",
+      "printed_number": "010/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        320
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "人を 驚かせるのが 好き。 海水を 飲み込んで ボールの ように ふくらみ 弾んで 遊ぶ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Wailmer",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Splash",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Surf",
+              "text": "",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-11",
+      "name": "ホエルオー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "200",
+      "evolves_from": [
+        "ホエルコ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ダイビング",
+          "text": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "おおうなばら",
+          "text": "自分のWaterポケモン全員のHPを、それぞれ「30」回復する。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "11",
+      "printed_number": "011/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "OOYAMA",
+      "national_pokedex_numbers": [
+        321
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "群れで 獲物を 追う 習性。 大きな 口で ヨワシの 群れごと 一気に 呑み込んでしまうぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Wailord",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Dive",
+              "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+              "damage": "40"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Open Sea",
+              "text": "Heal 30 damage from each of your Water Pokémon.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Wailmer"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-12",
+      "name": "ママンボウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "きしにはこぶ",
+          "text": "自分または相手のトラッシュにあるたねポケモンを1枚、持ち主のベンチに出す。"
+        },
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ハイドロスプラッシュ",
+          "text": "",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "012/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        594
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "傷ついた ポケモンを 抱きしめ 特殊な 粘液で 傷を ふさぐ。 その理由は 不明。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Alomomola",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Borne Ashore",
+              "text": "Put a Basic Pokémon from either player's discard pile onto its owner's Bench."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hydro Splash",
+              "text": "",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-13",
+      "name": "ヨワシ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "30",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ぎょぐん",
+          "text": "自分の番に1回使える。自分の手札にある「ヨワシGX」を1枚、このカードと入れ替える（ついているカード・ダメカン・特殊状態・効果などは、すべて引きつぐ）。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ねらいうち",
+          "text": "相手のポケモン1匹に、10ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "13",
+      "printed_number": "013/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        746
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ピンチになると 目が 潤みだし 輝く。 その光に 群れる 仲間と 敵に 立ち向かうのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Wishiwashi",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Schooling",
+              "text": "Once during your turn (before your attack), you may switch this Pokémon with a Wishiwashi-GX in your hand. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sharpshooting",
+              "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-14",
+      "name": "ヨワシGX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "GX"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みずでっぽう",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 5,
+          "name": "ばくりゅうのうず",
+          "text": "相手のバトルポケモンについている特殊エネルギーを、1個トラッシュする。",
+          "damage": "120"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 5,
+          "name": "ブルーサージGX",
+          "text": "このポケモンについているエネルギーをすべて、ベンチポケモンに好きなようにつけ替える。［対戦中、自分はGXワザを1回しか使えない。］",
+          "damage": "220"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "14",
+      "printed_number": "014/050",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        746
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Wishiwashi-GX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "GX"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Water Gun",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 5,
+              "name": "Torrential Vortex",
+              "text": "Discard a Special Energy from your opponent's Active Pokémon.",
+              "damage": "120"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 5,
+              "name": "Blue Surge-GX",
+              "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)",
+              "damage": "220"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-15",
+      "name": "アローラ イシツブテ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 1,
+          "name": "ロックカット",
+          "text": "次の自分の番、このポケモンのにげるためのエネルギーは、すべてなくなる。"
+        },
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ころがる",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "15",
+      "printed_number": "015/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        74
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "磁力を 帯びた 石の身体。 特に 磁力が 強い 部分には 砂鉄が ビッシリ ついてるよ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Alolan Geodude",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [],
+              "converted_energy_cost": 1,
+              "name": "Rock Polish",
+              "text": "During your next turn, this Pokémon has no Retreat Cost."
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Rollout",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-16",
+      "name": "アローラ ゴローン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "かみなりパンチ",
+          "text": "コインを1回投げオモテなら、20ダメージ追加。ウラなら、このポケモンにも20ダメージ。",
+          "damage": "50+"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "エレキバレット",
+          "text": "相手のベンチポケモン1匹にも、20ダメージ。［ベンチは弱点・抵抗力を計算しない。］",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "16",
+      "printed_number": "016/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        75
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ドラバイトを 好んで 喰らう。 喰った 成分が 結晶になり 身体の一部に 浮きだしているぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Alolan Graveler",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Thunder Punch",
+              "text": "Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself.",
+              "damage": "50+"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Electrobullet",
+              "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Alolan Geodude"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-17",
+      "name": "アローラ ゴローニャ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "160",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "でんじがんせきほう",
+          "text": "このポケモンについているElectricエネルギーの数ぶんコインを投げ、オモテの数×80ダメージ。",
+          "damage": "80×"
+        },
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ヘビーボンバー",
+          "text": "相手のバトルポケモンのにげるためのエネルギーの数×30ダメージぶん、このワザのダメージは小さくなる。",
+          "damage": "200-"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "17",
+      "printed_number": "017/050",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        76
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "電気を帯びた 岩石を 発射。 命中 せずとも かするだけで 相手は 痺れ 失神する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Alolan Golem",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Electromagnetic Rock Wrecker",
+              "text": "Flip a coin for each Lightning Energy attached to this Pokémon. This attack does 80 damage for each heads.",
+              "damage": "80×"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Heavy Slam",
+              "text": "This attack does 30 less damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+              "damage": "200-"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Alolan Graveler"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-18",
+      "name": "ヤブクロン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ふみならす",
+          "text": "相手の山札を上から1枚トラッシュする。"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "よだれ",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "18",
+      "printed_number": "018/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        568
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "不衛生な 場所が 好き。 アローラでは よく ベトベターに 追いまわされる 姿を みかける。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Trubbish",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Stomp Off",
+              "text": "Discard the top card of your opponent's deck."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Drool",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-19",
+      "name": "ダストダス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "ヤブクロン"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ゴミなだれ",
+          "text": "相手のトラッシュにあるグッズの枚数×20ダメージ。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "アシッドボム",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを、1個トラッシュする。",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "19",
+      "printed_number": "019/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        569
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "右腕から 飛びだす 毒液に 注意。 ちょっと かかるだけで 未知の 毒素に 冒される。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Garbodor",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Trashalanche",
+              "text": "This attack does 20 damage for each Item card in your opponent's discard pile.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Acid Spray",
+              "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Trubbish"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-20",
+      "name": "ミミッキュ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "くすねる",
+          "text": "自分の山札を2枚引く。"
+        },
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "まねっこ",
+          "text": "前の相手の番に、相手のポケモンがワザ(GXワザをのぞく)を使っていたなら、そのワザをこのワザとして使う。"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "020/050",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Megumi Mizutani",
+      "national_pokedex_numbers": [
+        778
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "正体不明。 ボロ布の 中身を みた とある 学者は 恐怖の あまり ショック死した。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Mimikyu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Filch",
+              "text": "Draw 2 cards."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Copycat",
+              "text": "If your opponent's Pokémon used an attack that isn't a GX attack during their last turn, use it as this attack."
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-21",
+      "name": "ダダリン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "120",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "はがねつかい",
+          "text": "このポケモンがいるかぎり、自分のMetalポケモンが使うワザの、相手のバトルポケモンへのダメージは「+10」される。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "アンカーショット",
+          "text": "次の相手の番、このワザを受けたポケモンは、にげられない。",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "21",
+      "printed_number": "021/050",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        781
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "でかい 錨を ブンブン 振り回し ホエルオーさえ 一撃で ＫＯ。 緑の モズクが 本体だ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Dhelmise",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Steelworker",
+              "text": "Your (Metal) Pokémon's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Anchor Shot",
+              "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-22",
+      "name": "カプ・テテフGX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "GX"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "170",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ワンダータッチ",
+          "text": "自分の番に、このカードを手札からベンチに出したとき、1回使える。自分の山札にあるサポートを1枚、相手に見せてから、手札に加える。そして山札を切る。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "エナジードライブ",
+          "text": "おたがいのバトルポケモンについているエネルギーの数×20ダメージ。このワザのダメージは弱点・抵抗力を計算しない。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "カプキュアーGX",
+          "text": "自分のベンチポケモン2匹のHPを、すべて回復する。［対戦中、自分はGXワザを1回しか使えない。］"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "022/050",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        786
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Tapu Lele-GX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "GX"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Wonder Tag",
+              "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Energy Drive",
+              "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tapu Cure-GX",
+              "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-23",
+      "name": "グライガー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ダブルショット",
+          "text": "相手のベンチポケモン2匹に、それぞれ10ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "printed_number": "023/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mina Nakai",
+      "national_pokedex_numbers": [
+        207
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "いつもは 崖に 張りついている。 獲物を見つけると 羽を広げ 風に乗り 襲いかかってくる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Gligar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Double Shot",
+              "text": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-24",
+      "name": "グライオン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "グライガー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "とどめのはり",
+          "text": "相手のバトルポケモンにダメカンがのっていないなら、このワザは失敗。",
+          "damage": "70"
+        },
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ハサミギロチン",
+          "text": "",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "024/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Yoshinobu Saito",
+      "national_pokedex_numbers": [
+        472
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "尻尾で 木の枝に ぶら下がり 獲物を 観察する。 すきを 見て 上空から 襲いかかる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Gliscor",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Finishing Stinger",
+              "text": "If your opponent's Active Pokémon has no damage counters on it before this attack does damage, this attack does nothing.",
+              "damage": "70"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Guillotine",
+              "text": "",
+              "damage": "90"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Gligar"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-25",
+      "name": "ヤンチャム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "からてチョップ",
+          "text": "このポケモンにのっているダメカンの数×10ダメージぶん、このワザのダメージは小さくなる。",
+          "damage": "60-"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "25",
+      "printed_number": "025/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "TOKIYA",
+      "national_pokedex_numbers": [
+        674
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "親分の ように 慕っている ゴロンダの 仕草を 真似ながら 一人前に なっていくぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Pancham",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Karate Chop",
+              "text": "This attack does 10 less damage for each damage counter on this Pokémon.",
+              "damage": "60-"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-26",
+      "name": "イワンコ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "おいつめる",
+          "text": "次の相手の番、このワザを受けたポケモンは、にげられない。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "けりつける",
+          "text": "コインを1回投げウラなら、このワザは失敗。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "026/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        744
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "よく なつくので 初心者に お勧めのポケモンと いわれるが 育つと 気性は 荒くなる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Rockruff",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Corner",
+              "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Wild Kick",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-27",
+      "name": "ルガルガンGX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化",
+        "GX"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "200",
+      "evolves_from": [
+        "イワンコ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ブラッディアイ",
+          "text": "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ツメできりさく",
+          "text": "",
+          "damage": "110"
+        },
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "デスローグGX",
+          "text": "相手のベンチポケモンの数×50ダメージ。［対戦中、自分はGXワザを1回しか使えない。］",
+          "damage": "50×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "27",
+      "printed_number": "027/050",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        745
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Lycanroc-GX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1",
+            "GX"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Bloodthirsty Eyes",
+              "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Claw Slash",
+              "text": "",
+              "damage": "110"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Dangerous Rogue-GX",
+              "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)",
+              "damage": "50×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Rockruff"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-28",
+      "name": "メテノ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "スピードスター",
+          "text": "このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果を計算しない。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 3,
+          "name": "コスモプロージョン",
+          "text": "このポケモンをきぜつさせる。",
+          "damage": "190"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "printed_number": "028/050",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        774
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "大気中の チリを 喰っている。 喰った チリの 成分に よって コアの 色合いが 決まる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Minior",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Swift",
+              "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Cosmicsplosion",
+              "text": "This Pokémon is Knocked Out.",
+              "damage": "190"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-29",
+      "name": "ヤミカラス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ふきとばし",
+          "text": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "printed_number": "029/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Sekio",
+      "national_pokedex_numbers": [
+        198
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "日暮れに 目覚め 夕闇を 飛ぶ。 ヤミカラスが 飛ぶまでに 家に 帰れ という ことわざも あるぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Murkrow",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Whirlwind",
+              "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-30",
+      "name": "ドンカラス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "ヤミカラス"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "だましうち",
+          "text": "相手のポケモン1匹に、30ダメージ。このワザのダメージは、弱点・抵抗力と、ダメージを受けるポケモンにかかっている効果を計算しない。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "レイブンクロー",
+          "text": "相手の場のポケモンにのっているダメカンの数×10ダメージ追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "030/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        430
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "夜行性。 一声 鳴けば １００匹を 超える 子分の ヤミカラスが 集結する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Honchkrow",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Feint Attack",
+              "text": "This attack does 30 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Raven's Claw",
+              "text": "This attack does 10 more damage for each damage counter on all of your opponent's Pokémon.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Murkrow"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-31",
+      "name": "ヤミラミ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "そくばく",
+          "text": "次の相手の番、相手は手札からサポートを出して使えない。"
+        },
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ひっかく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "31",
+      "printed_number": "031/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        302
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "宝石が 好物で メレシーを 狙って 付け回しているが ガバイトに 横取り されてしまう。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Sableye",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Limitation",
+              "text": "Your opponent can't play any Supporter cards from their hand during their next turn."
+            },
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scratch",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-32",
+      "name": "ゴロンダ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "ヤンチャム"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "スカイアッパー",
+          "text": "このワザのダメージは抵抗力を計算しない。",
+          "damage": "70"
+        },
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "マグナムパンチ",
+          "text": "",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "32",
+      "printed_number": "032/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        675
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "腕っぷしが 自慢で 豪快。 ゴロンダの トレーナーに なりたいなら 拳で 語り合う しかない。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Pangoro",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Sky Uppercut",
+              "text": "This attack's damage isn't affected by Resistance.",
+              "damage": "70"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Magnum Punch",
+              "text": "",
+              "damage": "130"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pancham"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-33",
+      "name": "ダンバル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "鋼"
+          ],
+          "converted_energy_cost": 1,
+          "name": "コアビーム",
+          "text": "このポケモンについているMetalエネルギーを、1個トラッシュする。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "printed_number": "033/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        374
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "細胞 すべてが 磁石。 磁力を 使って 仲間と コミュニケーションを 取る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Beldum",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Core Beam",
+              "text": "Discard a Metal Energy from this Pokémon.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-34",
+      "name": "メタング",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ダンバル"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ぶつかる",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "鋼",
+            "鋼",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "コアビーム",
+          "text": "このポケモンについているMetalエネルギーを、1個トラッシュする。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "34",
+      "printed_number": "034/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        375
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "２匹の ダンバルが 連結し サイコパワーは ２倍に。 ただし 賢さ自体は 変わっていない。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Metang",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Ram",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Metal",
+                "Metal",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Core Beam",
+              "text": "Discard a Metal Energy from this Pokémon.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Beldum"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-35",
+      "name": "メタグロスGX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化",
+        "GX"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "250",
+      "evolves_from": [
+        "メタング"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ジオテックシステム",
+          "text": "自分の番に1回使える。自分のトラッシュにあるPsychicエネルギーを1枚、バトルポケモンにつける。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "鋼",
+            "鋼",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ギガハンマー",
+          "text": "次の自分の番、このポケモンは「ギガハンマー」が使えない。",
+          "damage": "150"
+        },
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "アルゴリズムGX",
+          "text": "自分の山札にある好きなカードを5枚まで、手札に加える。そして山札を切る。［対戦中、自分はGXワザを1回しか使えない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "35",
+      "printed_number": "035/050",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        376
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Metagross-GX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2",
+            "GX"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Geotech System",
+              "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal",
+                "Metal",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Giga Hammer",
+              "text": "This Pokémon can't use Giga Hammer during your next turn.",
+              "damage": "150"
+            },
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Algorithm-GX",
+              "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Metang"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-36",
+      "name": "モンメン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "妖"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "れんぞくころがり",
+          "text": "ウラが出るまでコインを投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "悪",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "36",
+      "printed_number": "036/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Megumi Mizutani",
+      "national_pokedex_numbers": [
+        546
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "仲間を みつけると くっつく。 あまりに たくさん くっつきすぎて 入道雲 みたいになることも。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Cottonee",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fairy"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Continuous Tumble",
+              "text": "Flip a coin until you get tails. This attack does 10 damage for each heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Darkness",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-37",
+      "name": "エルフーン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "妖"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "モンメン"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "よけいなわたげ",
+          "text": "次の自分の番、このワザを受けたポケモンがきぜつしたとき、サイドを2枚多くとる。"
+        },
+        {
+          "cost": [
+            "妖"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ようせいのかぜ",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "悪",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "37",
+      "printed_number": "037/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        547
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "風に 乗り 民家に 侵入。 部屋中を 綿まみれに すると ニコニコ 笑って 去っていく。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Whimsicott",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fairy"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "The Wages of Fluff",
+              "text": "If the Defending Pokémon is Knocked Out during your next turn, take 2 more Prize cards."
+            },
+            {
+              "cost": [
+                "Fairy"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Fairy Wind",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Darkness",
+              "value": "-20"
+            }
+          ],
+          "evolves_from": [
+            "Cottonee"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-38",
+      "name": "ヌメラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "竜"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "あわ",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        },
+        {
+          "cost": [
+            "水",
+            "妖"
+          ],
+          "converted_energy_cost": 2,
+          "name": "たいあたり",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "妖",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "printed_number": "038/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Asako Ito",
+      "national_pokedex_numbers": [
+        704
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "最も 弱い ドラゴンポケモン。 皮膚が 乾くと 息が できないので 日陰で じーっと しているよ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Goomy",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Dragon"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bubble",
+              "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            },
+            {
+              "cost": [
+                "Water",
+                "Fairy"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tackle",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fairy",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-39",
+      "name": "ヌメイル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "竜"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "ヌメラ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ぶんれつ",
+          "text": "自分の山札にある「ヌメイル」を2枚まで、ベンチに出す。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "水",
+            "妖"
+          ],
+          "converted_energy_cost": 2,
+          "name": "たいあたり",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "妖",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "39",
+      "printed_number": "039/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        705
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "餌と 仲間の 区別が 曖昧。 仲良くなっても 平気で 溶かして 喰らおうと してくることが ある。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Sliggoo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Dragon"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Division",
+              "text": "Search your deck for up to 2 Sliggoo and put them onto your Bench. Then, shuffle your deck."
+            },
+            {
+              "cost": [
+                "Water",
+                "Fairy"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tackle",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fairy",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Goomy"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-40",
+      "name": "ヌメルゴン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "竜"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "ヌメラ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "パワーウィップ",
+          "text": "相手のポケモン1匹に、このポケモンについているエネルギーの数×20ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        },
+        {
+          "cost": [
+            "水",
+            "妖",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ビートスライダー",
+          "text": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "妖",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "40",
+      "printed_number": "040/050",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        706
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "すごく 人懐っこい ポケモン。 構わないでいると 寂しくて ヌルヌルの 涙を 流し 鳴く。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Goodra",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Dragon"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Power Whip",
+              "text": "This attack does 20 damage times the amount of Energy attached to this Pokémon to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Water",
+                "Fairy",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Beat Slider",
+              "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+              "damage": "130"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fairy",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Sliggoo"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-41",
+      "name": "ポワルン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "おてんきうらない",
+          "text": "自分の山札にあるスタジアムを2枚まで、相手に見せてから、手札に加える。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "みずのはどう",
+          "text": "相手のバトルポケモンをねむりにする。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "printed_number": "041/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        351
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "天気に よって 姿を 変える。 気温や 湿度の 変化が 細胞に 影響 するらしい。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Castform",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Weather Teller",
+              "text": "Search your deck for up to 2 Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Water Pulse",
+              "text": "Your opponent's Active Pokémon is now Asleep.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-42",
+      "name": "ミネズミ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ちらみ",
+          "text": "相手の山札を上から1枚見て、もとにもどす。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "たいあたり",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "42",
+      "printed_number": "042/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Ayaka Yoshida",
+      "national_pokedex_numbers": [
+        504
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ほほの 袋に エサを ためこみ 何日も 見張りを 続ける。 尻尾で 仲間に 合図する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Patrat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Glance",
+              "text": "Look at the top card of your opponent's deck."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tackle",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-43",
+      "name": "ミルホッグ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ミネズミ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "しなさだめ",
+          "text": "相手の山札を上から2枚見て、どちらか1枚をトラッシュし、残りのカードは山札の上にもどす。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "たたきつける",
+          "text": "コインを2回投げ、オモテの数×60ダメージ。",
+          "damage": "60×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "043/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        505
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "体内の 発光物質で 目玉や 体を 光らせ 襲ってきた 敵を ひるませる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Watchog",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scrutinize",
+              "text": "Look at the top 2 cards of your opponent's deck, discard 1 of them, and put the other card back."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Slam",
+              "text": "Flip 2 coins. This attack does 60 damage for each heads.",
+              "damage": "60×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Patrat"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-44",
+      "name": "ヤヤコマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "なきごえ",
+          "text": "次の相手の番、このワザを受けたポケモンが使うワザのダメージは「-20」される。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "はばたく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "printed_number": "044/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "You Iribi",
+      "national_pokedex_numbers": [
+        661
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "人懐っこいので 扱いやすい ポケモンだが 一度 戦いに なると とても 荒々しいぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Fletchling",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Growl",
+              "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Flap",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-45",
+      "name": "ヒノヤコマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "ヤヤコマ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "はばたく",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かまいたち",
+          "text": "コインを1回投げウラなら、このワザは失敗。",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "printed_number": "045/050",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        662
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "クチバシから 火の粉を 飛ばして 獲物に ぶつける。 捕まえた 獲物は 焼いてから いただくぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-45/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-45/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 45,
+      "translation": {
+        "en": {
+          "name": "Fletchinder",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Flap",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Razor Wind",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Fletchling"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-46",
+      "name": "ファイアロー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "ヒノヤコマ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ニトロチャージ",
+          "text": "自分の山札にあるFireエネルギーを1枚、このポケモンにつける。そして山札を切る。",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "エアロループ",
+          "text": "このポケモンについているエネルギーを、すべて手札にもどす。",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "46",
+      "printed_number": "046/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        663
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "好物は キャモメや ツツケラ。 強烈な キックを お見舞いし 鋭いツメで がっちり キャッチ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-46/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-46/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 46,
+      "translation": {
+        "en": {
+          "name": "Talonflame",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Flame Charge",
+              "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Loop-the-Loop",
+              "text": "Put all Energy attached to this Pokémon into your hand.",
+              "damage": "90"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "evolves_from": [
+            "Fletchinder"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-47",
+      "name": "アクアパッチ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分のトラッシュにあるWaterポケモンにつける。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "47",
+      "printed_number": "047/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-47/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-47/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 47,
+      "translation": {
+        "en": {
+          "name": "Aqua Patch",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-48",
+      "name": "レスキュータンカ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分のトラッシュにあるポケモンを1枚、相手に見せてから、手札に加える。または、自分のトラッシュにあるポケモンを3枚、相手に見せてから、山札にもどして切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "48",
+      "printed_number": "048/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Yoshinobu Saito",
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-48/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-48/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 48,
+      "translation": {
+        "en": {
+          "name": "Rescue Stretcher",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-49",
+      "name": "マオ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の山札から好きなカードを2枚選ぶ。残りの山札を切り、選んだカードを好きな順番にして、山札の上にもどす。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "49",
+      "printed_number": "049/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Ken Sugimori",
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-49/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-49/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 49,
+      "translation": {
+        "en": {
+          "name": "Mallow",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-50",
+      "name": "せせらぎの丘",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "rules": [
+        "おたがいのプレイヤーは、自分の番ごとに1回、自分の山札にあるWaterタイプのたねポケモンを1枚、ベンチに出してよい。その場合、山札を切る。",
+        "スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。"
+      ],
+      "number": "50",
+      "printed_number": "050/050",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-50/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-50/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 50,
+      "translation": {
+        "en": {
+          "name": "Brooklet Hill",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-51",
+      "name": "ヨワシGX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "GX"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みずでっぽう",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 5,
+          "name": "ばくりゅうのうず",
+          "text": "相手のバトルポケモンについている特殊エネルギーを、1個トラッシュする。",
+          "damage": "120"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 5,
+          "name": "ブルーサージGX",
+          "text": "このポケモンについているエネルギーをすべて、ベンチポケモンに好きなようにつけ替える。［対戦中、自分はGXワザを1回しか使えない。］",
+          "damage": "220"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "51",
+      "printed_number": "051/050",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        746
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-51/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-51/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 51,
+      "translation": {
+        "en": {
+          "name": "Wishiwashi-GX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "GX"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Water Gun",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 5,
+              "name": "Torrential Vortex",
+              "text": "Discard a Special Energy from your opponent's Active Pokémon.",
+              "damage": "120"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 5,
+              "name": "Blue Surge-GX",
+              "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)",
+              "damage": "220"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-52",
+      "name": "カプ・テテフGX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "GX"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "170",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ワンダータッチ",
+          "text": "自分の番に、このカードを手札からベンチに出したとき、1回使える。自分の山札にあるサポートを1枚、相手に見せてから、手札に加える。そして山札を切る。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "エナジードライブ",
+          "text": "おたがいのバトルポケモンについているエネルギーの数×20ダメージ。このワザのダメージは弱点・抵抗力を計算しない。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "カプキュアーGX",
+          "text": "自分のベンチポケモン2匹のHPを、すべて回復する。［対戦中、自分はGXワザを1回しか使えない。］"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "52",
+      "printed_number": "052/050",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        786
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-52/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-52/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 52,
+      "translation": {
+        "en": {
+          "name": "Tapu Lele-GX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "GX"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Wonder Tag",
+              "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Energy Drive",
+              "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tapu Cure-GX",
+              "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-53",
+      "name": "ルガルガンGX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化",
+        "GX"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "200",
+      "evolves_from": [
+        "イワンコ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ブラッディアイ",
+          "text": "自分の番に、このカードを手札から出して進化させたとき、1回使える。相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ツメできりさく",
+          "text": "",
+          "damage": "110"
+        },
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "デスローグGX",
+          "text": "相手のベンチポケモンの数×50ダメージ。［対戦中、自分はGXワザを1回しか使えない。］",
+          "damage": "50×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "53",
+      "printed_number": "053/050",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        745
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-53/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-53/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 53,
+      "translation": {
+        "en": {
+          "name": "Lycanroc-GX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1",
+            "GX"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Bloodthirsty Eyes",
+              "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Claw Slash",
+              "text": "",
+              "damage": "110"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Dangerous Rogue-GX",
+              "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)",
+              "damage": "50×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Rockruff"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-54",
+      "name": "メタグロスGX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化",
+        "GX"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "250",
+      "evolves_from": [
+        "メタング"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ジオテックシステム",
+          "text": "自分の番に1回使える。自分のトラッシュにあるPsychicエネルギーを1枚、バトルポケモンにつける。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "鋼",
+            "鋼",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ギガハンマー",
+          "text": "次の自分の番、このポケモンは「ギガハンマー」が使えない。",
+          "damage": "150"
+        },
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "アルゴリズムGX",
+          "text": "自分の山札にある好きなカードを5枚まで、手札に加える。そして山札を切る。［対戦中、自分はGXワザを1回しか使えない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "54",
+      "printed_number": "054/050",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        376
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-54/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-54/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 54,
+      "translation": {
+        "en": {
+          "name": "Metagross-GX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2",
+            "GX"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Geotech System",
+              "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal",
+                "Metal",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Giga Hammer",
+              "text": "This Pokémon can't use Giga Hammer during your next turn.",
+              "damage": "150"
+            },
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Algorithm-GX",
+              "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Metang"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm2l_ja-55",
+      "name": "マオ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の山札から好きなカードを2枚選ぶ。残りの山札を切り、選んだカードを好きな順番にして、山札の上にもどす。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "55",
+      "printed_number": "055/050",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "Megumi Mizutani",
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm2l_ja-55/small",
+          "medium": "https://images.scrydex.com/pokemon/sm2l_ja-55/medium",
+          "large": "https://images.scrydex.com/pokemon/sm2l_ja-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm2l_ja",
+        "name": "アローラの月光",
+        "series": "Sun & Moon",
+        "code": "SM2L",
+        "total": 55,
+        "printed_total": 50,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2017/03/17",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 55,
+      "translation": {
+        "en": {
+          "name": "Mallow",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Alolan Moonlight"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 55
+}

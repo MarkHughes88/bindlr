@@ -1,0 +1,8063 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "bw1b_ja-1",
+      "name": "クルミル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "たいあたり",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "いとをはく",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        540
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "タマゴから かえると ハハコモリに 服を 作ってもらい 着せられる。 フードで 頭を 隠して 寝る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Sewaddle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tackle",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "String Shot",
+              "text": "Flip a coin. If heads, the Defending Pokémon is Paralyzed."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-2",
+      "name": "クルマユ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "クルミル"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "くさごもり",
+          "text": "このポケモンのHPを「40」回復する。"
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "はっぱカッター",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "002/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        541
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "クルマユの 住む 森は 草木が よく 育つ。 クルマユが 落ち葉を 栄養分に 変えているのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Swadloon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Grass Cocooning",
+              "text": "Heal 40 damage from this Pokémon."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Razor Leaf",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Sewaddle"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-3",
+      "name": "ハハコモリ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "クルマユ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "こそだて",
+          "text": "自分のポケモン1匹から進化するカードを、自分の山札から1枚選び、そのポケモンにのせて進化させる。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "シザークロス",
+          "text": "コインを1回投げオモテなら、50ダメージを追加。",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        542
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "小さい ポケモンを 見つけると 腕の カッターと 粘着糸で 葉っぱの 服を 縫う 習性。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Leavanny",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Nurturing",
+              "text": "Choose 1 of your Pokémon. Search your deck for a card that evolves from that Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "X-Scissor",
+              "text": "Flip a coin. If heads, this attack does 50 more damage.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Swadloon"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-4",
+      "name": "モンメン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "コットンガード",
+          "text": "次の相手の番、このポケモンが受けるワザのダメージは「-10」される。",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        546
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "襲われると 体から 綿を 飛ばす。 敵が 綿を モンメンと 間違えている すきに 逃げるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Cottonee",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Cotton Guard",
+              "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 10 (after applying Weakness and Resistance).",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-5",
+      "name": "エルフーン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "モンメン"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "てだすけ",
+          "text": "自分の山札から基本エネルギーを1枚選び、自分のベンチポケモンにつける。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "コットンガード",
+          "text": "次の相手の番、このポケモンが受けるワザのダメージは「-30」される。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "5",
+      "printed_number": "005/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        547
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "どんなに 細い すきまでも 風のように 潜り抜けてしまう。 白い 毛玉を 残していく。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Whimsicott",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Helping Hand",
+              "text": "Search your deck for a basic Energy card and attach it to 1 of your Benched Pokémon. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Cotton Guard",
+              "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 30 (after applying Weakness and Resistance).",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "evolves_from": [
+            "Cottonee"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-6",
+      "name": "シキジカ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "にどげり",
+          "text": "コインを2回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "やどりぎのたね",
+          "text": "このポケモンのHPを「10」回復する。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        585
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "体毛が 野山の 草と 同じ 色と 香りに 変わる。 敵意を 感じると 草むらに 隠れる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Deerling",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Double Kick",
+              "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Leech Seed",
+              "text": "Heal 10 damage from this Pokémon.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-7",
+      "name": "メブキジカ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "シキジカ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "しぜんのちから",
+          "text": "おたがいのポケモンについているGrassエネルギーの合計×10ダメージを追加。",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ウッドホーン",
+          "text": "このポケモンのHPを「20」回復する。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        586
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "季節によって 住処を 変える。 人々は メブキジカの ツノで 季節の 移り変わりを 感じる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Sawsbuck",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Nature Power",
+              "text": "Does 10 more damage for each Grass Energy attached to both your and your opponent's Pokémon.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Horn Leech",
+              "text": "Heal 20 damage from this Pokémon.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Deerling"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-8",
+      "name": "ポカブ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "とっしん",
+          "text": "このポケモンにも10ダメージ。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "008/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        498
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "敵の 攻撃を 身軽に 避けて 鼻から 火の玉を 撃ち出す。 炎で 木の実を 焼いて 食べる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Tepig",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Take Down",
+              "text": "This Pokémon does 10 damage to itself.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-9",
+      "name": "チャオブー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "ポカブ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ころがる",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "かえんほうしゃ",
+          "text": "このポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "9",
+      "printed_number": "009/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        499
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "体内の 炎が 燃え上がると 動きの キレと スピードが 増す。 ピンチになると 煙を 吹き出す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Pignite",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Rollout",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Flamethrower",
+              "text": "Discard an Energy attached to this Pokémon.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Tepig"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-10",
+      "name": "エンブオー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "チャオブー"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "れっからんぶ",
+          "text": "自分の手札からFireエネルギーを1枚選び、自分のポケモンにつける。この特性は、自分の番に何回でも使える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ヒートスタンプ",
+          "text": "",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "10",
+      "printed_number": "010/053",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        500
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "アゴの 炎で こぶしを 燃やして 炎の パンチを 繰り出す。 とても 仲間思いの ポケモン。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Emboar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Inferno Fandango",
+              "text": "As often as you like during your turn (before your attack), you may attach a Fire Energy card from your hand to 1 of your Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Heat Crash",
+              "text": "",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pignite"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-11",
+      "name": "バオップ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ひっかく",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ひだね",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        513
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "頭の ふさは 怒ると 温度が 上がり ３００度 以上になる。 木の実を ふさで 焼いて 食べる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Pansear",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scratch",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Live Coal",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-12",
+      "name": "バオッキー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "バオップ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "はじけるほのお",
+          "text": "相手のベンチポケモンを2匹選び、そのポケモンにも、それぞれ20ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "みだれひっかき",
+          "text": "コインを3回投げ、オモテの数×40ダメージ。",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        514
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "甘いものが 大好物。 体内の 炎を 燃やす エネルギーに なるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Simisear",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Flame Burst",
+              "text": "Does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Fury Swipes",
+              "text": "Flip 3 coins. This attack does 40 damage times the number of heads.",
+              "damage": "40×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pansear"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-13",
+      "name": "レシラム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "げきりん",
+          "text": "このポケモンにのっているダメカンの数×10ダメージを追加。",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "あおいほのお",
+          "text": "このポケモンについているFireエネルギーを2個選び、トラッシュする。",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "13",
+      "printed_number": "013/053",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        643
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "神話に 登場する ポケモン。 しっぽから 炎を 吹き上げて すべての ものを 焼きつくす。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Reshiram",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Outrage",
+              "text": "Does 10 more damage for each damage counter on this Pokémon.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Blue Flare",
+              "text": "Discard 2 Fire Energy attached to this Pokémon.",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-14",
+      "name": "バスラオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "じたばた",
+          "text": "このポケモンにのっているダメカンの数×10ダメージ。",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "いのちがけ",
+          "text": "コインを2回投げ、すべてウラなら、このポケモンにも80ダメージ。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "014/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        550
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "赤と 青の バスラオは すぐに ケンカするほど 仲が 悪い。 とても 乱暴な ポケモン。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Basculin",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Flail",
+              "text": "Does 10 damage times the number of damage counters on this Pokémon.",
+              "damage": "10×"
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Final Gambit",
+              "text": "Flip 2 coins. If both of them are tails, this Pokémon does 80 damage to itself.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-15",
+      "name": "コアルヒー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みずでっぽう",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "015/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        580
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "潜水が 得意な とりポケモン。 好物の みずゴケを 食べるため 水中を 泳ぎまわる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Ducklett",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Water Gun",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-16",
+      "name": "スワンナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "コアルヒー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "フェザーダンス",
+          "text": "次の自分の番、このポケモンが使うワザのダメージは「+40」される。"
+        },
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "アクアリング",
+          "text": "このポケモンをベンチポケモンと入れ替える。",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "016/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        581
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "夜明けと ともに スワンナたちは 踊りはじめる。 真ん中で 踊る スワンナが 群れの リーダー。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Swanna",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Feather Dance",
+              "text": "During your next turn, each of this Pokémon's attacks does 40 more damage (before applying Weakness and Resistance)."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Aqua Ring",
+              "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Ducklett"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-17",
+      "name": "クマシュン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "こなゆき",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをねむりにする。",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ねむる",
+          "text": "このポケモンをねむりにする。このポケモンのHPを「60」回復する。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "017/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        613
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "具合が 悪くなると 鼻水が 水っぽくなり こおり技の 威力が 落ちてしまうのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Cubchoo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Powder Snow",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Rest",
+              "text": "Heal 60 damage from this Pokémon. This Pokémon is now Asleep."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-18",
+      "name": "ツンベアー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "クマシュン"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ぜったいれいど",
+          "text": "次の相手の番、このワザを受けた相手のバトルポケモンは、ワザを使えない。",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "つららおとし",
+          "text": "このワザのダメージは抵抗力の計算をしない。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "18",
+      "printed_number": "018/053",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        614
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "吐く 息を 自在に 凍らせる。 泳ぎが 得意で 北の 海を 泳ぎまわり 獲物を 捕まえる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Beartic",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Sheer Cold",
+              "text": "The Defending Pokémon can't attack during your opponent's next turn.",
+              "damage": "50"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Icicle Crash",
+              "text": "This attack's damage isn't affected by Resistance.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Cubchoo"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-19",
+      "name": "シママ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ふみつけ",
+          "text": "コインを1回投げオモテなら、10ダメージを追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "019/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        522
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "放電すると たてがみが 光る。 たてがみの 光り方で 仲間と コミュニケーションを とっている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Blitzle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Stomp",
+              "text": "Flip a coin. If heads, this attack does 10 more damage.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-20",
+      "name": "ゼブライカ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "シママ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "うしろげり",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 3,
+          "name": "エレキスパーク",
+          "text": "相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "020/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        523
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "稲妻のような 瞬発力。 ゼブライカが 全速力で 走ると 雷鳴が 響きわたる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Zebstrika",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Rear Kick",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Electrispark",
+              "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Blitzle"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-21",
+      "name": "エモンガ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "でんきショック",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "アクロバット",
+          "text": "コインを2回投げ、オモテの数×20ダメージを追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "21",
+      "printed_number": "021/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        587
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "ほほの 電気袋で 作った 電気を 膜の 内側に ためて 滑空しながら 電気を 放つ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Emolga",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Thundershock",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Acrobatics",
+              "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-22",
+      "name": "ムンナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "さいみんじゅつ",
+          "text": "相手のバトルポケモンをねむりにする。"
+        },
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ゆめくい",
+          "text": "相手のバトルポケモンがねむりでないなら、このワザは失敗。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "22",
+      "printed_number": "022/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        517
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "ムンナに 夢を 食べられてしまうと 夢の 内容を 忘れてしまう。 つねに 空中に 浮かんでいる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Munna",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hypnosis",
+              "text": "The Defending Pokémon is now Asleep."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Dream Eater",
+              "text": "If the Defending Pokémon is not Asleep, this attack does nothing.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-23",
+      "name": "ムシャーナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ムンナ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "さいみんこうせん",
+          "text": "相手のバトルポケモンをねむりにする。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ゆめくい",
+          "text": "相手のバトルポケモンがねむりでないなら、このワザは失敗。",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "23",
+      "printed_number": "023/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        518
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "おでこから 出ている 煙の 中には 人や ポケモンの 見た 夢が たくさん 詰まっているのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Musharna",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hypnotic Ray",
+              "text": "The Defending Pokémon is now Asleep.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Dream Eater",
+              "text": "If the Defending Pokémon is not Asleep, this attack does nothing.",
+              "damage": "90"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Munna"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-24",
+      "name": "コロモリ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かぜおこし",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "024/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        527
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "暗い 森や 洞穴で 暮らす。 鼻の 穴から 超音波を 出して あたりの 様子を 探る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Woobat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Gust",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-25",
+      "name": "ココロモリ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "コロモリ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "メロメロ",
+          "text": "次の相手の番、このワザを受けた相手のバトルポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。"
+        },
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ハートスタンプ",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "025/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        527,
+        528
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "いろいろな 周波数の 音波を 鼻の 穴から 発射する。 岩を 破壊する 音波も 出す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Swoobat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Attract",
+              "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Heart Stamp",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Woobat"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-26",
+      "name": "ゴチム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みつめる",
+          "text": "相手のバトルポケモンをねむりにする。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "おうふくビンタ",
+          "text": "コインを2回投げ、オモテの数×20ダメージ。",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "026/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        574
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "リボンのような 触角で サイコパワーを 増幅させる。 なにかを じっと 見つめている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Gothita",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hypnotic Gaze",
+              "text": "The Defending Pokémon is now Asleep."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Double Slap",
+              "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-27",
+      "name": "ゴチミル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "ゴチム"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "おうふくビンタ",
+          "text": "コインを2回投げ、オモテの数×20ダメージ。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "サイケこうせん",
+          "text": "相手のバトルポケモンをこんらんにする。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "27",
+      "printed_number": "027/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        575
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "催眠術で ポケモンや 人を 操る。 眠ったまま ゴチミルに 連れ去られる 昔話が 各地に 残っている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Gothorita",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Double Slap",
+              "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Psybeam",
+              "text": "The Defending Pokémon is now Confused.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Gothita"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-28",
+      "name": "ゴチルゼル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "ゴチミル"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "マジックルーム",
+          "text": "このポケモンがバトル場にいるかぎり、相手は手札から「グッズ」を出して使えない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "マッドキネシス",
+          "text": "このポケモンについているPsychicエネルギーの数×20ダメージを追加。",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "28",
+      "printed_number": "028/053",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        576
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "強力な サイコパワーの 影響で ゴチルゼルの 周囲の 空間が ねじれ 何万光年も 遠くの 星空が 映る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Gothitelle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Magic Room",
+              "text": "As long as this Pokémon is your Active Pokémon, your opponent can't play any Item cards from his or her hand."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Madkinesis",
+              "text": "Does 20 more damage for each Psychic Energy attached to this Pokémon.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Gothorita"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-29",
+      "name": "ダンゴロ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かたくなる",
+          "text": "次の相手の番、このポケモンは「40」以下のワザのダメージを受けない。"
+        },
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ずつき",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "29",
+      "printed_number": "029/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        524
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "６角形の 耳を 持つ。 地底で 圧縮された 体は 鉄に 負けないくらい 硬い。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Roggenrola",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Harden",
+              "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 40 or less."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Headbutt",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-30",
+      "name": "ガントル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ダンゴロ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "うちおとす",
+          "text": "相手のバトルポケモンがFightingタイプの抵抗力を持っているなら、60ダメージを追加。",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "パワージェム",
+          "text": "",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "30",
+      "printed_number": "030/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        525
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "パワーが みなぎると オレンジ色の 結晶が 光り 輝く。 洞穴で 地下水を 探す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Boldore",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Smack Down",
+              "text": "If the Defending Pokémon has Fighting Resistance, this attack does 60 more damage.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Power Gem",
+              "text": "",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Roggenrola"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-31",
+      "name": "モグリュー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "つめとぎ",
+          "text": "次の自分の番、このポケモンが使うワザのダメージは「+30」される。"
+        },
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ひっかく",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "31",
+      "printed_number": "031/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        529
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "地中を 掘り進む スピードは 時速 ５０キロ以上。 地上を 走る 自動車と いい勝負。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Drilbur",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hone Claws",
+              "text": "During your next turn, each of this Pokémon's attacks does 30 more damage (before applying Weakness and Resistance)."
+            },
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scratch",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-32",
+      "name": "ドリュウズ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "モグリュー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "メタルクロー",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ドリルライナー",
+          "text": "相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "32",
+      "printed_number": "032/053",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        530
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "鋼に 進化した ドリルは 鉄板を つらぬく 破壊力。 トンネル工事で 大活躍する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Excadrill",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Metal Claw",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Drill Run",
+              "text": "Discard an Energy attached to the Defending Pokémon.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Drilbur"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-33",
+      "name": "ダゲキ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ローキック",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "せいけんづき",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "printed_number": "033/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        539
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "ダゲキが 修業する 山から 大岩や 大木に こぶしを 打ちつける 音が 聞こえてくる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Sawk",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Low Sweep",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Beatdown",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-34",
+      "name": "ズルッグ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ずつき",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "printed_number": "034/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        559
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "皮を 首まで 引き上げて 防御の 姿勢。 ゴムのような 弾力で ダメージを 減らす。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Scraggy",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Headbutt",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-35",
+      "name": "ズルズキン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ズルッグ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "さんをとばす",
+          "text": "相手のバトルポケモンをやけどにする。コインを1回投げオモテなら、さらに相手のバトルポケモンをマヒにする。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "悪",
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "とびひざげり",
+          "text": "",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "35",
+      "printed_number": "035/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        560
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "縄張りに 入ってきた 相手を 集団で たたきのめす。 口から 酸性の 体液を 飛ばす。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Scrafty",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Spit Acid",
+              "text": "The Defending Pokémon is now Burned. Flip a coin. If heads, the Defending Pokémon is also Paralyzed.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "High Jump Kick",
+              "text": "",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Scraggy"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-36",
+      "name": "バルチャイ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ふいをつく",
+          "text": "コインを1回投げウラなら、このワザは失敗。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "36",
+      "printed_number": "036/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        629
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "翼が 小さいため 飛べない。 進化の ときが 近づくと 自分から ガイコツを 脱ぎ捨てる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Vullaby",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Surprise Attack",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-37",
+      "name": "バルジーナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "バルチャイ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "やみうち",
+          "text": "ダメカンがのっている相手のポケモンを1匹選び、50ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］"
+        },
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "おしおき",
+          "text": "相手のバトルポケモンが2進化なら、60ダメージを追加。",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "printed_number": "037/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        630
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "骨を 拾い 集めて 巣作り。 弱った 獲物を 脚で つかみ 骨の 巣まで 軽々と 運ぶ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Mandibuzz",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Blindside",
+              "text": "Does 50 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Punishment",
+              "text": "If the Defending Pokémon is a Stage 2 Pokémon, this attack does 60 more damage.",
+              "damage": "40+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Vullaby"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-38",
+      "name": "ギアル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "鋼"
+          ],
+          "converted_energy_cost": 1,
+          "name": "しめつける",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "38",
+      "printed_number": "038/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        599
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "２つの 体は 組み合わせが 決まっている。 別の 体とは かみ合わずに 離れてしまう。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Klink",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bind",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-39",
+      "name": "ギギアル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "ギアル"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "鋼"
+          ],
+          "converted_energy_cost": 1,
+          "name": "しめつける",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "鋼",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ギアソーサー",
+          "text": "コインを2回投げ、オモテの数×60ダメージ。",
+          "damage": "60×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "39",
+      "printed_number": "039/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        599,
+        600
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "回転方向を 変える ことで 仲間に 気持ちを 伝えている。 怒るほど 回転が 速くなる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Klang",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bind",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Metal",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Gear Grind",
+              "text": "Flip 2 coins. This attack does 60 damage times the number of heads.",
+              "damage": "60×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Klink"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-40",
+      "name": "ギギギアル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "ギギアル"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ギアチェンジ",
+          "text": "自分のポケモンについているMetalエネルギーを1個選び、自分の別のポケモンにつけ替える。この特性は、自分の番に何回でも使える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "鋼",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ギアソーサー",
+          "text": "コインを2回投げ、オモテの数×80ダメージ。",
+          "damage": "80×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "40",
+      "printed_number": "040/053",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        599,
+        600,
+        601
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "赤い コアは エネルギータンクの 役割。 チャージした エネルギーを トゲから 周囲に 撃ち出す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Klinklang",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Shift Gear",
+              "text": "As often as you like during your turn (before your attack), you may move a Metal Energy attached to 1 of your Pokémon to another of your Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Gear Grind",
+              "text": "Flip 2 coins. This attack does 80 damage times the number of heads.",
+              "damage": "80×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Klang"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-41",
+      "name": "マメパト",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "でんこうせっか",
+          "text": "コインを1回投げオモテなら、10ダメージを追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "printed_number": "041/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        519
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "トレーナーの 命令を よく 聞く 性格だが 難しい 指示は 理解 できない こともある。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Pidove",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Quick Attack",
+              "text": "Flip a coin. If heads, this attack does 10 more damage.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-42",
+      "name": "ハトーボー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "マメパト"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かぜおこし",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "でんこうせっか",
+          "text": "コインを1回投げオモテなら、30ダメージを追加。",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "42",
+      "printed_number": "042/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        520
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "どんなに 遠く 離れても トレーナーの もとに かならず もどってくる ことが できる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Tranquill",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Gust",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Quick Attack",
+              "text": "Flip a coin. If heads, this attack does 30 more damage.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pidove"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-43",
+      "name": "ケンホロウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "ハトーボー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "そらをとぶ",
+          "text": "コインを1回投げウラなら、このワザは失敗。オモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "カッターウインド",
+          "text": "",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "043/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        521
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "オスは 頭の 飾りを 揺らして 相手を 威嚇する。 メスの 飛行能力は オスを 上回る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Unfezant",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Fly",
+              "text": "Flip a coin. If tails, this attack does nothing. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn.",
+              "damage": "50"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Cutting Wind",
+              "text": "",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Tranquill"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-44",
+      "name": "チラーミィ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "スイープビンタ",
+          "text": "コインを2回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "printed_number": "044/053",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        572
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "しっぽで お互いの 体を なでて あいさつ。 しっぽの 手入れを 欠かさず いつも きれいにしている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Minccino",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tail Slap",
+              "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-45",
+      "name": "チラチーノ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "チラーミィ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "スイープビンタ",
+          "text": "コインを2回投げ、オモテの数×20ダメージ。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ともだちのわ",
+          "text": "自分のベンチポケモンの数×20ダメージ。",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "printed_number": "045/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        573
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "白い 体毛は 特別な 脂で コーティングされているので 敵の 攻撃を 受け流すのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-45/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-45/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 45,
+      "translation": {
+        "en": {
+          "name": "Cinccino",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tail Slap",
+              "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Do the Wave",
+              "text": "Does 20 damage times the number of your Benched Pokémon.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Minccino"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-46",
+      "name": "バッフロン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "リベンジ",
+          "text": "前の相手の番に、ワザのダメージで、自分のポケモンがきぜつしていたなら、70ダメージを追加。",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "アフロブレイク",
+          "text": "コインを1回投げウラなら、このポケモンにも20ダメージ。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "46",
+      "printed_number": "046/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        626
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "激しい 頭突きを 食らわせても ふさふさの 体毛が ダメージを 吸収して くれるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-46/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-46/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 46,
+      "translation": {
+        "en": {
+          "name": "Bouffalant",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Revenge",
+              "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 70 more damage.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Head Charge",
+              "text": "Flip a coin. If tails, this Pokémon does 20 damage to itself.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-47",
+      "name": "トルネロス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "エナジーウィール",
+          "text": "自分のベンチポケモンについているエネルギーを1個選び、このポケモンにつけ替える。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ぼうふう",
+          "text": "このポケモンについている基本エネルギーを1個選び、ベンチポケモンにつけ替える。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "printed_number": "047/053",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        641
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "雲のような エネルギー体に 下半身が 包まれている。 時速３００キロで 空を 飛ぶ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-47/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-47/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 47,
+      "translation": {
+        "en": {
+          "name": "Tornadus",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Energy Wheel",
+              "text": "Move an Energy from 1 of your Benched Pokémon to this Pokémon."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hurricane",
+              "text": "Move a basic Energy from this Pokémon to 1 of your Benched Pokémon.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-48",
+      "name": "エネルギー回収",
+      "supertype": "エネルギー",
+      "rules": [
+        "自分のトラッシュから基本エネルギーを2枚選び、相手に見せてから、手札に加える。"
+      ],
+      "number": "48",
+      "printed_number": "048/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kent Kanetsuna",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-48/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-48/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 48,
+      "translation": {
+        "en": {
+          "name": "Energy Retrieval",
+          "supertype": "Energy",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-49",
+      "name": "クラッシュハンマー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "コインを1回投げオモテなら、相手のポケモンについているエネルギーを1個選び、トラッシュする。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "49",
+      "printed_number": "049/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-49/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-49/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 49,
+      "translation": {
+        "en": {
+          "name": "Crushing Hammer",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-50",
+      "name": "ポケモン通信",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の手札からポケモンを1枚選び、相手に見せてから、山札にもどす。もどした場合、自分の山札からポケモンを1枚選び、相手に見せてから、手札に加える。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "50",
+      "printed_number": "050/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-50/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-50/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 50,
+      "translation": {
+        "en": {
+          "name": "Pokémon Communication",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-51",
+      "name": "まんたんのくすり",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分のポケモンを1匹選び、HPをすべて回復する。その後、そのポケモンについているエネルギーをすべてトラッシュする。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "51",
+      "printed_number": "051/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-51/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-51/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 51,
+      "translation": {
+        "en": {
+          "name": "Max Potion",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-52",
+      "name": "リサイクル",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "コインを1回投げオモテなら、自分のトラッシュから好きなカードを1枚選び、相手に見せてから、山札の上にもどす。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "52",
+      "printed_number": "052/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-52/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-52/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 52,
+      "translation": {
+        "en": {
+          "name": "Recycle",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-53",
+      "name": "アララギ博士",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の手札をすべてトラッシュし、山札を7枚引く。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "53",
+      "printed_number": "053/053",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-53/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-53/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 53,
+      "translation": {
+        "en": {
+          "name": "Professor Juniper",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-54",
+      "name": "Tornadus",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "110",
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "54",
+      "printed_number": "054/053",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-54/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-54/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 54,
+      "translation": {
+        "en": {
+          "name": "Tornadus",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-55",
+      "name": "Reshiram",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "130",
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "55",
+      "printed_number": "055/053",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-55/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-55/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 55,
+      "translation": {
+        "en": {
+          "name": "Reshiram",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw1b_ja-56",
+      "name": "Pikachu",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "56",
+      "printed_number": "056/053",
+      "rarity": "ウルトラレア",
+      "rarity_code": "UR",
+      "artist": "Kouki Saitou",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw1b_ja-56/small",
+          "medium": "https://images.scrydex.com/pokemon/bw1b_ja-56/medium",
+          "large": "https://images.scrydex.com/pokemon/bw1b_ja-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw1b_ja",
+        "name": "ブラックコレクション",
+        "series": "Black & White",
+        "code": "BW1",
+        "total": 56,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2010/12/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 56,
+      "translation": {
+        "en": {
+          "name": "Pikachu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Ultra Rare",
+          "expansion": {
+            "name": "Black Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 56
+}

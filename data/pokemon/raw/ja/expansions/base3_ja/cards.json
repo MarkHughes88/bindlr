@@ -1,0 +1,6469 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "base3_ja-1",
+      "name": "アーボ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spit Poison",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wrap",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "printed_number": "No.023",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        23
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Ekans",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Spit Poison",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Wrap",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-2",
+      "name": "ズバット",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leech Life",
+          "text": "Remove a number of damage counters from Zubat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Zubat has fewer damage counters than that, remove all of them.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "41",
+      "printed_number": "No.041",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        41
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Zubat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Supersonic",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Leech Life",
+              "text": "Remove a number of damage counters from Zubat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Zubat has fewer damage counters than that, remove all of them.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-3",
+      "name": "ベトベター",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Nasty Goo",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Minimize",
+          "text": "All damage done by attacks to Grimer during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "88",
+      "printed_number": "No.088",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        88
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Grimer",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Nasty Goo",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Minimize",
+              "text": "All damage done by attacks to Grimer during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-4",
+      "name": "アーボック",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Terror Strike",
+          "text": "Flip a coin. If heads and if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Poison Fang",
+          "text": "The Defending Pokémon is now Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "No.024",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        24
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Arbok",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Terror Strike",
+              "text": "Flip a coin. If heads and if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Poison Fang",
+              "text": "The Defending Pokémon is now Poisoned.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Ekans"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-5",
+      "name": "ゴルバット",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Wing Attack",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Leech Life",
+          "text": "Remove a number of damage counters from Golbat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Golbat has fewer damage counters than that, remove all of them.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "42",
+      "printed_number": "No.042",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        42
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Golbat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Wing Attack",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Leech Life",
+              "text": "Remove a number of damage counters from Golbat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance). If Golbat has fewer damage counters than that, remove all of them.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Zubat"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-6",
+      "name": "マタドガス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Smog",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Selfdestruct",
+          "text": "Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Weezing does 60 damage to itself.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "110",
+      "printed_number": "No.110",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        110
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Weezing",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Smog",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Selfdestruct",
+              "text": "Does 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Weezing does 60 damage to itself.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Koffing"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-7",
+      "name": "ベトベトン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Toxic Gas",
+          "text": "Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sludge",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "89",
+      "printed_number": "No.089",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        89
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Muk",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Toxic Gas",
+              "text": "Ignore all Pokémon Powers other than Toxic Gases. This power stops working while Muk is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Sludge",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Grimer"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-8",
+      "name": "ブーバー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Smokescreen",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Smog",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "126",
+      "printed_number": "No.126",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        126
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Magmar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Smokescreen",
+              "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Smog",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-9",
+      "name": "ファイヤー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Wildfire",
+          "text": "You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck."
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Dive Bomb",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "80"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "146",
+      "printed_number": "No.146",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        146
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Moltres",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Wildfire",
+              "text": "You may discard any number of Fire Energy cards attached to Moltres when you use this attack. If you do, discard that many cards from the top of your opponent's deck."
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Dive Bomb",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "80"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-10",
+      "name": "コダック",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headache",
+          "text": "Your opponent can't play Trainer cards during his or her next turn."
+        },
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "54",
+      "printed_number": "No.054",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Psyduck",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Headache",
+              "text": "Your opponent can't play Trainer cards during his or her next turn."
+            },
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Fury Swipes",
+              "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-11",
+      "name": "メノクラゲ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "30",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Cowardice",
+          "text": "At any time during your turn (before your attack), you may return Tentacool to your hand. (Discard all cards attached to Tentacool.) This power can't be used the turn you put Tentacool into play or if Tentacool is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Acid",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "number": "72",
+      "printed_number": "No.072",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        72
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Tentacool",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Cowardice",
+              "text": "At any time during your turn (before your attack), you may return Tentacool to your hand. (Discard all cards attached to Tentacool.) This power can't be used the turn you put Tentacool into play or if Tentacool is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Acid",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-12",
+      "name": "シェルダー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hide in Shell",
+          "text": "Flip a coin. If heads, prevent all damage done to Shellder during your opponent's next turn. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "90",
+      "printed_number": "No.090",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        90
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Shellder",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Supersonic",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+            },
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hide in Shell",
+              "text": "Flip a coin. If heads, prevent all damage done to Shellder during your opponent's next turn. (Any other effects of attacks still happen.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-13",
+      "name": "クラブ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Call for Family",
+          "text": "Search your deck for a Basic Pokémon named Krabby and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        },
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Irongrip",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "98",
+      "printed_number": "No.098",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        98
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Krabby",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Call for Family",
+              "text": "Search your deck for a Basic Pokémon named Krabby and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Irongrip",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-14",
+      "name": "タッツー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Smokescreen",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "number": "116",
+      "printed_number": "No.116",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        116
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Horsea",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Smokescreen",
+              "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-15",
+      "name": "オムナイト",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Clairvoyance",
+          "text": "Your opponent plays with his or her hand face up. This power stops working while Omanyte is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Gun",
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Omanyte but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "138",
+      "printed_number": "No.138",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        138
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Omanyte",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Clairvoyance",
+              "text": "Your opponent plays with his or her hand face up. This power stops working while Omanyte is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Water Gun",
+              "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Omanyte but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Mysterious Fossil"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-16",
+      "name": "ゴルダック",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psyshock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hyper Beam",
+          "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "55",
+      "printed_number": "No.055",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        55
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Golduck",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Psyshock",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hyper Beam",
+              "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Psyduck"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-17",
+      "name": "ドククラゲ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Jellyfish Sting",
+          "text": "The Defending Pokémon is now Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "number": "73",
+      "printed_number": "No.073",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        73
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Tentacruel",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Supersonic",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+            },
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Jellyfish Sting",
+              "text": "The Defending Pokémon is now Poisoned.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "evolves_from": [
+            "Tentacool"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-18",
+      "name": "パルシェン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Clamp",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage).",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spike Cannon",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "91",
+      "printed_number": "No.091",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        91
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Cloyster",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Clamp",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage).",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Spike Cannon",
+              "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Shellder"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-19",
+      "name": "キングラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flail",
+          "text": "Does 10 damage times the number of damage counters on Kingler.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Crabhammer",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "99",
+      "printed_number": "No.099",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        99
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Kingler",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Flail",
+              "text": "Does 10 damage times the number of damage counters on Kingler.",
+              "damage": "10×"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Crabhammer",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Krabby"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-20",
+      "name": "シードラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Gun",
+          "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Seadra but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Agility",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Seadra.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "117",
+      "printed_number": "No.117",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        117
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Seadra",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Water Gun",
+              "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Seadra but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Agility",
+              "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Seadra.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Horsea"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-21",
+      "name": "オムスター",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Gun",
+          "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spike Cannon",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "139",
+      "printed_number": "No.139",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        139
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Omastar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Water Gun",
+              "text": "Does 20 damage plus 10 more damage for each Water Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Spike Cannon",
+              "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Omanyte"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-22",
+      "name": "ラプラス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Gun",
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Confuse Ray",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "131",
+      "printed_number": "No.131",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        131
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Lapras",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Water Gun",
+              "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Lapras but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+              "damage": "10+"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Confuse Ray",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-23",
+      "name": "フリーザー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Freeze Dry",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Blizzard",
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "50"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "144",
+      "printed_number": "No.144",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        144
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Articuno",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Freeze Dry",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Blizzard",
+              "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "50"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-24",
+      "name": "ライチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Gigashock",
+          "text": "Choose 3 of your opponent's Benched Pokémon and this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) If your opponent has fewer than 3 Benched Pokémon, do the damage to each of them.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "No.026",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        26
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Raichu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Gigashock",
+              "text": "Choose 3 of your opponent's Benched Pokémon and this attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) If your opponent has fewer than 3 Benched Pokémon, do the damage to each of them.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pikachu"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-25",
+      "name": "レアコイル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sonicboom",
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Selfdestruct",
+          "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "82",
+      "printed_number": "No.082",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        82
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Magneton",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Sonicboom",
+              "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Selfdestruct",
+              "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 100 damage to itself.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Magnemite"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-26",
+      "name": "サンダー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Thunderstorm",
+          "text": "For each of your opponent's Benched Pokémon, flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, Zapdos does 10 damage times the number of tails to itself.",
+          "damage": "40"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "145",
+      "printed_number": "No.145",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        145
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Zapdos",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Thunderstorm",
+              "text": "For each of your opponent's Benched Pokémon, flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Then, Zapdos does 10 damage times the number of tails to itself.",
+              "damage": "40"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-27",
+      "name": "ヤドン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spacing Out",
+          "text": "Flip a coin. If heads, remove a damage counter from Slowpoke. This attack can't be used if Slowpoke has no damage counters on it."
+        },
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Scavenge",
+          "text": "Discard 1 Psychic Energy card attached to Slowpoke in order to use this attack. Put a Trainer card from your discard pile into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "79",
+      "printed_number": "No.079",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        79
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Slowpoke",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Spacing Out",
+              "text": "Flip a coin. If heads, remove a damage counter from Slowpoke. This attack can't be used if Slowpoke has no damage counters on it."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Scavenge",
+              "text": "Discard 1 Psychic Energy card attached to Slowpoke in order to use this attack. Put a Trainer card from your discard pile into your hand."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-28",
+      "name": "ヤドラン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Strange Behavior",
+          "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to Slowbro as long as you don't Knock Out Slowbro. This power can't be used if Slowbro is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psyshock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "80",
+      "printed_number": "No.080",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        80
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Slowbro",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Strange Behavior",
+              "text": "As often as you like during your turn (before your attack), you may move 1 damage counter from 1 of your Pokémon to Slowbro as long as you don't Knock Out Slowbro. This power can't be used if Slowbro is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Psyshock",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Slowbro"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-29",
+      "name": "ゴース",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lick",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Energy Conversion",
+          "text": "Put up to 2 Energy cards from your discard pile into your hand. Gastly does 10 damage to itself."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "92",
+      "printed_number": "No.092",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        92
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Gastly",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Lick",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Energy Conversion",
+              "text": "Put up to 2 Energy cards from your discard pile into your hand. Gastly does 10 damage to itself."
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-30",
+      "name": "ゴースト",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Transparency",
+          "text": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Nightmare",
+          "text": "The Defending Pokémon is now Asleep.",
+          "damage": "10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "93",
+      "printed_number": "No.093",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        93
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Haunter",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Transparency",
+              "text": "Whenever an attack does anything to Haunter, flip a coin. If heads, prevent all effects of that attack, including damage, done to Haunter. This power stops working while Haunter is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Nightmare",
+              "text": "The Defending Pokémon is now Asleep.",
+              "damage": "10"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Gastly"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-31",
+      "name": "ゲンガー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Curse",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dark Mind",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "94",
+      "printed_number": "No.094",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        94
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Gengar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Curse",
+              "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Dark Mind",
+              "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "30"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Haunter"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-32",
+      "name": "スリーパー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Prophecy",
+          "text": "Look at up to 3 cards from the top of either player's deck and rearrange them as you like."
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dark Mind",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "97",
+      "printed_number": "No.097",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        97
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Hypno",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Prophecy",
+              "text": "Look at up to 3 cards from the top of either player's deck and rearrange them as you like."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Dark Mind",
+              "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Drowzee"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-33",
+      "name": "ミュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psywave",
+          "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Devolution Beam",
+          "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "151",
+      "printed_number": "No.151",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Mew",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Psywave",
+              "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon.",
+              "damage": "10×"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Devolution Beam",
+              "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-34",
+      "name": "イシツブテ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Stone Barrage",
+          "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "74",
+      "printed_number": "No.074",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        74
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Geodude",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Stone Barrage",
+              "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-35",
+      "name": "カブト",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "30",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Kabuto Armor",
+          "text": "Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack only does half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "140",
+      "printed_number": "No.140",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        140
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Kabuto",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Kabuto Armor",
+              "text": "Whenever an attack (even your own) does damage to Kabuto (after applying Weakness and Resistance), that attack only does half the damage to Kabuto (rounded down to the nearest 10). (Any other effects of attacks still happen.) This power stops working while Kabuto is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scratch",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Mysterious Fossil"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-36",
+      "name": "サンドパン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Slash",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "printed_number": "No.028",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        28
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Sandslash",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Slash",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Fury Swipes",
+              "text": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Sandshrew"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-37",
+      "name": "ゴローン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Harden",
+          "text": "During your opponent's next turn, whenever 30 or less damage is done to Graveler (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rock Throw",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "75",
+      "printed_number": "No.075",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        75
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Graveler",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Harden",
+              "text": "During your opponent's next turn, whenever 30 or less damage is done to Graveler (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Rock Throw",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Geodude"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-38",
+      "name": "ゴローニャ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Avalanche",
+          "text": "",
+          "damage": "60"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Selfdestruct",
+          "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Golem does 100 damage to itself.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "76",
+      "printed_number": "No.076",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        76
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Golem",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Avalanche",
+              "text": "",
+              "damage": "60"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Selfdestruct",
+              "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Golem does 100 damage to itself.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Graveler"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-39",
+      "name": "サワムラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Stretch Kick",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 3,
+          "name": "High Jump Kick",
+          "text": "",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "106",
+      "printed_number": "No.106",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        106
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Hitmonlee",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Stretch Kick",
+              "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 3,
+              "name": "High Jump Kick",
+              "text": "",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-40",
+      "name": "カブトプス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sharp Sickle",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Absorb",
+          "text": "Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "140",
+      "printed_number": "No.140",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        140
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Kabutops",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Sharp Sickle",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Absorb",
+              "text": "Remove a number of damage counters from Kabutops equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Kabutops has fewer damage counters than that, remove all of them.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Kabuto"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-41",
+      "name": "プテラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Prehistoric Power",
+          "text": "No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Wing Attack",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "142",
+      "printed_number": "No.142",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        142
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Aerodactyl",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Prehistoric Power",
+              "text": "No more Evolution cards can be played. This power stops working while Aerodactyl is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Wing Attack",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Mysterious Fossil"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-42",
+      "name": "メタモン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Transform",
+          "text": "If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "132",
+      "printed_number": "No.132",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        132
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Ditto",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Transform",
+              "text": "If Ditto is your Active Pokémon, treat it as if it were the same card as the Defending Pokémon, including type, Hit Points, Weakness, and so on, except Ditto can't evolve, always has this Pokémon Power, and you may treat any Energy attached to Ditto as Energy of any type. Ditto isn't a copy of any other Pokémon while Ditto is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-43",
+      "name": "カイリュー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Step In",
+          "text": "Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Slam",
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads.",
+          "damage": "40×"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "149",
+      "printed_number": "No.149",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Dragonite",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Step In",
+              "text": "Once during your turn (before your attack), if Dragonite is on your Bench, you may switch it with your Active Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Slam",
+              "text": "Flip 2 coins. This attack does 40 damage times the number of heads.",
+              "damage": "40×"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Dragonair"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-44",
+      "name": "エネルギー転送",
+      "supertype": "トレーナー",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Energy Search",
+          "supertype": "Trainer",
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-45",
+      "name": "ギャンブラー",
+      "supertype": "トレーナー",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-45/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-45/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 45,
+      "translation": {
+        "en": {
+          "name": "Gambler",
+          "supertype": "Trainer",
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-46",
+      "name": "なにかの化石",
+      "supertype": "トレーナー",
+      "hp": "10",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-46/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-46/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 46,
+      "translation": {
+        "en": {
+          "name": "Mysterious Fossil",
+          "supertype": "Trainer",
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-47",
+      "name": "リサイクル",
+      "supertype": "トレーナー",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-47/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-47/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 47,
+      "translation": {
+        "en": {
+          "name": "Recycle",
+          "supertype": "Trainer",
+          "rarity": "Common",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base3_ja-48",
+      "name": "フジろうじん",
+      "supertype": "トレーナー",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base3_ja-48/small",
+          "medium": "https://images.scrydex.com/pokemon/base3_ja-48/medium",
+          "large": "https://images.scrydex.com/pokemon/base3_ja-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "base3_ja",
+        "name": "化石の秘密",
+        "series": "Original",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "1997/06/21",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 48,
+      "translation": {
+        "en": {
+          "name": "Mr. Fuji",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Mystery of the Fossils"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 48
+}

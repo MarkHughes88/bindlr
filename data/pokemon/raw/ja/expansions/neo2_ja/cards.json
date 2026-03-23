@@ -1,0 +1,7553 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "neo2_ja-1",
+      "name": "キャタピー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spin Tackle",
+          "text": "Caterpie does 10 damage to itself.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "No.010",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        10
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Caterpie",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Spin Tackle",
+              "text": "Caterpie does 10 damage to itself.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-2",
+      "name": "ビードル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spike Stab",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, this attack does nothing (not even damage).",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "No.013",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        13
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Weedle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Spike Stab",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, this attack does nothing (not even damage).",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-3",
+      "name": "イトマル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Poison Sting",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "167",
+      "printed_number": "No.167",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        167
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Spinarak",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Poison Sting",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-4",
+      "name": "ハネッコ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rolling Tackle",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "187",
+      "printed_number": "No.187",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        187
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Hoppip",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Rolling Tackle",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-5",
+      "name": "クヌギダマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Burst",
+          "text": "Flip a coin. If heads, Pineco does 40 damage to itself and 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Flip a coin. If tails, this attack does nothing (not even damage).",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "204",
+      "printed_number": "No.204",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        204
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Pineco",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Burst",
+              "text": "Flip a coin. If heads, Pineco does 40 damage to itself and 10 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Flip a coin. If tails, this attack does nothing (not even damage).",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-6",
+      "name": "トランセル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Harden",
+          "text": "During your opponent's next turn, whenever 20 or less damage is done to Metapod (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+        },
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hatch",
+          "text": "Flip a coin. If heads, remove all damage counters from Metapod. Then, search your deck for a card that evolves from Metapod and attach that card to Metapod. This counts as evolving Metapod. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "No.011",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        11
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Metapod",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Harden",
+              "text": "During your opponent's next turn, whenever 20 or less damage is done to Metapod (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.)"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Hatch",
+              "text": "Flip a coin. If heads, remove all damage counters from Metapod. Then, search your deck for a card that evolves from Metapod and attach that card to Metapod. This counts as evolving Metapod. Shuffle your deck afterward."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Caterpie"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-7",
+      "name": "コクーン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Secrete Poison",
+          "text": "During your opponent's next turn, whenever your opponent's attack damages Kakuna (even if Kakuna is Knocked Out), your opponent's Active Pokémon is now Poisoned and Kakuna does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "No.014",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        14
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Kakuna",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Secrete Poison",
+              "text": "During your opponent's next turn, whenever your opponent's attack damages Kakuna (even if Kakuna is Knocked Out), your opponent's Active Pokémon is now Poisoned and Kakuna does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Weedle"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-8",
+      "name": "ストライク",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fury Cutter",
+          "text": "Flip 4 coins. This attack does 10 damage plus 10 more damage if exactly 1 is heads, or 20 more damage if exactly 2 are heads, or 40 more damage if exactly 3 are heads, or 80 more damage if all 4 are heads.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "123",
+      "printed_number": "No.123",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kimiya Masago",
+      "national_pokedex_numbers": [
+        123
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Scyther",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Fury Cutter",
+              "text": "Flip 4 coins. This attack does 10 damage plus 10 more damage if exactly 1 is heads, or 20 more damage if exactly 2 are heads, or 40 more damage if exactly 3 are heads, or 80 more damage if all 4 are heads.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-9",
+      "name": "バタフリー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Magic Dust",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now either Asleep, Confused, Paralyzed, or Poisoned (your choice).",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hyper Reverse",
+          "text": "Does 10 damage times the number of Energy attached to the Defending Pokémon. After doing damage, remove a number of damage counters from Butterfree equal to the amount of damage done to the Defending Pokémon (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "12",
+      "printed_number": "No.012",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        12
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Butterfree",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Magic Dust",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now either Asleep, Confused, Paralyzed, or Poisoned (your choice).",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hyper Reverse",
+              "text": "Does 10 damage times the number of Energy attached to the Defending Pokémon. After doing damage, remove a number of damage counters from Butterfree equal to the amount of damage done to the Defending Pokémon (after applying Weakness and Resistance)."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Metapod"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-10",
+      "name": "スピアー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Triple Poison",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. Your opponent now puts 3 damage counters on it instead of 1 after each player's turn (even if it was already Poisoned).",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pin Missile",
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "15",
+      "printed_number": "No.015",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        15
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Beedrill",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Triple Poison",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. Your opponent now puts 3 damage counters on it instead of 1 after each player's turn (even if it was already Poisoned).",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Pin Missile",
+              "text": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Kakuna"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-11",
+      "name": "ヤンヤンマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Shockwave",
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. Don't apply Weakness and Resistance. Then, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon."
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Swift",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "193",
+      "printed_number": "No.193",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        193
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Yanma",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Shockwave",
+              "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. Don't apply Weakness and Resistance. Then, if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Swift",
+              "text": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-12",
+      "name": "デルビル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Smog",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Collect Fire",
+          "text": "If there are any Fire Energy cards in your discard pile, choose 1 of them and attach it to Houndour.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "228",
+      "printed_number": "No.228",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        228
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Houndour",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Smog",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Collect Fire",
+              "text": "If there are any Fire Energy cards in your discard pile, choose 1 of them and attach it to Houndour.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-13",
+      "name": "ニョロモ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rollout",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hypnosis",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "60",
+      "printed_number": "No.060",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        60
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Poliwag",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Rollout",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hypnosis",
+              "text": "The Defending Pokémon is now Asleep."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-14",
+      "name": "カブト",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Revive Friends",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card named Kabuto and put it on your Bench. Shuffle your deck afterward. Treat the new Kabuto as a Basic Pokémon. This power can't be used if Kabuto is Asleep, Confused, or Paralyzed (or if your Bench is full)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Work Together",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage for each Omanyte, Omastar, Kabuto, and Kabutops on your Bench.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "140",
+      "printed_number": "No.140",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        140
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Kabuto",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Revive Friends",
+              "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card named Kabuto and put it on your Bench. Shuffle your deck afterward. Treat the new Kabuto as a Basic Pokémon. This power can't be used if Kabuto is Asleep, Confused, or Paralyzed (or if your Bench is full)."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Work Together",
+              "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage for each Omanyte, Omastar, Kabuto, and Kabutops on your Bench.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Mysterious Fossil"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-15",
+      "name": "ウパー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Slime",
+          "text": "If an attack would do damage to Wooper during your opponent's next turn, your opponent flips a coin. If tails, prevent all damage to Wooper from that attack. (Any other effects of that attack happen.)"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tail Slap",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "194",
+      "printed_number": "No.194",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        194
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Wooper",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Slime",
+              "text": "If an attack would do damage to Wooper during your opponent's next turn, your opponent flips a coin. If tails, prevent all damage to Wooper from that attack. (Any other effects of that attack happen.)"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tail Slap",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-16",
+      "name": "ニョロゾ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Belly Drum",
+          "text": "Put 3 damage counters on Poliwhirl. If this doesn't Knock Out Poliwhirl, search your deck for up to 2 Basic Energy cards and attach them to Poliwhirl. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Water Gun",
+          "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Poliwhirl but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "61",
+      "printed_number": "No.061",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        61
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Poliwhirl",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Belly Drum",
+              "text": "Put 3 damage counters on Poliwhirl. If this doesn't Knock Out Poliwhirl, search your deck for up to 2 Basic Energy cards and attach them to Poliwhirl. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Water Gun",
+              "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Poliwhirl but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Poliwag"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-17",
+      "name": "サニーゴ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Recover",
+          "text": "Discard 1 Water Energy card attached to Corsola or this attack does nothing. Remove all damage counters from Corsola."
+        },
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spike Cannon",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "222",
+      "printed_number": "No.222",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        222
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Corsola",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Recover",
+              "text": "Discard 1 Water Energy card attached to Corsola or this attack does nothing. Remove all damage counters from Corsola."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Spike Cannon",
+              "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-18",
+      "name": "カブトプス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Slash",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hydrocutter",
+          "text": "Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way.",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "140",
+      "printed_number": "No.140",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Kimiya Masago",
+      "national_pokedex_numbers": [
+        141
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Kabutops",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Slash",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hydrocutter",
+              "text": "Flip a number of coins equal to the number of Energy cards attached to Kabutops. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way.",
+              "damage": "40×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Kabuto"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-19",
+      "name": "ニョロトノ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Frog Song",
+          "text": "Whenever Politoed's attack damages the Defending Pokémon (after applying Weakness and Resistance), if there are more than 3 Poliwags, Poliwhirls, Poliwraths, and/or Politoeds in play (including your opponent's), that attack does 40 more damage (no matter how many heads you get). This power stops working while Politoed is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Doubleslap",
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads.",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "186",
+      "printed_number": "No.186",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        186
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Politoed",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Frog Song",
+              "text": "Whenever Politoed's attack damages the Defending Pokémon (after applying Weakness and Resistance), if there are more than 3 Poliwags, Poliwhirls, Poliwraths, and/or Politoeds in play (including your opponent's), that attack does 40 more damage (no matter how many heads you get). This power stops working while Politoed is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Doubleslap",
+              "text": "Flip 2 coins. This attack does 40 damage times the number of heads.",
+              "damage": "40×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Poliwhirl"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-20",
+      "name": "メリープ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunder Jolt",
+          "text": "Flip a coin. If tails, Mareep does 10 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "179",
+      "printed_number": "No.179",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        179
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Mareep",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Thunder Jolt",
+              "text": "Flip a coin. If tails, Mareep does 10 damage to itself.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-21",
+      "name": "わるいライチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Surprise Thunder",
+          "text": "Flip a coin. If heads, flip another coin. If the second coin is heads, this attack does 20 damage to each of your opponent's Benched Pokémon. If the second coin is tails, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "No.026",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        26
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Dark Raichu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Surprise Thunder",
+              "text": "Flip a coin. If heads, flip another coin. If the second coin is heads, this attack does 20 damage to each of your opponent's Benched Pokémon. If the second coin is tails, this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pikachu"
+          ],
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-22",
+      "name": "ネイティ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Confuse Ray",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "177",
+      "printed_number": "No.177",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        177
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Natu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Confuse Ray",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-23",
+      "name": "アンノーンI",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Increase]",
+          "text": "When you play Unown [I] from your hand, you may search your deck for a card with Unown in its name and put it onto your Bench. Shuffle your deck afterward. You can't use this power if your Bench is full."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Unown [I]",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Increase]",
+              "text": "When you play Unown [I] from your hand, you may search your deck for a card with Unown in its name and put it onto your Bench. Shuffle your deck afterward. You can't use this power if your Bench is full."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-24",
+      "name": "ネイティオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energy Cycle",
+          "text": "Flip a coin. If heads, choose 1 Energy card attached to the Defending Pokémon and 1 of your opponent's Benched Pokémon. Attach that Energy card to that Pokémon."
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Super Psy",
+          "text": "",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "178",
+      "printed_number": "No.178",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        178
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Xatu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Energy Cycle",
+              "text": "Flip a coin. If heads, choose 1 Energy card attached to the Defending Pokémon and 1 of your opponent's Benched Pokémon. Attach that Energy card to that Pokémon."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Super Psy",
+              "text": "",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Natu"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-25",
+      "name": "アンノーンF",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Find]",
+          "text": "Once during your turn (before you attack), if you have Unown [F], Unown [I], Unown [N], and Unown [D] on your Bench, you may search your deck for a Trainer card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Unown [F]",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Find]",
+              "text": "Once during your turn (before you attack), if you have Unown [F], Unown [I], Unown [N], and Unown [D] on your Bench, you may search your deck for a Trainer card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-26",
+      "name": "アンノーンD",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Darkness]",
+          "text": "Whenever a Darkness Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [D] in play. (This power even works if Unown [D] is Asleep, Confused, or Paralyzed.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Unown [D]",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Darkness]",
+              "text": "Whenever a Darkness Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [D] in play. (This power even works if Unown [D] is Asleep, Confused, or Paralyzed.)"
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-27",
+      "name": "アンノーンM",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Metal]",
+          "text": "Whenever a Metal Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [M] in play. (This power works even if Unown [M] is Asleep, Confused, or Paralyzed.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Unown [M]",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Metal]",
+              "text": "Whenever a Metal Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown [M] in play. (This power works even if Unown [M] is Asleep, Confused, or Paralyzed.)"
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-28",
+      "name": "アンノーンU",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Undo]",
+          "text": "Once during your turn (before you attack), if you have Unown [U], Unown [N], Unown [D], and Unown [O] on your Bench, you may return your Active Pokémon and all cards attached to it to your hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Unown [U]",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Undo]",
+              "text": "Once during your turn (before you attack), if you have Unown [U], Unown [N], Unown [D], and Unown [O] on your Bench, you may return your Active Pokémon and all cards attached to it to your hand."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-29",
+      "name": "エーフィ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psychic",
+          "text": "Does 30 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "number": "196",
+      "printed_number": "No.196",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        196
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Espeon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Bite",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Psychic",
+              "text": "Does 30 damage plus 10 more damage for each Energy card attached to the Defending Pokémon.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "evolves_from": [
+            "Eevee"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-30",
+      "name": "アンノーンA",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Anger]",
+          "text": "Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack, that attack does 10 more damage for each damage counter on Unown [A]. If you have more than 1 Unown [A] in play, use only 1 [Anger] for each attack."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Unown [A]",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Anger]",
+              "text": "Whenever 1 of your Pokémon with Unown in its name uses its Hidden Power attack, that attack does 10 more damage for each damage counter on Unown [A]. If you have more than 1 Unown [A] in play, use only 1 [Anger] for each attack."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-31",
+      "name": "ソーナンス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Counter",
+          "text": "If an attack damages Wobbuffet during your opponent's next turn (even if Wobbuffet is Knocked Out), flip a coin. If heads, Wobbuffet attacks the Defending Pokémon for an equal amount of damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "202",
+      "printed_number": "No.202",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Hironobu Yoshida",
+      "national_pokedex_numbers": [
+        202
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Wobbuffet",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Counter",
+              "text": "If an attack damages Wobbuffet during your opponent's next turn (even if Wobbuffet is Knocked Out), flip a coin. If heads, Wobbuffet attacks the Defending Pokémon for an equal amount of damage."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-32",
+      "name": "オムナイト",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Fossil",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card that evolves from Mysterious Fossil and put it on your Bench. Shuffle your deck afterward. Treat that card as a Basic Pokémon. This power can't be used if Omanyte is Asleep, Confused, or Paralyzed (or if your Bench is full)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bind",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "138",
+      "printed_number": "No.138",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        138
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Omanyte",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Fossil",
+              "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a card that evolves from Mysterious Fossil and put it on your Bench. Shuffle your deck afterward. Treat that card as a Basic Pokémon. This power can't be used if Omanyte is Asleep, Confused, or Paralyzed (or if your Bench is full)."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bind",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Mysterious Fossil"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-33",
+      "name": "バルキー",
+      "supertype": "ポケモン",
+      "types": [
+        "闘"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Smash Punch",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "number": "236",
+      "printed_number": "No.236",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        236
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Tyrogue",
+          "supertype": "Pokémon",
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Smash Punch",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "30"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-34",
+      "name": "ヨーギラス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "246",
+      "printed_number": "No.246",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Hironobu Yoshida",
+      "national_pokedex_numbers": [
+        246
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Larvitar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bite",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-35",
+      "name": "オムスター",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Squeeze",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage and the Defending Pokémon is now Paralyzed. If tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Spike Barrage",
+          "text": "Flip a number of coins equal to the number of Water Energy attached to Omastar. This attack does 20 damage plus 20 more damage for each heads.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "139",
+      "printed_number": "No.139",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        139
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Omastar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Squeeze",
+              "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage and the Defending Pokémon is now Paralyzed. If tails, this attack does 10 damage.",
+              "damage": "10+"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Spike Barrage",
+              "text": "Flip a number of coins equal to the number of Water Energy attached to Omastar. This attack does 20 damage plus 20 more damage for each heads.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Omanyte"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-36",
+      "name": "サナギラス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Skull Bash",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Dust Devil",
+          "text": "Does 10 damage to each non-Fighting Pokémon in play. Don't apply Weakness and Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "247",
+      "printed_number": "No.247",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Hironobu Yoshida",
+      "national_pokedex_numbers": [
+        247
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Pupitar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Skull Bash",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Dust Devil",
+              "text": "Does 10 damage to each non-Fighting Pokémon in play. Don't apply Weakness and Resistance."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Larvitar"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-37",
+      "name": "ニョロボン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Corkscrew Punch",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Submission",
+          "text": "Poliwrath does 20 damage to itself.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "62",
+      "printed_number": "No.062",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        62
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Poliwrath",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Corkscrew Punch",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Submission",
+              "text": "Poliwrath does 20 damage to itself.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Poliwhirl"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-38",
+      "name": "カポエラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Detect",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Hitmontop."
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Triple Kick",
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "237",
+      "printed_number": "No.237",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        237
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Hitmontop",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Detect",
+              "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Hitmontop."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Triple Kick",
+              "text": "Flip 3 coins. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-39",
+      "name": "デルビル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Plunder",
+          "text": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon (before they affect the damage).",
+          "damage": "20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "228",
+      "printed_number": "No.228",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        228
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Houndour",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bite",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Plunder",
+              "text": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon (before they affect the damage).",
+              "damage": "20"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-40",
+      "name": "ブラッキー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "悪",
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Feint Attack",
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "197",
+      "printed_number": "No.197",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Kimiya Masago",
+      "national_pokedex_numbers": [
+        197
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Umbreon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Bite",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Feint Attack",
+              "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Eevee"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-41",
+      "name": "ヘルガー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Crunch",
+          "text": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Flamethrower",
+          "text": "Discard 1 Fire Energy card attached to Houndoom or this attack does nothing.",
+          "damage": "50"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "229",
+      "printed_number": "No.229",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        229
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Houndoom",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Crunch",
+              "text": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon.",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Flamethrower",
+              "text": "Discard 1 Fire Energy card attached to Houndoom or this attack does nothing.",
+              "damage": "50"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Houndour"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-42",
+      "name": "バンギラス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slam",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "悪",
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Trample",
+          "text": "For each Benched Pokémon in play (yours and your opponent's), flip a coin. If heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "50"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "248",
+      "printed_number": "No.248",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Hironobu Yoshida",
+      "national_pokedex_numbers": [
+        248
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Tyranitar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Slam",
+              "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Trample",
+              "text": "For each Benched Pokémon in play (yours and your opponent's), flip a coin. If heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "50"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pupitar"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-43",
+      "name": "コイル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lock-on",
+          "text": "During your next turn, treat any tails flipped when using Magnemite's Electric Bolt attack on the Defending Pokémon as if they were heads. (Benching or evolving either Pokémon ends this effect.)"
+        },
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Electric Bolt",
+          "text": "Flip 2 coins. If both are heads, the Defending Pokémon is now Paralyzed. If either of them is tails, this attack does nothing (not even damage).",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "草",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "81",
+      "printed_number": "No.081",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "K. Hoshiba",
+      "national_pokedex_numbers": [
+        81
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Magnemite",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Lock-on",
+              "text": "During your next turn, treat any tails flipped when using Magnemite's Electric Bolt attack on the Defending Pokémon as if they were heads. (Benching or evolving either Pokémon ends this effect.)"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Electric Bolt",
+              "text": "Flip 2 coins. If both are heads, the Defending Pokémon is now Paralyzed. If either of them is tails, this attack does nothing (not even damage).",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Grass",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-44",
+      "name": "フォレトス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Spikes",
+          "text": "During your opponent's turn, whenever 1 of your opponent's Benched Pokémon becomes his or her Active Pokémon, Forretress does 10 damage to it. (Don't apply Weakness and Resistance.) This power stops working if Forretress is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "鋼",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rapid Spin",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "草",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "205",
+      "printed_number": "No.205",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        205
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Forretress",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Spikes",
+              "text": "During your opponent's turn, whenever 1 of your opponent's Benched Pokémon becomes his or her Active Pokémon, Forretress does 10 damage to it. (Don't apply Weakness and Resistance.) This power stops working if Forretress is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Rapid Spin",
+              "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Grass",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pineco"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-45",
+      "name": "ハッサム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "鋼"
+          ],
+          "converted_energy_cost": 1,
+          "name": "False Swipe",
+          "text": "Does damage equal to half the Defending Pokémon's remaining HP (rounded down to the nearest 10).",
+          "damage": "?"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Double Claw",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "草",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "212",
+      "printed_number": "No.212",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Kimiya Masago",
+      "national_pokedex_numbers": [
+        212
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-45/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-45/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 45,
+      "translation": {
+        "en": {
+          "name": "Scizor",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal"
+              ],
+              "converted_energy_cost": 1,
+              "name": "False Swipe",
+              "text": "Does damage equal to half the Defending Pokémon's remaining HP (rounded down to the nearest 10).",
+              "damage": "?"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Double Claw",
+              "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Grass",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Scyther"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-46",
+      "name": "オタチ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scout",
+          "text": "Look at your opponent's hand."
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tackle",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "161",
+      "printed_number": "No.161",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        161
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-46/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-46/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 46,
+      "translation": {
+        "en": {
+          "name": "Sentret",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scout",
+              "text": "Look at your opponent's hand."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tackle",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-47",
+      "name": "ノコッチ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Glare",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "number": "206",
+      "printed_number": "No.206",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        206
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-47/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-47/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 47,
+      "translation": {
+        "en": {
+          "name": "Dunsparce",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Glare",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-48",
+      "name": "ヒメグマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Nap Time",
+          "text": "Remove all damage counters from Teddiursa. Teddiursa is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "216",
+      "printed_number": "No.216",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        216
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-48/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-48/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 48,
+      "translation": {
+        "en": {
+          "name": "Teddiursa",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scratch",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Nap Time",
+              "text": "Remove all damage counters from Teddiursa. Teddiursa is now Asleep."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-49",
+      "name": "イーブイ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Energy Evolution",
+          "text": "Whenever you attach an Energy card to Eevee, flip a coin. If heads, search your deck for a card that evolves from Eevee that is the same type as the Energy card you attached to Eevee. Attach that card to Eevee. This counts as evolving Eevee. Shuffle your deck afterward. This power can't be used if Eevee is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Smash Kick",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "133",
+      "printed_number": "No.133",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-49/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-49/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 49,
+      "translation": {
+        "en": {
+          "name": "Eevee",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Energy Evolution",
+              "text": "Whenever you attach an Energy card to Eevee, flip a coin. If heads, search your deck for a card that evolves from Eevee that is the same type as the Energy card you attached to Eevee. Attach that card to Eevee. This counts as evolving Eevee. Shuffle your deck afterward. This power can't be used if Eevee is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Smash Kick",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-50",
+      "name": "ププリン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "ベビー"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "30",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Gaze",
+          "text": "Once during your turn (before you attack), choose 1 of your opponent's Benched Pokémon that has a Pokémon Power. That power stops working until the end of this turn. This effect ends if that Pokémon leaves the Bench."
+        }
+      ],
+      "number": "174",
+      "printed_number": "No.174",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        174
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-50/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-50/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 50,
+      "translation": {
+        "en": {
+          "name": "Igglybuff",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Baby"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Gaze",
+              "text": "Once during your turn (before you attack), choose 1 of your opponent's Benched Pokémon that has a Pokémon Power. That power stops working until the end of this turn. This effect ends if that Pokémon leaves the Bench."
+            }
+          ],
+          "evolves_from": [
+            "Jigglypuff"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-51",
+      "name": "リングマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Headpress",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage).",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Double Lariat",
+          "text": "Flip 2 coins. This attack does 40 times the number of heads.",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "217",
+      "printed_number": "No.217",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        217
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-51/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-51/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 51,
+      "translation": {
+        "en": {
+          "name": "Ursaring",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Headpress",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage).",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Double Lariat",
+              "text": "Flip 2 coins. This attack does 40 times the number of heads.",
+              "damage": "40×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Teddiursa"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-52",
+      "name": "ドーブル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sketch",
+          "text": "If the Defending Pokémon attacked last turn, and Smeargle was in play during that attack, Smeargle copies that attack except for its Energy costs and anything else required in order to use that attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "235",
+      "printed_number": "No.235",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Hironobu Yoshida",
+      "national_pokedex_numbers": [
+        235
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-52/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-52/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 52,
+      "translation": {
+        "en": {
+          "name": "Smeargle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Sketch",
+              "text": "If the Defending Pokémon attacked last turn, and Smeargle was in play during that attack, Smeargle copies that attack except for its Energy costs and anything else required in order to use that attack."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-53",
+      "name": "エネルギーアーク",
+      "supertype": "トレーナー",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "\"Big Mama\" Tagawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-53/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-53/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 53,
+      "translation": {
+        "en": {
+          "name": "Energy Ark",
+          "supertype": "Trainer",
+          "rarity": "Common",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-54",
+      "name": "遺跡の石版",
+      "supertype": "トレーナー",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "\"Big Mama\" Tagawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-54/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-54/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 54,
+      "translation": {
+        "en": {
+          "name": "Ruin Wall",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-55",
+      "name": "たまごの化石",
+      "supertype": "トレーナー",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "K. Hoshiba",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-55/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-55/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 55,
+      "translation": {
+        "en": {
+          "name": "Fossil Egg",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2_ja-56",
+      "name": "退化スプレーHYPER",
+      "supertype": "トレーナー",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "K. Hoshiba",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2_ja-56/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2_ja-56/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2_ja-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2_ja",
+        "name": "遺跡をこえて...",
+        "series": "Neo",
+        "total": 56,
+        "printed_total": 56,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 56,
+      "translation": {
+        "en": {
+          "name": "Hyper Devolution Spray",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Crossing the Ruins..."
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 56
+}

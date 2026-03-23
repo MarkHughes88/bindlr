@@ -1,0 +1,487 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "wb1-1",
+      "name": "Treecko",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Poison Claws",
+          "text": "The Defending Pokémon is now Poisoned.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "artist": "Mark Kraus",
+      "national_pokedex_numbers": [
+        252
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/wb1-1/small",
+          "medium": "https://images.scrydex.com/pokemon/wb1-1/medium",
+          "large": "https://images.scrydex.com/pokemon/wb1-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "wb1",
+        "name": "Poké Card Creator Pack",
+        "series": "Other",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "wb1-2",
+      "name": "Wurmple",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gooey Thread",
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "artist": "Katie Gross",
+      "national_pokedex_numbers": [
+        265
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/wb1-2/small",
+          "medium": "https://images.scrydex.com/pokemon/wb1-2/medium",
+          "large": "https://images.scrydex.com/pokemon/wb1-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "wb1",
+        "name": "Poké Card Creator Pack",
+        "series": "Other",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "wb1-3",
+      "name": "Torchic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Super Singe",
+          "text": "The Defending Pokémon is now Burned.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Flamethrower",
+          "text": "Discard a Fire Energy card attached to Torchic.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "artist": "May Do",
+      "national_pokedex_numbers": [
+        255
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/wb1-3/small",
+          "medium": "https://images.scrydex.com/pokemon/wb1-3/medium",
+          "large": "https://images.scrydex.com/pokemon/wb1-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "wb1",
+        "name": "Poké Card Creator Pack",
+        "series": "Other",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "wb1-4",
+      "name": "Mudkip",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tail Rap",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10x"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hypno Splash",
+          "text": "The Defending Pokémon is now Asleep.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "artist": "Rowan Laidlaw",
+      "national_pokedex_numbers": [
+        258
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/wb1-4/small",
+          "medium": "https://images.scrydex.com/pokemon/wb1-4/medium",
+          "large": "https://images.scrydex.com/pokemon/wb1-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "wb1",
+        "name": "Poké Card Creator Pack",
+        "series": "Other",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "wb1-5",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thundershock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Shock Bolt",
+          "text": "Discard all Lightning Energy cards attached to Pikachu or this attack does nothing.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "artist": "Sylvia Forrest",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/wb1-5/small",
+          "medium": "https://images.scrydex.com/pokemon/wb1-5/medium",
+          "large": "https://images.scrydex.com/pokemon/wb1-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "wb1",
+        "name": "Poké Card Creator Pack",
+        "series": "Other",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 5
+}

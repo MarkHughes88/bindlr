@@ -1,0 +1,1752 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "pop7-1",
+      "name": "Ampharos",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Flaaffy"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Jamming",
+          "text": "After your opponent plays a Supporter card from his or her hand, put 1 damage counter on each of your opponent's Pokémon. You can't use more than 1 Jamming Poké-Body each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Cluster Bolt",
+          "text": "You may discard all Lightning Energy attached to Ampharos. If you do, this attack does 20 damage to each of your opponent's Benched Pokémon that has any Energy cards attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "1",
+      "printed_number": "1/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        181
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail's light.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-1/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-1/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-2",
+      "name": "Gallade",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Kirlia"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sonic Blade",
+          "text": "Put damage counters on the Defending Pokémon until it is 50 HP away from being Knocked Out. If you do, your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psychic Cut",
+          "text": "You may choose as many of your face-down Prize cards as you like and put them face up. If you do, this attack does 60 damage plus 20 more damage for each Prize card you chose. (These cards remain face up for the rest of the game.)",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "2/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Daisuke Ito",
+      "national_pokedex_numbers": [
+        475
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A master of courtesy and swordsmanship, it fights using extending swords on it elbows.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-2/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-2/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jasonKlaczynski",
+          "prices": []
+        },
+        {
+          "name": "michaelPramawat",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-3",
+      "name": "Latias",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Miraculous Light",
+          "text": "Remove 2 damage counters and all Special Conditions from Latias.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mist Ball",
+          "text": "Discard a Fire and a Water Energy attached to Latias.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Daisuke Ito",
+      "national_pokedex_numbers": [
+        380
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-3/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-3/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-4",
+      "name": "Latios",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energy Draw",
+          "text": "Flip a coin. If heads, search your deck for a basic Energy card and attach it to Latios. Shuffle your deck afterward.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Luster Purge",
+          "text": "Discard 3 Energy attached to Latios.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "printed_number": "4/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Daisuke Ito",
+      "national_pokedex_numbers": [
+        381
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-4/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-4/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-5",
+      "name": "Mothim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Burmy"
+      ],
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Silver Wind",
+          "text": "During your next turn, if an attack does damage to the Defending Pokémon (after applying Weakness and Resistance), that attack does 40 more damage."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Raging Scales",
+          "text": "If Mothim has any damage counters on it, this attack does 30 damage plus 40 more damage.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "number": "5",
+      "printed_number": "5/17",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kazuyuki Kano",
+      "national_pokedex_numbers": [
+        414
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It loves the honey of flowers and steals honey collected by COMBEE.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-5/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-5/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-6",
+      "name": "Delibird",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Present",
+          "text": "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ice Ball",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        225
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-6/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-6/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-7",
+      "name": "Flaaffy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Mareep"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Attract Current",
+          "text": "Search your deck for a Lightning Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Electromagnetic Kick",
+          "text": "Flip a coin. If tails, Flaaffy does 10 damage to itself.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "7/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        180
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "If its coat becomes fully charged with electricity, its tail lights up. It fire hair that zaps on impact.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-7/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-7/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-8",
+      "name": "Kirlia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Ralts"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psychic Research",
+          "text": "Search your discard pile for a Supporter card and use the effect of that card as the effect of this attack. (The Supporter card remains in your discard pile.)"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Telekinesis",
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "8/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        281
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It is highly perceptive of its Trainer's feelings. It dances when it is feeling happy.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-8/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-8/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jasonKlaczynski",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-9",
+      "name": "Stantler",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Lead",
+          "text": "Search your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Frighten Horn",
+          "text": "If the Defending Pokémon isn't an Evolved Pokémon, that Pokémon is now Confused.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        234
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-9/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-9/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "cosmosHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-10",
+      "name": "Wormadam Sandy Cloak",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Burmy Sandy Cloak"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Sandy Cloak",
+          "text": "Prevent all effects, excluding damage, done to Wormadam Sandy Cloak."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Push Over",
+          "text": "Does 40 damage plus 10 more damage for each Fighting Energy attached to Wormadam Sandy Cloak.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "10/17",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        413
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When BURMY evolved, it cloak became a part of this Pokémon's body. The cloak is never shed.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-10/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-10/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-11",
+      "name": "Burmy Plant Cloak",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Wear Cloak",
+          "text": "Once during your turn (before your attack), if Burmy Plant Cloak is your Active Pokémon, you may search your discard pile for a basic Grass Energy card and attach it to Burmy Plant Cloak."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Plant Cloak Tackle",
+          "text": "If Burmy Plant Cloak has any Grass Energy attached to it, this attack does 10 damage plus 10 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "11/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        412
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-11/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-11/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-12",
+      "name": "Burmy Sandy Cloak",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Wear Cloak",
+          "text": "Once during your turn (before your attack), if Burmy Sandy Cloak is your Active Pokémon, you may search your discard pile for a basic Fighting Energy card and attach it to Burmy Sandy Cloak."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sandy Cloak Tackle",
+          "text": "If Burmy Sandy Cloak has any Fighting Energy attached to it, this attack does 10 damage plus 10 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "12/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        412
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-12/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-12/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-13",
+      "name": "Corsola",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rally",
+          "text": "Search your deck for up to 3 different types of Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hook",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "13/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        222
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Many live in the clean seas of the south. They apparently can't live in polluted waters.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-13/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-13/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-14",
+      "name": "Mareep",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thundershock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Static Shock",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "14/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        179
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-14/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-14/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-15",
+      "name": "Ralts",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Smack",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Confuse Ray",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "15/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        280
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It uses the horns on its head to sense human emotions. It is said to appear in front of cheerful people.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-15/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-15/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "jasonKlaczynski",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-16",
+      "name": "Sentret",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Grope",
+          "text": "Look at the top 2 cards of your deck, choose 1 of them, and put it into your hand. Put the other card on the bottom of your deck."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "16/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        161
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-16/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-16/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pop7-17",
+      "name": "Spinda",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Dish Out",
+          "text": "Draw a card from the top and the bottom of your deck."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Synchro Punch",
+          "text": "If any basic Energy card attached to Spinda is the same type as any Energy attached to the Defending Pokémon, this attack does 10 damage plus 30 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "17/17",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        327
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "No two SPINDA have the same pattern of spots. Its tottering step fouls the aim of foes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pop7-17/small",
+          "medium": "https://images.scrydex.com/pokemon/pop7-17/medium",
+          "large": "https://images.scrydex.com/pokemon/pop7-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "pop7",
+        "name": "POP Series 7",
+        "series": "POP",
+        "total": 17,
+        "printed_total": 17,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2008/03/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 17
+}

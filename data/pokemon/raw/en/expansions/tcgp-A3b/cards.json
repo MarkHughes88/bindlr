@@ -1,0 +1,7388 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "tcgp-A3b-1",
+      "name": "Tropius",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Cutting Wind",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Oswaldo KATO",
+      "national_pokedex_numbers": [
+        357
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-1/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-1/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-2",
+      "name": "Leafeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Leaf Blast",
+          "text": "This attack does 20 more damage for each Grass Energy attached to this Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "chibi",
+      "national_pokedex_numbers": [
+        470
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-2/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-2/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-3",
+      "name": "Bounsweet",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Flop",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        761
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-3/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-3/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-4",
+      "name": "Steenee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Bounsweet"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "name": "Leaf Step",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        762
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-4/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-4/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-5",
+      "name": "Tsareena",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Steenee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "name": "Kick Down",
+          "text": "Your opponent reveals a random card from their hand and shuffles it into their deck.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "5",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        763
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-5/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-5/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-6",
+      "name": "Applin",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "name": "Ram",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        840
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-6/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-6/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-7",
+      "name": "Appletun",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Applin"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "name": "Sweets Relay",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "7",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        842
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-7/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-7/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-8",
+      "name": "Flareon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Assisting Heater",
+          "text": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Eri Yamaki",
+      "national_pokedex_numbers": [
+        136
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-8/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-8/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-9",
+      "name": "Flareon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Combust",
+          "text": "Once during your turn, you may attach a [R] Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Fire Spin",
+          "text": "Discard 2 Fire Energy from this Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        136
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-9/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-9/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-10",
+      "name": "Torkoal",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "name": "Flamethrower",
+          "text": "Discard a Fire Energy from this Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "10",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        324
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-10/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-10/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-11",
+      "name": "Litten",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Flare",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "0313",
+      "national_pokedex_numbers": [
+        725
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-11/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-11/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-12",
+      "name": "Torracat",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Litten"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Claw Slash",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        726
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-12/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-12/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-13",
+      "name": "Incineroar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Torracat"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Darkest Lariat 100x",
+          "text": "Flip 2 coins. This attack does 100 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "13",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        727
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-13/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-13/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-14",
+      "name": "Salandit",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Ember",
+          "text": "Discard a Fire Energy from this Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "tetsuya koizumi",
+      "national_pokedex_numbers": [
+        757
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-14/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-14/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-15",
+      "name": "Salazzle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Salandit"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Combustion",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "15",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        758
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-15/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-15/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-16",
+      "name": "Vaporeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Hyper Whirlpool",
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "16",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        134
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-16/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-16/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-17",
+      "name": "Glaceon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "name": "Ice Blade",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        471
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-17/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-17/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-18",
+      "name": "Vanillite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Sweets Relay",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        582
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-18/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-18/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-19",
+      "name": "Vanillish",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Vanillite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Sweets Relay",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "19",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        583
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-19/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-19/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-20",
+      "name": "Vanilluxe",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Vanillish"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "name": "Double Spin 80x",
+          "text": "Flip 2 coins. This attack does 80 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "20",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Ayaka Yoshida",
+      "national_pokedex_numbers": [
+        584
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-20/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-20/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-21",
+      "name": "Alomomola",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Water Pulse",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "21",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        594
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-21/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-21/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-22",
+      "name": "Popplio",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "name": "Watering",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        728
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-22/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-22/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-23",
+      "name": "Brionne",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Popplio"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "name": "Water Gun",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "23",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        729
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-23/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-23/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-24",
+      "name": "Primarina ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Brionne"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Hydro Pump",
+          "text": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage.",
+          "damage": "40+"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "name": "Sparkling Aria",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "24",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        730
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-24/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-24/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-25",
+      "name": "Jolteon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Beginning Bolt",
+          "text": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        135
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-25/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-25/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-26",
+      "name": "Joltik",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Jolt",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        595
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-26/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-26/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-27",
+      "name": "Galvantula",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Joltik"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "name": "Electric Shock",
+          "text": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "27",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "otumami",
+      "national_pokedex_numbers": [
+        596
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-27/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-27/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-28",
+      "name": "Espeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Energy Crush 20x",
+          "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Ryota Murayama",
+      "national_pokedex_numbers": [
+        196
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-28/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-28/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-29",
+      "name": "Woobat",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Gust",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        527
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-29/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-29/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-30",
+      "name": "Swoobat",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Woobat"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Psyshot",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        528
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-30/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-30/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-31",
+      "name": "Swirlix",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Sweets Relay",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "31",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        684
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-31/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-31/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-32",
+      "name": "Slurpuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Swirlix"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Sweets Relay",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "32",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        685
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-32/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-32/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-33",
+      "name": "Sylveon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Evoharmony",
+          "text": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        700
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-33/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-33/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-34",
+      "name": "Sylveon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Happy Ribbon",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Fairy Wind",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        700
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-34/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-34/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-35",
+      "name": "Mimikyu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "name": "Try to Imitate",
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "35",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Eri Yamaki",
+      "national_pokedex_numbers": [
+        778
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-35/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-35/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-36",
+      "name": "Milcery",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Sweets Relay",
+          "text": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "36",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Mina Nakai",
+      "national_pokedex_numbers": [
+        868
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-36/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-36/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-37",
+      "name": "Alcremie",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Milcery"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Sweets Overload 40x",
+          "text": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        869
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-37/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-37/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-38",
+      "name": "Barboach",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "name": "Mud Shot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "38",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        339
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-38/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-38/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-39",
+      "name": "Whiscash",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Barboach"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Earthquake",
+          "text": "This attack also does 10 damage to each of your Benched Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "39",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shinji Kanda",
+      "national_pokedex_numbers": [
+        340
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-39/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-39/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-40",
+      "name": "Mienfoo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "name": "Kick Shot",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        619
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-40/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-40/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-41",
+      "name": "Mienshao",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Mienfoo"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "name": "Low Kick",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        620
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-41/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-41/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-42",
+      "name": "Carbink",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "name": "Hard Roll",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "42",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        703
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-42/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-42/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-43",
+      "name": "Umbreon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Dark Binding",
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "43",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Ryota Murayama",
+      "national_pokedex_numbers": [
+        197
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-43/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-43/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-44",
+      "name": "Sableye",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Scratch",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        302
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-44/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-44/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-45",
+      "name": "Purrloin",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Playful Knockdown",
+          "text": "Discard all Pokémon Tools from your opponent's Active Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        509
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-45/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-45/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-46",
+      "name": "Liepard",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Purrloin"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "name": "Slashing Claw",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        510
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-46/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-46/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-47",
+      "name": "Mawile",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "name": "Powerful Vise",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        303
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-47/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-47/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-48",
+      "name": "Togedemaru",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "name": "Bristling Spikes",
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "48",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Oswaldo KATO",
+      "national_pokedex_numbers": [
+        777
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-48/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-48/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-49",
+      "name": "Meltan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "name": "Headbutt",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "49",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        808
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-49/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-49/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-50",
+      "name": "Melmetal",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Meltan"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal"
+          ],
+          "name": "Mega Punch",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "50",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "NC Empire",
+      "national_pokedex_numbers": [
+        809
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-50/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-50/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-51",
+      "name": "Dratini",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Beat",
+          "damage": "20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "51",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        147
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-51/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-51/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-52",
+      "name": "Dragonair",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Dratini"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Lightning"
+          ],
+          "name": "Waterfall",
+          "damage": "60"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "52",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        148
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-52/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-52/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-53",
+      "name": "Dragonite ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Dragonair"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Giga Impact",
+          "text": "During your next turn, this Pokémon can't attack.",
+          "damage": "180"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "53",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-53/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-53/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-54",
+      "name": "Drampa",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Dragon Breath",
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "70"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "54",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        780
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-54/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-54/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-55",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Collect",
+          "text": "Draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "55",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-55/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-55/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-56",
+      "name": "Eevee ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Veevee ’volve",
+          "text": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Bite",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "56",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-56/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-56/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-57",
+      "name": "Snorlax ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "160",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Full-Mouth Manner",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Flop-Down Punch",
+          "text": "This Pokémon is now Asleep.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "57",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-57/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-57/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-58",
+      "name": "Aipom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Double Hit 20x",
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "58",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        190
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-58/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-58/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-59",
+      "name": "Ambipom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Aipom"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Catching Tail",
+          "text": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Corkscrew Punch",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "59",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        424
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-59/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-59/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-60",
+      "name": "Chatot",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Tone-Deaf",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "60",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        441
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-60/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-60/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-61",
+      "name": "Audino",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Do the Wave 20x",
+          "text": "This attack does 20 damage for each of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "61",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        531
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-61/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-61/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-62",
+      "name": "Minccino",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Pound",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "62",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sekio",
+      "national_pokedex_numbers": [
+        572
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-62/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-62/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-63",
+      "name": "Cinccino",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Minccino"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Slap",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "63",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        573
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-63/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-63/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-64",
+      "name": "Skwovet",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Bite",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "64",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        819
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-64/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-64/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-65",
+      "name": "Greedent",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Skwovet"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Enhanced Fang",
+          "text": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "65",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        820
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-65/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-65/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-65/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 65,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-66",
+      "name": "Eevee Bag",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Item"
+      ],
+      "number": "66",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "AYUMI ODASHIMA",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-66/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-66/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-66/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 66,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-67",
+      "name": "Leftovers",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "number": "67",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Studio Bora Inc.",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-67/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-67/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-67/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 67,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-68",
+      "name": "Hau",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "68",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Yuu Nishida",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-68/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-68/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-68/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 68,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-69",
+      "name": "Penny",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "69",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Susumu Maeya",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-69/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-69/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-69/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 69,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-70",
+      "name": "Leafeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Leaf Blast",
+          "text": "This attack does 20 more damage for each Grass Energy attached to this Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "70",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Ryota Murayama",
+      "national_pokedex_numbers": [
+        470
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-70/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-70/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-70/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 70,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-71",
+      "name": "Flareon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Assisting Heater",
+          "text": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "71",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        136
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-71/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-71/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-71/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 71,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-72",
+      "name": "Vaporeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Hyper Whirlpool",
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "72",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "chibi",
+      "national_pokedex_numbers": [
+        134
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-72/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-72/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-72/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 72,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-73",
+      "name": "Glaceon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "name": "Ice Blade",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "73",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Fujimoto Gold",
+      "national_pokedex_numbers": [
+        471
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-73/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-73/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-73/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 73,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-74",
+      "name": "Jolteon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Beginning Bolt",
+          "text": "If this Pokémon evolved during this turn, this attack does 20 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "74",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Nisota Niso",
+      "national_pokedex_numbers": [
+        135
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-74/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-74/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-74/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 74,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-75",
+      "name": "Espeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Energy Crush 20x",
+          "text": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "75",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "rika",
+      "national_pokedex_numbers": [
+        196
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-75/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-75/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-75/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 75,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-76",
+      "name": "Sylveon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Evoharmony",
+          "text": "This attack does 30 more damage for each Evolution Pokémon on your Bench.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "76",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "saino misaki",
+      "national_pokedex_numbers": [
+        700
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-76/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-76/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-76/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 76,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-77",
+      "name": "Umbreon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Dark Binding",
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "77",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        197
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-77/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-77/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-77/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 77,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-78",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Collect",
+          "text": "Draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "78",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Narumi Sato",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-78/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-78/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-78/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 78,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-79",
+      "name": "Flareon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Combust",
+          "text": "Once during your turn, you may attach a [R] Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Fire Spin",
+          "text": "Discard 2 Fire Energy from this Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "79",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        136
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-79/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-79/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-79/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 79,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-80",
+      "name": "Primarina ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Brionne"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Hydro Pump",
+          "text": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage.",
+          "damage": "40+"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "name": "Sparkling Aria",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "80",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        730
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-80/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-80/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-80/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 80,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-81",
+      "name": "Sylveon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Happy Ribbon",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Fairy Wind",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "81",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        700
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-81/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-81/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-81/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 81,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-82",
+      "name": "Dragonite ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Dragonair"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Giga Impact",
+          "text": "During your next turn, this Pokémon can't attack.",
+          "damage": "180"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "82",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-82/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-82/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-82/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 82,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-83",
+      "name": "Eevee ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Veevee ’volve",
+          "text": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Bite",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "83",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-83/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-83/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-83/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 83,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-84",
+      "name": "Snorlax ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "160",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Full-Mouth Manner",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Flop-Down Punch",
+          "text": "This Pokémon is now Asleep.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "84",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-84/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-84/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-84/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 84,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-85",
+      "name": "Hau",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "85",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Yuu Nishida",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-85/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-85/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-85/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 85,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-86",
+      "name": "Penny",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "86",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Susumu Maeya",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-86/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-86/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-86/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 86,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-87",
+      "name": "Flareon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Combust",
+          "text": "Once during your turn, you may attach a [R] Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "name": "Fire Spin",
+          "text": "Discard 2 Fire Energy from this Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "87",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Kuroimori",
+      "national_pokedex_numbers": [
+        136
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-87/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-87/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-87/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 87,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-88",
+      "name": "Primarina ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Brionne"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Hydro Pump",
+          "text": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage.",
+          "damage": "40+"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "name": "Sparkling Aria",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "88",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "DOM",
+      "national_pokedex_numbers": [
+        730
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-88/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-88/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-88/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 88,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-89",
+      "name": "Sylveon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Happy Ribbon",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Fairy Wind",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "89",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Yuu Nishida",
+      "national_pokedex_numbers": [
+        700
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-89/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-89/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-89/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 89,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-90",
+      "name": "Dragonite ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Dragonair"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Giga Impact",
+          "text": "During your next turn, this Pokémon can't attack.",
+          "damage": "180"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "90",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Mori Yuu",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-90/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-90/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-90/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 90,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-91",
+      "name": "Snorlax ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "160",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Full-Mouth Manner",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Flop-Down Punch",
+          "text": "This Pokémon is now Asleep.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "91",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Mékayu",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-91/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-91/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-91/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 91,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-92",
+      "name": "Eevee ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Veevee ’volve",
+          "text": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Bite",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "92",
+      "rarity": "3 Star",
+      "rarity_code": "3 Star",
+      "artist": "kurumitsu",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-92/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-92/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-92/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 92,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-93",
+      "name": "Pinsir",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Guillotine Rush",
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "93",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        127
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-93/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-93/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-93/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 93,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-94",
+      "name": "Lapras",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Hydro Pump",
+          "text": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 70 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "94",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Nelnal",
+      "national_pokedex_numbers": [
+        131
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-94/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-94/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-94/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 94,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-95",
+      "name": "Voltorb",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Big Explosion",
+          "text": "This Pokémon also does 10 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "95",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Scav",
+      "national_pokedex_numbers": [
+        100
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-95/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-95/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-95/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 95,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-96",
+      "name": "Electrode",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Voltorb"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Rolling Attack",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "96",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Scav",
+      "national_pokedex_numbers": [
+        101
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-96/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-96/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-96/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 96,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-97",
+      "name": "Ralts",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Teleport",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "97",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        280
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-97/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-97/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-97/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 97,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-98",
+      "name": "Kirlia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Ralts"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Slap",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "98",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        281
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-98/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-98/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-98/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 98,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-99",
+      "name": "Gardevoir",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Kirlia"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ability Psy Shadow",
+          "text": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to the [P] Pokémon in the Active Spot."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Psyshot",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "99",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        282
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-99/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-99/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-99/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 99,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-100",
+      "name": "Ekans",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "100",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "SATOSHI NAKAI",
+      "national_pokedex_numbers": [
+        23
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-100/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-100/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-100/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 100,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-101",
+      "name": "Arbok",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Ekans"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "name": "Corner",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "101",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "SATOSHI NAKAI",
+      "national_pokedex_numbers": [
+        24
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-101/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-101/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-101/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 101,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-102",
+      "name": "Farfetch'd",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Leek Slap",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "102",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        83
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-102/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-102/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-102/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 102,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-103",
+      "name": "Moltres ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Inferno Dance",
+          "text": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like."
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Heat Blast",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "103",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Saito",
+      "national_pokedex_numbers": [
+        146
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-103/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-103/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-103/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 103,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-104",
+      "name": "Articuno ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "name": "Ice Wing",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "name": "Blizzard",
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "104",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Saito",
+      "national_pokedex_numbers": [
+        144
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-104/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-104/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-104/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 104,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-105",
+      "name": "Zapdos ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Peck",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "name": "Thundering Hurricane 50x",
+          "text": "Flip 4 coins. This attack does 50 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "105",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Saito",
+      "national_pokedex_numbers": [
+        145
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-105/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-105/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-105/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 105,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-106",
+      "name": "Gallade ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Kirlia"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "name": "Energized Blade",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "70+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "106",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        475
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-106/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-106/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-106/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 106,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3b-107",
+      "name": "Eevee Bag",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "number": "107",
+      "rarity": "Crown",
+      "rarity_code": "Crown",
+      "artist": "AYUMI ODASHIMA",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3b-107/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3b-107/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3b-107/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3b",
+        "name": "Eevee Grove",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3b",
+        "total": 107,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/06/25",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 107,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 107
+}

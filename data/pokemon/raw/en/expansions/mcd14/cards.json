@@ -1,0 +1,1122 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "mcd14-1",
+      "name": "Weedle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "String Shot",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1/12",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        13
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-1/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-1/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-2",
+      "name": "Chespin",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Vine Whip",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Seed Bomb",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "2/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        650
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-2/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-2/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-3",
+      "name": "Fennekin",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Live Coal",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        653
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-3/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-3/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-4",
+      "name": "Froakie",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Drip",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        656
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-4/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-4/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-5",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Nuzzle",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "5/12",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-5/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-5/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-6",
+      "name": "Inkay",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        686
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Opponents who stare at the flashing of the light-emitting spots on its body become dazed and lose their will to fight.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-6/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-6/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-7",
+      "name": "Honedge",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Continuous Slash",
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "7/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        679
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Apparently this Pokémon is born when a departed spirit inhabits a sword. It attaches itself to people and drinks their life force.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-7/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-7/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-8",
+      "name": "Snubbull",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Headbutt",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "8/12",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        209
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has an active, playful nature. Many women like to frolic with it because of its affectionate ways.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-8/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-8/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-9",
+      "name": "Swirlix",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fairy"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Draining Kiss",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        684
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "To entangle its opponents in battle, it extrudes white threads as sweet and sticky as cotton candy.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-9/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-9/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-10",
+      "name": "Bunnelby",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "10/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        659
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "They use their large ears to dig burrows. They will dig the whole night through.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-10/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-10/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-11",
+      "name": "Fletchling",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Razor Wind",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "11/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        661
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "These friendly Pokémon send signals to one another with beautiful chirps and tail-feather movements.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-11/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-11/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd14-12",
+      "name": "Furfrou",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sharp Fang",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "12/12",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        676
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd14-12/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd14-12/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd14-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd14",
+        "name": "McDonald's Collection 2014",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2014/05/23",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 12
+}

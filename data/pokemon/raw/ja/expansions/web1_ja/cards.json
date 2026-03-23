@@ -1,0 +1,6566 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "web1_ja-1",
+      "name": "フシギソウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leech Seed",
+          "text": "Unless all damage from this attack is prevented, you may remove one damage counter from Ivysaur.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Vine Whip",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        2
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Ivysaur",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Leech Seed",
+              "text": "Unless all damage from this attack is prevented, you may remove one damage counter from Ivysaur.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Vine Whip",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Bulbasaur"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-2",
+      "name": "ニドラン♂",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Focus Energy",
+          "text": "During your next turn, Nidoran♂'s Horn Rush attack's base damage is doubled."
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Horn Rush",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        32
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Nidoran ♂",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Focus Energy",
+              "text": "During your next turn, Nidoran♂'s Horn Rush attack's base damage is doubled."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Horn Rush",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-3",
+      "name": "コンパン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Disable",
+          "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psybeam",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        48
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Venonat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Disable",
+              "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Psybeam",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-4",
+      "name": "タマタマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hypnosis",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leech Seed",
+          "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        102
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Exeggcute",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hypnosis",
+              "text": "The Defending Pokémon is now Asleep."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Leech Seed",
+              "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-5",
+      "name": "モンジャラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stun Spore",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Poison Whip",
+          "text": "The Defending Pokémon is now Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        114
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Tangela",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Stun Spore",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Poison Whip",
+              "text": "The Defending Pokémon is now Poisoned.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-6",
+      "name": "ガーディ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ember",
+          "text": "Discard a Fire Energy card attached to Growlithe or this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        58
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Growlithe",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Lunge",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Ember",
+              "text": "Discard a Fire Energy card attached to Growlithe or this attack does nothing.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-7",
+      "name": "リザード",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slash",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Flamethrower",
+          "text": "Discard 1 Fire Energy card attached to Charmeleon in order to use this attack.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        5
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Charmeleon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Slash",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Flamethrower",
+              "text": "Discard 1 Fire Energy card attached to Charmeleon in order to use this attack.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Charmander"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-8",
+      "name": "ロコン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Foxfire",
+          "text": "Before doing damage, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        37
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Vulpix",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Foxfire",
+              "text": "Before doing damage, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-9",
+      "name": "カメール",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bubble",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Surf",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        8
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Wartortle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bubble",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Surf",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Squirtle"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-10",
+      "name": "マリル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Gun",
+          "text": "Does 20 damage plus 10 more damage for each Energy attached to Marill but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        183
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Marill",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Water Gun",
+              "text": "Does 20 damage plus 10 more damage for each Energy attached to Marill but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-11",
+      "name": "ビリリダマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        100
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Voltorb",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tackle",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-12",
+      "name": "ヤドン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headbutt",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Amnesia",
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        79
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Slowpoke",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Headbutt",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Amnesia",
+              "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-13",
+      "name": "ディグダ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Trip Over",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "013/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        50
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Diglett",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Peck",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Trip Over",
+              "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-14",
+      "name": "サワムラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Double Kick",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rolling Kick",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "014/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        106
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Hitmonlee",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Double Kick",
+              "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Rolling Kick",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-15",
+      "name": "マサキの転送装置",
+      "supertype": "トレーナー",
+      "number": "15",
+      "printed_number": "015/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Bill's Teleporter",
+          "supertype": "Trainer",
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-16",
+      "name": "新ポケモン図鑑HANDY808",
+      "supertype": "トレーナー",
+      "number": "16",
+      "printed_number": "016/048",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "New Pokédex",
+          "supertype": "Trainer",
+          "rarity": "Common",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-17",
+      "name": "わるいフシギソウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Vine Pull",
+          "text": "Once during your turn when Dark Ivysaur retreats, choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fury Strikes",
+          "text": "Your opponent puts 3 markers onto his or her Pokémon (divided as he or she chooses). (More than 1 marker can be put on the same Pokémon.) Then, this attack does 10 damage to each Pokémon for each marker on it. Don't apply Weakness and Resistance. Remove the markers at the end of the turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "017/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        2
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Dark Ivysaur",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Vine Pull",
+              "text": "Once during your turn when Dark Ivysaur retreats, choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Fury Strikes",
+              "text": "Your opponent puts 3 markers onto his or her Pokémon (divided as he or she chooses). (More than 1 marker can be put on the same Pokémon.) Then, this attack does 10 damage to each Pokémon for each marker on it. Don't apply Weakness and Resistance. Remove the markers at the end of the turn."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Bulbasaur"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-18",
+      "name": "ニドリーノ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Swift Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing and this Pokémon does 20 damage to itself.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        33
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Nidorino",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Swift Lunge",
+              "text": "Flip a coin. If tails, this attack does nothing and this Pokémon does 20 damage to itself.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Nidoran♂"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-19",
+      "name": "モルフォン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Stir Up Twister",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon. Then, switch your Active Pokémon with 1 of your Benched Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rainbow Powder",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "19",
+      "printed_number": "019/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        49
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Venomoth",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Stir Up Twister",
+              "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon. Then, switch your Active Pokémon with 1 of your Benched Pokémon. (Do the damage before switching the Pokémon.)",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Rainbow Powder",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Poisoned.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Venonat"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-20",
+      "name": "ナッシー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Teleport",
+          "text": "Switch Exeggutor with 1 of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Big Eggsplosion",
+          "text": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "020/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        103
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Exeggutor",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Teleport",
+              "text": "Switch Exeggutor with 1 of your Benched Pokémon."
+            },
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Big Eggsplosion",
+              "text": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Exeggcute"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-21",
+      "name": "わるいマタドガス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mass Explosion",
+          "text": "Does 20 damage times the total number of Koffings, Weezings, and Dark Weezings in play (Apply Weakness and Resistance.). Then, this attack does 20 damage to each Koffing, Weezing, and Dark Weezing (even your own). Don't apply Weakness and Resistance.",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Stun Gas",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "021/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        110
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Dark Weezing",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Mass Explosion",
+              "text": "Does 20 damage times the total number of Koffings, Weezings, and Dark Weezings in play (Apply Weakness and Resistance.). Then, this attack does 20 damage to each Koffing, Weezing, and Dark Weezing (even your own). Don't apply Weakness and Resistance.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Stun Gas",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, the Defending Pokémon is now Paralyzed.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Koffing"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-22",
+      "name": "わるいリザード",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tail Slap",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Fireball",
+          "text": "Flip a coin. If heads, discard a Fire Energy card attached to this Pokémon. If tails, this attack does nothing.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "022/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        5
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Dark Charmeleon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tail Slap",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Fireball",
+              "text": "Flip a coin. If heads, discard a Fire Energy card attached to this Pokémon. If tails, this attack does nothing.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Charmander"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-23",
+      "name": "ウインディ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Take Down",
+          "text": "Arcanine does 20 damage to itself.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "printed_number": "023/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        59
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Arcanine",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Take Down",
+              "text": "Arcanine does 20 damage to itself.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Growlithe"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-24",
+      "name": "わるいカメール",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Doubleslap",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mirror Shell",
+          "text": "If an attack does damage to Dark Wartortle during your opponent's next turn (even if Dark Wartortle is Knocked Out), Dark Wartortle attacks the Defending Pokémon for an equal amount of damage."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "024/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        8
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Dark Wartortle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Doubleslap",
+              "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Mirror Shell",
+              "text": "If an attack does damage to Dark Wartortle during your opponent's next turn (even if Dark Wartortle is Knocked Out), Dark Wartortle attacks the Defending Pokémon for an equal amount of damage."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Squirtle"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-25",
+      "name": "なみのりピカチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Surf",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "025/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Surfing Pikachu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Surf",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-26",
+      "name": "マルマイン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sonicboom",
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Energy Spike",
+          "text": "Search your deck for a Basic Energy Card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "026/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        101
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Electrode",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Sonicboom",
+              "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Energy Spike",
+              "text": "Search your deck for a Basic Energy Card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Voltorb"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-27",
+      "name": "わるいユンゲラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Matter Exchange",
+          "text": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw a card. This power can't be used if this Pokémon is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mind Shock",
+          "text": "This attack's damage isn't affected by Weakness or Resistance.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "27",
+      "printed_number": "027/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        64
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Dark Kadabra",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Matter Exchange",
+              "text": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw a card. This power can't be used if this Pokémon is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Mind Shock",
+              "text": "This attack's damage isn't affected by Weakness or Resistance.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Abra"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-28",
+      "name": "わるいヤドラン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Reel In",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 3 Pokémon from your discard pile into your hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fickle Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "printed_number": "028/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        80
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Dark Slowbro",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Reel In",
+              "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 3 Pokémon from your discard pile into your hand."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Fickle Attack",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Slowpoke"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-29",
+      "name": "ダグトリオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Go Underground",
+          "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Earth Wave",
+          "text": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "雷",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "printed_number": "029/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        51
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Dugtrio",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Go Underground",
+              "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Earth Wave",
+              "text": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Lightning",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Diglett"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-30",
+      "name": "元気のかたまり",
+      "supertype": "トレーナー",
+      "number": "30",
+      "printed_number": "030/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Hikaru Koike",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Max Revive",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-31",
+      "name": "退化スプレーHYPER",
+      "supertype": "トレーナー",
+      "number": "31",
+      "printed_number": "031/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "K. Hoshiba",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Hyper Devolution Spray",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-32",
+      "name": "ポケモン再転送",
+      "supertype": "トレーナー",
+      "number": "32",
+      "printed_number": "032/048",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Hikaru Koike",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Pokémon Retransfer",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-33",
+      "name": "ニドキング",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thrash",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.",
+          "damage": "30+"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Toxic",
+          "text": "The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned).",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "printed_number": "033/048",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        34
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Nidoking",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Thrash",
+              "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself.",
+              "damage": "30+"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Toxic",
+              "text": "The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned).",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Nidorino"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-34",
+      "name": "キュウコン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Lure",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Fire Blast",
+          "text": "Discard 1 Fire Energy card attached to Ninetales in order to use this attack.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "printed_number": "034/048",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        38
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Ninetales",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Lure",
+              "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Fire Blast",
+              "text": "Discard 1 Fire Energy card attached to Ninetales in order to use this attack.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Vulpix"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-35",
+      "name": "コイキング",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Trickle",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Dragon Rage",
+          "text": "Flip 2 coins. If either of them is tails, this attack does nothing.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "35",
+      "printed_number": "035/048",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        129
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Magikarp",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Trickle",
+              "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Dragon Rage",
+              "text": "Flip 2 coins. If either of them is tails, this attack does nothing.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-36",
+      "name": "ライチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Agility",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Thunder",
+          "text": "Flip a coin. If tails, Raichu does 30 damage to itself.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "36",
+      "printed_number": "036/048",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        26
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Raichu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Agility",
+              "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Thunder",
+              "text": "Flip a coin. If tails, Raichu does 30 damage to itself.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pikachu"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-37",
+      "name": "わるいフーディン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Teleport Blast",
+          "text": "You may switch Dark Alakazam with 1 of your Benched Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mind Shock",
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "printed_number": "037/048",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        65
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Dark Alakazam",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Teleport Blast",
+              "text": "You may switch Dark Alakazam with 1 of your Benched Pokémon. (Do the damage before switching the Pokémon.)",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Mind Shock",
+              "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Dark Kadabra"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-38",
+      "name": "カイリュー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Special Delivery",
+          "text": "Once during your turn (before your attack), you may draw a card. If you do, choose a card from your hand and put it on top of your deck. This power can't be used if Dragonite is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Supersonic Flight",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "60"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "printed_number": "038/048",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Dragonite",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Special Delivery",
+              "text": "Once during your turn (before your attack), you may draw a card. If you do, choose a card from your hand and put it on top of your deck. This power can't be used if Dragonite is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Supersonic Flight",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "60"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Dragonair"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-39",
+      "name": "ロケット団のニャース",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Miraculous Comeback",
+          "text": "Flip a number of coins equal to the number of Pokémon in play. This attack does 10 damage times the number of heads. Then, Team Rocket's Meowth does 10 damage times the number of tails to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "39",
+      "printed_number": "039/048",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Kunihiko Yuyama",
+      "national_pokedex_numbers": [
+        52
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Team Rocket's Meowth",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Miraculous Comeback",
+              "text": "Flip a number of coins equal to the number of Pokémon in play. This attack does 10 damage times the number of heads. Then, Team Rocket's Meowth does 10 damage times the number of tails to itself."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-40",
+      "name": "ロケット団のおねーさん",
+      "supertype": "トレーナー",
+      "number": "40",
+      "printed_number": "040/048",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Rocket's Sneak Attack",
+          "supertype": "Trainer",
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-41",
+      "name": "わるいフシギバナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Horrid Pollen",
+          "text": "Flip 2 coins. If 1 is heads, the Defending Pokémon is now Asleep and Poisoned. If both are heads, the Defending Pokémon is now Confused and Poisoned. If both are tails, the Defending Pokémon is now Paralyzed and Poisoned.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "printed_number": "041/048",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        3
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Dark Venusaur",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Horrid Pollen",
+              "text": "Flip 2 coins. If 1 is heads, the Defending Pokémon is now Asleep and Poisoned. If both are heads, the Defending Pokémon is now Confused and Poisoned. If both are tails, the Defending Pokémon is now Paralyzed and Poisoned.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Dark Ivysaur"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-42",
+      "name": "わるいリザードン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Nail Flick",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Continuous Fireball",
+          "text": "Flip a number of coins equal to the number of Fire Energy cards attached to Dark Charizard. This attack does 50 damage times the number of heads. Discard a number of Fire Energy cards attached to Dark Charizard equal to the number of heads.",
+          "damage": "50×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "42",
+      "printed_number": "042/048",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Dark Charizard",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Nail Flick",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Continuous Fireball",
+              "text": "Flip a number of coins equal to the number of Fire Energy cards attached to Dark Charizard. This attack does 50 damage times the number of heads. Discard a number of Fire Energy cards attached to Dark Charizard equal to the number of heads.",
+              "damage": "50×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Dark Charmeleon"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-43",
+      "name": "ファイヤー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hyper Flame",
+          "text": "Flip a coin. If heads, discard 1 Fire Energy card attached to Moltres. If tails, discard all Energy cards attached to Moltres. If you can't discard Energy cards, this attack does nothing.",
+          "damage": "60"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "043/048",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        146
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Moltres",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hyper Flame",
+              "text": "Flip a coin. If heads, discard 1 Fire Energy card attached to Moltres. If tails, discard all Energy cards attached to Moltres. If you can't discard Energy cards, this attack does nothing.",
+              "damage": "60"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-44",
+      "name": "わるいカメックス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hydrocannon",
+          "text": "Does 30 damage plus 20 more damage for each Water Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way.",
+          "damage": "30+"
+        },
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rocket Tackle",
+          "text": "Dark Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Dark Blastoise during your opponent's next turn. (Any other effects of attacks still happen.)",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "printed_number": "044/048",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        9
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Dark Blastoise",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Hydrocannon",
+              "text": "Does 30 damage plus 20 more damage for each Water Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way.",
+              "damage": "30+"
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Rocket Tackle",
+              "text": "Dark Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Dark Blastoise during your opponent's next turn. (Any other effects of attacks still happen.)",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Dark Wartortle"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-45",
+      "name": "フリーザー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Diamond Dust",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed, and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "printed_number": "045/048",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        144
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-45/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-45/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 45,
+      "translation": {
+        "en": {
+          "name": "Articuno",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Diamond Dust",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed, and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "20"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-46",
+      "name": "サンダー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lightning Burn",
+          "text": "Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, Zapdos does 30 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "printed_number": "046/048",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        145
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-46/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-46/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 46,
+      "translation": {
+        "en": {
+          "name": "Zapdos",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Lightning Burn",
+              "text": "Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, Zapdos does 30 damage to itself.",
+              "damage": "30"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-47",
+      "name": "ゲンガー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Power of Darkness",
+          "text": "Once during your turn, when you play Gengar from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, choose 1 of your opponent's Pokémon. Your opponent returns that Pokémon and all cards attached to it to his or her hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psy Horror",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Confused.",
+          "damage": "30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "printed_number": "047/048",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Hironobu Yoshida",
+      "national_pokedex_numbers": [
+        94
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-47/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-47/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 47,
+      "translation": {
+        "en": {
+          "name": "Gengar",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Power of Darkness",
+              "text": "Once during your turn, when you play Gengar from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, choose 1 of your opponent's Pokémon. Your opponent returns that Pokémon and all cards attached to it to his or her hand."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Psy Horror",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Confused.",
+              "damage": "30"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Haunter"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "web1_ja-48",
+      "name": "カイリキー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Seething Anger",
+          "text": "Flip a number of coins equal to the number of damage counters on Machamp. This attack does 20 damage plus 10 more damage for each heads.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Fling",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "48",
+      "printed_number": "048/048",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        68
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/web1_ja-48/small",
+          "medium": "https://images.scrydex.com/pokemon/web1_ja-48/medium",
+          "large": "https://images.scrydex.com/pokemon/web1_ja-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "web1_ja",
+        "name": "ポケモンカード★web",
+        "series": "Web",
+        "total": 48,
+        "printed_total": 48,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/10/20",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 48,
+      "translation": {
+        "en": {
+          "name": "Machamp",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Seething Anger",
+              "text": "Flip a number of coins equal to the number of damage counters on Machamp. This attack does 20 damage plus 10 more damage for each heads.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Fling",
+              "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Machoke"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Pokémon Web"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 48
+}

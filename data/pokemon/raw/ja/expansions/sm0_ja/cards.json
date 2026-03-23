@@ -1,0 +1,532 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "sm0_ja-1",
+      "name": "モクロー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みだれづき",
+          "text": "コインを3回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/004",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        722
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "警戒心が 強い。 昼は 光合成で 力を 溜めて 夜になったら 活動開始。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm0_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/sm0_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/sm0_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm0_ja",
+        "name": "ピカチュウと新しい仲間たち",
+        "series": "Sun & Moon",
+        "code": "SM0",
+        "total": 4,
+        "printed_total": 4,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2018/11/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Rowlet",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Fury Attack",
+              "text": "Flip 3 coins. This attack does 10 damage for each heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Pikachu's New Friends"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm0_ja-2",
+      "name": "ニャビー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かえん",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/004",
+      "artist": "Megumi Mizutani",
+      "national_pokedex_numbers": [
+        725
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "毛づくろいで お腹に 溜まった 抜け毛を 燃やして 火を 吹く。 毛の 吐きかたで 炎も 変化。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm0_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/sm0_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/sm0_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm0_ja",
+        "name": "ピカチュウと新しい仲間たち",
+        "series": "Sun & Moon",
+        "code": "SM0",
+        "total": 4,
+        "printed_total": 4,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2018/11/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Litten",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Combustion",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Pikachu's New Friends"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm0_ja-3",
+      "name": "アシマリ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "うたう",
+          "text": "相手のバトルポケモンをねむりにする。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/004",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        728
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "頑張り屋な 性質で 有名。 体液を 鼻で 膨らませた バルーンを 敵に ぶつける。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm0_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/sm0_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/sm0_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm0_ja",
+        "name": "ピカチュウと新しい仲間たち",
+        "series": "Sun & Moon",
+        "code": "SM0",
+        "total": 4,
+        "printed_total": 4,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2018/11/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Popplio",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sing",
+              "text": "Your opponent's Active Pokémon is now Asleep."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Pikachu's New Friends"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "sm0_ja-4",
+      "name": "ピカチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "でんじは",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        },
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "エレキボール",
+          "text": "",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/004",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "A",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "たくさんの ピカチュウを 集め 発電所を 造る 計画が 最近 発表 された。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/sm0_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/sm0_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/sm0_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "sm0_ja",
+        "name": "ピカチュウと新しい仲間たち",
+        "series": "Sun & Moon",
+        "code": "SM0",
+        "total": 4,
+        "printed_total": 4,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2018/11/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Pikachu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Thunder Wave",
+              "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Electro Ball",
+              "text": "",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Pikachu's New Friends"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 4
+}

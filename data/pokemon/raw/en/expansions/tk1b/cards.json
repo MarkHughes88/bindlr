@@ -1,0 +1,865 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "tk1b-1",
+      "name": "Electrike",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headbutt",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        309
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-1/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-1/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-2",
+      "name": "Latios",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Gather Energy",
+          "text": "Flip a coin. If heads, search your deck for a basic Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Claw",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "2/10",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kyoko Koizumi",
+      "national_pokedex_numbers": [
+        381
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-2/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-2/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-3",
+      "name": "Linoone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Zigzagoon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Seek Out",
+          "text": "Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Continuous Headbutt",
+          "text": "Flip a coin until you get tails. This attack does 40 damage times the number of heads.",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        264
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-3/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-3/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-4",
+      "name": "Magnemite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rollout",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hook",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        81
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-4/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-4/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-5",
+      "name": "Magneton",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Magnemite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ram",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Triple Smash",
+          "text": "Flip 3 coins. This attack does 20 damage plus 20 more damage for each heads.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "5/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        82
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-5/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-5/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-6",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pika Bolt",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-6/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-6/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-7",
+      "name": "Zigzagoon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "7/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        263
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-7/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-7/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-8",
+      "name": "Potion",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Remove 2 damage counters from 1 of your Pokémon (remove 1 damage counter if that Pokémon has only 1)."
+      ],
+      "number": "8",
+      "printed_number": "8/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-8/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-8/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-9",
+      "name": "Energy Search",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward"
+      ],
+      "number": "9",
+      "printed_number": "9/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kai Ishikawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-9/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-9/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tk1b-10",
+      "name": "Lightning Energy",
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic"
+      ],
+      "number": "10",
+      "printed_number": "10/10",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "n/a",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tk1b-10/small",
+          "medium": "https://images.scrydex.com/pokemon/tk1b-10/medium",
+          "large": "https://images.scrydex.com/pokemon/tk1b-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "tk1b",
+        "name": "EX Trainer Kit Latios",
+        "series": "EX",
+        "total": 10,
+        "printed_total": 10,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2004/06/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 10
+}

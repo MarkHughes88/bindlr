@@ -1,0 +1,3938 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "cp2_ja-1",
+      "name": "ハリマロン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "つるのムチ",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "001/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        650
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "頭と 背中を 硬い 樹木の 殻で 覆われているため トラックが ぶつかってきても 平気なのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Chespin",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Vine Whip",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-2",
+      "name": "レシラム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "きりさく",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "かえんれんだん",
+          "text": "ウラが出るまでコインを投げ、オモテの数×20ダメージを追加。",
+          "damage": "90+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "002/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        643
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Reshiram",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Slash",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Repeater Blaze",
+              "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads.",
+              "damage": "90+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-3",
+      "name": "フォッコ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ひをふく",
+          "text": "コインを1回投げオモテなら、30ダメージを追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kanako Eo",
+      "national_pokedex_numbers": [
+        653
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "小枝を 持ち歩き おやつがわりに ポリポリ 食べる。 耳から 熱気を 噴き出して 相手を 威嚇する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Fennekin",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Firebreathing",
+              "text": "Flip a coin. If heads, this attack does 30 more damage.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-4",
+      "name": "テールナー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "フォッコ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "かえんほうしゃ",
+          "text": "このポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/027",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        654
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "木の枝を 尻尾から 引き抜くとき 摩擦で 着火。 枝の 炎を 振って 仲間に 合図を 送る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Braixen",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Flamethrower",
+              "text": "Discard an Energy attached to this Pokémon.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Fennekin"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-5",
+      "name": "パルキア",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "スプラッシュ",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "クロススライサー",
+          "text": "次の相手の番、このワザを受けたポケモンは、手札からエネルギーを出してつけられない。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "5",
+      "printed_number": "005/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        484
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Palkia",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Wave Splash",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Cross Slicer",
+              "text": "Your opponent can't attach Energy from his or her hand to the Defending Pokémon during his or her next turn.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-6",
+      "name": "ケロマツ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "はたく",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        656
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "繊細な 泡で 体を 包み 肌を 守る。 のんきに 見せかけて 抜け目なく 周囲を うかがう。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Froakie",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Pound",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-7",
+      "name": "ゲコガシラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "ケロマツ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "いあいぎり",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/027",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        657
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "身軽さは だれにも 負けない。 ６００メートルを 超える タワーの 天辺まで １分で 登りきる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Frogadier",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Cut",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Froakie"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-8",
+      "name": "ピカチュウEX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "アイアンテール",
+          "text": "ウラが出るまでコインを投げ、オモテの数×30ダメージ。",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "オーバースパーク",
+          "text": "このポケモンについているElectricエネルギーをすべてトラッシュし、トラッシュした枚数×50ダメージ。",
+          "damage": "50×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008/027",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Pikachu-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Iron Tail",
+              "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Overspark",
+              "text": "Discard all Lightning Energy attached to this Pokémon. This attack does 50 damage times the number of Energy cards you discarded.",
+              "damage": "50×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-9",
+      "name": "ゼクロム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "きりさく",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ボルテージストーム",
+          "text": "相手のベンチポケモン全員にも、それぞれ10ダメージ。［ベンチは弱点・抵抗力の計算をしない。］",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "printed_number": "009/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        644
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Zekrom",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Slash",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Voltage Storm",
+              "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "90"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-10",
+      "name": "デデンネ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "でんきショック",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        702
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "尻尾で 発電所や 民家の コンセントから 電気を 吸い取り ヒゲから 電撃を 撃ち出す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Dedenne",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Thunder Shock",
+              "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-11",
+      "name": "ソーナンス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ミラーバリア",
+          "text": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージを受けない。"
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ころがりタックル",
+          "text": "",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "11",
+      "printed_number": "011/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        202
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "真っ黒な 尻尾を 隠すため 暗闇で ひっそりと 生きている。 自分からは 攻撃しない。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Wobbuffet",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Mirror Barrier",
+              "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Rolling Tackle",
+              "text": "",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-12",
+      "name": "フーパEX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "いじげんリング",
+          "text": "自分の山札からグッズを2枚まで選び、相手に見せてから、手札に加える。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ワンダートリック",
+          "text": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "012/027",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        720
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Hoopa-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hyperspace Ring",
+              "text": "Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Wonder Trick",
+              "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-13",
+      "name": "ヒポポタス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "はなふんしゃ",
+          "text": "次の相手の番、このワザを受けたポケモンがワザを使うとき、相手はコインを1回投げる。ウラならそのワザは失敗。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "13",
+      "printed_number": "013/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        449
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "全身に 砂を まとうことで ばい菌から 体を 守る。 水に ぬれることが 苦手。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Hippopotas",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Nose Jet",
+              "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-14",
+      "name": "ヤンチャム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "えらぶる",
+          "text": "相手の手札からオモテを見ないで1枚選び、トラッシュする。",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "014/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        674
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "一生懸命 怖い 顔で 相手を にらみつけるが 頭を なでられると つい にやけてしまう。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Pancham",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Pompous Punch",
+              "text": "Discard a random card from your opponent's hand.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-15",
+      "name": "ルチャブル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "とびひざげり",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "スカイキック",
+          "text": "このワザのダメージは抵抗力の計算をしない。",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "015/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        701
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "翼を 使い 空中で 姿勢を コントロール。 防ぎにくい 頭上から 攻撃を 仕掛ける。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Hawlucha",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "High Jump Kick",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Skyward Kick",
+              "text": "This attack's damage isn't affected by Resistance.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-16",
+      "name": "マーイーカ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "みだれかいてん",
+          "text": "コインを4回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "016/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        686
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "光の 点滅で 襲ってきた 敵の 戦意を なくしてしまう。 その すきに 姿を くらますのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Inkay",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Disorderly Flip",
+              "text": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-17",
+      "name": "ディアルガ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "鋼",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "メタルクロー",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "鋼",
+            "鋼",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "じかんとうけつ",
+          "text": "次の相手の番、このワザを受けたポケモンは、手札からポケモンを出して進化できない。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "17",
+      "printed_number": "017/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "TOKIYA",
+      "national_pokedex_numbers": [
+        483
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Dialga",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Metal Claw",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Metal",
+                "Metal",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Time Freeze",
+              "text": "Your opponent can't play any Pokémon from his or her hand to evolve the Defending Pokémon during his or her next turn.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-18",
+      "name": "ラティアス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "竜"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "むげんのおもい",
+          "text": "自分の山札を1枚引く。自分のベンチに「ラティオス」がいるなら、さらに1枚引く。"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "スピードウイング",
+          "text": "",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "妖",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        380
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Latias",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Dragon"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Eon Connection",
+              "text": "Draw a card. If Latios is on your Bench, draw 1 more card."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Speed Wing",
+              "text": "",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fairy",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-19",
+      "name": "ラティオス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "竜"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かっくう",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "水",
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "スカイブレード",
+          "text": "自分のベンチに「ラティアス」がいるなら、50ダメージを追加。",
+          "damage": "70+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "妖",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "019/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        381
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Latios",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Dragon"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Glide",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Water",
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Sky Blade",
+              "text": "If Latias is on your Bench, this attack does 50 more damage.",
+              "damage": "70+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fairy",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-20",
+      "name": "ブラックキュレム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "竜"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "サンダーネイル",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "水",
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ひょうけつざん",
+          "text": "このポケモンにも20ダメージ。",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "妖",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "20",
+      "printed_number": "020/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        646
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Black Kyurem",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Dragon"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Thunder Nail",
+              "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+              "damage": "40"
+            },
+            {
+              "cost": [
+                "Water",
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Frozen Slice",
+              "text": "This Pokémon does 20 damage to itself.",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fairy",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-21",
+      "name": "ホワイトキュレム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "竜"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "はかいこうせん",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "フレアブリザード",
+          "text": "次の自分の番、このポケモンは「フレアブリザード」が使えない。",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "妖",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "21",
+      "printed_number": "021/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        646
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "White Kyurem",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Dragon"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hyper Beam",
+              "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+              "damage": "40"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Flare Blizzard",
+              "text": "This Pokémon can't use Flare Blizzard during your next turn.",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fairy",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-22",
+      "name": "ニャース",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "へとへとタックル",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンに30ダメージ。ウラなら、このポケモンに30ダメージ。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "022/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        52
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "まるいものが 大好き。 夜な夜な 出かけては 落ちている コインを 拾い 集めて 帰ってくる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Meowth",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Exhausted Tackle",
+              "text": "Flip a coin. If heads, this attack does 30 damage to your opponent's Active Pokémon. If tails, this attack does 30 damage to itself."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-23",
+      "name": "レジギガス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "130",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "だいちのめざめ",
+          "text": "自分の手札からこのポケモンにエネルギーをつけるたび、このポケモンのHPを「20」回復する。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ギガスパンチ",
+          "text": "コインを2回投げ、すべてウラなら、このワザは失敗。",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "23",
+      "printed_number": "023/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        486
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Regigigas",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Earthen Awakening",
+              "text": "Whenever you attach an Energy card from your hand to this Pokémon, heal 20 damage from it."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Gigas Punch",
+              "text": "Flip 2 coins. If both of them are tails, this attack does nothing.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-24",
+      "name": "アルセウス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ひかりをあつめる",
+          "text": "自分のベンチポケモンについているエネルギーを好きなだけ選び、このポケモンにつけ替える。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ジャッジメントバースト",
+          "text": "このポケモンについている基本エネルギーのタイプの数×30ダメージを追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "24",
+      "printed_number": "024/027",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Arceus",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Gather Light",
+              "text": "Move as many Energy as you like from your Benched Pokémon to this Pokémon."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Judgment Blast",
+              "text": "This attack does 30 more damage for each different type of basic Energy attached to this Pokémon.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-25",
+      "name": "ワシボン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "つつく",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "025/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        627
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "強い 相手にも 見境なく 戦いを 挑む。 戦いを 繰り返す ことで 強くなるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Rufflet",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Peck",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-26",
+      "name": "ウォーグル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "ワシボン"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "つばさでうつ",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "デュアルカッター",
+          "text": "コインを2回投げ、オモテの数×80ダメージ。",
+          "damage": "80×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "26",
+      "printed_number": "026/027",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        628
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "仲間のため 危険を かえりみず 戦う。 自動車を つかんだまま 大空を 舞う ことが できる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Braviary",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Wing Attack",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Dual Cut",
+              "text": "Flip 2 coins. This attack does 80 damage times the number of heads.",
+              "damage": "80×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Rufflet"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp2_ja-27",
+      "name": "オンバット",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ちょっとすいとる",
+          "text": "このポケモンのHPを「10」回復する。",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "27",
+      "printed_number": "027/027",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        714
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "２０万ヘルツの 超音波を 浴びると 屈強な レスラーも 目が 回り 立っていられないのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp2_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/cp2_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/cp2_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp2_ja",
+        "name": "伝説キラコレクション",
+        "series": "XY",
+        "code": "CP2",
+        "total": 27,
+        "printed_total": 27,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/07/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Noibat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Blot",
+              "text": "Heal 10 damage from this Pokémon.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Legendary Shine Collection"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 27
+}

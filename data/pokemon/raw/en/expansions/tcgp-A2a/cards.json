@@ -1,0 +1,6689 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "tcgp-A2a-1",
+      "name": "Heracross",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Single-Horn Throw",
+          "text": "Flip 2 coins. If both of them are heads, this attack does 70 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Satoshi Shirai",
+      "national_pokedex_numbers": [
+        214
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-1/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-1/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-2",
+      "name": "Burmy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ram",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        412
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-2/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-2/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-3",
+      "name": "Mothim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Burmy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Gust",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "3",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        414
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-3/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-3/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-4",
+      "name": "Combee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bug Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        415
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-4/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-4/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-5",
+      "name": "Vespiquen",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Combee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Reckless Charge",
+          "text": "This Pokémon also does 30 damage to itself.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "5",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        416
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-5/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-5/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-6",
+      "name": "Cherubi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Leafage",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        420
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-6/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-6/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-7",
+      "name": "Cherrim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Cherubi"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Worry Seed",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        421
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-7/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-7/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-8",
+      "name": "Cherrim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Cherubi"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leech Seed",
+          "text": "Heal 20 damage from this Pokémon.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        421
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-8/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-8/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-9",
+      "name": "Carnivine",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Power Link",
+          "text": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Vine Whip",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Shiburingaru",
+      "national_pokedex_numbers": [
+        455
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-9/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-9/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-10",
+      "name": "Leafeon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Forest Breath",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Solar Beam",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        470
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-10/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-10/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-11",
+      "name": "Houndour",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flare",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        228
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-11/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-11/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-12",
+      "name": "Houndoom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Houndour"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Corner",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        229
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-12/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-12/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-13",
+      "name": "Heatran",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "110",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Speed Link",
+          "text": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ragin’ Mad Strike",
+          "text": "If this Pokémon has damage on it, this attack does 40 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "13",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Kazumasa Yasukuni",
+      "national_pokedex_numbers": [
+        485
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-13/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-13/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-14",
+      "name": "Marill",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Gun",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Tika Matsuno",
+      "national_pokedex_numbers": [
+        183
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-14/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-14/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-15",
+      "name": "Azumarill",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Marill"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Waterfall",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "15",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        184
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-15/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-15/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-16",
+      "name": "Barboach",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mud-Slap",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        339
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-16/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-16/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-17",
+      "name": "Whiscash",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Barboach"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Thrash",
+          "text": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon also does 20 damage to itself.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "17",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shinya Komatsu",
+      "national_pokedex_numbers": [
+        340
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-17/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-17/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-18",
+      "name": "Snorunt",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Icicle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "sowsow",
+      "national_pokedex_numbers": [
+        361
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-18/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-18/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-19",
+      "name": "Froslass",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Snorunt"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Blizzard",
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        478
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-19/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-19/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-20",
+      "name": "Snover",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Corkscrew Punch",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "20",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "otumami",
+      "national_pokedex_numbers": [
+        459
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-20/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-20/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-21",
+      "name": "Abomasnow",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Snover"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Vigor Link",
+          "text": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon cost 1 less [C] Energy."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mega Punch",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "21",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        460
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-21/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-21/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-22",
+      "name": "Glaceon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Snowy Terrain",
+          "text": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Freezing Wind",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        471
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-22/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-22/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-23",
+      "name": "Palkia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Zone Smash",
+          "text": "Flip a coin. If heads, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "23",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "toriyufu",
+      "national_pokedex_numbers": [
+        484
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-23/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-23/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-24",
+      "name": "Phione",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Pulse",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        489
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-24/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-24/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-25",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spark",
+          "text": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-25/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-25/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-26",
+      "name": "Raichu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Pikachu"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Resilience Link",
+          "text": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spark",
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Nisota Niso",
+      "national_pokedex_numbers": [
+        26
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-26/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-26/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-27",
+      "name": "Electrike",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Zap Kick",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "27",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        309
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-27/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-27/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-28",
+      "name": "Manectric",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Electrike"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flash",
+          "text": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        310
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-28/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-28/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-29",
+      "name": "Clefairy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Smack",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "rika",
+      "national_pokedex_numbers": [
+        35
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-29/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-29/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-30",
+      "name": "Clefable",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Clefairy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Moonblast",
+          "text": "During your opponent's next turn, attacks used by the Defending Pokémon do −30 damage.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "30",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        36
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-30/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-30/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-31",
+      "name": "Gastly",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Astonish",
+          "text": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "31",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yuu Nishida",
+      "national_pokedex_numbers": [
+        92
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-31/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-31/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-32",
+      "name": "Haunter",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Gastly"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mumble",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Eri Yamaki",
+      "national_pokedex_numbers": [
+        93
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-32/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-32/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-33",
+      "name": "Gengar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Haunter"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hypnoblast",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        94
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-33/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-33/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-34",
+      "name": "Unown",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "CHECK",
+          "text": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Tetsu Kayama",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-34/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-34/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-35",
+      "name": "Rotom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Speed Link",
+          "text": "If you have Arceus or Arceus ex in play, this Pokémon has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Dash Attack",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "35",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Anesaki Dynamic",
+      "national_pokedex_numbers": [
+        479
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-35/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-35/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-36",
+      "name": "Sudowoodo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fighting Headbutt",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "36",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        185
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-36/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-36/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-37",
+      "name": "Phanpy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rollout",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "37",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Asako Ito",
+      "national_pokedex_numbers": [
+        231
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-37/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-37/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-38",
+      "name": "Donphan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Phanpy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rolling Spin",
+          "text": "During your next turn, this Pokémon's Rolling Spin attack does +60 damage.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "38",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        232
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-38/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-38/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-39",
+      "name": "Larvitar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Corkscrew Punch",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "39",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        246
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-39/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-39/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-40",
+      "name": "Pupitar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Larvitar"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Speed Attack",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        247
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-40/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-40/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-41",
+      "name": "Tyranitar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Pupitar"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Power Link",
+          "text": "If you have Arceus or Arceus ex in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Land Crush",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "41",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        248
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-41/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-41/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-42",
+      "name": "Nosepass",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "42",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Satoshi Shirai",
+      "national_pokedex_numbers": [
+        299
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-42/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-42/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-43",
+      "name": "Meditite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Kick",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Mina Nakai",
+      "national_pokedex_numbers": [
+        307
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-43/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-43/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-44",
+      "name": "Medicham",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Meditite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Kick Shot",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Tetsu Kayama",
+      "national_pokedex_numbers": [
+        308
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-44/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-44/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-45",
+      "name": "Gible",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        443
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-45/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-45/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-46",
+      "name": "Gabite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Gible"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sharp Scythe",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        444
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-46/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-46/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-47",
+      "name": "Garchomp ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Gabite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Linear Attack",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Claw",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        445
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-47/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-47/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-48",
+      "name": "Zubat",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "48",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sekio",
+      "national_pokedex_numbers": [
+        41
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-48/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-48/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-49",
+      "name": "Golbat",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Zubat"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "49",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        42
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-49/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-49/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-50",
+      "name": "Crobat",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Golbat"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Cunning Link",
+          "text": "Once during your turn, if you have Arceus or Arceus ex in play, you may do 30 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Darkness Fang",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "50",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        169
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-50/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-50/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-51",
+      "name": "Croagunk",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Beat",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "51",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "SATOSHI NAKAI",
+      "national_pokedex_numbers": [
+        453
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-51/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-51/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-52",
+      "name": "Toxicroak",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Croagunk"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Toxic",
+          "text": "Your opponent's Active Pokémon is now Poisoned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "52",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        454
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-52/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-52/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-53",
+      "name": "Magnemite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "53",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "OKACHEKE",
+      "national_pokedex_numbers": [
+        81
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-53/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-53/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-54",
+      "name": "Magneton",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Magnemite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rolling Attack",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "54",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        82
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-54/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-54/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-55",
+      "name": "Magnezone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Magneton"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Resilience Link",
+          "text": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Power Beam",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "55",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "toriyufu",
+      "national_pokedex_numbers": [
+        462
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-55/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-55/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-56",
+      "name": "Mawile",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Iron Beam Breaker",
+          "text": "If your opponent's Active Pokémon is a Metal Pokémon, this attack does 30 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "56",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "tetsuya koizumi",
+      "national_pokedex_numbers": [
+        303
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-56/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-56/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-57",
+      "name": "Probopass ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Nosepass"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Defensive Unit",
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "57",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        476
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-57/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-57/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-58",
+      "name": "Bronzor",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ram",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "58",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        436
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-58/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-58/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-59",
+      "name": "Bronzong",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Bronzor"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psychic",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "59",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        437
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-59/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-59/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-60",
+      "name": "Dialga",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Time Mash",
+          "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "60",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "akagi",
+      "national_pokedex_numbers": [
+        483
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-60/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-60/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-61",
+      "name": "Giratina",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Crisis Dive",
+          "text": "Discard 2 random Energy from this Pokémon.",
+          "damage": "120"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "61",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Shin Nagasawa",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-61/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-61/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-62",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tail Whap",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "62",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-62/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-62/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-63",
+      "name": "Snorlax",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Collapse",
+          "text": "This Pokémon is now Asleep.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "63",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "burari",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-63/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-63/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-64",
+      "name": "Hoothoot",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "64",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        163
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-64/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-64/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-65",
+      "name": "Noctowl",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Hoothoot"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Silent Wing",
+          "text": "Your opponent reveals their hand.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "65",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "DOM",
+      "national_pokedex_numbers": [
+        164
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-65/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-65/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-65/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 65,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-66",
+      "name": "Starly",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Glide",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "66",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Apios",
+      "national_pokedex_numbers": [
+        396
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-66/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-66/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-66/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 66,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-67",
+      "name": "Staravia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Starly"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Wing Attack",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "67",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        397
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-67/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-67/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-67/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 67,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-68",
+      "name": "Staraptor",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Staravia"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Brave Bird",
+          "text": "This Pokémon also does 20 damage to itself.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "68",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Minahamu",
+      "national_pokedex_numbers": [
+        398
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-68/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-68/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-68/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 68,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-69",
+      "name": "Shaymin",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Sky Support",
+          "text": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Flap",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "69",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Mizue",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-69/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-69/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-69/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 69,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-70",
+      "name": "Arceus",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Power Blast",
+          "text": "Discard a random Energy from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "70",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Nurikabe",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-70/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-70/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-70/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 70,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-71",
+      "name": "Arceus ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Fabled Luster",
+          "text": "This Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Ultimate Force",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon.",
+          "damage": "70+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "71",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-71/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-71/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-71/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 71,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-72",
+      "name": "Irida",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "72",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Atsushi Furusawa",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-72/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-72/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-72/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 72,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-73",
+      "name": "Celestic Town Elder",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "73",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Yuu Nishida",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-73/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-73/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-73/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 73,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-74",
+      "name": "Barry",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "74",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Hideki Ishikawa",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-74/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-74/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-74/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 74,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-75",
+      "name": "Adaman",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "75",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "akagi",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-75/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-75/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-75/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 75,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-76",
+      "name": "Houndoom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Houndour"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Corner",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "76",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "matazo",
+      "national_pokedex_numbers": [
+        229
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-76/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-76/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-76/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 76,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-77",
+      "name": "Marill",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Gun",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "77",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Taiga Kayama",
+      "national_pokedex_numbers": [
+        183
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-77/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-77/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-77/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 77,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-78",
+      "name": "Unown",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "CHECK",
+          "text": "Once during your turn, you may choose either player. Look at the top card of that player's deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "78",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "IKEDA Saki",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-78/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-78/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-78/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 78,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-79",
+      "name": "Sudowoodo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fighting Headbutt",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 30 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "79",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Yuriko Akase",
+      "national_pokedex_numbers": [
+        185
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-79/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-79/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-79/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 79,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-80",
+      "name": "Magnemite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "80",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Yukihiro Tada",
+      "national_pokedex_numbers": [
+        81
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-80/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-80/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-80/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 80,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-81",
+      "name": "Shaymin",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Sky Support",
+          "text": "As long as this Pokémon is on your Bench, your Active Basic Pokemon's Retreat Cost is 1 less."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Flap",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "81",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "MINAMINAMI Take",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-81/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-81/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-81/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 81,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-82",
+      "name": "Leafeon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Forest Breath",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Solar Beam",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "82",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        470
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-82/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-82/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-82/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 82,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-83",
+      "name": "Glaceon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Snowy Terrain",
+          "text": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Freezing Wind",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "83",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        471
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-83/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-83/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-83/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 83,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-84",
+      "name": "Garchomp ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Gabite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Linear Attack",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Claw",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "84",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        445
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-84/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-84/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-84/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 84,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-85",
+      "name": "Probopass ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Nosepass"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Defensive Unit",
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "85",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        476
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-85/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-85/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-85/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 85,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-86",
+      "name": "Arceus ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Fabled Luster",
+          "text": "This Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Ultimate Force",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon.",
+          "damage": "70+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "86",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-86/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-86/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-86/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 86,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-87",
+      "name": "Irida",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "87",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Atsushi Furusawa",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-87/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-87/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-87/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 87,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-88",
+      "name": "Celestic Town Elder",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "88",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Yuu Nishida",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-88/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-88/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-88/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 88,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-89",
+      "name": "Barry",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "89",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Hideki Ishikawa",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-89/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-89/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-89/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 89,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-90",
+      "name": "Adaman",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "90",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "akagi",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-90/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-90/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-90/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 90,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-91",
+      "name": "Leafeon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Forest Breath",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may take a [G] Energy from your Energy Zone and attach it to 1 of your [G] Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Solar Beam",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "91",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "saino misaki",
+      "national_pokedex_numbers": [
+        470
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-91/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-91/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-91/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 91,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-92",
+      "name": "Glaceon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Snowy Terrain",
+          "text": "During Pokémon Checkup, if this Pokémon is in the Active Spot, do 10 damage to your opponent's Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Freezing Wind",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "92",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "rika",
+      "national_pokedex_numbers": [
+        471
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-92/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-92/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-92/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 92,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-93",
+      "name": "Garchomp ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Gabite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Linear Attack",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Claw",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "93",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "toriyufu",
+      "national_pokedex_numbers": [
+        445
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-93/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-93/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-93/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 93,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-94",
+      "name": "Probopass ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Nosepass"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Defensive Unit",
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "94",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Masa",
+      "national_pokedex_numbers": [
+        476
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-94/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-94/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-94/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 94,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-95",
+      "name": "Arceus ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Fabled Luster",
+          "text": "This Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Ultimate Force",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon.",
+          "damage": "70+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "95",
+      "rarity": "3 Star",
+      "rarity_code": "3 Star",
+      "artist": "Takumi Wada",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-95/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-95/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-95/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 95,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2a-96",
+      "name": "Arceus ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Fabled Luster",
+          "text": "This Pokémon can't be affected by any Special Conditions."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Ultimate Force",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon.",
+          "damage": "70+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "96",
+      "rarity": "Crown",
+      "rarity_code": "Crown",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2a-96/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2a-96/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2a-96/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2a",
+        "name": "Triumphant Light",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2a",
+        "total": 96,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/02/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 96,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 96
+}

@@ -1,0 +1,7315 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "adv2_ja-1",
+      "name": "タネボー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        273
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Seedot",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Surprise Attack",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-2",
+      "name": "コノハナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Steady Punch",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Razor Leaf",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        274
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Nuzleaf",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Steady Punch",
+              "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Razor Leaf",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Seedot"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-3",
+      "name": "ダーテング",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "120",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Fan Away",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, return 1 Energy card attached to the Defending Pokémon to your opponent's hand. This power can't be used if Shiftry is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Light Touch Throw",
+          "text": "Does 80 damage minus 10 damage for each Energy attached to the Defending Pokémon.",
+          "damage": "80-"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        275
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Shiftry",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Fan Away",
+              "text": "Once during your turn (before your attack), you may flip a coin. If heads, return 1 Energy card attached to the Defending Pokémon to your opponent's hand. This power can't be used if Shiftry is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Light Touch Throw",
+              "text": "Does 80 damage minus 10 damage for each Energy attached to the Defending Pokémon.",
+              "damage": "80-"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Nuzleaf"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-4",
+      "name": "バルビート",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Uplifting Glow",
+          "text": "As long as Illumise is in play, Volbeat's Retreat Cost is 0."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Toxic Vibration",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pester",
+          "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 20 damage plus 20 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        313
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Volbeat",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Uplifting Glow",
+              "text": "As long as Illumise is in play, Volbeat's Retreat Cost is 0."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Toxic Vibration",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Asleep."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Pester",
+              "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 20 damage plus 20 more damage.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-5",
+      "name": "イルミーゼ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Glowing Screen",
+          "text": "As long as Volbeat is in play, any damage done to Illumise by attacks from Fighting Pokémon and Darkness Pokémon is reduced by 30. You can't reduce more than 30 damage even if there is more than 1 Volbeat in play."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Chaotic Noise",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pester",
+          "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 20 damage plus 20 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        314
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Illumise",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Glowing Screen",
+              "text": "As long as Volbeat is in play, any damage done to Illumise by attacks from Fighting Pokémon and Darkness Pokémon is reduced by 30. You can't reduce more than 30 damage even if there is more than 1 Volbeat in play."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Chaotic Noise",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, the Defending Pokémon is now Asleep."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Pester",
+              "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 20 damage plus 20 more damage.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-6",
+      "name": "サボネア",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Poison Payback",
+          "text": "If Cacnea is your Active Pokémon and is damaged by an opponent's attack (even if Cacnea is Knocked Out), the Attacking Pokémon is now Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Light Punch",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        331
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Cacnea",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Poison Payback",
+              "text": "If Cacnea is your Active Pokémon and is damaged by an opponent's attack (even if Cacnea is Knocked Out), the Attacking Pokémon is now Poisoned."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Light Punch",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-7",
+      "name": "ノクタス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Poison Payback",
+          "text": "If Cacturne is your Active Pokémon and is damaged by an opponent's attack (even if Cacturne is Knocked Out), the Attacking Pokémon is now Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Feint Attack",
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        332
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Cacturne",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Poison Payback",
+              "text": "If Cacturne is your Active Pokémon and is damaged by an opponent's attack (even if Cacturne is Knocked Out), the Attacking Pokémon is now Poisoned."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Feint Attack",
+              "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on that Pokémon."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Cacnea"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-8",
+      "name": "ハブネーク",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Deadly Poison",
+          "text": "You may discard a Grass Energy card attached to Seviper. If you do, the Defending Pokémon is now Poisoned.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Extra Poison",
+          "text": "If the Defending Pokémon is Pokémon-ex, the Defending Pokémon is now Asleep and Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        336
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Seviper",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Deadly Poison",
+              "text": "You may discard a Grass Energy card attached to Seviper. If you do, the Defending Pokémon is now Poisoned.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Extra Poison",
+              "text": "If the Defending Pokémon is Pokémon-ex, the Defending Pokémon is now Asleep and Poisoned.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-9",
+      "name": "リリーラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Influence",
+          "text": "Search your deck for Omanyte, Kabuto, Aerodactyl, Lileep, or Anorith and put up to 2 of them onto your Bench. Shuffle your deck afterward. Treat the new Benched Pokémon as Basic Pokémon."
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Time Spiral",
+          "text": "If your opponent has any Evolved Pokémon in play, choose 1 of them and flip a coin. If heads, remove the highest Stage Evolution card on that Pokémon and have your opponent shuffle it into his or her deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        345
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Lileep",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Influence",
+              "text": "Search your deck for Omanyte, Kabuto, Aerodactyl, Lileep, or Anorith and put up to 2 of them onto your Bench. Shuffle your deck afterward. Treat the new Benched Pokémon as Basic Pokémon."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Time Spiral",
+              "text": "If your opponent has any Evolved Pokémon in play, choose 1 of them and flip a coin. If heads, remove the highest Stage Evolution card on that Pokémon and have your opponent shuffle it into his or her deck."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Root Fossil"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-10",
+      "name": "ユレイドル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Super Suction Cups",
+          "text": "As long as Cradily is your Active Pokémon, your opponent's Pokémon can't retreat."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lure Poison",
+          "text": "Before using this effect, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon, if any. The Defending Pokémon is now Poisoned."
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Spiral Drain",
+          "text": "Remove 2 damage counters from Cradily (remove 1 if there is only 1).",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        346
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Cradily",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Super Suction Cups",
+              "text": "As long as Cradily is your Active Pokémon, your opponent's Pokémon can't retreat."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Lure Poison",
+              "text": "Before using this effect, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon, if any. The Defending Pokémon is now Poisoned."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Spiral Drain",
+              "text": "Remove 2 damage counters from Cradily (remove 1 if there is only 1).",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Lileep"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-11",
+      "name": "ヒノアラシ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Singe",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        155
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Cyndaquil",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tackle",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Singe",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-12",
+      "name": "マグマラシ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Slash",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Burning Claw",
+          "text": "You may discard a Fire Energy card attached to Quilava. If you do, the Defending Pokémon is now Burned.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        156
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Quilava",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Slash",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Burning Claw",
+              "text": "You may discard a Fire Energy card attached to Quilava. If you do, the Defending Pokémon is now Burned.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Cyndaquil"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-13",
+      "name": "バクフーンex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化",
+        "ex"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "160",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Ring of Fire",
+          "text": "The Defending Pokémon is now Burned, and can't retreat until the end of your opponent's next turn.",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Split Blast",
+          "text": "Discard 1 Energy card attached to Typhlosion ex. If your opponent has more than 1 Defending Pokémon, you may do 50 damage to each of them instead.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "013/053",
+      "rarity": "Rare Holo ex",
+      "rarity_code": "Rare Holo ex",
+      "artist": "Hikaru Koike",
+      "national_pokedex_numbers": [
+        157
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Typhlosion ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2",
+            "ex"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Ring of Fire",
+              "text": "The Defending Pokémon is now Burned, and can't retreat until the end of your opponent's next turn.",
+              "damage": "40"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 5,
+              "name": "Split Blast",
+              "text": "Discard 1 Energy card attached to Typhlosion ex. If your opponent has more than 1 Defending Pokémon, you may do 50 damage to each of them instead.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Quilava"
+          ],
+          "rarity": "Rare Holo ex",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-14",
+      "name": "コダック",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Confusion Wave",
+          "text": "Both Psyduck and the Defending Pokémon are now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "014/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Psyduck",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Confusion Wave",
+              "text": "Both Psyduck and the Defending Pokémon are now Confused."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-15",
+      "name": "ゴルダック",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Chaos Flash",
+          "text": "Once during your turn (before your attack), if Golduck is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Confused. This power can't be used if Golduck is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Special Blow",
+          "text": "If the Defending Pokémon has any Special Energy cards attached to it, this attack does 30 damage plus 40 more damage.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "015/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        55
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Golduck",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Chaos Flash",
+              "text": "Once during your turn (before your attack), if Golduck is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Confused. This power can't be used if Golduck is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Special Blow",
+              "text": "If the Defending Pokémon has any Special Energy cards attached to it, this attack does 30 damage plus 40 more damage.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Psyduck"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-16",
+      "name": "マリル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Double Bubble",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads. If either of the coins is heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "number": "16",
+      "printed_number": "016/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        183
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Marill",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Double Bubble",
+              "text": "Flip 2 coins. This attack does 10 damage times the number of heads. If either of the coins is heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-17",
+      "name": "マリルリ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Drizzle",
+          "text": "If you have Water Energy cards in your hand, attach as many Water Energy cards as you like to any of your Active Pokémon."
+        },
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Max Bubbles",
+          "text": "Flip a coin for each Energy attached to all of your Active Pokémon. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "017/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        184
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Azumarill",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Drizzle",
+              "text": "If you have Water Energy cards in your hand, attach as many Water Energy cards as you like to any of your Active Pokémon."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Max Bubbles",
+              "text": "Flip a coin for each Energy attached to all of your Active Pokémon. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Marill"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-18",
+      "name": "ハスボー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Rain Dish",
+          "text": "At any time between turns, remove 1 damage counter from Lotad."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ram",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        270
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Lotad",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Rain Dish",
+              "text": "At any time between turns, remove 1 damage counter from Lotad."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Ram",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-19",
+      "name": "ハスブレロ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Rain Dish",
+          "text": "At any time between turns, remove 1 damage counter from Lombre."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Double Scratch",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "019/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        271
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Lombre",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Rain Dish",
+              "text": "At any time between turns, remove 1 damage counter from Lombre."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Double Scratch",
+              "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Lotad"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-20",
+      "name": "ルンパッパ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Rain Dish",
+          "text": "At any time between turns, remove 1 damage counter from Ludicolo."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hydro Punch",
+          "text": "Does 50 damage plus 10 more damage for each Water Energy attached to Ludicolo but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "020/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        272
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Ludicolo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Rain Dish",
+              "text": "At any time between turns, remove 1 damage counter from Ludicolo."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hydro Punch",
+              "text": "Does 50 damage plus 10 more damage for each Water Energy attached to Ludicolo but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+              "damage": "50+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Lombre"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-21",
+      "name": "ホエルオーex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化",
+        "ex"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "200",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Super Deep Dive",
+          "text": "If you don't have any Benched Pokémon, this attack does nothing. Remove 3 damage counters from Wailord ex. Switch Wailord ex with 1 of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Dwindling Wave",
+          "text": "Does 100 damage minus 10 damage for each damage counter on Wailord ex.",
+          "damage": "100-"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "021/053",
+      "rarity": "Rare Holo ex",
+      "rarity_code": "Rare Holo ex",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        321
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Wailord ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1",
+            "ex"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Super Deep Dive",
+              "text": "If you don't have any Benched Pokémon, this attack does nothing. Remove 3 damage counters from Wailord ex. Switch Wailord ex with 1 of your Benched Pokémon."
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Dwindling Wave",
+              "text": "Does 100 damage minus 10 damage for each damage counter on Wailord ex.",
+              "damage": "100-"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Wailmer"
+          ],
+          "rarity": "Rare Holo ex",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-22",
+      "name": "ピカチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pika Bolt",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "022/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Pikachu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scratch",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Pika Bolt",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-23",
+      "name": "ライチュウex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化",
+        "ex"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Dazzle Blast",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mega Thunderbolt",
+          "text": "Discard all Energy cards attached to Raichu ex.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "printed_number": "023/053",
+      "rarity": "Rare Holo ex",
+      "rarity_code": "Rare Holo ex",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        26
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Raichu ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1",
+            "ex"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Dazzle Blast",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Mega Thunderbolt",
+              "text": "Discard all Energy cards attached to Raichu ex.",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pikachu"
+          ],
+          "rarity": "Rare Holo ex",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-24",
+      "name": "ピチュー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energy Retrieval",
+          "text": "Search your discard pile for up to 2 basic Energy cards and attach them to 1 of your Pokémon. Put 1 damage counter on that Pokémon for each Energy card attached in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "024/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        172
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Pichu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Baby Evolution",
+              "text": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Energy Retrieval",
+              "text": "Search your discard pile for up to 2 basic Energy cards and attach them to 1 of your Pokémon. Put 1 damage counter on that Pokémon for each Energy card attached in this way."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-25",
+      "name": "ネイティ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Soothing Wave",
+          "text": "Each Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "025/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        177
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Natu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Peck",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Soothing Wave",
+              "text": "Each Defending Pokémon is now Asleep."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-26",
+      "name": "ネイティオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Healing Wind",
+          "text": "Once during your turn (before your attack), you may remove 1 damage counter from each of your Active Pokémon. This power can't be used if Xatu is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psyimpact",
+          "text": "Put 1 damage counter on each of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "number": "26",
+      "printed_number": "026/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        178
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Xatu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Healing Wind",
+              "text": "Once during your turn (before your attack), you may remove 1 damage counter from each of your Active Pokémon. This power can't be used if Xatu is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Psyimpact",
+              "text": "Put 1 damage counter on each of your opponent's Pokémon."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Natu"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-27",
+      "name": "ソーナンス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Safeguard",
+          "text": "Prevent all effects of attacks, including damage, done to Wobbuffet by your opponent's Pokémon-ex."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Flip Over",
+          "text": "Wobbuffet does 10 damage to itself, and don't apply Weakness and Resistance to this damage.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "27",
+      "printed_number": "027/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        202
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Wobbuffet",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Safeguard",
+              "text": "Prevent all effects of attacks, including damage, done to Wobbuffet by your opponent's Pokémon-ex."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Flip Over",
+              "text": "Wobbuffet does 10 damage to itself, and don't apply Weakness and Resistance to this damage.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-28",
+      "name": "サーナイトex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "150",
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Feedback",
+          "text": "Count the number of cards in your opponent's hand. Put that many damage counters on the Defending Pokémon."
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Psystorm",
+          "text": "Does 10 damage times the total amount of Energy attached to all Pokémon in play.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "printed_number": "028/053",
+      "rarity": "Rare Holo ex",
+      "rarity_code": "Rare Holo ex",
+      "artist": "Hikaru Koike",
+      "national_pokedex_numbers": [
+        282
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Gardevoir ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2",
+            "ex"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Feedback",
+              "text": "Count the number of cards in your opponent's hand. Put that many damage counters on the Defending Pokémon."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Psystorm",
+              "text": "Does 10 damage times the total amount of Energy attached to all Pokémon in play.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Kirlia"
+          ],
+          "rarity": "Rare Holo ex",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-29",
+      "name": "ルナトーン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Lunar Eclipse",
+          "text": "Once during your turn (before your attack), if Solrock is in play, you may use this power. Until the end of your turn, Lunatone's type is Darkness. This power can't be used if Lunatone is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Cosmic Draw",
+          "text": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+        },
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Lunar Blast",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "printed_number": "029/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        337
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Lunatone",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Lunar Eclipse",
+              "text": "Once during your turn (before your attack), if Solrock is in play, you may use this power. Until the end of your turn, Lunatone's type is Darkness. This power can't be used if Lunatone is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Cosmic Draw",
+              "text": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Lunar Blast",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-30",
+      "name": "ヨマワル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Surprise",
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        },
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Confuse Ray",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "030/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        355
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Duskull",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Surprise",
+              "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+            },
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Confuse Ray",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-31",
+      "name": "サマヨール",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Judgement",
+          "text": "Flip 2 coins. If both of them are heads, the Defending Pokémon is Knocked Out."
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Random Curse",
+          "text": "Put a total of 5 damage counters on all Defending Pokémon in any way you like."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "31",
+      "printed_number": "031/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        356
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Dusclops",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Judgement",
+              "text": "Flip 2 coins. If both of them are heads, the Defending Pokémon is Knocked Out."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Random Curse",
+              "text": "Put a total of 5 damage counters on all Defending Pokémon in any way you like."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Duskull"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-32",
+      "name": "ソーナノ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Wobbuffet from your hand onto Wynaut (this counts as evolving Wynaut), and remove all damage counters from Wynaut."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Alluring Smile",
+          "text": "Search your deck for a Basic Pokémon card or Evolution card for each Energy attached to Wynaut, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "printed_number": "032/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        360
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Wynaut",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Baby Evolution",
+              "text": "Once during your turn (before your attack), you may put Wobbuffet from your hand onto Wynaut (this counts as evolving Wynaut), and remove all damage counters from Wynaut."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Alluring Smile",
+              "text": "Search your deck for a Basic Pokémon card or Evolution card for each Energy attached to Wynaut, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-33",
+      "name": "サンド",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Poison Needle",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "printed_number": "033/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        27
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Sandshrew",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Poison Needle",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-34",
+      "name": "サンドパン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sand Swirl",
+          "text": "Does 20 damage to each Defending Pokémon. The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Earthquake",
+          "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "number": "34",
+      "printed_number": "034/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        28
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Sandslash",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Sand Swirl",
+              "text": "Does 20 damage to each Defending Pokémon. The Defending Pokémon can't retreat until the end of your opponent's next turn."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Earthquake",
+              "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "evolves_from": [
+            "Sandshrew"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-35",
+      "name": "ナックラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sand Pit",
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Irongrip",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "35",
+      "printed_number": "035/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        328
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Trapinch",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sand Pit",
+              "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Irongrip",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-36",
+      "name": "ソルロック",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Solar Eclipse",
+          "text": "Once during your turn (before your attack), if Lunatone is in play, you may use this power. Until the end of your turn, Solrock's type is Fire. This power can't be used if Solrock is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Cosmic Draw",
+          "text": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+        },
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Solar Blast",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "36",
+      "printed_number": "036/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        338
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Solrock",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Solar Eclipse",
+              "text": "Once during your turn (before your attack), if Lunatone is in play, you may use this power. Until the end of your turn, Solrock's type is Fire. This power can't be used if Solrock is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Cosmic Draw",
+              "text": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Solar Blast",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-37",
+      "name": "ヤジロン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rapid Spin",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch Baltoy with 1 of your Benched Pokémon, if any.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "printed_number": "037/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        343
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Baltoy",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Rapid Spin",
+              "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch Baltoy with 1 of your Benched Pokémon, if any.",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-38",
+      "name": "アノプス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fast Evolution",
+          "text": "Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pierce",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "printed_number": "038/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        347
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Anorith",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Fast Evolution",
+              "text": "Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Pierce",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Claw Fossil"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-39",
+      "name": "アーマルド",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "120",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Primal Veil",
+          "text": "As long as Armaldo is your Active Pokémon, each player can't play any Supporter cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Blade Arms",
+          "text": "",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "39",
+      "printed_number": "039/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        348
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Armaldo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Primal Veil",
+              "text": "As long as Armaldo is your Active Pokémon, each player can't play any Supporter cards."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Blade Arms",
+              "text": "",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Anorith"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-40",
+      "name": "ジグザグマ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Collect",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Headbutt",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "printed_number": "040/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        263
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Zigzagoon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Collect",
+              "text": "Draw a card."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Headbutt",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-41",
+      "name": "ルリリ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Marill from your hand onto Azurill (this counts as evolving Azurill), and remove all damage counters from Azurill."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Jump Catch",
+          "text": "Search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "printed_number": "041/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        298
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Azurill",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Baby Evolution",
+              "text": "Once during your turn (before your attack), you may put Marill from your hand onto Azurill (this counts as evolving Azurill), and remove all damage counters from Azurill."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Jump Catch",
+              "text": "Search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-42",
+      "name": "ザングース",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Poison Resistance",
+          "text": "Zangoose can't be Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Target Slash",
+          "text": "If the Defending Pokémon is Seviper, this attack does 10 damage plus 30 more damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Super Slash",
+          "text": "If the Defending Pokémon is an Evolved Pokémon, this attack does 30 damage plus 30 more damage.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "42",
+      "printed_number": "042/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        335
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Zangoose",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Poison Resistance",
+              "text": "Zangoose can't be Poisoned."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Target Slash",
+              "text": "If the Defending Pokémon is Seviper, this attack does 10 damage plus 30 more damage.",
+              "damage": "10+"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Super Slash",
+              "text": "If the Defending Pokémon is an Evolved Pokémon, this attack does 30 damage plus 30 more damage.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-43",
+      "name": "カクレオン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Energy Variation",
+          "text": "Kecleon's type is the same as every type of basic Energy card attached to Kecleon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Double Scratch",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "043/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        352
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Kecleon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Energy Variation",
+              "text": "Kecleon's type is the same as every type of basic Energy card attached to Kecleon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Double Scratch",
+              "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-44",
+      "name": "ヤミラミ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Supernatural",
+          "text": "Look at your opponent's hand. You may use the effect of a Supporter card you find there as the effect of this attack. (The Supporter card remains in your opponent's hand.)"
+        },
+        {
+          "cost": [
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Dark Bind",
+          "text": "You may discard a Darkness Energy card attached to Sableye. If you do, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "printed_number": "044/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        302
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Sableye",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Supernatural",
+              "text": "Look at your opponent's hand. You may use the effect of a Supporter card you find there as the effect of this attack. (The Supporter card remains in your opponent's hand.)"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Dark Bind",
+              "text": "You may discard a Darkness Energy card attached to Sableye. If you do, the Defending Pokémon is now Paralyzed.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-45",
+      "name": "クチート",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scam",
+          "text": "Look at your opponent's hand. You may have your opponent shuffle a Supporter card you find there into his or her deck. If you do, your opponent draws a card."
+        },
+        {
+          "cost": [
+            "鋼",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Metal Hook",
+          "text": "Before doing damage, you may switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. If you do, this attack does 20 damage to the new Defending Pokémon.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "printed_number": "045/053",
+      "rarity": "レアホロ",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        303
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-45/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-45/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 45,
+      "translation": {
+        "en": {
+          "name": "Mawile",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Scam",
+              "text": "Look at your opponent's hand. You may have your opponent shuffle a Supporter card you find there into his or her deck. If you do, your opponent draws a card."
+            },
+            {
+              "cost": [
+                "Metal",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Metal Hook",
+              "text": "Before doing damage, you may switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. If you do, this attack does 20 damage to the new Defending Pokémon.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare Holo",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-46",
+      "name": "ボスゴドラex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化",
+        "ex"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "150",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rend",
+          "text": "If the Defending Pokémon has any damage counters on it, this attack does 30 damage plus 30 more damage.",
+          "damage": "30+"
+        },
+        {
+          "cost": [
+            "鋼",
+            "鋼",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Metal Surge",
+          "text": "Does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "草",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "printed_number": "046/053",
+      "rarity": "Rare Holo ex",
+      "rarity_code": "Rare Holo ex",
+      "artist": "Hikaru Koike",
+      "national_pokedex_numbers": [
+        306
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-46/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-46/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 46,
+      "translation": {
+        "en": {
+          "name": "Aggron ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2",
+            "ex"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Rend",
+              "text": "If the Defending Pokémon has any damage counters on it, this attack does 30 damage plus 30 more damage.",
+              "damage": "30+"
+            },
+            {
+              "cost": [
+                "Metal",
+                "Metal",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 5,
+              "name": "Metal Surge",
+              "text": "Does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Grass",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Lairon"
+          ],
+          "rarity": "Rare Holo ex",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-47",
+      "name": "ツメの化石",
+      "supertype": "トレーナー",
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Jagged Stone",
+          "text": "If Claw Fossil is your Active Pokémon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokémon."
+        }
+      ],
+      "number": "47",
+      "printed_number": "047/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-47/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-47/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 47,
+      "translation": {
+        "en": {
+          "name": "Claw Fossil",
+          "supertype": "Trainer",
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Jagged Stone",
+              "text": "If Claw Fossil is your Active Pokémon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokémon."
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-48",
+      "name": "ねっこの化石",
+      "supertype": "トレーナー",
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Spongy Stone",
+          "text": "At any time between turns, remove 1 damage counter from Root Fossil."
+        }
+      ],
+      "number": "48",
+      "printed_number": "048/053",
+      "rarity": "通常",
+      "rarity_code": "●",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-48/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-48/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 48,
+      "translation": {
+        "en": {
+          "name": "Root Fossil",
+          "supertype": "Trainer",
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Spongy Stone",
+              "text": "At any time between turns, remove 1 damage counter from Root Fossil."
+            }
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-49",
+      "name": "なんでもなおしW",
+      "supertype": "トレーナー",
+      "number": "49",
+      "printed_number": "049/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-49/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-49/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 49,
+      "translation": {
+        "en": {
+          "name": "Double Full Heal",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-50",
+      "name": "ふしぎなアメ",
+      "supertype": "トレーナー",
+      "number": "50",
+      "printed_number": "050/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-50/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-50/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 50,
+      "translation": {
+        "en": {
+          "name": "Rare Candy",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-51",
+      "name": "マユミのネットサーチ",
+      "supertype": "トレーナー",
+      "number": "51",
+      "printed_number": "051/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-51/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-51/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 51,
+      "translation": {
+        "en": {
+          "name": "Lanette's Net Search",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-52",
+      "name": "ミツルの育成",
+      "supertype": "トレーナー",
+      "number": "52",
+      "printed_number": "052/053",
+      "rarity": "非",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-52/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-52/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 52,
+      "translation": {
+        "en": {
+          "name": "Wally's Training",
+          "supertype": "Trainer",
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "adv2_ja-53",
+      "name": "マルチエネルギー",
+      "supertype": "エネルギー",
+      "number": "53",
+      "printed_number": "053/053",
+      "rarity": "希少",
+      "rarity_code": "★",
+      "artist": "Takumi Akabane",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/adv2_ja-53/small",
+          "medium": "https://images.scrydex.com/pokemon/adv2_ja-53/medium",
+          "large": "https://images.scrydex.com/pokemon/adv2_ja-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "adv2_ja",
+        "name": "砂漠のきせき",
+        "series": "ADV",
+        "total": 53,
+        "printed_total": 53,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2003/04/18",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 53,
+      "translation": {
+        "en": {
+          "name": "Multi Energy",
+          "supertype": "Energy",
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Miracle of the Desert"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 53
+}

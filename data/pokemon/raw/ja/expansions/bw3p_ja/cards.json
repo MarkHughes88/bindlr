@@ -1,0 +1,8134 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "bw3p_ja-1",
+      "name": "カイロス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "パワーペンチ",
+          "text": "コインを2回投げ、オモテの数ぶん、相手のバトルポケモンについているエネルギーを選び、トラッシュする。"
+        },
+        {
+          "cost": [
+            "草",
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "はさんでしめる",
+          "text": "次の相手の番、このワザを受けた相手のバトルポケモンは、にげられない。",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "001/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        127
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "２本の ツノで 獲物を 挟んで ちぎれるまで 離さない。 ちぎれない ときは かなたまで 投げ飛ばすのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Pinsir",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Power Pinch",
+              "text": "Flip 2 coins. For each heads, discard an Energy attached to the Defending Pokémon."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Grip and Squeeze",
+              "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-2",
+      "name": "タネボー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ころばす",
+          "text": "コインを1回投げオモテなら、10ダメージを追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        273
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "枝に ぶらさがっていると 木の実に そっくり。 ついばもうとした ポケモンを 驚かせて 喜ぶ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Seedot",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Trip Over",
+              "text": "Flip a coin. If heads, this attack does 10 more damage.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-3",
+      "name": "コロボーシ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "たたく",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "草",
+            "草"
+          ],
+          "converted_energy_cost": 2,
+          "name": "にどずつき",
+          "text": "コインを2回投げ、オモテの数×10ダメージを追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        401
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "足が 短く こけそうになるたび 硬い 触角が こすれあって 木琴のような 音が 響く。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Kricketot",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Beat",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Grass"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Double Headbutt",
+              "text": "Flip 2 coins. This attack does 10 more damage for each heads.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-4",
+      "name": "コロトック",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "コロボーシ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "あんみんノイズ",
+          "text": "相手のバトルポケモンをねむりにする。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ドレインカッター",
+          "text": "コインを2回投げ、オモテの数×40ダメージ。相手のバトルポケモンに与えたダメージぶん、このポケモンのHPを回復する。",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        402
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "変幻自在の 鳴き声を 競い合わせる 鳴き比べ という 遊びを 楽しむ 村がある。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Kricketune",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "White Noise",
+              "text": "The Defending Pokémon is now Asleep.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Draining Cut",
+              "text": "Flip 2 coins. This attack does 40 damage times the number of heads. Heal from this Pokémon the same amount of damage you did to the Defending Pokémon.",
+              "damage": "40×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Kricketot"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-5",
+      "name": "シェイミEX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "こうごうせい",
+          "text": "自分の山札からGrassエネルギーを1枚選び、自分のポケモンにつける。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "リベンジバースト",
+          "text": "相手がすでにとったサイドの枚数×30ダメージを追加。",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        492
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Shaymin-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Synthesis",
+              "text": "Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Revenge Blast",
+              "text": "Does 30 more damage for each Prize card your opponent has taken.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-6",
+      "name": "クルミル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "はっぱブーメラン",
+          "text": "コインを2回投げ、オモテの数×20ダメージ。",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        540
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "タマゴから かえると ハハコモリに 服を 作ってもらい 着せられる。 フードで 頭を 隠して 寝る。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Sewaddle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Leaf Boomerang",
+              "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-7",
+      "name": "クルマユ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "クルミル"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "たいあたり",
+          "text": "",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "いとをはく",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        541
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "クルマユの 住む 森は 草木が よく 育つ。 クルマユが 落ち葉を 栄養分に 変えているのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Swadloon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tackle",
+              "text": "",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "String Shot",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Sewaddle"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-8",
+      "name": "ハハコモリ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "クルマユ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "リーフテーラー",
+          "text": "このポケモンがいるかぎり、エネルギーがついている自分のポケモン全員の弱点は、すべてなくなる。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "アームカッター",
+          "text": "コインを2回投げ、オモテの数×20ダメージを追加。",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "008/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        542
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "小さい ポケモンを 見つけると 腕の カッターと 粘着糸で 葉っぱの 服を 縫う 習性。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Leavanny",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Leaf Tailor",
+              "text": "Each of your Pokémon that has any Energy attached to it has no Weakness."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Cutting Arm",
+              "text": "Flip 2 coins. This attack does 20 more damage for each heads.",
+              "damage": "40+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Swadloon"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-9",
+      "name": "ファイヤー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "やきこがす",
+          "text": "相手のバトルポケモンをやけどにする。",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "だいもんじ",
+          "text": "このポケモンについているFireエネルギーを1個選び、トラッシュする。",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "printed_number": "009/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        146
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "伝説の とりポケモンの １匹。 ファイヤーが 姿を 見せると 春が 訪れると 言われている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Moltres",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Searing Flame",
+              "text": "The Defending Pokémon is now Burned.",
+              "damage": "50"
+            },
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Fire Blast",
+              "text": "Discard a Fire Energy attached to this Pokémon.",
+              "damage": "90"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-10",
+      "name": "バオップ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ほのお",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "James Turner",
+      "national_pokedex_numbers": [
+        513
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "頭の ふさは 怒ると 温度が 上がり ３００度 以上になる。 木の実を ふさで 焼いて 食べる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Pansear",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Flare",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-11",
+      "name": "バオッキー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "バオップ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "もってくる",
+          "text": "自分の山札を3枚引く。"
+        },
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "フィールドバーン",
+          "text": "場に「スタジアム」が出ているなら、30ダメージを追加し、相手のバトルポケモンをやけどにする。",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        514
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "甘いものが 大好物。 体内の 炎を 燃やす エネルギーに なるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Simisear",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Collect",
+              "text": "Draw 3 cards."
+            },
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Stadium Burn",
+              "text": "If there is any Stadium card in play, this attack does 30 more damage and the Defending Pokémon is now Burned.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pansear"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-12",
+      "name": "ヒトデマン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "じこさいせい",
+          "text": "このポケモンについているエネルギーを1個選び、トラッシュする。このポケモンのHPをすべて回復する。"
+        },
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みずでっぽう",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        120
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "赤い コアが ある限り 体が ちぎれても すぐに 再生する。 真夜中 コアが 点滅する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Staryu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Recover",
+              "text": "Discard an Energy attached to this Pokémon and heal all damage from this Pokémon."
+            },
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Water Gun",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-13",
+      "name": "スターミー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ヒトデマン"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "あやしいひかり",
+          "text": "相手のバトルポケモンをこんらんにする。"
+        },
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "スピードスター",
+          "text": "このワザのダメージは、弱点・抵抗力と、相手のバトルポケモンにかかっている効果の計算をしない。",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "13",
+      "printed_number": "013/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        121
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "体の 中心にある 赤いコアから 夜空に 向かって ナゾの 電波を 発信している。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Starmie",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Confuse Ray",
+              "text": "The Defending Pokémon is now Confused."
+            },
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Swift",
+              "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "evolves_from": [
+            "Staryu"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-14",
+      "name": "フリーザー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "れいとうビーム",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "水",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "アイスウイング",
+          "text": "",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "014/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        144
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "伝説の とりポケモン。 空気中の 水分を 凍らせ 吹雪を 作り出すことが できる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Articuno",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Ice Beam",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "50"
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Ice Wing",
+              "text": "",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-15",
+      "name": "カイオーガEX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "スマッシュターン",
+          "text": "のぞむなら、このポケモンをベンチポケモンと入れ替えてよい。",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "デュアルスプラッシュ",
+          "text": "相手のポケモンを2匹選び、それぞれに50ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "15",
+      "printed_number": "015/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        382
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Kyogre-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Smash Turn",
+              "text": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Dual Splash",
+              "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-16",
+      "name": "ヒヤップ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "みずでっぽう",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "016/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Reiko Tanoue",
+      "national_pokedex_numbers": [
+        515
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "頭の ふさに ためた 水は 栄養 たっぷり。 植物に かけると 大きく 育つのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Panpour",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Water Gun",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-17",
+      "name": "ヒヤッキー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ヒヤップ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "もってくる",
+          "text": "自分の山札を3枚引く。"
+        },
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "フィールドウェーブ",
+          "text": "場に「スタジアム」が出ているなら、30ダメージを追加し、相手のバトルポケモンをねむりにする。",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "017/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        516
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "頭の ふさに 水を ためる。 貯水量が 減ると しっぽで 水を 吸い上げて 補給する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Simipour",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Collect",
+              "text": "Draw 3 cards."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Stadium Wave",
+              "text": "If there is any Stadium card in play, this attack does 30 more damage and the Defending Pokémon is now Asleep.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Panpour"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-18",
+      "name": "バスラオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かみつく",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "むらがるキバ",
+          "text": "相手のバトルポケモンにダメカンがのっていないなら、このワザは失敗。",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        550
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "赤と 青の バスラオは 仲が 悪いが なぜか 色の 違う 個体が 群れに 紛れ込んでいる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Basculin",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bite",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Barbed Fangs",
+              "text": "If, before this Pokémon does damage, the Defending Pokémon has no damage counters on it, this attack does nothing.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-19",
+      "name": "プルリル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "あわ",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。"
+        },
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "どくえき",
+          "text": "相手のバトルポケモンをどくにする。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "19",
+      "printed_number": "019/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Suwama Chiaki",
+      "national_pokedex_numbers": [
+        592
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "獲物を 毒で しびれさせて ８０００メートルの 深海に あるという 住処に 連れていく。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Frillish",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Bubble",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Spit Poison",
+              "text": "The Defending Pokémon is now Poisoned."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-20",
+      "name": "ブルンゲル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "プルリル"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "うらみのねん",
+          "text": "前の相手の番に、このポケモンが受けたワザのダメージと同じダメージを、相手のバトルポケモンに与える。"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "いのちをすいとる",
+          "text": "このポケモンのHPを「30」回復する。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "20",
+      "printed_number": "020/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        593
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "体に 吸い込んだ 海水を 勢いよく 吹き出して 前進する。 生命エネルギーが 大好物。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Jellicent",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Vengeful Wish",
+              "text": "If this Pokémon was damage by an attack during your opponent's last turn, this attack does the same amount of damage to the Defending Pokémon."
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Absorb Life",
+              "text": "Heal 30 damage from this Pokémon.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Frillish"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-21",
+      "name": "コリンク",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "とびつく",
+          "text": "コインを1回投げオモテなら、10ダメージを追加。",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "バチバチ",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "021/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        403
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "体を 動かすたびに 筋肉が 伸び縮みして 電気が 生まれる。 ピンチになると 体が 輝く。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Shinx",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Jump On",
+              "text": "Flip a coin. If heads, this attack does 10 more damage.",
+              "damage": "10+"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Static Shock",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-22",
+      "name": "ルクシオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "コリンク"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "とびつく",
+          "text": "コインを1回投げオモテなら、30ダメージを追加。",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ワイルドボルト",
+          "text": "このポケモンにも10ダメージ。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "022/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        404
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "鋭い ツメの 先には 強い 電気が 流れており ほんの少し かするだけで 相手を気絶させる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Luxio",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Jump On",
+              "text": "Flip a coin. If heads, this attack does 30 more damage.",
+              "damage": "20+"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Wild Charge",
+              "text": "This Pokémon does 10 damage to itself.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Shinx"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-23",
+      "name": "レントラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "ルクシオ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "フラッシュインパクト",
+          "text": "自分のポケモンを1匹選び、そのポケモンにも20ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］",
+          "damage": "60"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "かみくだく",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "printed_number": "023/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        405
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "壁の向こうも 見える 力で 逃げた 獲物を 追いつめるほかにも 迷子の 子供を 捜したりする。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Luxray",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Flash Impact",
+              "text": "Does 20 damage to 1 of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "60"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Crunch",
+              "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Luxio"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-24",
+      "name": "シママ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "でんげき",
+          "text": "コインを1回投げウラなら、このポケモンにも10ダメージ。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "024/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        522
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "放電すると たてがみが 光る。 たてがみの 光り方で 仲間と コミュニケーションを とっている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Blitzle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Thunder Jolt",
+              "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-25",
+      "name": "ゼブライカ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "シママ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "でんじしょうがい",
+          "text": "次の相手の番、相手は手札から「グッズ」を出して使えない。",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "かみなりおとし",
+          "text": "このポケモンについているElectricエネルギーをすべてトラッシュし、相手のポケモン1匹に、80ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "25",
+      "printed_number": "025/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        523
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "稲妻のような 瞬発力。 ゼブライカが 全速力で 走ると 雷鳴が 響きわたる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Zebstrika",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Disconnect",
+              "text": "You opponent can't play any Item cards from his or her hand next turn.",
+              "damage": "40"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Lightning Crash",
+              "text": "Discard all Lightning Energy attached to this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "evolves_from": [
+            "Blitzle"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-26",
+      "name": "ベトベター",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ベトベト",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをマヒにする。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "26",
+      "printed_number": "026/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        88
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ドブ川の ヘドロが 月からの エックス線を 浴びて 生まれた。 汚い 場所に 現われる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Grimer",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Nasty Goo",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-27",
+      "name": "ベトベトン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "ベトベター"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "まとわりつく",
+          "text": "次の相手の番、このワザを受けた相手のバトルポケモンは、にげられない。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "どくどくえき",
+          "text": "相手のバトルポケモンをどくにする。ポケモンチェックのとき、このどくでのせるダメカンの数は2個になる。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "27",
+      "printed_number": "027/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        89
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "体から 猛毒の 体液が 染み出ている。 その 液に 触れた 草木は あっというまに 枯れる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Muk",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Gentle Wrap",
+              "text": "The Defending Pokémon can't retreat during your opponent's next turn.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Toxic Secretion",
+              "text": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Grimer"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-28",
+      "name": "ミュウツーEX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "エックスボール",
+          "text": "おたがいのバトルポケモンについているエネルギーの数×20ダメージ。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "サイコドライブ",
+          "text": "このポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "28",
+      "printed_number": "028/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        150,
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Mewtwo-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "X Ball",
+              "text": "Does 20 damage times the amount of Energy attached to this Pokémon and the Defending Pokémon.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Psydrive",
+              "text": "Discard an Energy attached to this Pokémon.",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-29",
+      "name": "ムンナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ぶつかる",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "29",
+      "printed_number": "029/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        517
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "人や ポケモンが 見た 夢を 食べる。 楽しい 夢を 食べると ピンク色の けむりを 吐き出す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Munna",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Ram",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-30",
+      "name": "ムシャーナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "ムンナ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "よちむ",
+          "text": "自分の山札を上から2枚見て、その中から1枚選び、手札に加える。残りのカードは、山札の上にもどす。この特性は、自分の番に1回使える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ふわふわドリーム",
+          "text": "このポケモンをねむりにする。",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "30",
+      "printed_number": "030/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Maiko Fujiwara",
+      "national_pokedex_numbers": [
+        518
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "食べた 夢を 実体化 させる。 おでこから もれる 煙が 夢に 出てきた ものに 姿を 変える。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Musharna",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Forewarn",
+              "text": "Once during your turn (before your attack), you may look at the top 2 cards in your deck, choose 1 of them, and put it into your hand. Put the other card back on top of your deck."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Fluffy Dream",
+              "text": "This Pokémon is now Asleep.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Munna"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-31",
+      "name": "ユニラン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ころがる",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "31",
+      "printed_number": "031/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        577
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "サイコパワーを 放出して 襲ってきた 敵を 撃退。 テレパシーで 仲間と 会話する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Solosis",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Rollout",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-32",
+      "name": "ダブラン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "60",
+      "evolves_from": [
+        "ユニラン"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ころがる",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "printed_number": "032/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        578
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "２つに 分裂した 脳みそを 持っているため いきなり 違う 行動を とることが あるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Duosion",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Rollout",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Solosis"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-33",
+      "name": "ランクルス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ダブラン"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みらいよち",
+          "text": "自分の山札を上から5枚見て、好きな順番に入れ替えて、山札の上にもどす。"
+        },
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ネットフォース",
+          "text": "自分の場にいる「ランクルス」の数×40ダメージ。",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "33",
+      "printed_number": "033/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        579
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ランクルス 同士が 握手すると 脳みそが ネットワークで つながり サイコパワーが 増幅されるのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Reuniclus",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Future Sight",
+              "text": "Look at the top 5 cards of your deck and put them back on top of your deck in any order."
+            },
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Net Force",
+              "text": "Does 40 damage times the number of Reuniclus you have in play.",
+              "damage": "40×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Duosion"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-34",
+      "name": "ドッコラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ぶんなぐる",
+          "text": "コインを1回投げオモテなら、10ダメージを追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "34",
+      "printed_number": "034/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        532
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "角材を 振り回して 戦う。 重い 角材を 苦も なく 持つようになると 進化は 近い。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Timburr",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Pummel",
+              "text": "Flip a coin. If heads, this attack does 10 more damage.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-35",
+      "name": "ドテッコツ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "ドッコラー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かいりき",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ぶんなぐる",
+          "text": "コインを1回投げオモテなら、20ダメージを追加。",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "35",
+      "printed_number": "035/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        533
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "鍛え上げられた 筋肉の 体は プロレスラーが 束に なって 攻撃しても びくとも しない。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Gurdurr",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Strength",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Pummel",
+              "text": "Flip a coin. If heads, this attack does 20 more damage.",
+              "damage": "40+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Timburr"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-36",
+      "name": "ローブシン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "ドテッコツ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": " マスターアーツ",
+          "text": "このポケモンの最大HPは、このポケモンについているFightingエネルギー1個につき「20」大きくなる。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "やまおとし",
+          "text": "ウラが出るまでコインを投げ続け、オモテの数ぶん、相手の山札を上からトラッシュする。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "36",
+      "printed_number": "036/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        534
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "コンクリートを 作る 技術は ２０００年前に ローブシンから 教わったと 考えられている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Conkeldurr",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Craftsmanship",
+              "text": "This Pokémon gets +20 HP for each Fighting Energy attached to it."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Top Down",
+              "text": "Flip a coin until you get tails. For each heads, discard the top card of your opponent's deck.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Gurdurr"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-37",
+      "name": "コジョフー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "トリプルスマッシュ",
+          "text": "コインを3回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "printed_number": "037/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        619
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "華麗な 連続技の 使い手。 精神 統一すると 技の キレと スピードが 増すのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Mienfoo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Triple Smash",
+              "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-38",
+      "name": "コジョンド",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "コジョフー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "たぐりよせる",
+          "text": "自分の山札から「ポケモンのどうぐ」を2枚選び、相手に見せてから、手札に加える。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ヨガのポーズ",
+          "text": "相手のバトルポケモンにのっているダメカンの数×10ダメージを追加。",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "printed_number": "038/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Suwama Chiaki",
+      "national_pokedex_numbers": [
+        620
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "腕の 長い 体毛を 敵に たたきつけて 戦う。 ムチのように 敵を 痛めつける。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Mienshao",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Haul In",
+              "text": "Search your deck for 2 Pokémon Tool cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Meditate",
+              "text": "Does 10 more damage for each damage counter on the Defending Pokémon.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Mienfoo"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-39",
+      "name": "コノハナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "タネボー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "びっくりパンチ",
+          "text": "相手のバトルポケモンについているエネルギーを1個選び、ベンチポケモンにつけ替える。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "39",
+      "printed_number": "039/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        274
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "コノハナが 奏でる 草笛の 音色は 人を 不安にさせる。 森の 奥に 住んでいる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Nuzleaf",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Surprise Punch",
+              "text": "Move an Energy attached to the Defending Pokémon to 1 of your opponent's Benched Pokémon.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Seedot"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-40",
+      "name": "ダーテング",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "コノハナ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": " きょだいなうちわ",
+          "text": "この特性は、このカードを手札から出して進化させたとき、1回使える。コインを1回投げオモテなら、相手のポケモンを1匹選び、そのポケモンと、ついているすべてのカードを、相手の山札にもどす。そして山札を切る。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ふきとばし",
+          "text": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "printed_number": "040/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        275
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "葉っぱの ウチワを あおぐと 風速３０メートルの 突風が 巻き起こり 民家を 吹き飛ばす。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Shiftry",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Giant Fan",
+              "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, choose 1 of your opponent's Pokémon. Your opponent shuffles that Pokémon and all cards attached to it into his or her hand."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Whirlwind",
+              "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Nuzleaf"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-41",
+      "name": "ズルッグ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "だっぴ",
+          "text": "このポケモンのHPを「40」回復する。"
+        },
+        {
+          "cost": [
+            "悪",
+            "悪"
+          ],
+          "converted_energy_cost": 2,
+          "name": "とびかかる",
+          "text": "コインを1回投げウラなら、このワザは失敗。",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "41",
+      "printed_number": "041/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        559
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "視線の 合った 相手に いきなり 頭突き 攻撃を 仕掛ける。 とても 硬い 頭がい骨を 持つ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Scraggy",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Shed Skin",
+              "text": "Heal 40 damage from this Pokémon."
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Darkness"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Lunge",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-42",
+      "name": "ズルズキン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ズルッグ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "いしあたま",
+          "text": "次の相手の番、このポケモンが受けるワザのダメージは「-20」される。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ぶっこみキック",
+          "text": "相手のバトルポケモンの残りHPが、このポケモンの残りHPより多いなら、30ダメージを追加。",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "42",
+      "printed_number": "042/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        560
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "トサカの 大きさで グループの リーダーを 決める。 キック攻撃で コンクリートブロックを 破壊する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Scrafty",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Rock Head",
+              "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hammer Kick",
+              "text": "If this Pokémon has fewer remaining HP than the Defending Pokémon, this attack does 30 more damage.",
+              "damage": "50+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Scraggy"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-43",
+      "name": "テッシード",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "鋼",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "じばく",
+          "text": "このポケモンにも60ダメージ。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "43",
+      "printed_number": "043/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        597
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "危険を 察知すると トゲを いっせいに 発射して 反撃。 その すきに 転がって 逃げる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Ferroseed",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Self Destruct",
+              "text": "This Pokémon does 60 damage to itself.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-44",
+      "name": "ナットレイ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "テッシード"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "鋼"
+          ],
+          "converted_energy_cost": 1,
+          "name": "てっぺき",
+          "text": "コインを1回投げオモテなら、次の相手の番、このポケモンはワザのダメージや効果を受けない。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "パワーウィップ",
+          "text": "相手のポケモンを1匹選び、このポケモンについているエネルギーの数×10ダメージ。［ベンチへのダメージは弱点・抵抗力の計算をしない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "44",
+      "printed_number": "044/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        598
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "３本の トゲつき 触手を 振り回して 戦う。 鋼の トゲは たたきつけると 大岩を 粉砕する 破壊力だ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Ferrothorn",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Iron Defense",
+              "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Power Whip",
+              "text": "Does 10 damage for each Energy attached to this Pokémon to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Ferroseed"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-45",
+      "name": "ニャース",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ダブルひっかき",
+          "text": "コインを2回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ねこキック",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "printed_number": "045/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        52
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "夜中に 行動する 習性。 キラキラ 光るものを 見つけると 負けないくらい ひとみが 輝く。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-45/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-45/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 45,
+      "translation": {
+        "en": {
+          "name": "Meowth",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Double Scratch",
+              "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Cat Kick",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-46",
+      "name": "ペルシアン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ニャース"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "わるだくみ",
+          "text": "自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "シャドークロー",
+          "text": "コインを1回投げオモテなら、相手の手札からオモテを見ないで1枚選び、トラッシュする。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "printed_number": "046/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        53
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "気位が 高い ポケモン。 マニアの あいだでは 額の 宝石の サイズが 話題になる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-46/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-46/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 46,
+      "translation": {
+        "en": {
+          "name": "Persian",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Nasty Plot",
+              "text": "Search your deck for a card and put it into your hand. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Shadow Claw",
+              "text": "Flip a coin. If heads, discard a random card from your opponent's hand.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Meowth"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-47",
+      "name": "チラーミィ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "なかまをよぶ",
+          "text": "自分の山札からたねポケモンを1枚選び、ベンチに出す。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "しっぽでたたく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "printed_number": "047/052",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Tomohiro Kitakaze",
+      "national_pokedex_numbers": [
+        572
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "きれい好きな 性格の ポケモン。 しっぽを ほうき代わりに いつも 住処の ほこりを 払っている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-47/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-47/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 47,
+      "translation": {
+        "en": {
+          "name": "Minccino",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Call for Family",
+              "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Tail Smack",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-48",
+      "name": "チラチーノ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "チラーミィ"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "なめらかコート",
+          "text": "このポケモンがワザのダメージを受けるとき、自分はコインを1回投げる。オモテなら、このポケモンはそのダメージを受けない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "エコーボイス",
+          "text": "次の自分の番、このポケモンが使う「エコーボイス」のダメージは「+50」される。",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "48",
+      "printed_number": "048/052",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Kanako Eo",
+      "national_pokedex_numbers": [
+        573
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "白い 体毛は 特別な 脂で コーティングされているので 敵の 攻撃を 受け流すのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-48/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-48/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 48,
+      "translation": {
+        "en": {
+          "name": "Cinccino",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Smooth Coat",
+              "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Echoed Voice",
+              "text": "During your next turn, this Pokémon's attack does 50 more damage (before applying Weakness and Resistance).",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Minccino"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-49",
+      "name": "レベルボール",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札から、HPが「90」以下のポケモンを1枚選び、相手に見せてから、手札に加える。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "49",
+      "printed_number": "049/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-49/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-49/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 49,
+      "translation": {
+        "en": {
+          "name": "Level Ball",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-50",
+      "name": "学習装置",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ex",
+        "道具",
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。"
+      ],
+      "number": "50",
+      "printed_number": "050/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-50/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-50/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 50,
+      "translation": {
+        "en": {
+          "name": "EXP.ALL",
+          "supertype": "Trainer",
+          "subtypes": [
+            "EX",
+            "Item",
+            "Pokémon Tool"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-51",
+      "name": "スカイアローブリッジ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "rules": [
+        "おたがいのたねポケモン全員のにげるために必要なエネルギーは、それぞれ1個ぶん少なくなる。",
+        "スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。"
+      ],
+      "number": "51",
+      "printed_number": "051/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-51/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-51/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 51,
+      "translation": {
+        "en": {
+          "name": "Skyarrow Bridge",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-52",
+      "name": "プリズムエネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "特別"
+      ],
+      "number": "52",
+      "printed_number": "052/052",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-52/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-52/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 52,
+      "translation": {
+        "en": {
+          "name": "Prism Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Special"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-53",
+      "name": "Shaymin-EX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "110",
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "53",
+      "printed_number": "053/052",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-53/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-53/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 53,
+      "translation": {
+        "en": {
+          "name": "Shaymin-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-54",
+      "name": "Kyogre-EX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "170",
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "54",
+      "printed_number": "054/052",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-54/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-54/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 54,
+      "translation": {
+        "en": {
+          "name": "Kyogre-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Water"
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-55",
+      "name": "Mewtwo-EX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "170",
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "55",
+      "printed_number": "055/052",
+      "rarity": "スーパーレア",
+      "rarity_code": "SR",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-55/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-55/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 55,
+      "translation": {
+        "en": {
+          "name": "Mewtwo-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Super Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-56",
+      "name": "Zoroark",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "100",
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "56",
+      "printed_number": "056/052",
+      "rarity": "ウルトラレア",
+      "rarity_code": "UR",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-56/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-56/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 56,
+      "translation": {
+        "en": {
+          "name": "Zoroark",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Zorua"
+          ],
+          "rarity": "Ultra Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bw3p_ja-57",
+      "name": "Hydreigon",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "150",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "Dark Aura",
+          "text": "All Energy attached to this Pokémon are Darkness Energy instead of their usual type."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "57",
+      "printed_number": "057/052",
+      "rarity": "ウルトラレア",
+      "rarity_code": "UR",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bw3p_ja-57/small",
+          "medium": "https://images.scrydex.com/pokemon/bw3p_ja-57/medium",
+          "large": "https://images.scrydex.com/pokemon/bw3p_ja-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "bw3p_ja",
+        "name": "サイコドライブ",
+        "series": "Black & White",
+        "code": "BW3",
+        "total": 57,
+        "printed_total": 52,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2011/09/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 57,
+      "translation": {
+        "en": {
+          "name": "Hydreigon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Dark Aura",
+              "text": "All Energy attached to this Pokémon are Darkness Energy instead of their usual type."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Zweilous"
+          ],
+          "rarity": "Ultra Rare",
+          "expansion": {
+            "name": "Psycho Drive"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 57
+}

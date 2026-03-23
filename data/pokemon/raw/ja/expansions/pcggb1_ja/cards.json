@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "pcggb1_ja-1",
+      "name": "ピカチュウ☆",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thundershock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spring Back",
+          "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/002",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pcggb1_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/pcggb1_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/pcggb1_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "pcggb1_ja",
+        "name": "ギフトボックス ミュウ・ルカリオver. (Pokémon ☆)",
+        "series": "PCG",
+        "total": 2,
+        "printed_total": 2,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2005/11/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Pikachu ☆",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Thundershock",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Spring Back",
+              "text": "If your opponent has only 1 Prize card left, this attack does 20 damage plus 50 more damage.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Mew • Lucario Gift Box (Pokémon ☆)"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "pcggb1_ja-2",
+      "name": "ミュウツー☆",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energy Absorption",
+          "text": "Search your discard pile for an Energy card and attach it to Mewtwo ☆."
+        },
+        {
+          "cost": [
+            "炎",
+            "雷",
+            "超"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psychic Star",
+          "text": "If the Defending Pokémon is an Evolved Pokémon, discard all Energy attached to Mewtwo ☆ and this attack does 50 damage plus 50 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/002",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/pcggb1_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/pcggb1_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/pcggb1_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "pcggb1_ja",
+        "name": "ギフトボックス ミュウ・ルカリオver. (Pokémon ☆)",
+        "series": "PCG",
+        "total": 2,
+        "printed_total": 2,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2005/11/16",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Mewtwo ☆",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Energy Absorption",
+              "text": "Search your discard pile for an Energy card and attach it to Mewtwo ☆."
+            },
+            {
+              "cost": [
+                "Fire",
+                "Lightning",
+                "Psychic"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Psychic Star",
+              "text": "If the Defending Pokémon is an Evolved Pokémon, discard all Energy attached to Mewtwo ☆ and this attack does 50 damage plus 50 more damage.",
+              "damage": "50+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Mew • Lucario Gift Box (Pokémon ☆)"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 2
+}

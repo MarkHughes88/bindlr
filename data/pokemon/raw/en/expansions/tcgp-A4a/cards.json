@@ -1,0 +1,7112 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "tcgp-A4a-1",
+      "name": "Hoppip",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Splash",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        187
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-1/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-1/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-2",
+      "name": "Skiploom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "evolves_from": [
+        "Hoppip"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Bounce",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Dsuke",
+      "national_pokedex_numbers": [
+        188
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-2/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-2/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-3",
+      "name": "Jumpluff ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Skiploom"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Breeze-By Attack",
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        189
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-3/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-3/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-4",
+      "name": "Sunkern",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Tackle",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        191
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-4/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-4/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-5",
+      "name": "Sunflora",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Sunkern"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "name": "Trip Over",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "5",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        192
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-5/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-5/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-6",
+      "name": "Celebi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "name": "Temporal Leaves",
+          "text": "If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Yuu Nishida",
+      "national_pokedex_numbers": [
+        251
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-6/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-6/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-7",
+      "name": "Durant",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "name": "Mountain Munch",
+          "text": "Discard the top card of your opponent's deck.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        632
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-7/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-7/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-8",
+      "name": "Slugma",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "name": "Combustion",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        218
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-8/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-8/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-9",
+      "name": "Magcargo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Slugma"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "name": "Heat Blast",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "9",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Eri Yamaki",
+      "national_pokedex_numbers": [
+        219
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-9/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-9/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-10",
+      "name": "Entei ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "name": "Blazing Beatdown",
+          "text": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "10",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        244
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-10/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-10/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-11",
+      "name": "Fletchinder",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Fletchling"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Fire Wing",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        662
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-11/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-11/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-12",
+      "name": "Talonflame",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Fletchinder"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Searing Flame",
+          "text": "Your opponent's Active Pokémon is now Burned.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        663
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-12/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-12/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-13",
+      "name": "Poliwag",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Call for Family",
+          "text": "Put 1 random Poliwag from your deck onto your Bench."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        60
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-13/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-13/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-14",
+      "name": "Poliwhirl",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Poliwag"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Ram",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Kanako Eo",
+      "national_pokedex_numbers": [
+        61
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-14/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-14/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-15",
+      "name": "Tentacool",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "name": "Poison Sting",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        72
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-15/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-15/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-16",
+      "name": "Tentacruel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Tentacool"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "name": "Stun Poison",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned and Paralyzed.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "16",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        73
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-16/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-16/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-17",
+      "name": "Slowpoke",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Water Gun",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Saya Tsuruta",
+      "national_pokedex_numbers": [
+        79
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-17/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-17/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-18",
+      "name": "Slowking",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Slowpoke"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Litter 50x",
+          "text": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "18",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        199
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-18/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-18/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-19",
+      "name": "Jynx",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "name": "Dazzle Dance",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        124
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-19/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-19/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-20",
+      "name": "Suicune ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "name": "Crystal Waltz 20x",
+          "text": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "20",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        245
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-20/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-20/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-21",
+      "name": "Feebas",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Leap Out",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Suwama Chiaki",
+      "national_pokedex_numbers": [
+        349
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-21/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-21/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-22",
+      "name": "Milotic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Feebas"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Healing Ripples",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your [W] Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "name": "Aqua Edge",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "22",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        350
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-22/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-22/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-23",
+      "name": "Mantyke",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [],
+          "name": "Splashy Toss",
+          "text": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "23",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        458
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-23/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-23/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-24",
+      "name": "Cryogonal",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "name": "Ice Blade",
+          "text": "This attack does 40 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        615
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-24/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-24/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-25",
+      "name": "Raikou ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "name": "Voltaic Bullet",
+          "text": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "25",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        243
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-25/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-25/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-26",
+      "name": "Tynamo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Tiny Bolt",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "26",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        602
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-26/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-26/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-27",
+      "name": "Eelektrik",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Tynamo"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Electro Ball",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "27",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Suwama Chiaki",
+      "national_pokedex_numbers": [
+        603
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-27/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-27/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-28",
+      "name": "Eelektross",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Eelektrik"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Wild Charge",
+          "text": "This Pokémon also does 20 damage to itself.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "28",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "tetsuya koizumi",
+      "national_pokedex_numbers": [
+        604
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-28/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-28/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-29",
+      "name": "Stunfisk",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Static Shock",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "29",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        618
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-29/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-29/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-30",
+      "name": "Yamper",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Zap Kick",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        835
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-30/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-30/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-31",
+      "name": "Boltund",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Yamper"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Defiant Spark",
+          "text": "If this Pokémon has damage on it, this attack can be used for 1 Lightning Energy.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "31",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Tomomi Ozaki",
+      "national_pokedex_numbers": [
+        836
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-31/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-31/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-32",
+      "name": "Misdreavus",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Infiltrating Inspection",
+          "text": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Will-O-Wisp",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Suwama Chiaki",
+      "national_pokedex_numbers": [
+        200
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-32/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-32/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-33",
+      "name": "Mismagius",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Misdreavus"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Cursed Prose",
+          "text": "At the end of your opponent's next turn, do 90 damage to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "tono",
+      "national_pokedex_numbers": [
+        429
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-33/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-33/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-34",
+      "name": "Galarian Corsola",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        222
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-34/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-34/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-35",
+      "name": "Galarian Cursola",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Galarian Corsola"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Perish Body",
+          "text": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "name": "Spooky Shot",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "35",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        864
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-35/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-35/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-36",
+      "name": "Latias",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Crossing Flights",
+          "text": "If Latios is on your Bench, this attack does 20 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "36",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "rika",
+      "national_pokedex_numbers": [
+        380
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-36/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-36/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-37",
+      "name": "Latios",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "110",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Fantastical Floating",
+          "text": "If you have Latias in play, this Pokémon has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "name": "Luster Purge",
+          "text": "Discard all Energy from this Pokémon.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "37",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "rika",
+      "national_pokedex_numbers": [
+        381
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-37/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-37/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-38",
+      "name": "Frillish",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Absorb",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        592
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-38/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-38/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-39",
+      "name": "Jellicent",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Frillish"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Devour Soul",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "39",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        593
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-39/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-39/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-40",
+      "name": "Diglett",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Headbutt",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        50
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-40/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-40/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-41",
+      "name": "Dugtrio",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Diglett"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "name": "Cliff Crumbler",
+          "text": "Discard the top card of your deck. If that card is a Fighting Pokémon, this attack does 60 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        51
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-41/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-41/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-42",
+      "name": "Poliwrath ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Poliwhirl"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Hydro Knuckle",
+          "text": "If this Pokémon has any Water Energy attached, this attack does 40 more damage.",
+          "damage": "100+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "42",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        62
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-42/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-42/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-43",
+      "name": "Phanpy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "name": "Flail",
+          "text": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "43",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        231
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-43/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-43/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-44",
+      "name": "Donphan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Phanpy"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Exoskeleton",
+          "text": "This Pokémon takes −20 damage from attacks."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "name": "Land Crush",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "44",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        232
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-44/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-44/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-45",
+      "name": "Relicanth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Take Down",
+          "text": "This Pokémon also does 10 damage to itself.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "45",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        369
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-45/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-45/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-46",
+      "name": "Dwebble",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "name": "Sand Spray",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "46",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        557
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-46/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-46/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-47",
+      "name": "Crustle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Dwebble"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "name": "Stone Edge",
+          "text": "Flip a coin. If heads, this attack does 50 more damage.",
+          "damage": "100+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "47",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        558
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-47/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-47/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-48",
+      "name": "Seviper",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "name": "Fateful Fang",
+          "text": "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "48",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        336
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-48/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-48/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-49",
+      "name": "Zorua",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Ram",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "49",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        570
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-49/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-49/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-50",
+      "name": "Zoroark",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Zorua"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Illusive Trickery",
+          "text": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "name": "Night Daze",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "50",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        571
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-50/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-50/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-51",
+      "name": "Inkay",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "51",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        686
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-51/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-51/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-52",
+      "name": "Malamar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Inkay"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Mental Surge",
+          "text": "This attack does 20 damage to each of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "52",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        687
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-52/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-52/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-53",
+      "name": "Skrelp",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Melt",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "53",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        690
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-53/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-53/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-54",
+      "name": "Dragalge",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Skrelp"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Sludge Bomb",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "54",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        691
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-54/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-54/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-55",
+      "name": "Altaria",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Swablu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Dragon Arcana",
+          "text": "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "55",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        334
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-55/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-55/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-56",
+      "name": "Farfetch'd",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Leek Slam",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "56",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Midori Harada",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-56/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-56/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-57",
+      "name": "Lickitung",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Stretch Tongue",
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "57",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        108
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-57/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-57/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-58",
+      "name": "Lickilicky",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Lickitung"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Stretch Tongue",
+          "text": "This attack does 60 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "58",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Mina Nakai",
+      "national_pokedex_numbers": [
+        463
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-58/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-58/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-59",
+      "name": "Igglybuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [],
+          "name": "Sleepy Lullaby",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": "10"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "59",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        174
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-59/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-59/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-60",
+      "name": "Teddiursa",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "60",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        216
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-60/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-60/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-61",
+      "name": "Ursaring",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Teddiursa"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Claw Slash",
+          "damage": "110"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "61",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Uta",
+      "national_pokedex_numbers": [
+        217
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-61/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-61/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-62",
+      "name": "Miltank",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Rolling Frenzy",
+          "text": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "62",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        241
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-62/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-62/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-63",
+      "name": "Azurill",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [],
+          "name": "Squishy Healing",
+          "text": "Heal 50 damage from 1 of your Benched Pokémon."
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "63",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Rond",
+      "national_pokedex_numbers": [
+        298
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-63/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-63/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-64",
+      "name": "Swablu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Peck",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "64",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "0313",
+      "national_pokedex_numbers": [
+        333
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-64/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-64/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-65",
+      "name": "Zangoose",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Counterattack",
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Slash",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "65",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Misa Tsutsui",
+      "national_pokedex_numbers": [
+        335
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-65/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-65/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-65/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 65,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-66",
+      "name": "Fletchling",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "66",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        661
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-66/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-66/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-66/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 66,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-67",
+      "name": "Inflatable Boat",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "number": "67",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Toyste Beach",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-67/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-67/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-67/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 67,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-68",
+      "name": "Memory Light",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "number": "68",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Studio Bora Inc.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-68/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-68/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-68/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 68,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-69",
+      "name": "Whitney",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "69",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Yuu Nishida",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-69/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-69/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-69/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 69,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-70",
+      "name": "Traveling Merchant",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "70",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "GOSSAN",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-70/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-70/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-70/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 70,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-71",
+      "name": "Morty",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "71",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Teeziro",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-71/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-71/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-71/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 71,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-72",
+      "name": "Milotic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Feebas"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Healing Ripples",
+          "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your [W] Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "name": "Aqua Edge",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "72",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "YASHIRO Nanaco",
+      "national_pokedex_numbers": [
+        350
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-72/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-72/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-72/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 72,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-73",
+      "name": "Stunfisk",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Static Shock",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "73",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        618
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-73/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-73/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-73/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 73,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-74",
+      "name": "Yamper",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Zap Kick",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "74",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        835
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-74/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-74/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-74/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 74,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-75",
+      "name": "Latios",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "110",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Fantastical Floating",
+          "text": "If you have Latias in play, this Pokémon has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "name": "Luster Purge",
+          "text": "Discard all Energy from this Pokémon.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "75",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        381
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-75/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-75/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-75/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 75,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-76",
+      "name": "Phanpy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "name": "Flail",
+          "text": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "76",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "OKACHEKE",
+      "national_pokedex_numbers": [
+        231
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-76/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-76/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-76/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 76,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-77",
+      "name": "Azurill",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [],
+          "name": "Squishy Healing",
+          "text": "Heal 50 damage from 1 of your Benched Pokémon."
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "77",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "ryoma uratsuka",
+      "national_pokedex_numbers": [
+        298
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-77/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-77/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-77/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 77,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-78",
+      "name": "Jumpluff ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Skiploom"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Breeze-By Attack",
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "78",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        189
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-78/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-78/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-78/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 78,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-79",
+      "name": "Entei ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "name": "Blazing Beatdown",
+          "text": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "79",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        244
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-79/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-79/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-79/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 79,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-80",
+      "name": "Suicune ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "name": "Crystal Waltz 20x",
+          "text": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "80",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        245
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-80/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-80/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-80/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 80,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-81",
+      "name": "Raikou ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "name": "Voltaic Bullet",
+          "text": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "81",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        243
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-81/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-81/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-81/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 81,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-82",
+      "name": "Poliwrath ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Poliwhirl"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Hydro Knuckle",
+          "text": "If this Pokémon has any Water Energy attached, this attack does 40 more damage.",
+          "damage": "100+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "82",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        62
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-82/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-82/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-82/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 82,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-83",
+      "name": "Whitney",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "83",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Yuu Nishida",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-83/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-83/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-83/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 83,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-84",
+      "name": "Traveling Merchant",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "84",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "GOSSAN",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-84/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-84/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-84/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 84,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-85",
+      "name": "Morty",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "85",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Teeziro",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-85/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-85/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-85/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 85,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-86",
+      "name": "Jumpluff ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Skiploom"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Breeze-By Attack",
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "86",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "takashi shiraishi",
+      "national_pokedex_numbers": [
+        189
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-86/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-86/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-86/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 86,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-87",
+      "name": "Entei ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "name": "Blazing Beatdown",
+          "text": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "87",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Tsuyoshi Nagano",
+      "national_pokedex_numbers": [
+        244
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-87/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-87/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-87/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 87,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-88",
+      "name": "Raikou ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "name": "Voltaic Bullet",
+          "text": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "88",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Tsuyoshi Nagano",
+      "national_pokedex_numbers": [
+        243
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-88/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-88/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-88/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 88,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-89",
+      "name": "Poliwrath ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Poliwhirl"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Hydro Knuckle",
+          "text": "If this Pokémon has any Water Energy attached, this attack does 40 more damage.",
+          "damage": "100+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "89",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        62
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-89/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-89/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-89/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 89,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-90",
+      "name": "Suicune ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Legendary Pulse",
+          "text": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "name": "Crystal Waltz 20x",
+          "text": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "90",
+      "rarity": "3 Star",
+      "rarity_code": "3 Star",
+      "artist": "mele",
+      "national_pokedex_numbers": [
+        245
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-90/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-90/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-90/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 90,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-91",
+      "name": "Chimchar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Scratch",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "91",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        390
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-91/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-91/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-91/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 91,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-92",
+      "name": "Monferno",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Chimchar"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "name": "Fiery Punch",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "92",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        391
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-92/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-92/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-92/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 92,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-93",
+      "name": "Psyduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Headache",
+          "text": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "93",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Scav",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-93/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-93/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-93/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 93,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-94",
+      "name": "Golduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Psyduck"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "name": "Aqua Edge",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "94",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Scav",
+      "national_pokedex_numbers": [
+        55
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-94/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-94/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-94/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 94,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-95",
+      "name": "Krabby",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "name": "Vise Grip",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "95",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        98
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-95/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-95/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-95/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 95,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-96",
+      "name": "Kingler",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Krabby"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "name": "KO Crab",
+          "text": "Flip 2 coins. If both of them are heads, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "96",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        99
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-96/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-96/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-96/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 96,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-97",
+      "name": "Pyukumuku",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Innards Out",
+          "text": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "name": "Sprinkle Water",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "97",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Nisota Niso",
+      "national_pokedex_numbers": [
+        771
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-97/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-97/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-97/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 97,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-98",
+      "name": "Gible",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "98",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        443
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-98/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-98/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-98/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 98,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-99",
+      "name": "Gabite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Gible"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "name": "Sharp Scythe",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "99",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        444
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-99/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-99/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-99/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 99,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-100",
+      "name": "Paldean Wooper",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Poison Jab",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "100",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        194
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-100/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-100/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-100/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 100,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-101",
+      "name": "Infernape ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Monferno"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "name": "Flare Blitz",
+          "text": "Discard all Fire Energy from this Pokémon.",
+          "damage": "140"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "101",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        392
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-101/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-101/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-101/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 101,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-102",
+      "name": "Mew ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Psyshot",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Genome Hacking",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "102",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-102/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-102/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-102/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 102,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-103",
+      "name": "Garchomp ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Gabite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "name": "Linear Attack",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon."
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "name": "Dragon Claw",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "103",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        445
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-103/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-103/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-103/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 103,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-104",
+      "name": "Paldean Clodsire ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Paldean Wooper"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "name": "Venoshock",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "104",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        980
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-104/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-104/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-104/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 104,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A4a-105",
+      "name": "Mantyke",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [],
+          "name": "Splashy Toss",
+          "text": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "105",
+      "rarity": "Crown",
+      "rarity_code": "Crown",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        458
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A4a-105/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A4a-105/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A4a-105/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A4a",
+        "name": "Secluded Springs",
+        "series": "Pokémon TCG Pocket",
+        "code": "A4a",
+        "total": 105,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/08/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 105,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 105
+}

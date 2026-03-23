@@ -1,0 +1,1250 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "neo2pf_ja-6",
+      "name": "リザードン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "120",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Fire Raise",
+          "text": "Once during your turn (before your attack), you may take up to 2 Fire Energy cards attached to your other Pokémon and attach them to Charizard. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Fire Spin",
+          "text": "Discard 2 Energy cards attached to Charizard in order to use this attack.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "6",
+      "printed_number": "No.006",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Charizard",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Fire Raise",
+              "text": "Once during your turn (before your attack), you may take up to 2 Fire Energy cards attached to your other Pokémon and attach them to Charizard. This power can't be used if Charizard is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Fire Spin",
+              "text": "Discard 2 Energy cards attached to Charizard in order to use this attack.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Charmeleon"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2pf_ja-133",
+      "name": "イーブイ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Energy Evolution",
+          "text": "Whenever you attach an Energy card to Eevee, flip a coin. If heads, search your deck for a card that evolves from Eevee that is the same type as the Energy card you attached to Eevee. Attach that card to Eevee. This counts as evolving Eevee. Shuffle your deck afterward. This power can't be used if Eevee is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Smash Kick",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "133",
+      "printed_number": "No.133",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-133/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-133/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-133/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Eevee",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Energy Evolution",
+              "text": "Whenever you attach an Energy card to Eevee, flip a coin. If heads, search your deck for a card that evolves from Eevee that is the same type as the Energy card you attached to Eevee. Attach that card to Eevee. This counts as evolving Eevee. Shuffle your deck afterward. This power can't be used if Eevee is Asleep, Confused, or Paralyzed."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Smash Kick",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2pf_ja-172",
+      "name": "ピチュー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "ベビー"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Let's Play!",
+          "text": "Search your deck for a Baby Pokémon card and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "172",
+      "printed_number": "No.172",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        172
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-172/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-172/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-172/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Pichu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Baby"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Let's Play!",
+              "text": "Search your deck for a Baby Pokémon card and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+            }
+          ],
+          "evolves_from": [
+            "Pikachu"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2pf_ja-196",
+      "name": "エーフィ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psybeam",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "196",
+      "printed_number": "No.196",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        196
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-196/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-196/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-196/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Espeon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Quick Attack",
+              "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+              "damage": "10+"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Psybeam",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Eevee"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2pf_ja-197",
+      "name": "ブラッキー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pursuit",
+          "text": "During your opponent's next turn, if the Defending Pokémon tries to retreat, do 10 damage to it. (Don't apply Weakness and Resistance.)",
+          "damage": "30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "197",
+      "printed_number": "No.197",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        197
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-197/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-197/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-197/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Umbreon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Quick Attack",
+              "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+              "damage": "10+"
+            },
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Pursuit",
+              "text": "During your opponent's next turn, if the Defending Pokémon tries to retreat, do 10 damage to it. (Don't apply Weakness and Resistance.)",
+              "damage": "30"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Eevee"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2pf_ja-201n",
+      "name": "アンノーンN",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Normal]",
+          "text": "Whenever a Colorless Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown Dragon in play. (This power works even if Unown Dragon is Asleep, Confused, or Paralyzed.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-201n/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-201n/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-201n/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Unown N",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Normal]",
+              "text": "Whenever a Colorless Pokémon damages 1 of your Pokémon, reduce that damage by 30 (after applying Weakness and Resistance). This power stops working if you have more than 1 Unown Dragon in play. (This power works even if Unown Dragon is Asleep, Confused, or Paralyzed.)"
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2pf_ja-201e",
+      "name": "アンノーンE",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Engage]",
+          "text": "When you play Unown [E] from your hand, your opponent may shuffle his or her hand into his or her deck and then draw 4 cards. Either way, you may shuffle your hand into your deck and draw 4 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-201e/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-201e/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-201e/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Unown E",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Engage]",
+              "text": "When you play Unown [E] from your hand, your opponent may shuffle his or her hand into his or her deck and then draw 4 cards. Either way, you may shuffle your hand into your deck and draw 4 cards."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2pf_ja-201o",
+      "name": "アンノーンO",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "[Observe]",
+          "text": "Once during you turn (before your attack), you may look at 5 cards from the top of your opponent's deck and put them back in the same order."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "201",
+      "printed_number": "No.201",
+      "artist": "CR CG gangs",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-201o/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-201o/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-201o/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Unown O",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "[Observe]",
+              "text": "Once during you turn (before your attack), you may look at 5 cards from the top of your opponent's deck and put them back in the same order."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hidden Power",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "neo2pf_ja-244",
+      "name": "エンテイ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "特殊能力",
+          "name": "Bolt",
+          "text": "Whenever your opponent's attack damages Entei, unless that attack Knocks Out Entei, flip a coin. If heads, shuffle Entei and all cards attached to it into your deck. This power can't be used if Entei is already Asleep, Confused, or Paralyzed when it is damaged."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "炎"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Protective Flame",
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to your Benched Pokémon.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "244",
+      "printed_number": "No.244",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        244
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/neo2pf_ja-244/small",
+          "medium": "https://images.scrydex.com/pokemon/neo2pf_ja-244/medium",
+          "large": "https://images.scrydex.com/pokemon/neo2pf_ja-244/large"
+        }
+      ],
+      "expansion": {
+        "id": "neo2pf_ja",
+        "name": "プレミアムファイル2",
+        "series": "Neo",
+        "total": 9,
+        "printed_total": 9,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2000/07/07",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Entei",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "abilities": [
+            {
+              "type": "Pokémon Power",
+              "name": "Bolt",
+              "text": "Whenever your opponent's attack damages Entei, unless that attack Knocks Out Entei, flip a coin. If heads, shuffle Entei and all cards attached to it into your deck. This power can't be used if Entei is already Asleep, Confused, or Paralyzed when it is damaged."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Fire"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Protective Flame",
+              "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to your Benched Pokémon.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Neo Premium File 2"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 9
+}

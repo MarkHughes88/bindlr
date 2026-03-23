@@ -1,0 +1,6928 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "swsh45-1",
+      "name": "Yanma",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wing Attack",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        193
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "If it flaps its wings really fast, it can generate shock waves that will shatter windows in the area.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-1/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-1/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-2",
+      "name": "Yanmega",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Yanma"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bug Bite",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Nosedive",
+          "text": "This Pokémon also does 30 damage to itself.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "number": "2",
+      "printed_number": "002/072",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        469
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-2/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-2/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-3",
+      "name": "Celebi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Woodland Stroll",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Energy card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Leaf Step",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/072",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Yuu Nishida",
+      "national_pokedex_numbers": [
+        251
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-3/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-3/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-4",
+      "name": "Cacnea",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pierce",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "printed_number": "004/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Uta",
+      "national_pokedex_numbers": [
+        331
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It prefers harsh environments such as deserts. It can survive for 30 days on water stored in its body.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-4/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-4/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-5",
+      "name": "Tropius",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Attach Leaves",
+          "text": "Attach up to 2 Grass Energy cards from your discard pile to your Benched Pokémon in any way you like."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Gust",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        357
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-5/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-5/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-6",
+      "name": "Rowlet",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Sky Circus",
+          "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Wind Shard",
+          "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        722
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-6/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-6/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-7",
+      "name": "Dartrix",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Rowlet"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Razor Leaf",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        723
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It throws one knifelike feather after another at its enemies, and each one precisely strikes a weak point. These feathers are known as blade quills.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-7/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-7/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-8",
+      "name": "Decidueye",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Dartrix"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Deep Forest Camo",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Splitting Arrow",
+          "text": "This attack also does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "008/072",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Ryota Murayama",
+      "national_pokedex_numbers": [
+        724
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As if wielding a bow, it launches the arrow quills hidden among the feathers of its wings. Decidueye's shots never miss.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-8/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-8/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-9",
+      "name": "Dhelmise V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "220",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Anchor Anger",
+          "text": "If any of your Grass Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 90 more damage.",
+          "damage": "30+"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Giga Hammer",
+          "text": "During your next turn, this Pokémon can't use Giga Hammer.",
+          "damage": "200"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "9",
+      "printed_number": "009/072",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Eske Yoshinob",
+      "national_pokedex_numbers": [
+        781
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-9/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-9/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-10",
+      "name": "Dhelmise VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "330",
+      "evolves_from": [
+        "Dhelmise V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Swinging Chain",
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon for each Grass Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Anchor",
+          "text": "During your next turn, this Pokémon can't use Max Anchor.",
+          "damage": "240"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "10",
+      "printed_number": "010/072",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        781
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-10/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-10/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-11",
+      "name": "Grookey",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        810
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-11/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-11/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-12",
+      "name": "Thwackey",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Grookey"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Lay of the Land",
+          "text": "If you have a Stadium in play, this Pokémon has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Branch Poké",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "012/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "0313",
+      "national_pokedex_numbers": [
+        811
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-12/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-12/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-13",
+      "name": "Rillaboom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Thwackey"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Voltage Beat",
+          "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Hammer In",
+          "damage": "140"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "13",
+      "printed_number": "013/072",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Anesaki Dynamic",
+      "national_pokedex_numbers": [
+        812
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-13/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-13/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-14",
+      "name": "Gossifleur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Leafage",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "014/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        829
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-14/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-14/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-15",
+      "name": "Eldegoss",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Gossifleur"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Enriching Seeds",
+          "text": "Heal all damage from 1 of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "015/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        830
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-15/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-15/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-16",
+      "name": "Zarude",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Suctioning Vines",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Jungle Blast",
+          "damage": "110"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "16",
+      "printed_number": "016/072",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        893
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Once the vines on Zarude's body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-16/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-16/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-17",
+      "name": "Reshiram",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Lightning",
+            "Darkness"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Amazing Blaze",
+          "text": "This Pokémon also does 60 damage to itself.",
+          "damage": "270"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "17",
+      "printed_number": "017/072",
+      "rarity": "Amazing Rare",
+      "rarity_code": "A",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        643
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-17/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-17/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-18",
+      "name": "Cinderace V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "210",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Field Runner",
+          "text": "If a Stadium is in play, this Pokémon has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Crimson Legs",
+          "damage": "140"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "18",
+      "printed_number": "018/072",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        815
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-18/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-18/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-19",
+      "name": "Cinderace VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Cinderace V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Counter",
+          "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does that much more damage.",
+          "damage": "30+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Pyro Ball",
+          "text": "Your opponent's Active Pokémon is now Burned.",
+          "damage": "170"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "19",
+      "printed_number": "019/072",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        815
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-19/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-19/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-20",
+      "name": "Horsea",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Gun",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "number": "20",
+      "printed_number": "020/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Taira Akitsu",
+      "national_pokedex_numbers": [
+        116
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-20/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-20/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-21",
+      "name": "Kyogre",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Lightning",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Amazing Surge",
+          "text": "This attack does 80 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "21",
+      "printed_number": "021/072",
+      "rarity": "Amazing Rare",
+      "rarity_code": "A",
+      "artist": "Anesaki Dynamic",
+      "national_pokedex_numbers": [
+        382
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-21/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-21/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-22",
+      "name": "Buizel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rain Splash",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "022/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "ryoma uratsuka",
+      "national_pokedex_numbers": [
+        418
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-22/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-22/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-23",
+      "name": "Floatzel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Buizel"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Surf",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "printed_number": "023/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        419
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-23/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-23/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-24",
+      "name": "Manaphy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ocean Search",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal a Pokémon you find there, and put it into your hand. Shuffle the other cards back into your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wave Splash",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "024/072",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Narumi Sato",
+      "national_pokedex_numbers": [
+        490
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-24/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-24/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-25",
+      "name": "Volcanion",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hammer In",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Dynamite Steam",
+          "text": "Flip 2 coins. This attack does 120 damage for each heads.",
+          "damage": "120×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "25",
+      "printed_number": "025/072",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        721
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-25/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-25/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-26",
+      "name": "Chewtle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "26",
+      "printed_number": "026/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "sowsow",
+      "national_pokedex_numbers": [
+        833
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-26/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-26/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-27",
+      "name": "Drednaw",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Chewtle"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Exoskeleton",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Skull Bash",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "27",
+      "printed_number": "027/072",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        834
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-27/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-27/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-28",
+      "name": "Cramorant",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spit-Out Shot",
+          "text": "This attack does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "printed_number": "028/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        845
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-28/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-28/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-29",
+      "name": "Snom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Call for Family",
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "29",
+      "printed_number": "029/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Tika Matsuno",
+      "national_pokedex_numbers": [
+        872
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-29/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-29/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-30",
+      "name": "Frosmoth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Snom"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ice Dance",
+          "text": "As often as you like during your turn, you may attach a Water Energy card from your hand to 1 of your Benched Water Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Aurora Beam",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "30",
+      "printed_number": "030/072",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        873
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-30/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-30/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-31",
+      "name": "Shinx",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Under Pressure",
+          "text": "If your opponent has 3 or fewer Prize cards remaining, this attack does 50 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "31",
+      "printed_number": "031/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Uta",
+      "national_pokedex_numbers": [
+        403
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-31/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-31/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-32",
+      "name": "Luxio",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Shinx"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Top Entry",
+          "text": "Once during your turn, if you drew this Pokémon from your deck at the beginning of your turn and your Bench isn't full, before you put it into your hand, you may put it onto your Bench."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Zap Kick",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "printed_number": "032/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "NC Empire",
+      "national_pokedex_numbers": [
+        404
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-32/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-32/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-33",
+      "name": "Luxray",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Luxio"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Raid",
+          "text": "If this Pokémon evolved from Luxio during this turn, this attack does 100 more damage.",
+          "damage": "60+"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Head Bolt",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "printed_number": "033/072",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        405
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Luxray's ability to see through objects comes in handy when it's scouting for danger.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-33/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-33/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-34",
+      "name": "Rotom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Roto Choice",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 Item cards that have the word \"Rotom\" in their name, reveal them, and put them into your hand. Then, shuffle your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunder Shock",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "printed_number": "034/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "ryoma uratsuka",
+      "national_pokedex_numbers": [
+        479
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "One boy's invention led to the development of many different machines that take advantage of Rotom's unique capabilities.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-34/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-34/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-35",
+      "name": "Morpeko",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Famished",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunder Shock",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "35",
+      "printed_number": "035/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Saya Tsuruta",
+      "national_pokedex_numbers": [
+        877
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-35/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-35/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-36",
+      "name": "Morpeko",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Famished",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunder Shock",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "36",
+      "printed_number": "036/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        877
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-36/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-36/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-37",
+      "name": "Morpeko V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spark",
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Electro Wheel",
+          "text": "Discard an Energy from this Pokémon. If you do, switch it with 1 of your Benched Pokémon.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "37",
+      "printed_number": "037/072",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        877
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-37/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-37/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-38",
+      "name": "Morpeko VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "300",
+      "evolves_from": [
+        "Morpeko V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Discharge",
+          "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "38",
+      "printed_number": "038/072",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        877
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-38/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-38/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-39",
+      "name": "Indeedee V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "180",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Watch Over",
+          "text": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psychic",
+          "text": "This attack does 60 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "39",
+      "printed_number": "039/072",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        876
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-39/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-39/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-40",
+      "name": "Trapinch",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Land's Pulse",
+          "text": "If a Stadium is in play, this attack does 10 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "printed_number": "040/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        328
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-40/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-40/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-41",
+      "name": "Koffing",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ascension",
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "printed_number": "041/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Pani Kobayashi",
+      "national_pokedex_numbers": [
+        109
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-41/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-41/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-42",
+      "name": "Galarian Weezing",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Koffing"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Neutralizing Gas",
+          "text": "As long as this Pokémon is in the Active Spot, your opponent's Pokémon in play have no Abilities, except for Neutralizing Gas."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Severe Poison",
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon during Pokémon Checkup."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "42",
+      "printed_number": "042/072",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        110
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-42/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-42/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-43",
+      "name": "Spinarak",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hang Down",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sting",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "043/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "sowsow",
+      "national_pokedex_numbers": [
+        167
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Although the poison from its fangs isn't that strong, it's potent enough to weaken prey that gets caught in its web.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-43/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-43/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-44",
+      "name": "Crobat V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "180",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Dark Asset",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venomous Fang",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "44",
+      "printed_number": "044/072",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        169
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-44/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-44/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-45",
+      "name": "Crobat VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "300",
+      "evolves_from": [
+        "Crobat V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Stealth Poison",
+          "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "70"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Cutter",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "45",
+      "printed_number": "045/072",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        169
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-45/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-45/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-46",
+      "name": "Yveltal",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Psychic",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Amazing Destruction",
+          "text": "Your opponent's Active Pokémon is Knocked Out."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "46",
+      "printed_number": "046/072",
+      "rarity": "Amazing Rare",
+      "rarity_code": "A",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        717
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-46/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-46/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-47",
+      "name": "Nickit",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Instigate",
+          "text": "Your opponent shuffles their hand and puts it on the bottom of their deck. If they put any cards on the bottom of their deck in this way, they draw 3 cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "printed_number": "047/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "kirisAki",
+      "national_pokedex_numbers": [
+        827
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-47/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-47/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-48",
+      "name": "Thievul",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Nickit"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Call for Goons",
+          "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Corner",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "48",
+      "printed_number": "048/072",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        828
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-48/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-48/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-49",
+      "name": "Cufant",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Strength",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "49",
+      "printed_number": "049/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "0313",
+      "national_pokedex_numbers": [
+        878
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-49/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-49/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-50",
+      "name": "Ditto V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "170",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "V Transformation",
+          "text": "Once during your turn, you may choose a Basic Pokémon V from your discard pile and switch it with this Pokémon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stick On",
+          "text": "Attach a basic Energy card from your discard pile to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "50",
+      "printed_number": "050/072",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Saki Hayashiro",
+      "national_pokedex_numbers": [
+        132
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-50/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-50/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-51",
+      "name": "Ditto VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Ditto V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Transform",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "51",
+      "printed_number": "051/072",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        132
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-51/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-51/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-52",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Signs of Evolution",
+          "text": "Search your deck for a card that evolves from Eevee, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wild Kick",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "52",
+      "printed_number": "052/072",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "so-taro",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-52/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-52/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-53",
+      "name": "Greedent V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "200",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Crunch",
+          "text": "Discard an Energy from your opponent's Active Pokémon.",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Stumbling Press",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "53",
+      "printed_number": "053/072",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        820
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-53/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-53/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-54",
+      "name": "Cramorant V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "200",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Beak Catch",
+          "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Spit Shot",
+          "text": "Discard all Energy from this Pokémon. This attack does 160 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "54",
+      "printed_number": "054/072",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        845
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-54/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-54/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-55",
+      "name": "Cramorant VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Cramorant V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Jet",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads.",
+          "damage": "80×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "55",
+      "printed_number": "055/072",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        845
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-55/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-55/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-56",
+      "name": "Indeedee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Helping Hand",
+          "text": "Search your deck for a basic Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psychic",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "56",
+      "printed_number": "056/072",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        876
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-56/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-56/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-57",
+      "name": "Ball Guy",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for up to 3 different Item cards that have the word \"Ball\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "57",
+      "printed_number": "057/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Hitoshi Ariga",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-57/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-57/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-58",
+      "name": "Boss's Orders",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "58",
+      "printed_number": "058/072",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Ryuta Fuse",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-58/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-58/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "playPokemonStamp",
+          "prices": []
+        },
+        {
+          "name": "playPokemonStampHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-59",
+      "name": "Gym Trainer",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "59",
+      "printed_number": "059/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Ryuta Fuse",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-59/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-59/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "professorProgramStampReverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-60",
+      "name": "Professor's Research",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard your hand and draw 7 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "60",
+      "printed_number": "060/072",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Hideki Ishikawa",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-60/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-60/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "cosmosHolofoil",
+          "prices": []
+        },
+        {
+          "name": "playPokemonStamp",
+          "prices": []
+        },
+        {
+          "name": "playPokemonStampHolofoil",
+          "prices": []
+        },
+        {
+          "name": "professorProgramStampReverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-61",
+      "name": "Rusted Shield",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "rules": [
+        "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+        "The Zamazenta V this card is attached to gets +70 HP.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "61",
+      "printed_number": "061/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-61/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-61/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-62",
+      "name": "Rusted Sword",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "rules": [
+        "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
+        "The attacks of the Zacian V this card is attached to do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "62",
+      "printed_number": "062/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-62/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-62/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-63",
+      "name": "Team Yell Towel",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Heal 50 damage from both Active Pokémon.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "63",
+      "printed_number": "063/072",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-63/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-63/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-64",
+      "name": "Alcremie V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sugary Sprinkles",
+          "text": "Heal 30 damage from each of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sweet Splash",
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "64",
+      "printed_number": "064/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Ayaka Yoshida",
+      "national_pokedex_numbers": [
+        869
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-64/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-64/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-65",
+      "name": "Ball Guy",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for up to 3 different Item cards that have the word \"Ball\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "65",
+      "printed_number": "065/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-65/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-65/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-65/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 65,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-66",
+      "name": "Bird Keeper",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Switch your Active Pokémon with 1 of your Benched Pokémon. If you do, draw 3 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "66",
+      "printed_number": "066/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Hideki Ishikawa",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-66/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-66/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-66/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 66,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-67",
+      "name": "Cara Liss",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for up to 2 Rare Fossil cards and put them onto your Bench. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "67",
+      "printed_number": "067/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Hitoshi Ariga",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-67/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-67/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-67/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 67,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-68",
+      "name": "Gym Trainer",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Draw 2 cards. If any of your Pokémon were Knocked Out during your opponent's last turn, draw 2 more cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "68",
+      "printed_number": "068/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "nagimiso",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-68/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-68/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-68/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 68,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-69",
+      "name": "Piers",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "69",
+      "printed_number": "069/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-69/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-69/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-69/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 69,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-70",
+      "name": "Poké Kid",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "70",
+      "printed_number": "070/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-70/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-70/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-70/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 70,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-71",
+      "name": "Rose",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Attach up to 2 basic Energy cards from your discard pile to 1 of your Pokémon VMAX. If you attached any Energy cards in this way, discard your hand.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "71",
+      "printed_number": "071/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Megumi Mizutani",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-71/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-71/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-71/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 71,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-72",
+      "name": "Skyla",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "72",
+      "printed_number": "072/072",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "kirisAki",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-72/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-72/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-72/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 72,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh45-73",
+      "name": "Alcremie VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "310",
+      "evolves_from": [
+        "Alcremie V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Adornment",
+          "text": "For each of your Benched Pokémon, search your deck for a Psychic Energy card and attach it to that Pokémon. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "G-Max Whisk",
+          "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way.",
+          "damage": "60×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "73",
+      "printed_number": "073/072",
+      "rarity": "Rare Rainbow",
+      "rarity_code": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        869
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh45-73/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh45-73/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh45-73/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh45",
+        "name": "Shining Fates",
+        "series": "Sword & Shield",
+        "code": "SHF",
+        "total": 73,
+        "printed_total": 72,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2021/02/19",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 73,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 73
+}

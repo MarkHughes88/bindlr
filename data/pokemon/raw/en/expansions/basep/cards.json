@@ -1,0 +1,4975 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "basep-1",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Growl",
+          "text": "If the Defending Pokémon attacks Pikachu during your opponent's next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thundershock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1",
+      "rarity": "Promo",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-1/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-1/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-2",
+      "name": "Electabuzz",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Light Screen",
+          "text": "Whenever an attack does damage to Electabuzz (after applying Weakness and Resistance) during your opponent's next turn, that attack only does half the damage to Electabuzz (rounded down to the nearest 10). (Any other effects of attacks still happen.)"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "2",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        125
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A wild Pokémon with a short temper. It is able to distinguish colors, and likes the color red.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-2/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-2/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-3",
+      "name": "Mewtwo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energy Absorption",
+          "text": "Choose up to 2 Energy cards from your discard pile and attach them to Mewtwo."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psyburn",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "3",
+      "printed_number": "3",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Years of genetic experiments resulted in the creation of this never-before-seen violent Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-3/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-3/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-4",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Recharge",
+          "text": "Search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thunderbolt",
+          "text": "Discard all Energy cards attached to Pikachu in order to use this attack.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When several of these Pokémon gather, they attract so much electricity that they can cause lightning to strike.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-4/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-4/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-5",
+      "name": "Dragonite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Dragonair"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Special Delivery",
+          "text": "Once during your turn (before your attack), you may draw a card. If you do, choose a card from your hand and put it on top of your deck. This power can't be used if Dragonite is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Supersonic Flight",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "60"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "5",
+      "printed_number": "5",
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "This Pokémon can fly is spite of its large bulk. It is said to be able to circumnavigate the earth in just 16 hours.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-5/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-5/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-6",
+      "name": "Arcanine",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Growlithe"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Flames of Rage",
+          "text": "Discard 2 Fire Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        59
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A legendary Pokémon famous for its beauty. It looks almost as if it flies when it runs.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-6/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-6/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-7",
+      "name": "Jigglypuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "First Aid",
+          "text": "Remove 1 damage counter from Jigglypuff."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Double-edge",
+          "text": "Jigglypuff does 20 damage to itself.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "7",
+      "rarity": "Promo",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        39
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-7/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-7/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-8",
+      "name": "Mew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psywave",
+          "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Devolution Beam",
+          "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "8",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-8/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-8/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-9",
+      "name": "Mew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psywave",
+          "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Devolution Beam",
+          "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-9/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-9/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-10",
+      "name": "Meowth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Cat Punch",
+          "text": "Flip a coin. If heads, this attack does 20 damage. If tails and if your opponent has any Benched Pokémon, he or she chooses 1 of them and this attack does 20 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "10",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        52
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-10/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-10/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-11",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "30",
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Chain Reaction",
+          "text": "This power can only be used when a Pokémon evolves. Search your deck for a card that evolves from Eevee and attach it to Eevee. This counts as evolving Eevee. Shuffle your deck afterward. This power can't be used if Eevee is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "number": "11",
+      "printed_number": "11",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-11/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-11/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-12",
+      "name": "Mewtwo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energy Control",
+          "text": "Flip a coin. If heads, choose a basic Energy card attached to 1 of your opponent's Pokémon and attach it to another of your opponent's Pokémon of your choice."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Telekinesis",
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "12",
+      "rarity": "Promo",
+      "artist": "Christopher Rush",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A scientist created this Pokémon after years of horrific gene-splicing and DNA engineering experiments.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-12/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-12/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-13",
+      "name": "Venusaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Ivysaur"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Solar Power",
+          "text": "Once during your turn (before your attack), you may use this power. Your Active Pokémon and the Defending Pokémon are no longer Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Mega Drain",
+          "text": "Remove a number of damage counters from Venusaur equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Venusaur has fewer damage counters than that, remove all of them.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "13",
+      "printed_number": "13",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        3
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "This plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-13/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-13/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-14",
+      "name": "Mewtwo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energy Absorption",
+          "text": "Choose up to 2 Energy cards from your discard pile and attach them to Mewtwo."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Psyburn",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "14",
+      "rarity": "Promo",
+      "artist": "Benimaru Itoh",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Years of genetic experiments resulted in the creation of this never-before-seen violent Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-14/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-14/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-15",
+      "name": "Cool Porygon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Texture Magic",
+          "text": "You may change Cool Porygon's Resistance to a type of your choice other than Colorless. If the Defending Pokémon has a Weakness, you may change it to a type of your choice other than Colorless. (Benching either Pokémon ends the effect on that Pokémon.)"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "3-D Attack",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "15",
+      "rarity": "Promo",
+      "artist": "Hiromichi Sugiyama",
+      "national_pokedex_numbers": [
+        137
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A Pokémon that consists entirely of programming code. Capable of moving freely in cyberspace.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-15/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-15/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-16",
+      "name": "Computer Error",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Rocket's Secret Machine"
+      ],
+      "rules": [
+        "You may draw up to 5 cards, then your opponent may draw up to 5 cards. Your turn is over now (you don't get to attack)."
+      ],
+      "number": "16",
+      "printed_number": "16",
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-16/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-16/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-17",
+      "name": "Dark Persian",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "evolves_from": [
+        "Meowth"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tempt",
+          "text": "If your opponent has any Benched Pokémon, flip a coin. If heads, choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Poison Claws",
+          "text": "Flip a coin. if heads, the Defending Pokémon is now Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "number": "17",
+      "printed_number": "17",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        53
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Popular with women because of its beautiful fur. The leader of the Rockets keeps one as a pet.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-17/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-17/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-18",
+      "name": "Team Rocket's Meowth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Miraculous Comeback",
+          "text": "Flip a number of coins equal to the number of Pokémon in play. This attack does 10 damage times the number of heads. Then Team Rocket's Meowth does 10 damage times the number of tails to itself."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "18",
+      "rarity": "Promo",
+      "artist": "Kunihiko Yuyama",
+      "national_pokedex_numbers": [
+        52
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "This Pokémon is more active at night. It likes bright, shiny things and cannot resist taking them and adding them to its collection.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-18/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-18/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-19",
+      "name": "Sabrina's Abra",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Synchronize",
+          "text": "This attack can't be used unless Sabrina's Abra and the Defending Pokémon have the same number of Energy cards attached to them.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "number": "19",
+      "printed_number": "19",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        63
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-19/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-19/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-20",
+      "name": "Psyduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headache",
+          "text": "Your opponent can't play Trainer cards during his or her next turn."
+        },
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "20",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "While lulling its enemies with its vacant look, this wily Pokémon will use psychokinetic powers.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-20/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-20/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-21",
+      "name": "Moltres",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hyper Flame",
+          "text": "Flip a coin. If heads, discard 1 Fire Energy card attached to Moltres. If tails, discard all Energy cards attached to Moltres. If you can't discard Energy cards, this attack does nothing.",
+          "damage": "60"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "21",
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        146
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The flames on this legendary Pokémon's wings burn so brightly that they can make night seem like day.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-21/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-21/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-22",
+      "name": "Articuno",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Diamond Dust",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "22",
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        144
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "This legendary Pokémon is said to freeze the water in the air during winter, causing snow.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-22/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-22/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-23",
+      "name": "Zapdos",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lightning Burn",
+          "text": "Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, Zapdos does 30 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "printed_number": "23",
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        145
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "This legendary Pokémon is said to be present wherever there is a lightning storm.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-23/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-23/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-24",
+      "name": "_____'s Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Birthday Surprise",
+          "text": "If it's not your birthday, this attack does 30 damage. If it is your birthday, flip a coin. If heads, this attack does 30 damage plus 50 more damage; if tails, this attack does 30 damage.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "24",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Your Birthdate: ______________________________",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-24/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-24/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-25",
+      "name": "Flying Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thundershock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Fly",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Flying Pikachu; if tails, this attack does nothing (not even damage).",
+          "damage": "30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "25",
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "By learning how to fly, Pikachu overcame its weakness to Fighting Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-25/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-25/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-26",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunderbolt",
+          "text": "Discard all Energy cards attached to Pikachu.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "printed_number": "26",
+      "rarity": "Promo",
+      "artist": "Gakuji Nomoto",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It uses its sensitive tail to sense its environment and has been known to react violently if its tail is grabbed.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-26/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-26/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-27",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thundershock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Agility",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "number": "27",
+      "printed_number": "27",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When several of these Pokémon gather, their electricity can cause lightning storms.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-27/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-27/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-28",
+      "name": "Surfing Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Surf",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "printed_number": "28",
+      "rarity": "Promo",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "One summer, a group of Pikachus was found riding the waves at the local beach.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-28/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-28/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-29",
+      "name": "Marill",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Gun",
+          "text": "Does 20 damage plus 10 more damage for each Energy attached to Marill but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "printed_number": "29",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        183
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The tip of its tail, which contains oil that is lighter than water, lets it swim without drowning.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-29/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-29/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-30",
+      "name": "Togepi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Snivel",
+          "text": "If the Defending Pokémon attacks Togepi during your opponent's next turn, any damage done to Togepi is reduced by 20 (before applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mini-Metronome",
+          "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. Mini-Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) (No matter what type the Defending Pokémon is, Togepi's type is still Colorless.) Togepi performs that attack."
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "30",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        175
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Still only a hatchling, it uses poison to chase off its enemies when threatened.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-30/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-30/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-31",
+      "name": "Cleffa",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Baby"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "30",
+      "evolves_from": [
+        "Clefairy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Eek",
+          "text": "Draw 2 cards."
+        }
+      ],
+      "rules": [
+        "If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
+      ],
+      "number": "31",
+      "printed_number": "31",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        173
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Because of its unusual, star-like silhouette, people believe that it came here on a meteor.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-31/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-31/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-32",
+      "name": "Smeargle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Paint",
+          "text": "Flip a coin. If heads, choose a type (other than Colorless) and put a Coloring counter on the Defending Pokémon. That Pokémon is now the type you chose. If it already had a Coloring counter, remove the old one. If tails, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "printed_number": "32",
+      "rarity": "Promo",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        235
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Once it becomes an adult, it has a tendency to let its comrades plant footprints on its back.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-32/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-32/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-33",
+      "name": "Scizor",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Scyther"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Leer",
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Scizor during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Metal Pincer",
+          "text": "Flip a coin until you get tails. This attack does 30 damage plus 10 more damage for each heads.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "33",
+      "printed_number": "33",
+      "rarity": "Promo",
+      "artist": "Hironobu Yoshida",
+      "national_pokedex_numbers": [
+        212
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its wings are not used for flying. They are flapped at high speed to adjust its body temperature.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-33/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-33/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-34",
+      "name": "Entei",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Bolt",
+          "text": "Whenever your opponent's attack damages Entei, unless that attack Knocks Out Entei, flip a coin. If heads, shuffle Entei and all cards attached to it into your deck. This power can't be used if Entei is already Asleep, Confused, or Paralyzed when it is damaged."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Protective Flame",
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to your Benched Pokémon.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "printed_number": "34",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        244
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Volcanoes erupt when it barks. Unable to restrain its extreme power, it races headlong around the land.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-34/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-34/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-35",
+      "name": "Pichu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Baby"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "30",
+      "evolves_from": [
+        "Pikachu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Let's Play!",
+          "text": "Search your deck for a Baby Pokémon card and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "rules": [
+        "If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
+      ],
+      "number": "35",
+      "printed_number": "35",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        172
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It is not yet skilled at storing electricity. It may send out a jolt if amused or startled.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-35/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-35/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-36",
+      "name": "Igglybuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Baby"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "30",
+      "evolves_from": [
+        "Jigglypuff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Good Night Song",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponent's turn ends."
+      ],
+      "number": "36",
+      "printed_number": "36",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        174
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its extremely flexible and elastic body makes it bounce continuously—anytime, anywhere.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-36/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-36/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-37",
+      "name": "Hitmontop",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Repeating Kick",
+          "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rapid Spin",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "printed_number": "37",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        237
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-37/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-37/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-38",
+      "name": "Unown [J]",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "[Join]",
+          "text": "Once during your turn (before your attack), if you have Unown [J], Unown [O], Unown [I], and Unown Dragon on your Bench, you may search your deck for a Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hidden Power",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "You may have up to 4 Basic Pokémon cards in your deck with Unown in their names."
+      ],
+      "number": "38",
+      "printed_number": "38",
+      "rarity": "Promo",
+      "artist": "Hideki Kazama",
+      "national_pokedex_numbers": [
+        201
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Their shapes look like hieroglyphs on ancient tablets. It is said that the two are somehow related.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-38/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-38/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-39",
+      "name": "Misdreavus",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pain Split",
+          "text": "Put 1 damage counter on the Defending Pokémon for each damage counter on Misdreavus."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Confuse Ray",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "39",
+      "printed_number": "39",
+      "rarity": "Promo",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        200
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-39/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-39/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-40",
+      "name": "Pokémon Center",
+      "supertype": "Trainer",
+      "rules": [
+        "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
+      ],
+      "number": "40",
+      "printed_number": "40",
+      "rarity": "Promo",
+      "artist": "\"Big Mama\" Tagawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-40/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-40/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-41",
+      "name": "Lucky Stadium",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
+        "Once during each player's turn (before attacking), that player may flip a coin. If heads, that player draws a card."
+      ],
+      "number": "41",
+      "printed_number": "41",
+      "rarity": "Promo",
+      "artist": "\"Big Mama\" Tagawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-41/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-41/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-42",
+      "name": "Pokémon Tower",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
+        "If the effect of a Pokémon Power, attack, Energy card, or Trainer card would put a card in a discard pile into its owner's hand, that card stays in that discard pile instead."
+      ],
+      "number": "42",
+      "printed_number": "42",
+      "rarity": "Promo",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-42/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-42/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-43",
+      "name": "Machamp",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Machoke"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Seething Anger",
+          "text": "Flip a number of coins equal to the number of damage counters on Machamp. This attack does 20 damage plus 10 more damage for each heads.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Fling",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "43",
+      "printed_number": "43",
+      "rarity": "Promo",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        68
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Using its amazing muscles, it throws powerful punches that can knock its victim clear over the horizon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-43/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-43/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-44",
+      "name": "Magmar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Burning Fire",
+          "text": "When you use this attack, you may discard any number of Fire Energy cards attached to your Pokémon in play. This attack does 10 damage plus 10 more damage for each Fire Energy card you discarded in this way.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Magma Punch",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "44",
+      "printed_number": "44",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        126
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its body always burns with an orange glow that enables it to hide perfectly among flames.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-44/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-44/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-45",
+      "name": "Scyther",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Slashing Strike",
+          "text": "Scyther can't use this attack during your next turn. (Benching or evolving Scyther ends this effect.)",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "printed_number": "45",
+      "rarity": "Promo",
+      "artist": "Hironobu Yoshida",
+      "national_pokedex_numbers": [
+        123
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "With ninja-like agility and speed, it can create the illusion that there is more than one.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-45/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-45/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-46",
+      "name": "Electabuzz",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lightning Rod",
+          "text": "Choose 1 of your opponent's Pokémon and put a Lightning Rod marker on it. (A Pokémon can have only 1 Lightning Rod marker on it at a time.)"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Lightning Bolt",
+          "text": "This attack does 20 damage to any Pokémon with a Lightning Rod marker on it. Apply Weakness and Resistance.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "printed_number": "46",
+      "rarity": "Promo",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        125
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Normally found near power plants, it can wander away and cause major blackouts in cities.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-46/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-46/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-47",
+      "name": "Mew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Neutral Shield",
+          "text": "Prevent all effects of attacks, including damage, done to Mew by Evolved Pokémon. You can't use this power if Mew is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psyshock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "printed_number": "47",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-47/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-47/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-48",
+      "name": "Articuno",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Aurora Veil",
+          "text": "As long as Articuno is your Active Pokémon, your Benched Pokémon do not take damage from and are not affected by attacks. This power cannot be used if Articuno is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Ice Beam",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "48",
+      "printed_number": "48",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        144
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A legendary bird Pokémon that is said to appear to doomed people who are lost in icy mountains.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-48/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-48/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-49",
+      "name": "Snorlax",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Guard",
+          "text": "As long as Snorlax is your Active Pokémon, the Defending Pokémon can't Retreat. This power stops working when Snorlax is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Roll Over",
+          "text": "Snorlax is now Asleep. Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "49",
+      "printed_number": "49",
+      "rarity": "Promo",
+      "artist": "Craig Turvey",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-49/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-49/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-50",
+      "name": "Celebi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leaf Slice",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "50",
+      "printed_number": "50",
+      "rarity": "Promo",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        251
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-50/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-50/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-51",
+      "name": "Rapidash",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "evolves_from": [
+        "Ponyta"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Jump Over",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them. Flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Super Singe",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "number": "51",
+      "printed_number": "51",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        78
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-51/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-51/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "pokemonCenterStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-52",
+      "name": "Ho-oh",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Sacred Wing",
+          "text": "Flip a coin. If tails, this attack's base damage is 20 instead of 60.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "52",
+      "printed_number": "52",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        250
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-52/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-52/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "pokemonCenterStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "basep-53",
+      "name": "Suicune",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Pure Body",
+          "text": "To attach a Water Energy card from your hand to Suicune, you must discard an Energy card attached to Suicune. (Attach the Water Energy, and then discard an Energy card from Suicune.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hypno Wave",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "53",
+      "printed_number": "53",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        245
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/basep-53/small",
+          "medium": "https://images.scrydex.com/pokemon/basep-53/medium",
+          "large": "https://images.scrydex.com/pokemon/basep-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "basep",
+        "name": "Wizards Black Star Promos",
+        "series": "Base",
+        "code": "PR",
+        "total": 53,
+        "printed_total": 53,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/07/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 53
+}

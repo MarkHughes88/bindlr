@@ -1,0 +1,2634 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "clv-1",
+      "name": "Bulbasaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "name": "Leech Seed",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        1
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A strange seed was planted on its back at birth. Thus, a plant sprouted and now grows with this Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-1/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-1/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-2",
+      "name": "Ivysaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "evolves_from": [
+        "Bulbasaur"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Vine Whip",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "name": "Poison Powder",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/034",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        2
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When the bulb on its back grows large, the Pokémon seems to lose the ability to stand on its hind legs.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-2/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-2/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-3",
+      "name": "Venusaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Ivysaur"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Energy Trans",
+          "text": "As often as you like during your turn, you may move a Grass Energy from 1 of your Pokémon to another of your Pokémon. This Pokémon Power can't be used if this Pokémon is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "name": "Solar Beam",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "3",
+      "printed_number": "003/034",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        3
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-3/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-3/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-4",
+      "name": "Paras",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Call for Family",
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Grass"
+          ],
+          "name": "Toxic Spore",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/034",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        46
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-4/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-4/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-5",
+      "name": "Parasect",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Paras"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Nutritional Support",
+          "text": "Search your deck for up to 2 Basic Grass Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/034",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        47
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A mushroom grown larger than the host's body controls PARASECT. It scatters poisonous spores.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-5/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-5/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-6",
+      "name": "Scyther",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "name": "Swords Dance",
+          "text": "During your next turn, this Pokémon's Slash attack does 30 more damage (before applying Weakness and Resistance)."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Slash",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "6",
+      "printed_number": "006/034",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        123
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "With ninja-like agility and speed, it can create the illusion that there is more than one of it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-6/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-6/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-7",
+      "name": "Pinsir",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Roof Fling",
+          "text": "Flip a coin. If heads, put your opponent's Active Pokémon and all attached cards into your opponent's hand."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "name": "Guillotine",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "007/034",
+      "artist": "DemizuPosuka",
+      "national_pokedex_numbers": [
+        127
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "One solid blow from its horns is enough to split apart a large tree. Its greatest rival in Alola is Vikavolt.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-7/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-7/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-8",
+      "name": "Sandshrew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Collect",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Rolling Tackle",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008/034",
+      "artist": "Sekio",
+      "national_pokedex_numbers": [
+        27
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It lives in areas of limited rainfall. When danger approaches, it curls up into a ball to protect its soft stomach.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-8/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-8/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-9",
+      "name": "Sandslash",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Sandshrew"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Continuous Scratch",
+          "text": "Flip 4 coins. This attack does 30 damage for each heads.",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Sand Tomb",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/034",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        28
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its claws and horns often break off. The broken claws and horns can be used to carve plows for tilling farm fields.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-9/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-9/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-10",
+      "name": "Onix",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Land Crush",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "10",
+      "printed_number": "010/034",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        95
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-10/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-10/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-11",
+      "name": "Hitmonlee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Low Sweep",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "name": "Coordinated Strike",
+          "text": "If Hitmonchan is on your Bench, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/034",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        106
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-11/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-11/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-12",
+      "name": "Hitmonchan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "name": "Coordinated Beatdown",
+          "text": "If Hitmonlee is on your Bench, this attack does 20 more damage.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "name": "Mach Cross",
+          "damage": "60"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/034",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        107
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its punches slice the air. However, it seems to need a short break after fighting for three minutes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-12/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-12/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-13",
+      "name": "Doduo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Double Stab",
+          "text": "Flip 2 coins. This attack does 10 damage for each heads.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Doduo Delivery",
+          "text": "Draw 2 cards."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "13",
+      "printed_number": "013/034",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        84
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-13/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-13/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-14",
+      "name": "Dodrio",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Doduo"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-BODY",
+          "name": "Retreat Aid",
+          "text": "As long as this Pokémon is on your Bench, your Active Pokémon's Retreat Cost is 2 Basic Colorless Energy less."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Incessant Peck",
+          "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "014/034",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        85
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It collects data and plans three times as wisely, but it may think too much and fall into a state of immobility.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-14/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-14/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-15",
+      "name": "Chansey",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Scrunch",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Double-Edge",
+          "text": "This Pokémon also does 80 damage to itself.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "015/034",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        113
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A rare and elusive Pokémon that is said to bring happiness to those who manage to catch it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-15/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-15/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-16",
+      "name": "Snorlax",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "150",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Collect",
+          "text": "Draw 2 cards."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Collapse",
+          "text": "This Pokémon is now Asleep.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "16",
+      "printed_number": "016/034",
+      "artist": "Eri Yamaki",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-16/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-16/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-17",
+      "name": "Lugia ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "ex"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "230",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Rising Wind",
+          "text": "Search your deck for a Basic Energy card and attach it to this Pokémon. Then, shuffle your deck.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Aero Break",
+          "text": "This Pokémon also does 30 damage to itself.",
+          "damage": "200"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "017/034",
+      "artist": "PLANETA Hiiragi",
+      "national_pokedex_numbers": [
+        249
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-17/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-17/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-18",
+      "name": "Bill",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Draw 2 cards."
+      ],
+      "number": "18",
+      "printed_number": "018/034",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-18/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-18/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-19",
+      "name": "Boss's Orders",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "number": "19",
+      "printed_number": "019/034",
+      "artist": "nagimiso",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-19/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-19/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-20",
+      "name": "Computer Search",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "You can use this card only if you discard 2 other cards from your hand.",
+        "Search your deck for a card and put it into your hand. Then, shuffle your deck."
+      ],
+      "number": "20",
+      "printed_number": "020/034",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-20/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-20/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-21",
+      "name": "Poké Ball",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "number": "21",
+      "printed_number": "021/034",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-21/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-21/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-22",
+      "name": "Pokémon Fan Club",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "number": "22",
+      "printed_number": "022/034",
+      "artist": "Sanosuke Sakuma",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-22/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-22/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-23",
+      "name": "Pokémon Nurse",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Heal all damage from 1 of your Pokémon. If you healed any damage in this way, discard all Energy from that Pokémon."
+      ],
+      "number": "23",
+      "printed_number": "023/034",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-23/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-23/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-24",
+      "name": "Professor Oak",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Discard your hand and draw 7 cards."
+      ],
+      "number": "24",
+      "printed_number": "024/034",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-24/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-24/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-25",
+      "name": "Rare Candy",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn."
+      ],
+      "number": "25",
+      "printed_number": "025/034",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-25/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-25/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-26",
+      "name": "Rocket's Admin",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Each player shuffles their hand into their deck. Then, each player draws a card for each of their remaining Prize cards."
+      ],
+      "number": "26",
+      "printed_number": "026/034",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-26/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-26/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-27",
+      "name": "Sun Seed",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "The attacks used by the Venusaur this card is attached to do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+      ],
+      "number": "27",
+      "printed_number": "027/034",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-27/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-27/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-28",
+      "name": "Super Rod",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "number": "28",
+      "printed_number": "028/034",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-28/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-28/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-29",
+      "name": "Switch ",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "number": "29",
+      "printed_number": "029/034",
+      "artist": "Studio Bora Inc.",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-29/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-29/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-30",
+      "name": "Ultra Ball",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "You can use this card only if you discard 2 other cards from your hand.",
+        "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "number": "30",
+      "printed_number": "030/034",
+      "artist": "sadaji",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-30/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-30/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-31",
+      "name": "VS Seeker",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "Put a Supporter card from your discard pile into your hand."
+      ],
+      "number": "31",
+      "printed_number": "031/034",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-31/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-31/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-32",
+      "name": "Double Colorless Energy",
+      "supertype": "Trainer",
+      "converted_retreat_cost": 0,
+      "rules": [
+        "As long as this card is attached to a Pokémon, it provides 2 Colorless Energy."
+      ],
+      "number": "32",
+      "printed_number": "032/034",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-32/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-32/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-33",
+      "name": "Basic Grass Energy",
+      "supertype": "Energy",
+      "converted_retreat_cost": 0,
+      "number": "33",
+      "printed_number": "033/034",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-33/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-33/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "clv-34",
+      "name": "Basic Fighting Energy",
+      "supertype": "Energy",
+      "converted_retreat_cost": 0,
+      "number": "34",
+      "printed_number": "034/034",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/clv-34/small",
+          "medium": "https://images.scrydex.com/pokemon/clv-34/medium",
+          "large": "https://images.scrydex.com/pokemon/clv-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "clv",
+        "name": "Pokémon TCG Classic - Venusaur",
+        "series": "Other",
+        "code": "CLV",
+        "total": 34,
+        "printed_total": 34,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2023/11/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 34
+}

@@ -1,0 +1,4229 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "cp1_ja-1",
+      "name": "マグマ団のドンメル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ひのこ",
+          "text": "このポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "001/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        322
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "どんなに 重い 荷物でも ドンメルの おかげで 楽に 目的地まで 運べるわ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Numel",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Ember",
+              "text": "Discard an Energy attached to this Pokémon.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-2",
+      "name": "マグマ団のバクーダ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "マグマ団のドンメル"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "バーンドラフト",
+          "text": "自分のトラッシュからFireエネルギーを1枚選び、このポケモンにつける。この特性は、自分の番に1回使える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "かえんだま",
+          "text": "このポケモンについている基本エネルギーを1個選び、ベンチポケモンにつけ替える。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "2",
+      "printed_number": "002/034",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        323
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "炎に 強い バクーダは 団員を 救出するときにも 大活躍 だったぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Camerupt",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Burning Draft",
+              "text": "Once during your turn (before your attack), you may attach a Fighting or Fire Energy card from your discard pile to this Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Flame Ball",
+              "text": "Move a basic Energy card from this Pokémon to 1 of your Benched Pokémon.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Magma's Numel"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-3",
+      "name": "アクア団のタマザラシ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みずでっぽう",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "3",
+      "printed_number": "003/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        363
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "タマザラシの 水鉄砲は どんな 火だろうと 消せるの。 敵の 使う 炎なんて 効かないわ！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Spheal",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Water Gun",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-4",
+      "name": "アクア団のトドグラー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "アクア団のタマザラシ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "みずとばし",
+          "text": "相手のポケモンを1匹選び、20ダメージ。［ベンチは弱点・抵抗力の計算をしない。］"
+        },
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ひょうのかぜ",
+          "text": "相手のバトルポケモンが「マグマ団」のポケモンなら、60ダメージを追加。",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "4",
+      "printed_number": "004/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        364
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "氷の道を 作って サポートして くれるんだ。 氷の上なら どんな バトルでも 勝てるぜ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Sealeo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Splatter",
+              "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hail Storm",
+              "text": "If your opponent's Active Pokémon is a Team Magma Pokémon, this attack does 60 more damage.",
+              "damage": "60+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Aqua's Spheal"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-5",
+      "name": "アクア団のトドゼルガ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "アクア団のトドグラー"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "パワーブロー",
+          "text": "このポケモンについているエネルギーの数×30ダメージ。",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "デュアルブリザード",
+          "text": "このポケモンについているWaterエネルギーを2個トラッシュし、相手のポケモンを2匹選び、それぞれに80ダメージ。［ベンチは弱点・抵抗力の計算をしない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "鋼",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "5",
+      "printed_number": "005/034",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        365
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "強力な 冷気で 凍らせる ワザが 得意よ。 凍らせたら 鋭い キバで 粉々に するの！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Walrein",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Power Blow",
+              "text": "This attack does 30 damage times the amount of Energy attached to this Pokémon.",
+              "damage": "30×"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Dual Blizzard",
+              "text": "Discard 2 Water Energy attached to this Pokémon. This attack does 80 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Metal",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Aqua's Sealeo"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-6",
+      "name": "アクア団のカイオーガEX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "190",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "パワーセーバー",
+          "text": "おたがいの場にいる「アクア団」のポケモンの合計が4匹以下なら、このポケモンはワザが使えない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "アクアインパクト",
+          "text": "相手のバトルポケモンのにげるために必要なエネルギーの数×20ダメージを追加。",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "6",
+      "printed_number": "006/034",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        382
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Kyogre-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Water"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Power Saver",
+              "text": "If there are 4 or fewer Team Aqua Pokémon in play, this Pokémon can't attack."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Aqua Impact",
+              "text": "This attack does 20 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost.",
+              "damage": "80+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-7",
+      "name": "アクア団のベトベター",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "はたく",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "どろかけ",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "007/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        88
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "どんな 隙間でも 入り込める 柔軟な 体は 敵の アジトに 侵入するときに 役立つぜ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Grimer",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Pound",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Mud-Slap",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-8",
+      "name": "アクア団のベトベトン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "アクア団のベトベター"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ヘドロまつり",
+          "text": "このポケモンがいるかぎり、おたがいのポケモン全員（「アクア団」をのぞく）のにげるために必要なエネルギーは、それぞれ1個ぶん多くなる。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ついげき",
+          "text": "相手のバトルポケモンが特殊状態なら、60ダメージを追加。",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "8",
+      "printed_number": "008/034",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        89
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "毒を まとった 巨体で 敵を 包み込んで 動けなくするの。 あなたも 押しつぶして あげる！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Muk",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Sludge Festival",
+              "text": "The Retreat Cost of each Pokémon in play (except for Team Aqua Pokémon) is Colorless more."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Pester",
+              "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more.",
+              "damage": "60+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Aqua's Grimer"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-9",
+      "name": "アクア団のハブネーク",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "どくのキバ",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンをどくにする。",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ベノムテール",
+          "text": "相手のバトルポケモンが特殊状態なら、そのバトルポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        336
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ハブネークの しっぽは するどい 剣に なっているぞ。 毒を 出すことだって できるのさ！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Seviper",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Venomous Fang",
+              "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Venom Tail",
+              "text": "If your opponent's Active Pokémon is affected by a Special Condition, discard an Energy attached to that Pokémon.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-10",
+      "name": "マグマ団のヤジロン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "テレキネシス",
+          "text": "相手のポケモンを1匹選び、20ダメージ。このワザのダメージは弱点・抵抗力の計算をしない。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        343
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "敵を 見つけたら 一斉に 鳴き声を あげて 知らせて くれるんだ。 助かるぜ！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Baltoy",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Telekinesis",
+              "text": "This attack does 20 damage to 1 of your opponent's Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-11",
+      "name": "マグマ団のネンドール",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "マグマ団のヤジロン"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "マグマスイッチ",
+          "text": "自分の場のポケモンについている基本エネルギーを1個選び、自分の別の「マグマ団」のポケモンにつけ替える。この特性は、自分の番に1回使える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "パワービーム",
+          "text": "",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "11",
+      "printed_number": "011/034",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        344
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ネンドールが 放つ ビームは 確実に 敵を 捉えるの。 遠くからの 攻撃は 任せなさい！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Claydol",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Magma Switch",
+              "text": "Once during your turn (before your attack), you may move a basic Energy from 1 of your Pokémon to 1 of your Team Magma Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Power Beam",
+              "text": "",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Magma's Baltoy"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-12",
+      "name": "マグマ団のココドラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かじる",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "012/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        304,
+        305
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "鉄も 食べてしまう ココドラは 敵の 船だって あっと いう間に 食べて 壊して しまうんだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Aron",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Gnaw",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-13",
+      "name": "マグマ団のコドラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "マグマ団のココドラ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かじる",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "とっしん",
+          "text": "このポケモンにも10ダメージ。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "13",
+      "printed_number": "013/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        305
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "コドラの 堅い体で 与える 突進の 衝撃は コンクリートも 破壊するぜ！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Lairon",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Gnaw",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Take Down",
+              "text": "This Pokémon does 10 damage to itself.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Magma's Aron"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-14",
+      "name": "マグマ団のボスゴドラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "マグマ団のコドラ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ロックスタンプ",
+          "text": "自分の場のポケモンについているFightingエネルギーの数×40ダメージ。",
+          "damage": "40×"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "がんせきあらし",
+          "text": "ダメカンがのっている相手のベンチポケモン全員にも、それぞれ20ダメージ。［ベンチは弱点・抵抗力の計算をしない。］",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "14",
+      "printed_number": "014/034",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "TOKIYA",
+      "national_pokedex_numbers": [
+        306
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ボスゴドラの 鋼のツノは どんなに 固い 防壁でも 突き破ることが できるのよ！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Aggron",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Rock Stomp",
+              "text": "Discard as many Fighting Energy attached to your Pokémon as you like. This attack does 40 damage times the amount of Fighting Energy you discarded.",
+              "damage": "40×"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Boulder Storm",
+              "text": "This attack does 20 damage to each of your opponent's Benched Pokémon that has any damage on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Magma's Lairon"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-15",
+      "name": "マグマ団のグラードンEX",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "190",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "パワーセーバー",
+          "text": "おたがいの場にいる「マグマ団」のポケモンの合計が4匹以下なら、このポケモンはワザが使えない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "マグマクエイク",
+          "text": "ダメージを与えるとき、すでに相手のバトルポケモンにダメカンがのっているなら、80ダメージを追加。",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "草",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "15",
+      "printed_number": "015/034",
+      "rarity": "ダブルレア",
+      "rarity_code": "RR",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        383
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Groudon-EX",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "EX"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Power Saver",
+              "text": "If there are 4 or fewer Team Magma Pokémon in play, this Pokémon can't attack."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Magma Quake",
+              "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 80 more damage.",
+              "damage": "80+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Grass",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Double Rare",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-16",
+      "name": "アクア団のポチエナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ほえる",
+          "text": "相手のバトルポケモンをベンチポケモンと入れ替える。［バトル場に出すポケモンは相手が選ぶ。］"
+        },
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かみつく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "016/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        261
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ポチエナの するどい 嗅覚は 敵の 侵入を すぐに 察知するぞ。 とても 優秀な 見張り番だ！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Poochyena",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Roar",
+              "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Bite",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-17",
+      "name": "マグマ団のポチエナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "せんにゅう",
+          "text": "相手の手札を見る。"
+        },
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かみつく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "017/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "TOKIYA",
+      "national_pokedex_numbers": [
+        261
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "ポチエナの 鼻は どんな 匂いも 嗅ぎ分けられるから 偵察のときに とても 役立つんだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Poochyena",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Infiltrate",
+              "text": "Your opponent reveals his or her hand."
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Bite",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-18",
+      "name": "アクア団のグラエナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "アクア団のポチエナ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "チームインパクト",
+          "text": "自分の場の「アクア団」のポケモンの数ぶんコインを投げ、オモテの数×30ダメージ。",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "かみくだく",
+          "text": "コインを1回投げオモテなら、相手のバトルポケモンについているエネルギーを1個選び、トラッシュする。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        262
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "統率力 バツグンの コンビネーション 攻撃が 得意！ 襲われたら 手も足も 出ないぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Mightyena",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Teampact",
+              "text": "Flip a coin for each Team Aqua Pokémon you have in play. This attack does 30 damage times the number of heads.",
+              "damage": "30×"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Crunch",
+              "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Aqua's Poochyena"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-19",
+      "name": "マグマ団のグラエナ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "マグマ団のポチエナ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かみつく",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "てきいのキバ",
+          "text": "相手のバトルポケモンが「アクア団」のポケモンなら、40ダメージを追加。",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "019/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        262
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "主人に 忠実な ポケモンだ。 どんなに 傷ついたと しても トレーナーを 守りぬくぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Mightyena",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Bite",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hostile Fang",
+              "text": "If your opponent's Active Pokémon is a Team Aqua Pokémon, this attack does 40 more damage.",
+              "damage": "80+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Team Magma's Poochyena"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-20",
+      "name": "アクア団のキバニア",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "悪"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ひれビンタ",
+          "text": "コインを2回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "020/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        318
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "水の中なら こいつの 動きに ついて これないだろ？ この渦に 巻き込まれたら 脱出できないぜ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Carvanha",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Fin Smack",
+              "text": "Flip 2 coins. This attack does 10 damage times the number of heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-21",
+      "name": "アクア団のサメハダー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "アクア団のキバニア"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "アクアサーチ",
+          "text": "自分の山札から「アクア団」のポケモンを1枚選び、相手に見せてから、手札に加える。そして山札を切る。この特性は、自分の番に1回使える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "するどいキバ",
+          "text": "",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "21",
+      "printed_number": "021/034",
+      "rarity": "希少",
+      "rarity_code": "R",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        319
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "自慢の キバは 一撃必殺の 威力！ 油断している  敵を 確実に 仕留めるわ！",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Sharpedo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Aqua Search",
+              "text": "Once during your turn (before your attack), you may search your deck for a Team Aqua Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Sharp Fang",
+              "text": "",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "evolves_from": [
+            "Team Aqua's Carvanha"
+          ],
+          "rarity": "Rare",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-22",
+      "name": "マグマ団のザングース",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "なかまをよぶ",
+          "text": "自分の山札から「マグマ団」のたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "チームプレイ",
+          "text": "自分のベンチの「マグマ団」のポケモンの数×20ダメージ。",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "022/034",
+      "rarity": "通常",
+      "rarity_code": "C",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        335
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "恐れ知らずの ザングース達の フォーメーション 攻撃を 見切ることが できるかしら？",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Zangoose",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Call for Family",
+              "text": "Search your deck for up to 2 Basic Team Magma Pokémon and put them onto your Bench. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Team Play",
+              "text": "This attack does 20 damage times the number of Team Magma Pokémon on your Bench.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Common",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-23",
+      "name": "アクア団のスーパーボール",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札から「アクア団」のたねポケモンと基本Waterエネルギーをそれぞれ1枚ずつ選び、相手に見せてから、手札に加える。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "23",
+      "printed_number": "023/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Great Ball",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-24",
+      "name": "マグマ団のスーパーボール",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札から「マグマ団」のたねポケモンと基本Fightingエネルギーをそれぞれ1枚ずつ選び、相手に見せてから、手札に加える。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "24",
+      "printed_number": "024/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Great Ball",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-25",
+      "name": "アクアディフューザー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具",
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。"
+      ],
+      "number": "25",
+      "printed_number": "025/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Aqua Diffuser",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item",
+            "Pokémon Tool"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-26",
+      "name": "マグマポインター",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具",
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "ポケモンのどうぐは、自分のポケモンにつけて使う。ポケモン1匹につき1枚だけつけられ、つけたままにする。"
+      ],
+      "number": "26",
+      "printed_number": "026/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Magma Pointer",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item",
+            "Pokémon Tool"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-27",
+      "name": "アクア団の幹部",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分のトラッシュから基本エネルギーを1枚選び、自分のバトル場にいる「アクア団」のポケモンにつける。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "27",
+      "printed_number": "027/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "GAME FREAK inc.",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Team Aqua Admin",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-28",
+      "name": "アクア団のしたっぱ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の手札を1枚選び、トラッシュする。その後、自分の山札を3枚引く。トラッシュしたカードが「アクア団」のポケモンなら、さらに1枚引く。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "28",
+      "printed_number": "028/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "GAME FREAK inc.",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Team Aqua Grunt",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-29",
+      "name": "マグマ団の幹部",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分のトラッシュから「マグマ団」のポケモンを3枚選び、相手に見せてから、手札に加える。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "29",
+      "printed_number": "029/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "GAME FREAK inc.",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Team Magma Admin",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-30",
+      "name": "マグマ団のしたっぱ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の手札を1枚選び、トラッシュする。その後、自分の山札を3枚引く。トラッシュしたカードが「マグマ団」のポケモンなら、さらに1枚引く。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "30",
+      "printed_number": "030/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "GAME FREAK inc.",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Team Magma Grunt",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-31",
+      "name": "アクア団の秘密基地",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "rules": [
+        "おたがいのポケモン全員（「アクア団」をのぞく）のにげるために必要なエネルギーは、それぞれ1個ぶん多くなる。",
+        "スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。"
+      ],
+      "number": "31",
+      "printed_number": "031/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Team Aqua's Secret Base",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-32",
+      "name": "マグマ団の秘密基地",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "rules": [
+        "おたがいのプレイヤーは、それぞれ、手札からたねポケモン（「マグマ団」をのぞく）をベンチに出すたび、そのポケモンにダメカンを2個のせる。",
+        "スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。"
+      ],
+      "number": "32",
+      "printed_number": "032/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Team Magma's Secret Base",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-33",
+      "name": "ダブルアクアエネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "特別"
+      ],
+      "rules": [
+        "このカードは「アクア団」のポケモンにしかつけられず、つけた番の終わりにトラッシュする。",
+        "このカードはポケモンについているかぎり、Waterエネルギー2個ぶんとしてはたらく。",
+        "（このカードが「アクア団」のポケモン以外についているなら、トラッシュする。）"
+      ],
+      "number": "33",
+      "printed_number": "033/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Double Aqua Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Special"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "cp1_ja-34",
+      "name": "ダブルマグマエネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "特別"
+      ],
+      "rules": [
+        "このカードは「マグマ団」のポケモンにしかつけられず、つけた番の終わりにトラッシュする。",
+        "このカードはポケモンについているかぎり、Fightingエネルギー2個ぶんとしてはたらく。",
+        "（このカードが「マグマ団」のポケモン以外についているなら、トラッシュする。）"
+      ],
+      "number": "34",
+      "printed_number": "034/034",
+      "rarity": "非",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/cp1_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/cp1_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/cp1_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "cp1_ja",
+        "name": "マグマ団VSアクア団 ダブルクライシス",
+        "series": "XY",
+        "code": "CP1",
+        "total": 34,
+        "printed_total": 34,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2015/01/30",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Double Magma Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Special"
+          ],
+          "rarity": "Uncommon",
+          "expansion": {
+            "name": "Magma Gang VS Aqua Gang: Double Crisis"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 34
+}

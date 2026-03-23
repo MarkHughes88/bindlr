@@ -1,0 +1,5590 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "dpp-DP01",
+      "name": "Turtwig",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Razor Leaf",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP01",
+      "printed_number": "DP01",
+      "rarity": "Promo",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        387
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP01/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP01/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP01/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP02",
+      "name": "Chimchar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Scratch",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ember",
+          "text": "Flip a coin. If tails, discard a Fire Energy attached to Chimchar.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP02",
+      "printed_number": "DP02",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        390
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP02/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP02/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP02/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP03",
+      "name": "Piplup",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Peck",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Water Splash",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP03",
+      "printed_number": "DP03",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        393
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP03/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP03/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP03/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "dylanLefavour",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP04",
+      "name": "Pachirisu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Minor Errand-Running",
+          "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thunder Jolt",
+          "text": "Flip a coin. If tails, Pachirisu does 10 damage to itself.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP04",
+      "printed_number": "DP04",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        417
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP04/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP04/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP04/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP05",
+      "name": "Tropical Wind",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+      ],
+      "number": "DP05",
+      "printed_number": "DP05",
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP05/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP05/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP05/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP06",
+      "name": "Buneary",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Splash",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Jump Kick",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP06",
+      "printed_number": "DP06",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        427
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP06/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP06/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP06/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP07",
+      "name": "Cranidos",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Skull Fossil"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headbutt",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Steamroll",
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP07",
+      "printed_number": "DP07",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        408
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP07/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP07/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP07/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP08",
+      "name": "Shieldon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hard Face",
+          "text": "During your opponent's next turn, any damage done to Shieldon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Shield Attack",
+          "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP08",
+      "printed_number": "DP08",
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        410
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP08/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP08/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP08/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP09",
+      "name": "Torterra LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Torterra"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Forest Murmurs",
+          "text": "Once during your turn (before your attack), if you have more Prize cards left than your opponent, you may choose 1 of your opponent's Benched Pokémon and switch it with 1 of the Defending Pokémon. This power can't be used if Torterra is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Vigorous Dash",
+          "text": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Torterra does 30 damage to itself.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "Put this card onto your Active Torterra. Torterra LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP09",
+      "printed_number": "DP09",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        389
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP09/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP09/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP09/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP10",
+      "name": "Infernape LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Infernape"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Burning Head",
+          "text": "Once during your turn (before your attack), you may look at the top 3 cards of your deck, choose 1 of them, and put it into your hand. Discard the other 2 cards. This power can't be used if Infernape is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Flare Up",
+          "text": "Search your discard pile for 8 Fire Energy cards, show them to your opponent, and shuffle them into your deck. (This attack does nothing if you don't have 8 Fire Energy cards in your discard pile.)",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Infernape. Infernape LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP10",
+      "printed_number": "DP10",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        392
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP10/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP10/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP10/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP11",
+      "name": "Empoleon LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Empoleon"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Supreme Command",
+          "text": "Once during your turn (before your attack), you may choose up to 2 cards from your opponent's hand without looking and put them face down next to the Defending Pokémon. (These cards are not in play or in your opponent's hand.) At the end of your opponent's next turn, return those cards to your opponent's hand. This power can't be used if Empoleon is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hydro Impact",
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon (Don't apply Weakness and Resistance for Benched Pokémon.) Empoleon can't attack during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Put this card onto your Active Empoleon. Empoleon LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP11",
+      "printed_number": "DP11",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        395
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP11/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP11/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP11/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP12",
+      "name": "Lucario LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Lucario"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Stance",
+          "text": "Once during your turn (before your attack), when you put Lucario LV.X from your hand onto your Active Lucario, you may use this power. Prevent all effects of an attack, including damage, done to Lucario during your opponent's next turn. (If Lucario is no longer your Active Pokémon, this effect ends.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Close Combat",
+          "text": "During your opponent's next turn, any damage done to Lucario by attacks is increased by 30 (after applying Weakness and Resistance).",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "Put this card onto your Active Lucario. Lucario LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP12",
+      "printed_number": "DP12",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP12/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP12/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP12/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP13",
+      "name": "Buizel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Splash About",
+          "text": "If Buizel has less Energy attached to it than the Defending Pokémon, this attack does 10 damage plus 10 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP13",
+      "printed_number": "DP13",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        418
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP13/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP13/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP13/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP14",
+      "name": "Chatot",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Me First",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tone-Deaf",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP14",
+      "printed_number": "DP14",
+      "rarity": "Promo",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        441
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It can learn and speak human words. If they gather, they all learn the same saying.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP14/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP14/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP14/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP15",
+      "name": "Shinx",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spark",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP15",
+      "printed_number": "DP15",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        403
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP15/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP15/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP15/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP16",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Electro Recycle",
+          "text": "Once during your turn (before your attack), if Pichu is anywhere under Pikachu, you may search your discard pile for a Lightning Energy card, show it to your opponent, and put it into your hand. This power can't be used if Pikachu is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "BikaBika",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP16",
+      "printed_number": "DP16",
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It lives in forests with others. It stores electricity in the pouches on its cheeks.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP16/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP16/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP16/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP17",
+      "name": "Dialga LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Dialga"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Time Skip",
+          "text": "Once during your turn (before your attack), you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can't be used if Dialga is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Metal Flash",
+          "text": "During your next turn, Dialga can't use Metal Flash.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Put this card onto your Active Dialga. Dialga LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP17",
+      "printed_number": "DP17",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        483
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP17/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP17/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP17/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP18",
+      "name": "Palkia LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Palkia"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Restructure",
+          "text": "Once during your turn (before your attack), you may have your opponent switch 1 of your Active Pokémon with 1 of your Benched Pokémon. Then, you switch 1 of the Defending Pokémon with 1 of your opponent's Benched Pokémon. This power can't be used if Palkia is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hydro Reflect",
+          "text": "You may move all Energy cards attached to Palkia to your Benched Pokémon in any way you like. (Ignore this effect if you don't have any Benched Pokémon.)",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "Put this card onto your Active Palkia. Palkia LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP18",
+      "printed_number": "DP18",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        484
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP18/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP18/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP18/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "davidCohen",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP19",
+      "name": "Darkrai LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Darkrai"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Dark Shadow",
+          "text": "Each basic Darkness Energy card attached to your Darkness Pokémon now has the effect \"If the Pokémon Darkness Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance).\" You can't use more than 1 Dark Shadow Poké-Body each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Endless Darkness",
+          "text": "The Defending Pokémon is now Asleep. Flip 2 coins instead of 1 between turns. If either of them is tails, the Defending Pokémon is still Asleep. If both of them are tails, the Defending Pokémon is Knocked Out.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "Put this card onto your Active Darkrai. Darkrai LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP19",
+      "printed_number": "DP19",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        491
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP19/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP19/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP19/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP20",
+      "name": "Magmortar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Magmar"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Smoke Bomb",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Flame Drum",
+          "text": "If Magby isn't anywhere under Magmortar, discard 2 Energy cards from your hand. (If you can't discard 2 Energy cards from your hand, this attack does nothing.)",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "DP20",
+      "printed_number": "DP20",
+      "rarity": "Promo",
+      "artist": "Daisuke Ito",
+      "national_pokedex_numbers": [
+        467
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP20/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP20/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP20/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP21",
+      "name": "Raichu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Pikachu"
+      ],
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Electromagnetic Induction",
+          "text": "Search your deck for up to 2 Lightning Energy cards and attach them to 1 of your Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Explosive Thunder",
+          "text": "Discard all basic Lightning Energy cards attached to Raichu. This attack does 30 damage times the number of Lightning Energy cards you discarded.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP21",
+      "printed_number": "DP21",
+      "rarity": "Promo",
+      "artist": "Daisuke Ito",
+      "national_pokedex_numbers": [
+        26
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It turns aggressive if it has too much electricity in its body. It discharges power through its tail.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP21/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP21/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP21/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP22",
+      "name": "Mime Jr.",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Mr. Mime from your hand onto Mime Jr. (this counts as evolving Mime Jr.) and remove all damage counters from Mime Jr."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Mime",
+          "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP22",
+      "printed_number": "DP22",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        439
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP22/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP22/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP22/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP23",
+      "name": "Glameow",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Charm",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pose",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP23",
+      "printed_number": "DP23",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        431
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It claws if displeased and purrs when affectionate. Its fickleness if very popular among some.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP23/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP23/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP23/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP24",
+      "name": "Darkrai",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spacial Rend",
+          "text": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Roar of Time",
+          "text": "Search your discard pile for 3 Pokémon, show them to your opponent, and put them on top of your deck. Shuffle your deck afterward. (If you don't have 3 Pokémon in your discard pile, this attack does nothing.)",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "Enigma Berry: If Darkrai is damaged by an attack from your opponent's Fighting Pokémon, remove 4 damage counters at the end of that turn."
+      ],
+      "number": "DP24",
+      "printed_number": "DP24",
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        491
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP24/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP24/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP24/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP25",
+      "name": "Tropical Wind",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+      ],
+      "number": "DP25",
+      "printed_number": "DP25",
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP25/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP25/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP25/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "worldsStaffStamp",
+          "prices": []
+        },
+        {
+          "name": "worldsStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP26",
+      "name": "Dialga",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Time Bellow",
+          "text": "Draw a card.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Flash Cannon",
+          "text": "You may return all Energy cards attached to Dialga to your hand. If you do, remove the highest Stage Evolution card from the Defending Pokémon and shuffle that card into your opponent's deck.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP26",
+      "printed_number": "DP26",
+      "rarity": "Promo",
+      "artist": "Kazuyuki Kano",
+      "national_pokedex_numbers": [
+        483
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP26/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP26/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP26/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP27",
+      "name": "Palkia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spacial Rend",
+          "text": "Search your deck for a Stadium card, show it to your opponent, and put it into your hand. Shuffle your deck afterward. If there is any Stadium card in play, discard it.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Transback",
+          "text": "You may flip a coin. If heads, discard all Energy attached to Palkia and put the Defending Pokémon and all cards attached to it on top of your opponent's deck. Your opponent shuffles his or her deck afterward.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP27",
+      "printed_number": "DP27",
+      "rarity": "Promo",
+      "artist": "Daisuke Ito",
+      "national_pokedex_numbers": [
+        484
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP27/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP27/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP27/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP28",
+      "name": "Mewtwo LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Mewtwo"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Psybarrier",
+          "text": "Prevent all effects of attacks, including damage, done to Mewtwo by your opponent's Pokémon that isn't an Evolved Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Giga Burn",
+          "text": "Discard all Energy attached to Mewtwo.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Put this card onto your Active Mewtwo. Mewtwo LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP28",
+      "printed_number": "DP28",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP28/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP28/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP28/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP29",
+      "name": "Rhyperior LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Rhyperior"
+      ],
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Hard Crush",
+          "text": "Discard the top 5 cards from your deck. This attack does 50 damage for each Energy card you discarded.",
+          "damage": "50×"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Upthrow",
+          "text": "Search your discard pile for all Fighting Energy cards, show them to your opponent, and shuffle them into your deck.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "Put this card onto your Active Rhyperior. Rhyperior LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP29",
+      "printed_number": "DP29",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        464
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP29/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP29/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP29/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP30",
+      "name": "Regigigas LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Regigigas"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Sacrifice",
+          "text": "Once during your turn (before your attack), you may choose 1 of your Pokémon in play and that Pokémon is Knocked Out. Then, search your discard pile for up to 2 basic Energy cards, attach them to Regigigas, and remove 8 damage counters from Regigigas. This power can't be used if Regigigas is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Fighting",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Giga Blaster",
+          "text": "Discard the top card from your opponent's deck. Then, choose 1 card from your opponent's hand without looking and discard it. Regigigas can't use Giga Blaster during your next turn.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "Put this card onto your Active Regigigas. Regigigas LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP30",
+      "printed_number": "DP30",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        486
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP30/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP30/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP30/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP31",
+      "name": "Heatran LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Heatran"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Heat Metal",
+          "text": "Your opponent can't remove the Special Condition Burned by evolving or devolving his or her Burned Pokémon. (This also includes putting a Pokémon Level-Up card onto the Burned Pokémon.) Whenever your opponent flips a coin for the Special Condition Burned between turns, treat it as tails."
+        },
+        {
+          "type": "Poké-Power",
+          "name": "Heat Wave",
+          "text": "Once at the end of your turn, if Heatran is on your Bench, you may use this power. If you discarded basic Energy cards attached to your Fire or Metal Active Pokémon by using that Pokémon's attack this turn, attach up to 2 of those Energy cards to that Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "Put this card onto your Active Heatran. Heatran LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP31",
+      "printed_number": "DP31",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        485
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP31/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP31/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP31/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP32",
+      "name": "Magnezone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Magneton"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mirror Shot",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing.",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Magnet Slash",
+          "text": "Discard all Lightning Energy attached to Magnezone.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP32",
+      "printed_number": "DP32",
+      "rarity": "Promo",
+      "artist": "Kent Kanetsuna",
+      "national_pokedex_numbers": [
+        462
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP32/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP32/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP32/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP33",
+      "name": "Dusknoir",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Dusclops"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Dark Hide",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand, choose a Pokémon you find there, and put it on the bottom of his or her deck. This power can't be used if Dusknoir is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Reaper Pulse",
+          "text": "Move up to 2 damage counters from Dusknoir to 1 of your opponent's Benched Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP33",
+      "printed_number": "DP33",
+      "rarity": "Promo",
+      "artist": "Kent Kanetsuna",
+      "national_pokedex_numbers": [
+        477
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP33/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP33/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP33/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP34",
+      "name": "Drifblim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Drifloon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Wind Wave",
+          "text": "Search your discard pile for up to 5 in any combination of Pokémon and Supporter cards. Show them to your opponent and shuffle them into your deck."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Explosive Smoke",
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "number": "DP34",
+      "printed_number": "DP34",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        426
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP34/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP34/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP34/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP35",
+      "name": "Porygon-Z",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Porygon2"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Install",
+          "text": "As often as you like during your turn (before your attack), move a Technical Machine card attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Porygon-Z is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Learning",
+          "text": "Search your deck for a Pokémon LV.X that levels up from 1 of your Pokémon, and put it onto that Pokémon. (This counts as leveling up that Pokémon.) Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Overload",
+          "text": "Does 40 damage plus 20 more damage for each Technical Machine card attached to Porygon-Z.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP35",
+      "printed_number": "DP35",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        474
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP35/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP35/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP35/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP36",
+      "name": "Gliscor",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Gligar"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Bind Eye",
+          "text": "As long as Gliscor is your Active Pokémon, your opponent can't remove any Special Conditions by evolving or devolving his or her Pokémon. (This also includes putting a Pokémon Level-Up card onto that Pokémon.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Cutting Turn",
+          "text": "Flip a coin. If heads, put damage counters on the Defending Pokémon until it is 10HP away from being Knocked Out. If you do, shuffle Gliscor and all cards attached to it back into your deck."
+        },
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Friction Heat",
+          "text": "The Defending Pokémon is now Burned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "number": "DP36",
+      "printed_number": "DP36",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        472
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP36/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP36/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP36/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP37",
+      "name": "Dialga LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Dialga"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Time Skip",
+          "text": "Once during your turn (before your attack), you may have your opponent flip 2 coins. If both of them are heads, your turn ends. If both of them are tails, after your opponent draws a card at the beginning of his or her next turn, his or her turn ends. This power can't be used if Dialga is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Metal Flash",
+          "text": "During your next turn, Dialga can't use Metal Flash.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "Put this card onto your Active Dialga. Dialga LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP37",
+      "printed_number": "DP37",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        483
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP37/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP37/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP37/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP38",
+      "name": "Giratina LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Giratina"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Invisible Tentacles",
+          "text": "Whenever your opponent's Pokémon tries to attack, your opponent discards 1 card from his or her hand. (If your opponent can't discard 1 card, your opponent's Pokémon can't attack.) You can't use more than 1 Invisible Tentacles Poké-Body each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Darkness Lost",
+          "text": "This attack does 30 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If any of your opponent's Pokémon would be Knocked Out by damage from this attack, put that Pokémon and all cards attached to it in the Lost Zone instead of discarding it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Colorless",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "Put this card onto your Active Giratina. Giratina LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP38",
+      "printed_number": "DP38",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        487
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP38/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP38/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP38/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP39",
+      "name": "Shaymin LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Shaymin"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Revenge Seed",
+          "text": "If any of your Grass Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, each of Shaymin's attacks does 60 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Energy Flare",
+          "text": "You may move any number of Energy cards attached to your Pokémon to your other Pokémon in any way you like.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Shaymin. Shaymin LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP39",
+      "printed_number": "DP39",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        492
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP39/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP39/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP39/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP40",
+      "name": "Regigigas",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Drag Off",
+          "text": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon and switch it with the Defending Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Giga Hammer",
+          "text": "Regigigas can't use Giga Hammer during your next turn.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "DP40",
+      "printed_number": "DP40",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        486
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "There is an enduring legend that states this Pokémon towed continents with ropes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP40/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP40/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP40/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP41",
+      "name": "Toxicroak G",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "SP"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Leap Away",
+          "text": "Once during your turn (before your attack), if Toxicroak G is your Active Pokémon, you may flip a coin. If heads, return Toxicroak G and all cards attached to it to your hand. This power can't be used if Toxicroak G is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Poison Revenge",
+          "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Poisoned.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP41",
+      "printed_number": "DP41",
+      "rarity": "Promo",
+      "artist": "Ryota Saito",
+      "national_pokedex_numbers": [
+        454
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP41/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP41/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP41/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "tsubasaNakamura",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP42",
+      "name": "Carnivine G",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "SP"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Power Whip",
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage for each Energy attached to Carnivine G to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Grass Knot",
+          "text": "Does 20 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost).",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "DP42",
+      "printed_number": "DP42",
+      "rarity": "Promo",
+      "artist": "Makoto Imai",
+      "national_pokedex_numbers": [
+        455
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP42/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP42/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP42/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP43",
+      "name": "Probopass G",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "SP"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Nose Unit",
+          "text": "This attack does 20 damage to each of your opponent's Pokémon that has any Poké-Bodies. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Loud Snort",
+          "text": "Probopass G's Retreat Cost is 0 until the end of your next turn.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "DP43",
+      "printed_number": "DP43",
+      "rarity": "Promo",
+      "artist": "Ryota Saito",
+      "national_pokedex_numbers": [
+        476
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP43/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP43/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP43/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP44",
+      "name": "Magnezone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Magneton"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Charge Beam",
+          "text": "Search your discard pile for an Energy card and attach it to Magnezone.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Metallic Bolt",
+          "text": "You may discard a Lightning Energy and a Metal Energy attached to Magnezone. If you do, this attack's base damage is 120 instead of 60.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+30"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP44",
+      "printed_number": "DP44",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        462
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It evolved from exposure to a special magnetic field. Three units generate magnetism.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP44/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP44/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP44/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP45",
+      "name": "Charizard G LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up",
+        "SP"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Charizard G"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Call for Power",
+          "text": "As often as you like during your turn (before your attack), you may move an Energy attached to 1 of your Pokémon to Charizard G. This power can't be used if Charizard G is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Malevolent Fire",
+          "text": "Flip a coin. If tails, discard all Energy attached to Charizard G.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "Put this card onto your Active Charizard G. Charizard G LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP45",
+      "printed_number": "DP45",
+      "rarity": "Promo",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP45/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP45/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP45/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP46",
+      "name": "Garchomp C LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up",
+        "SP"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Garchomp C"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Healing Breath",
+          "text": "Once during your turn (before your attack), when you put Garchomp C LV.X from your hand onto your Active Garchomp C, you may remove all damage counters from each of your Pokémon SP."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Rush",
+          "text": "Discard 2 Energy attached to Garchomp C. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Garchomp C can't use Dragon Rush during your next turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Garchomp C. Garchomp C LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP46",
+      "printed_number": "DP46",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        445
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP46/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP46/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP46/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP47",
+      "name": "Rayquaza C LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up",
+        "SP"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Rayquaza C"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Dragon Spirit",
+          "text": "If Rayquaza C is your Active Pokémon and is damaged but not Knocked Out by an opponent's attack, you may search your discard pile for an Energy card and attach it to Rayquaza C."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Psychic",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Final Blowup",
+          "text": "Discard all Energy attached to Rayquaza C. Ignore this effect if you have no cards in your hand.",
+          "damage": "200"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "Put this card onto your Active Rayquaza C. Rayquaza C LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP47",
+      "printed_number": "DP47",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        384
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP47/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP47/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP47/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP48",
+      "name": "Tropical Wind",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+      ],
+      "number": "DP48",
+      "printed_number": "DP48",
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP48/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP48/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP48/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "worldsStaffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP49",
+      "name": "Dialga",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Time Call",
+          "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Time Wager",
+          "text": "Flip 2 coins. If either of them is tails, this attack's base damage is 50 instead of 100.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP49",
+      "printed_number": "DP49",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        483
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP49/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP49/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP49/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP50",
+      "name": "Arceus",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Judgment",
+          "text": "Discard all Energy cards attached to Arceus and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "You may have as many of this card in your deck as you like."
+      ],
+      "number": "DP50",
+      "printed_number": "DP50",
+      "rarity": "Promo",
+      "artist": "Kunihiko Yuyama",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP50/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP50/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP50/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP51",
+      "name": "Cresselia",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Lunar Aura",
+          "text": "If you have Darkrai in play, remove 1 damage counter from Cresselia between turns."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lunar Flight",
+          "text": "Does 80 damage minus 10 damage for each damage counter on Cresselia.",
+          "damage": "80-"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP51",
+      "printed_number": "DP51",
+      "rarity": "Promo",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        488
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP51/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP51/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP51/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP52",
+      "name": "Darkrai",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Darkness Aura",
+          "text": "If you have Cresselia in play, each of Darkrai's attack does 20 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hypnoblast",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "DP52",
+      "printed_number": "DP52",
+      "rarity": "Promo",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        491
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP52/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP52/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP52/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP53",
+      "name": "Arceus LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Arceus"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Multitype",
+          "text": "Arceus LV. X's type is the same type as its previous Level."
+        },
+        {
+          "type": "Poké-Body",
+          "name": "Omniscient",
+          "text": "Arceus can use the attacks of all Arceus you have in play as its own. (You still need the necessary Energy to use each attack.)"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "You may have as many of this card in your deck as you like.",
+        "Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP53",
+      "printed_number": "DP53",
+      "rarity": "Promo",
+      "artist": "Shizurow",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP53/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP53/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP53/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP54",
+      "name": "Beginning Door",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Search your deck for Arceus, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "number": "DP54",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP54/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP54/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP54/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP55",
+      "name": "Ultimate Zone",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+        "During each player's turn, the player may move an Energy card attached to 1 of his or her Benched Pokémon to his or her Active Arceus as often as he or she likes."
+      ],
+      "number": "DP55",
+      "rarity": "Promo",
+      "artist": "Yusuke Ishikawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP55/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP55/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP55/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dpp-DP56",
+      "name": "Arceus LV.X",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Level-Up"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Arceus"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Multitype",
+          "text": "Arceus LV.X's type is the same as its previous Level."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Meteor Blast",
+          "text": "Flip a coin. If tails, this attack's base damage is 50 instead of 100.",
+          "damage": "100"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "You may have as many of this card in your deck as you like.",
+        "Put this card onto your Active Arceus. Arceus LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "number": "DP56",
+      "printed_number": "DP56",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dpp-DP56/small",
+          "medium": "https://images.scrydex.com/pokemon/dpp-DP56/medium",
+          "large": "https://images.scrydex.com/pokemon/dpp-DP56/large"
+        }
+      ],
+      "expansion": {
+        "id": "dpp",
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "code": "PR-DPP",
+        "total": 56,
+        "printed_total": 56,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2007/05/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 56
+}

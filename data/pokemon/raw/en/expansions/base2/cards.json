@@ -1,0 +1,6812 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "base2-1",
+      "name": "Clefable",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Clefairy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Metronome",
+          "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Minimize",
+          "text": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "1/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        36
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A timid Fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-1/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-1/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "prereleaseStamp",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-2",
+      "name": "Electrode",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Voltorb"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tackle",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Chain Lightning",
+          "text": "If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon (including your own).",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "2/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        101
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-2/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-2/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-3",
+      "name": "Flareon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Flamethrower",
+          "text": "Discard 1 Fire Energy card attached to Flareon in order to use this attack.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        136
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-3/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-3/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-4",
+      "name": "Jolteon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pin Missile",
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        135
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It accumulates negative ions from the atmosphere to blast out 10,000-volt lightning bolts.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-4/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-4/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-5",
+      "name": "Kangaskhan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fetch",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Comet Punch",
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "5",
+      "printed_number": "5/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        115
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The infant rarely ventures out of its mother's protective pouch until it is three years old.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-5/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-5/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-6",
+      "name": "Mr. Mime",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "40",
+      "evolves_from": [
+        "Mime Jr."
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Invisible Wall",
+          "text": "Whenever an attack (including your own) does 30 or more damage to Mr. Mime (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.) This power can't be used if Mr. Mime is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Meditate",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        122
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "If interrupted while miming, it will slap around the enemy with its broad hands.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-6/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-6/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-7",
+      "name": "Nidoqueen",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Nidorina"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Boyfriends",
+          "text": "Does 20 damage plus 20 more damage for each Nidoking you have in play.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Mega Punch",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "7",
+      "printed_number": "7/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        31
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-7/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-7/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-8",
+      "name": "Pidgeot",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Pidgeotto"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wing Attack",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hurricane",
+          "text": "Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "8",
+      "printed_number": "8/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        18
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-8/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-8/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-9",
+      "name": "Pinsir",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Irongrip",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Guillotine",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        127
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "If it fails to crush the victim in its pincers, it will swing its victim around and toss it hard.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-9/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-9/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-10",
+      "name": "Scyther",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Swords Dance",
+          "text": "During your next turn, Scyther's Slash attack's base damage is 60 instead of 30."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slash",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "10",
+      "printed_number": "10/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        123
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "With ninja-like agility and speed, it can create the illusion that there is more than one of it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-10/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-10/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-11",
+      "name": "Snorlax",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Munchlax"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Thick Skinned",
+          "text": "Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Body Slam",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "11",
+      "printed_number": "11/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-11/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-11/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-12",
+      "name": "Vaporeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Water Gun",
+          "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "12/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        134
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-12/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-12/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-13",
+      "name": "Venomoth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Venonat"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Shift",
+          "text": "Once during your turn (before your attack), you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venom Powder",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "13",
+      "printed_number": "13/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        49
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-13/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-13/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-14",
+      "name": "Victreebel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Weepinbell"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lure",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Acid",
+          "text": "Flip a coin. If heads, the Defending Pokémon can't retreat during your next turn.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "14/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        71
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-14/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-14/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-15",
+      "name": "Vileplume",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Gloom"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Heal",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. This power can't be used if Vileplume is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Petal Dance",
+          "text": "Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage).",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "15",
+      "printed_number": "15/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        45
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-15/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-15/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-16",
+      "name": "Wigglytuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Jigglypuff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lullaby",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Do the Wave",
+          "text": "Does 10 damage plus 10 more damage for each of your Benched Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "16",
+      "printed_number": "16/64",
+      "rarity": "Rare Holo",
+      "rarity_code": "★H",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        40
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-16/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-16/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "firstEditionHolofoil",
+          "prices": []
+        },
+        {
+          "name": "unlimitedHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-17",
+      "name": "Clefable",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Clefairy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Metronome",
+          "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Minimize",
+          "text": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "17/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        36
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A timid Fairy Pokémon that is rarely seen. It will run and hide the moment it senses people.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-17/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-17/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-18",
+      "name": "Electrode",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Voltorb"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tackle",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Chain Lightning",
+          "text": "If the Defending Pokémon isn't Colorless, this attack does 10 damage to each Benched Pokémon of the same type as the Defending Pokémon (including your own).",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "18/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        101
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-18/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-18/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-19",
+      "name": "Flareon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Flamethrower",
+          "text": "Discard 1 Fire Energy card attached to Flareon in order to use this attack.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "19/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        136
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-19/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-19/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-20",
+      "name": "Jolteon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pin Missile",
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "20/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        135
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It accumulates negative ions from the atmosphere to blast out 10,000-volt lightning bolts.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-20/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-20/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-21",
+      "name": "Kangaskhan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fetch",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Comet Punch",
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "21",
+      "printed_number": "21/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        115
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The infant rarely ventures out of its mother's protective pouch until it is three years old.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-21/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-21/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-22",
+      "name": "Mr. Mime",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "40",
+      "evolves_from": [
+        "Mime Jr."
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Invisible Wall",
+          "text": "Whenever an attack (including your own) does 30 or more damage to Mr. Mime (after applying Weakness and Resistance), prevent that damage. (Any other effects of attacks still happen.) This power can't be used if Mr. Mime is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Meditate",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on the Defending Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "printed_number": "22/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        122
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "If interrupted while miming, it will slap around the enemy with its broad hands.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-22/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-22/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-23",
+      "name": "Nidoqueen",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Nidorina"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Boyfriends",
+          "text": "Does 20 damage plus 20 more damage for each Nidoking you have in play.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Mega Punch",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "23",
+      "printed_number": "23/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        31
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-23/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-23/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-24",
+      "name": "Pidgeot",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Pidgeotto"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wing Attack",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hurricane",
+          "text": "Unless this attack Knocks Out the Defending Pokémon, return the Defending Pokémon and all cards attached to it to your opponent's hand.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "24",
+      "printed_number": "24/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        18
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-24/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-24/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-25",
+      "name": "Pinsir",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Irongrip",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Guillotine",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "printed_number": "25/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        127
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "If it fails to crush the victim in its pincers, it will swing its victim around and toss it hard.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-25/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-25/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-26",
+      "name": "Scyther",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Swords Dance",
+          "text": "During your next turn, Scyther's Slash attack's base damage is 60 instead of 30."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slash",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "26",
+      "printed_number": "26/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        123
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "With ninja-like agility and speed, it can create the illusion that there is more than one of it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-26/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-26/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-27",
+      "name": "Snorlax",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Munchlax"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Thick Skinned",
+          "text": "Snorlax can't become Asleep, Confused, Paralyzed, or Poisoned. This power can't be used if Snorlax is already Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Body Slam",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "27",
+      "printed_number": "27/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-27/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-27/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-28",
+      "name": "Vaporeon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Water Gun",
+          "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Vaporeon but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "printed_number": "28/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        134
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Lives close to water. Its long tail is ridged with a fin that is often mistaken for a mermaid's.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-28/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-28/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-29",
+      "name": "Venomoth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Venonat"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Shift",
+          "text": "Once during your turn (before your attack), you may change the type of Venomoth to the type of any other Pokémon in play other than Colorless. This power can't be used if Venomoth is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venom Powder",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "29",
+      "printed_number": "29/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        49
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-29/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-29/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-30",
+      "name": "Victreebel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Weepinbell"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lure",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Acid",
+          "text": "Flip a coin. If heads, the Defending Pokémon can't retreat during your next turn.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "30",
+      "printed_number": "30/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        71
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-30/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-30/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-31",
+      "name": "Vileplume",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Gloom"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Heal",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, remove 1 damage counter from 1 of your Pokémon. This power can't be used if Vileplume is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Petal Dance",
+          "text": "Flip 3 coins. This attack does 40 damage times the number of heads. Vileplume is now Confused (after doing damage).",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "31",
+      "printed_number": "31/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        45
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-31/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-31/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-32",
+      "name": "Wigglytuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Jigglypuff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lullaby",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Do the Wave",
+          "text": "Does 10 damage plus 10 more damage for each of your Benched Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "32",
+      "printed_number": "32/64",
+      "rarity": "Rare",
+      "rarity_code": "★",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        40
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-32/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-32/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-33",
+      "name": "Butterfree",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Metapod"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Whirlwind",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Mega Drain",
+          "text": "Remove a number of damage counters from Butterfree equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10).",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "33",
+      "printed_number": "33/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        12
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "In battle, it flaps its wings at high speed to release highly toxic dust into the air.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-33/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-33/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-34",
+      "name": "Dodrio",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Doduo"
+      ],
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Retreat Aid",
+          "text": "As long as Dodrio is Benched, pay Colorless less to retreat your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rage",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Dodrio.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "34",
+      "printed_number": "34/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        85
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-34/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-34/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-35",
+      "name": "Exeggutor",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Exeggcute"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Teleport",
+          "text": "Switch Exeggutor with 1 of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Big Eggsplosion",
+          "text": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "35",
+      "printed_number": "35/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        103
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an Exeggcute.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-35/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-35/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-36",
+      "name": "Fearow",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Spearow"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Agility",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Fearow.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Drill Peck",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "36",
+      "printed_number": "36/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        22
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-36/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-36/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-37",
+      "name": "Gloom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "evolves_from": [
+        "Oddish"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Poisonpowder",
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Foul Odor",
+          "text": "Both the Defending Pokémon and Gloom are now Confused (after doing damage).",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "printed_number": "37/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        44
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The fluid that oozes from its mouth isn't drool; it is a nectar that is used to attract prey.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-37/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-37/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-38",
+      "name": "Lickitung",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tongue Wrap",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "38",
+      "printed_number": "38/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        108
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its tongue can be extended like a chameleon's. It leaves a stinging sensation when it licks enemies.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-38/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-38/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-39",
+      "name": "Marowak",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "evolves_from": [
+        "Cubone"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bonemerang",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Call for Friend",
+          "text": "Search your deck for a Fighting Basic Pokémon card and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "39",
+      "printed_number": "39/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        105
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to K.O. targets.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-39/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-39/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-40",
+      "name": "Nidorina",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Nidoran ♀"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Double Kick",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "printed_number": "40/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        30
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-40/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-40/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-41",
+      "name": "Parasect",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "evolves_from": [
+        "Paras"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spore",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slash",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "printed_number": "41/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        47
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-41/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-41/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-42",
+      "name": "Persian",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Meowth"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Scratch",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pounce",
+          "text": "If the Defending Pokémon attacks Persian during your next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "number": "42",
+      "printed_number": "42/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        53
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-42/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-42/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-43",
+      "name": "Primeape",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Mankey"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Tantrum",
+          "text": "Flip a coin. If tails, Primeape is now Confused (after doing damage).",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "43/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        57
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Always furious and tenacious to boot. It will not abandon chasing its quarry until its quarry is caught.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-43/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-43/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-44",
+      "name": "Rapidash",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Ponyta"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Stomp",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Agility",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rapidash.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "number": "44",
+      "printed_number": "44/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        78
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-44/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-44/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-45",
+      "name": "Rhydon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Rhyhorn"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Horn Attack",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Ram",
+          "text": "Rhydon does 20 damage to itself. If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon. Switch the Pokémon even if Rhydon is knocked out.)",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "45",
+      "printed_number": "45/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        112
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Protected by an armor-like hide, it is capable of living in molten lava of 3600 degrees.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-45/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-45/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-46",
+      "name": "Seaking",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Goldeen"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Horn Attack",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Waterfall",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "printed_number": "46/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        119
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-46/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-46/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-47",
+      "name": "Tauros",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Stomp",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rampage",
+          "text": "Does 20 damage plus 10 more damage for each damage counter on Tauros. Flip a coin. If tails, Tauros is now Confused (after doing damage).",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "47",
+      "printed_number": "47/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        128
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When it targets an enemy, it charges furiously while whipping its body with its long tails.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-47/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-47/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-48",
+      "name": "Weepinbell",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Bellsprout"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Poisonpowder",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Razor Leaf",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "48",
+      "printed_number": "48/64",
+      "rarity": "Uncommon",
+      "rarity_code": "♦",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        70
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "It spits out poisonpowder to immobilize the enemy, and then finishes the enemy with a spray of acid.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-48/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-48/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-49",
+      "name": "Bellsprout",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Vine Whip",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Call for Family",
+          "text": "Search your deck for a Basic Pokémon named Bellsprout and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "49",
+      "printed_number": "49/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        69
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "A carnivorous Pokémon that traps and eats bugs. It uses its root feet to soak up needed moisture.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-49/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-49/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-50",
+      "name": "Cubone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Snivel",
+          "text": "If the Defending Pokémon attacks Cubone during your opponent's next turn, any damage done by the attack is reduced by 20 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rage",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Cubone.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "50",
+      "printed_number": "50/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        104
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Because it never removes its skull helmet, no one has ever seen this Pokémon's real face.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-50/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-50/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-51",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tail Wag",
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Eevee during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "51",
+      "printed_number": "51/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-51/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-51/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-52",
+      "name": "Exeggcute",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hypnosis",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leech Seed",
+          "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "52",
+      "printed_number": "52/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        102
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-52/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-52/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-53",
+      "name": "Goldeen",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Horn Attack",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "number": "53",
+      "printed_number": "53/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        118
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its tail fin billows like an elegant ballroom dress, giving it the nickname \"Water Queen.\"",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-53/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-53/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-54",
+      "name": "Jigglypuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lullaby",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pound",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "54",
+      "printed_number": "54/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        39
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-54/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-54/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-55",
+      "name": "Mankey",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "30",
+      "abilities": [
+        {
+          "type": "Pokémon Power",
+          "name": "Peek",
+          "text": "Once during your turn (before your attack), you may look at one of the following: the top card of either player's deck, a random card from your opponent's hand, or one of either player's Prizes. This power can't be used if Mankey is Asleep, Confused, or Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "number": "55",
+      "printed_number": "55/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        56
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Extremely quick to anger. It could be docile one moment, then thrashing away the next.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-55/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-55/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-56",
+      "name": "Meowth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pay Day",
+          "text": "Flip a coin. If heads, draw a card.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "56",
+      "printed_number": "56/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        52
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-56/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-56/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "goldBorder",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-57",
+      "name": "Nidoran ♀",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Call for Family",
+          "text": "Search your deck for a Basic Pokémon named Nidoran ♂ or Nidoran ♀ and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "57",
+      "printed_number": "57/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        29
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Although small, its venomous barbs make this Pokémon dangerous. The female has smaller horns.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-57/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-57/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-58",
+      "name": "Oddish",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stun Spore",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sprout",
+          "text": "Search your deck for a Basic Pokémon named Oddish and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "58",
+      "printed_number": "58/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "national_pokedex_numbers": [
+        43
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-58/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-58/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-59",
+      "name": "Paras",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Scratch",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spore",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "59",
+      "printed_number": "59/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        46
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-59/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-59/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-60",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "evolves_from": [
+        "Pichu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spark",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "60",
+      "printed_number": "60/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When several of these Pokémon gather, their electricity can build and cause lightning storms.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-60/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-60/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        },
+        {
+          "name": "wStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-61",
+      "name": "Rhyhorn",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Leer",
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Rhyhorn during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Horn Attack",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "61",
+      "printed_number": "61/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        111
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Its massive bones are 1,000 times harder than human bones. It can easily knock a trailer flying.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-61/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-61/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-62",
+      "name": "Spearow",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mirror Move",
+          "text": "If Spearow was attacked last turn, do the final result of that attack on Spearow to the Defending Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "number": "62",
+      "printed_number": "62/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        21
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Eats bugs in grassy areas. It has to flap its short wings at high speeds to stay airborne.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-62/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-62/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-63",
+      "name": "Venonat",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stun Spore",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leech Life",
+          "text": "Remove a number of damage counters from Venonat equal to the damage done to the Defending Pokémon (after applying Weakness and Resistance).",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "63",
+      "printed_number": "63/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        48
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-63/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-63/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "base2-64",
+      "name": "Poké Ball",
+      "supertype": "Trainer",
+      "rules": [
+        "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+      ],
+      "number": "64",
+      "printed_number": "64/64",
+      "rarity": "Common",
+      "rarity_code": "●",
+      "artist": "Keiji Kinebuchi",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/base2-64/small",
+          "medium": "https://images.scrydex.com/pokemon/base2-64/medium",
+          "large": "https://images.scrydex.com/pokemon/base2-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "base2",
+        "name": "Jungle",
+        "series": "Base",
+        "code": "JU",
+        "total": 64,
+        "printed_total": 64,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "1999/06/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "firstEdition",
+          "prices": []
+        },
+        {
+          "name": "unlimited",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 64
+}

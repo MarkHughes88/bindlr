@@ -1,0 +1,1126 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "mcd18-1",
+      "name": "Growlithe",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Take Down",
+          "text": "This Pokémon does 20 damage to itself.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "1/12",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        58
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It's both clever and loyal, but if a stranger tries to invade its territory, it barks threateningly.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-1/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-1/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-2",
+      "name": "Psyduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Confusion Wave",
+          "text": "Both Active Pokémon are now Confused."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "2/12",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As a result of headaches so fierce they cause it to cry, it sometimes uses psychokinesis without meaning to.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-2/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-2/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-3",
+      "name": "Horsea",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Arrow",
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/12",
+      "artist": "Saya Tsuruta",
+      "national_pokedex_numbers": [
+        116
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-3/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-3/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-4",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pika Draw",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Quick Attack",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/12",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A plan was recently announced to gather many Pikachu and make an electric power plant.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-4/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-4/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-5",
+      "name": "Slowpoke",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headbutt",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Whimsy Tackle",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "5",
+      "printed_number": "5/12",
+      "artist": "Mina Nakai",
+      "national_pokedex_numbers": [
+        79
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its long tail often breaks off. It doesn't really feel any pain, though, and the tail grows back, so Slowpoke isn't particularly bothered.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-5/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-5/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-6",
+      "name": "Machop",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Dynamic Chop",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "6",
+      "printed_number": "6/12",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        66
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It loves working out. As it gazes at its muscles, which continue to swell day by day, it becomes more and more dedicated to its training.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-6/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-6/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-7",
+      "name": "Cubone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Leer",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Headbutt",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "7/12",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        104
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it thinks of its deceased mother, it weeps loudly. Mandibuzz that hear its cries will attack it from the air.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-7/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-7/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-8",
+      "name": "Magnemite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Searching Magnet",
+          "text": "Search your deck for up to 3 Metal Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "8/12",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        81
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It sends out electromagnetic waves, which let it float through the air. Touching it while it's eating electricity will give you a full-body shock.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-8/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-8/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-9",
+      "name": "Dratini",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Signs of Evolution",
+          "text": "Search your deck for a Dratini, a Dragonair, and a Dragonite, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tail Smack",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "printed_number": "9/12",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        147
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "After a 10-hour struggle, a fisherman was able to pull one up and confirm its existence.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-9/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-9/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-10",
+      "name": "Chansey",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bind Wound",
+          "text": "Flip a coin. If heads, heal 30 damage from 1 of your Pokémon."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Hammer In",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "10",
+      "printed_number": "10/12",
+      "artist": "Megumi Mizutani",
+      "national_pokedex_numbers": [
+        113
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The eggs laid by Chansey are rich in nutrients and a favorite food of many Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-10/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-10/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-11",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Energy Evolution",
+          "text": "When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Quick Draw",
+          "text": "Flip a coin. If heads, draw a card."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "11",
+      "printed_number": "11/12",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Possessing an unbalanced and unstable genetic makeup, it conceals many possible evolutions.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-11/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-11/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd18-12",
+      "name": "Porygon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Code Check",
+          "text": "Look at 1 of your opponent's face-down Prize cards."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Beam",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "12/12",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        137
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Roughly 20 years ago, it was artificially created, utilizing the latest technology of the time.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd18-12/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd18-12/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd18-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd18",
+        "name": "McDonald's Collection 2018",
+        "series": "Other",
+        "total": 12,
+        "printed_total": 12,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2018/10/16",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 12
+}

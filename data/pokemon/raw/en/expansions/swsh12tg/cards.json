@@ -1,0 +1,2843 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "swsh12tg-TG01",
+      "name": "Braixen",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Fennekin"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Combustion",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Flare Parade",
+          "text": "This attack does 60 damage for each Serena card in your discard pile.",
+          "damage": "60×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "TG01",
+      "printed_number": "TG01/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        654
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG01/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG01/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG01/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG02",
+      "name": "Milotic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Feebas"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Arrow",
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mellow Wave",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG02",
+      "printed_number": "TG02/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "chibi",
+      "national_pokedex_numbers": [
+        350
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG02/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG02/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG02/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG03",
+      "name": "Flaaffy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Mareep"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Dynamotor",
+          "text": "Once during your turn (before your attack), you may attach a Lightning Energy card from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Electro Ball",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG03",
+      "printed_number": "TG03/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "saino misaki",
+      "national_pokedex_numbers": [
+        180
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG03/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG03/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG03/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG04",
+      "name": "Jynx",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Selfish Lips",
+          "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon V, your opponent can't take any Prize cards for it."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psychic Assault",
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG04",
+      "printed_number": "TG04/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        124
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG04/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG04/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG04/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG05",
+      "name": "Gardevoir",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Kirlia"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Refinement",
+          "text": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Magical Shot",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG05",
+      "printed_number": "TG05/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        282
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has the power to predict the future. Its power peaks when it is protecting its Trainer.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG05/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG05/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG05/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG06",
+      "name": "Malamar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1",
+        "Rapid Strike"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Inkay"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rapid Strike Tentacles",
+          "text": "Reveal any number of Rapid Strike cards from your hand. This attack does 40 damage for each card you revealed in this way. Then, shuffle those cards into your deck.",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "TG06",
+      "printed_number": "TG06/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Fumie Kittaka",
+      "national_pokedex_numbers": [
+        687
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It's said that Malamar's hypnotic powers played a role in certain history-changing events.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG06/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG06/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG06/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG07",
+      "name": "Rockruff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "Single Strike"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Crunch",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "TG07",
+      "printed_number": "TG07/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        744
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG07/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG07/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG07/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG08",
+      "name": "Passimian",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "Rapid Strike"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "110",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Throwing Coach",
+          "text": "Your Rapid Strike Pokémon's attacks do 30 more damage to your opponent's Benched Pokémon V and Benched Pokémon-GX (before applying Weakness and Resistance). You can't apply more than 1 Throwing Coach Ability at a time."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fling",
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "TG08",
+      "printed_number": "TG08/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        766
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Passimian live in groups of about 20, with each member performing an assigned role. Through cooperation, the group survives.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG08/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG08/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG08/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG09",
+      "name": "Druddigon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Revenge",
+          "text": "If any of your Pokémon were Knocked Out by damage from an attack from your opponent's Pokémon during their last turn, this attack does 120 more damage.",
+          "damage": "40+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Claw",
+          "damage": "120"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG09",
+      "printed_number": "TG09/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        621
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG09/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG09/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG09/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG10",
+      "name": "Smeargle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Colorful Palette",
+          "text": "Look at the top 5 cards of your deck. You may attach any number of basic Energy cards you find there to 1 of your Pokémon. Shuffle the other cards back into your deck."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ram",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "TG10",
+      "printed_number": "TG10/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "KIYOTAKA OSHIYAMA",
+      "national_pokedex_numbers": [
+        235
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG10/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG10/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG10/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG11",
+      "name": "Altaria",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Swablu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Magical Echo",
+          "text": "Move all damage counters from 1 of your Benched Pokémon to your opponent's Active Pokémon."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Blasting Wind",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "TG11",
+      "printed_number": "TG11/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Yuu Nishida",
+      "national_pokedex_numbers": [
+        334
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG11/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG11/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG11/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG12",
+      "name": "Kricketune V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "180",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Exciting Stage",
+          "text": "Once during your turn, you may draw cards until you have 3 cards in your hand. If this Pokémon is in the Active Spot, you may draw cards until you have 4 cards in your hand instead. You can't use more than 1 Exciting Stage Ability each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "X-Scissor",
+          "text": "Flip a coin. If heads, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG12",
+      "printed_number": "TG12/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        402
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG12/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG12/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG12/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG13",
+      "name": "Serperior V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Noble Light",
+          "text": "Heal 30 damage from each Pokémon (both yours and your opponent's)."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Solar Beam",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG13",
+      "printed_number": "TG13/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        497
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG13/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG13/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG13/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG14",
+      "name": "Blaziken V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V",
+        "Rapid Strike"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "High Jump Kick",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Fire Spin",
+          "text": "Discard 2 Energy from this Pokémon.",
+          "damage": "210"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG14",
+      "printed_number": "TG14/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        257
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG14/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG14/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG14/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG15",
+      "name": "Blaziken VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Blaziken V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Clutch",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "60"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Max Blaze",
+          "text": "Choose up to 2 of your Benched Rapid Strike Pokémon and attach an Energy card from your discard pile to each of them.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG15",
+      "printed_number": "TG15/TG30",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "KIYOTAKA OSHIYAMA",
+      "national_pokedex_numbers": [
+        257
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG15/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG15/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG15/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG16",
+      "name": "Zeraora V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V",
+        "Rapid Strike"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Cross Fist",
+          "text": "If 1 of your other Rapid Strike Pokémon used an attack during your last turn, this attack also does 160 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG16",
+      "printed_number": "TG16/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "yuu",
+      "national_pokedex_numbers": [
+        807
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG16/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG16/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG16/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG17",
+      "name": "Mawile V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "200",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pouty Slap",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Chomp Down",
+          "text": "Discard a random card from your opponent's hand.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG17",
+      "printed_number": "TG17/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "saino misaki",
+      "national_pokedex_numbers": [
+        303
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG17/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG17/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG17/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG18",
+      "name": "Corviknight V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Clutch",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sky Hurricane",
+          "text": "During your next turn, this Pokémon can't use Sky Hurricane.",
+          "damage": "190"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG18",
+      "printed_number": "TG18/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "KIYOTAKA OSHIYAMA",
+      "national_pokedex_numbers": [
+        823
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG18/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG18/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG18/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG19",
+      "name": "Corviknight VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Corviknight V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Lustrous Body",
+          "text": "Prevent all effects of your opponent's Pokémon's Abilities done to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "G-Max Hurricane",
+          "text": "During your next turn, this Pokémon can't use G-Max Hurricane.",
+          "damage": "240"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG19",
+      "printed_number": "TG19/TG30",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        823
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG19/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG19/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG19/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG20",
+      "name": "Rayquaza VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Rayquaza V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Azure Pulse",
+          "text": "Once during your turn, you may discard your hand and draw 3 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Max Burst",
+          "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
+          "damage": "20+"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG20",
+      "printed_number": "TG20/TG30",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        384
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG20/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG20/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG20/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG21",
+      "name": "Duraludon VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Single Strike"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "330",
+      "evolves_from": [
+        "Duraludon V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Skyscraper",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Metal",
+            "Metal"
+          ],
+          "converted_energy_cost": 3,
+          "name": "G-Max Pulverization",
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": "220"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG21",
+      "printed_number": "TG21/TG30",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        884
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG21/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG21/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG21/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG22",
+      "name": "Blissey V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "250",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Natural Cure",
+          "text": "Whenever you attach an Energy card from your hand to this Pokémon, remove all Special Conditions from it."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Blissful Blast",
+          "text": "This attack does 30 more damage for each Energy attached to this Pokémon. If you did any damage with this attack, you may attach up to 3 Energy cards from your discard pile to this Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG22",
+      "printed_number": "TG22/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "You Iribi",
+      "national_pokedex_numbers": [
+        242
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG22/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG22/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG22/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG23",
+      "name": "Friends in Galar",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Draw 3 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG23",
+      "printed_number": "TG23/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG23/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG23/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG23/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG24",
+      "name": "Gordie",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Look at the top 7 cards of your deck. You may reveal any number of Energy cards you find there and put them into your hand. Shuffle the other cards back into your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG24",
+      "printed_number": "TG24/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Ryuta Fuse",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG24/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG24/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG24/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG25",
+      "name": "Judge",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Each player shuffles their hand into their deck and draws 4 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG25",
+      "printed_number": "TG25/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Ryuta Fuse",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG25/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG25/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG25/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG26",
+      "name": "Professor Burnet",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for up to 2 cards and discard them. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG26",
+      "printed_number": "TG26/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "kirisAki",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG26/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG26/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG26/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG27",
+      "name": "Raihan",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "You can play this card only if any of your Pokémon were Knocked Out during your opponent's last turn. Attach a basic Energy card from your discard pile to 1 of your Pokémon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG27",
+      "printed_number": "TG27/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "take",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG27/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG27/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG27/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG28",
+      "name": "Sordward & Shielbert",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Choose a Trainer card from your discard pile. Then, ask your opponent if you may put it into your hand. If yes, put that card into your hand. If no, draw 3 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG28",
+      "printed_number": "TG28/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "nagimiso",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG28/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG28/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG28/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG29",
+      "name": "Rayquaza VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Rayquaza V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Azure Pulse",
+          "text": "Once during your turn, you may discard your hand and draw 3 cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Max Burst",
+          "text": "You may discard any amount of basic Fire Energy or any amount of basic Lightning Energy from this Pokémon. This attack does 80 more damage for each card you discarded in this way.",
+          "damage": "20+"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG29",
+      "printed_number": "TG29/TG30",
+      "rarity": "Rare Secret",
+      "rarity_code": "Rare Secret",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        384
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG29/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG29/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG29/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh12tg-TG30",
+      "name": "Duraludon VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Single Strike"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "330",
+      "evolves_from": [
+        "Duraludon V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Skyscraper",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon that have Special Energy attached."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Metal",
+            "Metal"
+          ],
+          "converted_energy_cost": 3,
+          "name": "G-Max Pulverization",
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": "220"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG30",
+      "printed_number": "TG30/TG30",
+      "rarity": "Rare Secret",
+      "rarity_code": "Rare Secret",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        884
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh12tg-TG30/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh12tg-TG30/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh12tg-TG30/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh12tg",
+        "name": "Silver Tempest Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "SIT",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/11/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 30
+}

@@ -1,0 +1,772 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "tcgp-PB-1",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spark",
+          "text": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "You Iribi",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-1/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-1/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-2",
+      "name": "Petilil",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        548
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-2/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-2/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-3",
+      "name": "Froakie",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bubble",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        656
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-3/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-3/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-4",
+      "name": "Luxray",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "evolves_from": "Luxio",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Flash Impact",
+          "text": "This attack also does 20 damage to 1 of your Benched Pokémon.",
+          "damage": "110"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "4",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        405
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-4/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-4/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-5",
+      "name": "Pidgey",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Peck",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        16
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-5/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-5/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-6",
+      "name": "Mega Pidgeot ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2",
+        "MEGA",
+        "ex"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "210",
+      "evolves_from": "Pidgeotto",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Giant Twister",
+          "text": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon. If all of them are tails, this attack does nothing.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "6",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        18
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-6/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-6/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-7",
+      "name": "Torchic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        255
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-7/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-7/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-8",
+      "name": "Psyduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rain Splash",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "OKACHEKE",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-8/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-8/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-9",
+      "name": "Mega Absol ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "MEGA",
+        "ex"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Darkness Claw",
+          "text": "Your opponent reveals their hand. Choose a Supporter card you find there and discard it.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        359
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-9/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-9/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-10",
+      "name": "Drifblim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "evolves_from": "Drifloon",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Balloon Barrage",
+          "text": "This attack does 20 more damage for each Energy attached to this Pokémon.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "10",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        426
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-10/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-10/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-PB-11",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Boosted Evolution",
+          "text": "As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stampede",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "rarity": "Pocket Promo",
+      "rarity_code": "Pocket Promo",
+      "artist": "Aya Kusube",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-PB-11/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-PB-11/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-PB-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-PB",
+        "name": "Promo-B",
+        "series": "Pokémon TCG Pocket",
+        "code": "PROMO-B",
+        "total": 11,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/10/29",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 11
+}

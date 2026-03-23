@@ -1,0 +1,1491 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "mcd24-1",
+      "name": "Charizard",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Battle Sense",
+          "text": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "name": "Royal Blaze",
+          "text": "This attack does 50 more damage for each Leon card in your discard pile.",
+          "damage": "100+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "1",
+      "printed_number": "001/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Ryuta Fuse",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-1/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-1/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-2",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "name": "Charge",
+          "text": "Search your deck for a Basic Lightning Energy card and attack it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Pika Punch",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-2/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-2/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-3",
+      "name": "Miraidon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Sharp Fang",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "name": "Lightning Laser",
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        1008
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-3/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-3/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-4",
+      "name": "Jigglypuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Pound",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Let's All Rollout",
+          "text": "This attack does 20 damage for each of your Benched Pokémon that has the Let's All Rollout attack.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Saya Tsuruta",
+      "national_pokedex_numbers": [
+        39
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The songs they sing are totally different depending on the region they live in. Some even sound like they're shouting!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-4/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-4/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-5",
+      "name": "Hatenna",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Stampede",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Magical Shot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        856
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-5/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-5/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-6",
+      "name": "Dragapult",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Drakloak"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "name": "Dragon Launcher",
+          "text": "Discard a number of your Benched Pokémon up to the number of your opponent's Pokémon in play. Then, for each Dreepy you discarded in this way, choose 1 of your opponent's Pokémon and do 100 damage to it. You can't choose the same Pokémon more than once. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "name": "Spooky Shot",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        887
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-6/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-6/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-7",
+      "name": "Quaqsire",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Wooper"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Beat",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Fickle Impact",
+          "text": "If you have exactly 2, 4, or 6 Prize cards remaining, this attack does nothing.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "007/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "otumami",
+      "national_pokedex_numbers": [
+        195
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-7/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-7/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-8",
+      "name": "Koraidon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Claw Slash",
+          "damage": "70"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "name": "Rampaging Fang",
+          "text": "Discard 3 Energy from this Pokémon.",
+          "damage": "190"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "008/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        1007
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-8/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-8/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-9",
+      "name": "Umbreon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Eevee"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "name": "Blindside",
+          "text": "This attack does 60 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Moon Mirage",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        197
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-9/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-9/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-10",
+      "name": "Hydreigon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Zweilous"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Tri Howl",
+          "text": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of Energy cards you find there to your Pokémon in any way you like. Discard the other cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "name": "Dark Cutter",
+          "damage": "160"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "10",
+      "printed_number": "010/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        635
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Only the central head has a brain. It is very intelligent, but it thinks only of destruction.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-10/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-10/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-11",
+      "name": "Roaring Moon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "Ancient"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "name": "Vengeance Fletching",
+          "text": "This attack does 10 more damage for each Ancient card in your discard pile.",
+          "damage": "70+"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Speed Wing",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "11",
+      "printed_number": "011/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "hncl",
+      "national_pokedex_numbers": [
+        1005
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-11/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-11/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-12",
+      "name": "Dragonite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Dragonair"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Jet Cruise",
+          "text": "Your Pokémon in play have no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Lightning"
+          ],
+          "name": "Dragon Pulse",
+          "text": "Discard the top 2 cards of your deck.",
+          "damage": "180"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "12",
+      "printed_number": "012/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-12/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-12/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-13",
+      "name": "Eevee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Continuous Steps",
+          "text": "Flip a coin until you get tails. This attack does 30 damage for each heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "013/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "0313",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-13/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-13/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-14",
+      "name": "Rayquaza",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Jaw Lock",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Power Blast",
+          "text": "Discard an Energy from this Pokémon.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "014/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "so-taro",
+      "national_pokedex_numbers": [
+        384
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It flies in the ozone layer, way up high in the sky. Until recently, no one had ever seen it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-14/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-14/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd24-15",
+      "name": "Drampa",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "name": "Gentle Slap",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "name": "Raging Cannon",
+          "text": "If all of your Benched Pokémon have at least 1 damage counter on them, this attack does 120 more damage.",
+          "damage": "100+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "15",
+      "printed_number": "015/015",
+      "rarity": "None",
+      "rarity_code": "None",
+      "artist": "Toshinao Aoki",
+      "national_pokedex_numbers": [
+        780
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd24-15/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd24-15/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd24-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd24",
+        "name": "McDonald's Collection 2024",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/01/21",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 15
+}

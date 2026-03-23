@@ -1,0 +1,7679 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "tcgp-A2b-1",
+      "name": "Weedle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Multiply",
+          "text": "Put 1 random Weedle from your deck onto your Bench."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        13
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-1/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-1/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-2",
+      "name": "Kakuna",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Weedle"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "String Shot",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        14
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-2/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-2/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-3",
+      "name": "Beedrill ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Kakuna"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Crushing Spear",
+          "text": "Discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        15
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-3/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-3/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-4",
+      "name": "Pinsir",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Guillotine Rush",
+          "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Satoshi Shirai",
+      "national_pokedex_numbers": [
+        127
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-4/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-4/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-5",
+      "name": "Sprigatito",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Cry for Help",
+          "text": "Put 1 random Grass Pokémon from your deck into your hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "mashu",
+      "national_pokedex_numbers": [
+        906
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-5/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-5/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-6",
+      "name": "Floragato",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Sprigatito"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Slash",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "mashu",
+      "national_pokedex_numbers": [
+        907
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-6/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-6/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-7",
+      "name": "Meowscarada",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Floragato"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fighting Claws",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "mashu",
+      "national_pokedex_numbers": [
+        908
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-7/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-7/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-8",
+      "name": "Charmander",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Combustion",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Megumi Mizutani",
+      "national_pokedex_numbers": [
+        4
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-8/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-8/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-9",
+      "name": "Charmeleon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Charmander"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Combustion",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        5
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-9/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-9/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-10",
+      "name": "Charizard ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stoke",
+          "text": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Steam Artillery",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "10",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-10/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-10/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-11",
+      "name": "Magmar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flare",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        126
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-11/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-11/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-12",
+      "name": "Magmortar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Magmar"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Smoke Bomb",
+          "text": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "12",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        467
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-12/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-12/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-13",
+      "name": "Paldean Tauros",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Blaze Tackle",
+          "text": "This Pokémon also does 10 damage to itself.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "13",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Minahamu",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-13/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-13/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-14",
+      "name": "Tentacool",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rain Splash",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        72
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-14/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-14/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-15",
+      "name": "Tentacruel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Tentacool"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Wave Splash",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        73
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-15/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-15/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-16",
+      "name": "Buizel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Gun",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        418
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-16/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-16/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-17",
+      "name": "Floatzel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Buizel"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Arrow",
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        419
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-17/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-17/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-18",
+      "name": "Wiglett",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spring Out",
+          "text": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        960
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-18/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-18/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-19",
+      "name": "Wugtrio ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Wiglett"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pop Out Throughout",
+          "text": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        961
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-19/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-19/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-20",
+      "name": "Dondozo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Ocean Cyclone",
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "20",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Tomowaka",
+      "national_pokedex_numbers": [
+        977
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-20/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-20/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-21",
+      "name": "Tatsugiri",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Retreat Directive",
+          "text": "Your Active Dondozo has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rain Splash",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Tomowaka",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-21/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-21/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-22",
+      "name": "Pikachu ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thunderbolt",
+          "text": "Discard all Energy from this Pokémon.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-22/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-22/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-23",
+      "name": "Voltorb",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Lightning Ball",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        100
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-23/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-23/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-24",
+      "name": "Electrode",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Voltorb"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tumbling Attack",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        101
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-24/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-24/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-25",
+      "name": "Pachirisu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Plasma",
+          "text": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "25",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "imoniii",
+      "national_pokedex_numbers": [
+        417
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-25/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-25/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-26",
+      "name": "Pawmi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Punch",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Saboteri",
+      "national_pokedex_numbers": [
+        921
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-26/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-26/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-27",
+      "name": "Pawmo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Pawmi"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Punch",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "27",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Saboteri",
+      "national_pokedex_numbers": [
+        922
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-27/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-27/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-28",
+      "name": "Pawmot",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Pawmo"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Counterattack",
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Electric Punch",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "28",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Saboteri",
+      "national_pokedex_numbers": [
+        923
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-28/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-28/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-29",
+      "name": "Abra",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psyshot",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Mousho",
+      "national_pokedex_numbers": [
+        63
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-29/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-29/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-30",
+      "name": "Kadabra",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Abra"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psyshot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Mousho",
+      "national_pokedex_numbers": [
+        64
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-30/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-30/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-31",
+      "name": "Alakazam",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Kadabra"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psychic Suppression",
+          "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "31",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Mousho",
+      "national_pokedex_numbers": [
+        65
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-31/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-31/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-32",
+      "name": "Mr. Mime",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Juggling 20x",
+          "text": "Flip 4 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        122
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-32/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-32/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-33",
+      "name": "Drifloon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ram",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        425
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-33/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-33/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-34",
+      "name": "Drifblim",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Drifloon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gust",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "34",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        426
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-34/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-34/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-35",
+      "name": "Giratina ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "150",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Broken-Space Bellow",
+          "text": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Chaotic Impact",
+          "text": "This Pokémon also does 20 damage to itself.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "35",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Yamashita",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-35/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-35/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-36",
+      "name": "Gimmighoul",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Chest-ouflage",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "36",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        999
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-36/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-36/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-37",
+      "name": "Machop",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Low Kick",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Mina Nakai",
+      "national_pokedex_numbers": [
+        66
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-37/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-37/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-38",
+      "name": "Machoke",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Machop"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Pummel",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "38",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        67
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-38/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-38/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-39",
+      "name": "Machamp",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Machoke"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Power Press",
+          "text": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage.",
+          "damage": "70+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "39",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        68
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-39/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-39/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-40",
+      "name": "Hitmonlee",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Kick",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        106
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-40/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-40/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-41",
+      "name": "Hitmonchan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Magnum Punch",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        107
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-41/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-41/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-42",
+      "name": "Riolu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Punch",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "42",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "You Iribi",
+      "national_pokedex_numbers": [
+        447
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-42/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-42/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-43",
+      "name": "Lucario ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Riolu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Aura Sphere",
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "43",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-43/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-43/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-44",
+      "name": "Flamigo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Double Kick 50x",
+          "text": "Flip 2 coins. This attack does 50 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "REND",
+      "national_pokedex_numbers": [
+        973
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-44/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-44/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-45",
+      "name": "Ekans",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ram",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "45",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        23
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-45/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-45/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-46",
+      "name": "Arbok",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Ekans"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Venomous Fang",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "46",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        24
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-46/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-46/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-47",
+      "name": "Paldean Wooper",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Poison Jab",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Mori Yuu",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-47/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-47/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-48",
+      "name": "Paldean Clodsire ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Paldean Wooper"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venoshock",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "48",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Mochizuki",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-48/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-48/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-49",
+      "name": "Spiritomb",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Confuse Ray",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "49",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        442
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-49/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-49/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-50",
+      "name": "Shroodle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gnaw",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "50",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Krgc",
+      "national_pokedex_numbers": [
+        944
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-50/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-50/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-51",
+      "name": "Grafaiai",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Shroodle"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Poison Coating",
+          "text": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "51",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Krgc",
+      "national_pokedex_numbers": [
+        945
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-51/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-51/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-52",
+      "name": "Tinkatink",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Corkscrew Punch",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "52",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        957
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-52/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-52/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-53",
+      "name": "Tinkatuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Tinkatink"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tenacious Hammer",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "53",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        958
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-53/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-53/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-54",
+      "name": "Tinkaton ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Tinkatuff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Terrific Thumping",
+          "text": "Flip a coin. If heads, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "54",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        959
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-54/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-54/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-55",
+      "name": "Varoom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headbutt",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "55",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        965
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-55/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-55/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-56",
+      "name": "Revavroom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Varoom"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Spinning Drift",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "56",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        966
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-56/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-56/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-57",
+      "name": "Gholdengo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Gimmighoul"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Scintillating Surfing 50x",
+          "text": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "57",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        1000
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-57/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-57/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-58",
+      "name": "Rattata",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "58",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Eri Yamaki",
+      "national_pokedex_numbers": [
+        19
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-58/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-58/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-59",
+      "name": "Raticate",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Rattata"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tackle",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "59",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kyoko Umemoto",
+      "national_pokedex_numbers": [
+        20
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-59/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-59/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-60",
+      "name": "Jigglypuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rollout",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "60",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kanako Eo",
+      "national_pokedex_numbers": [
+        39
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-60/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-60/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-61",
+      "name": "Wigglytuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Jigglypuff"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Comforting Song",
+          "text": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Gentle Slap",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "61",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        40
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-61/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-61/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-62",
+      "name": "Lickitung",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rollout",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "62",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        108
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-62/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-62/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-63",
+      "name": "Lickilicky",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Lickitung"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rollout",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "63",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Suwama Chiaki",
+      "national_pokedex_numbers": [
+        463
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-63/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-63/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-64",
+      "name": "Bidoof",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Headbutt",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "64",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sekio",
+      "national_pokedex_numbers": [
+        399
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-64/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-64/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-65",
+      "name": "Bibarel ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Bidoof"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Carefree Press",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "65",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        400
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-65/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-65/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-65/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 65,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-66",
+      "name": "Buneary",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "66",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        427
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-66/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-66/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-66/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 66,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-67",
+      "name": "Lopunny",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Buneary"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hopping Shot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "67",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Minahamu",
+      "national_pokedex_numbers": [
+        428
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-67/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-67/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-67/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 67,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-68",
+      "name": "Cyclizar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Overacceleration",
+          "text": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "68",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "HAGIYA Kaoru",
+      "national_pokedex_numbers": [
+        967
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-68/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-68/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-68/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 68,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-69",
+      "name": "Iono",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "69",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "saino misaki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-69/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-69/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-69/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 69,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-70",
+      "name": "Pokémon Center Lady",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "70",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Susumu Maeya",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-70/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-70/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-70/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 70,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-71",
+      "name": "Red",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "71",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Teeziro",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-71/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-71/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-71/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 71,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-72",
+      "name": "Team Rocket Grunt",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "72",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "kantaro",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-72/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-72/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-72/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 72,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-73",
+      "name": "Meowscarada",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Floragato"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fighting Claws",
+          "text": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "73",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "danciao",
+      "national_pokedex_numbers": [
+        908
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-73/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-73/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-73/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 73,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-74",
+      "name": "Buizel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Gun",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "74",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Shimaris Yukichi",
+      "national_pokedex_numbers": [
+        418
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-74/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-74/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-74/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 74,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-75",
+      "name": "Tatsugiri",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Retreat Directive",
+          "text": "Your Active Dondozo has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rain Splash",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "75",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "cochi8i",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-75/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-75/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-75/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 75,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-76",
+      "name": "Grafaiai",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Shroodle"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Poison Coating",
+          "text": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "76",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        945
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-76/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-76/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-76/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 76,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-77",
+      "name": "Gholdengo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Gimmighoul"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Scintillating Surfing 50x",
+          "text": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "77",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Jerky",
+      "national_pokedex_numbers": [
+        1000
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-77/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-77/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-77/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 77,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-78",
+      "name": "Wigglytuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Jigglypuff"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Comforting Song",
+          "text": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Gentle Slap",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "78",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        40
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-78/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-78/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-78/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 78,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-79",
+      "name": "Beedrill ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Kakuna"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Crushing Spear",
+          "text": "Discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "79",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        15
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-79/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-79/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-79/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 79,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-80",
+      "name": "Charizard ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stoke",
+          "text": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Steam Artillery",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "80",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-80/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-80/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-80/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 80,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-81",
+      "name": "Wugtrio ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Wiglett"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pop Out Throughout",
+          "text": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "81",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        961
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-81/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-81/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-81/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 81,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-82",
+      "name": "Pikachu ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thunderbolt",
+          "text": "Discard all Energy from this Pokémon.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "82",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-82/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-82/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-82/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 82,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-83",
+      "name": "Giratina ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "150",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Broken-Space Bellow",
+          "text": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Chaotic Impact",
+          "text": "This Pokémon also does 20 damage to itself.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "83",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Yamashita",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-83/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-83/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-83/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 83,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-84",
+      "name": "Lucario ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Riolu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Aura Sphere",
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "84",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-84/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-84/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-84/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 84,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-85",
+      "name": "Paldean Clodsire ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Paldean Wooper"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venoshock",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "85",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-85/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-85/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-85/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 85,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-86",
+      "name": "Tinkaton ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Tinkatuff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Terrific Thumping",
+          "text": "Flip a coin. If heads, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "86",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        959
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-86/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-86/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-86/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 86,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-87",
+      "name": "Bibarel ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Bidoof"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Carefree Press",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "87",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        400
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-87/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-87/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-87/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 87,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-88",
+      "name": "Iono",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "88",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "saino misaki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-88/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-88/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-88/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 88,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-89",
+      "name": "Pokémon Center Lady",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "89",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Susumu Maeya",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-89/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-89/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-89/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 89,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-90",
+      "name": "Red",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "90",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Teeziro",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-90/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-90/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-90/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 90,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-91",
+      "name": "Team Rocket Grunt",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "91",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "kantaro",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-91/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-91/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-91/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 91,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-92",
+      "name": "Pikachu ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thunderbolt",
+          "text": "Discard all Energy from this Pokémon.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "92",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "You Iribi",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-92/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-92/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-92/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 92,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-93",
+      "name": "Paldean Clodsire ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Paldean Wooper"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venoshock",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage.",
+          "damage": "60+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "93",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "REND",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-93/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-93/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-93/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 93,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-94",
+      "name": "Tinkaton ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Tinkatuff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Terrific Thumping",
+          "text": "Flip a coin. If heads, this attack does 80 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "94",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "kurumitsu",
+      "national_pokedex_numbers": [
+        959
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-94/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-94/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-94/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 94,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-95",
+      "name": "Bibarel ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Bidoof"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Carefree Press",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "95",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "USGMEN",
+      "national_pokedex_numbers": [
+        400
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-95/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-95/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-95/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 95,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-96",
+      "name": "Giratina ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "150",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Broken-Space Bellow",
+          "text": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Chaotic Impact",
+          "text": "This Pokémon also does 20 damage to itself.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "96",
+      "rarity": "3 Star",
+      "rarity_code": "3 Star",
+      "artist": "Shinji Kanda",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-96/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-96/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-96/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 96,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-97",
+      "name": "Weedle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Multiply",
+          "text": "Put 1 random Weedle from your deck onto your Bench."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "97",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        13
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-97/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-97/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-97/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 97,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-98",
+      "name": "Kakuna",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Weedle"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "String Shot",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "98",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        14
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-98/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-98/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-98/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 98,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-99",
+      "name": "Charmander",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Combustion",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "99",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        4
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-99/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-99/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-99/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 99,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-100",
+      "name": "Charmeleon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Charmander"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Combustion",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "100",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        5
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-100/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-100/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-100/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 100,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-101",
+      "name": "Wiglett",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spring Out",
+          "text": "1 of your opponent's Pokémon is chosen at random. Do 30 damage to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "101",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        960
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-101/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-101/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-101/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 101,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-102",
+      "name": "Dondozo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Ocean Cyclone",
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "102",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "GOSSAN",
+      "national_pokedex_numbers": [
+        977
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-102/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-102/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-102/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 102,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-103",
+      "name": "Pachirisu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Plasma",
+          "text": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Lightning Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "103",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Tomowaka",
+      "national_pokedex_numbers": [
+        417
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-103/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-103/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-103/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 103,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-104",
+      "name": "Riolu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Punch",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "104",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "GOSSAN",
+      "national_pokedex_numbers": [
+        447
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-104/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-104/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-104/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 104,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-105",
+      "name": "Varoom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headbutt",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "105",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        965
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-105/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-105/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-105/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 105,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-106",
+      "name": "Revavroom",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Varoom"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Spinning Drift",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "106",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        966
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-106/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-106/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-106/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 106,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-107",
+      "name": "Beedrill ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Kakuna"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Crushing Spear",
+          "text": "Discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "107",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        15
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-107/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-107/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-107/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 107,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-108",
+      "name": "Charizard ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stoke",
+          "text": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon."
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 5,
+          "name": "Steam Artillery",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "108",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-108/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-108/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-108/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 108,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-109",
+      "name": "Wugtrio ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Wiglett"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pop Out Throughout",
+          "text": "1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "109",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Tsuji",
+      "national_pokedex_numbers": [
+        961
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-109/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-109/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-109/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 109,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-110",
+      "name": "Lucario ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Riolu"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Aura Sphere",
+          "text": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "110",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-110/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-110/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-110/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 110,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A2b-111",
+      "name": "Poké Ball",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "number": "111",
+      "rarity": "Crown",
+      "rarity_code": "Crown",
+      "artist": "Toyste Beach",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A2b-111/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A2b-111/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A2b-111/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A2b",
+        "name": "Shining Revelry",
+        "series": "Pokémon TCG Pocket",
+        "code": "A2b",
+        "total": 111,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/03/27",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 111,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 111
+}

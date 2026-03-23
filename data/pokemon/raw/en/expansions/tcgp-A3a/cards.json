@@ -1,0 +1,7121 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "tcgp-A3a-1",
+      "name": "Petilil",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Seed Bomb",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        548
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-1/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-1/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-2",
+      "name": "Lilligant",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Petilil"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Cut",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        549
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-2/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-2/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-3",
+      "name": "Rowlet",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fury Attack 10x",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        722
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-3/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-3/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-4",
+      "name": "Dartrix",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Rowlet"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Skill Dive",
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        723
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-4/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-4/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-5",
+      "name": "Decidueye",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Dartrix"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sniping Arrow",
+          "text": "This attack does 70 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "5",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        724
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-5/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-5/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-6",
+      "name": "Buzzwole ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Punch",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Big Beat",
+          "text": "During your next turn, this Pokémon can't use Big Beat.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "6",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        794
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-6/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-6/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-7",
+      "name": "Pheromosa",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Jump Blues",
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        795
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-7/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-7/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-8",
+      "name": "Kartana",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thrash Metal",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        798
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-8/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-8/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-9",
+      "name": "Blacephalon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Beat Punk",
+          "text": "This Pokémon also does 70 damage to itself.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Anesaki Dynamic",
+      "national_pokedex_numbers": [
+        806
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-9/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-9/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-10",
+      "name": "Mantine",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Surf",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "10",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        226
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-10/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-10/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-11",
+      "name": "Carvanha",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        318
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-11/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-11/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-12",
+      "name": "Sharpedo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Carvanha"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Crunch",
+          "text": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Yumi",
+      "national_pokedex_numbers": [
+        319
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-12/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-12/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-13",
+      "name": "Shinx",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sanosuke Sakuma",
+      "national_pokedex_numbers": [
+        403
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-13/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-13/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-14",
+      "name": "Luxio",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Shinx"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Head Bolt",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        404
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-14/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-14/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-15",
+      "name": "Luxray",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Luxio"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Intimidating Fang",
+          "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Electric Ball",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        405
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-15/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-15/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-16",
+      "name": "Blitzle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rear Kick",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        522
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-16/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-16/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-17",
+      "name": "Zebstrika",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Blitzle"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Head Bolt",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        523
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-17/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-17/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-18",
+      "name": "Emolga",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Static Shock",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        587
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-18/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-18/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-19",
+      "name": "Tapu Koko ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Plasma Hurricane",
+          "text": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mach Bolt",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        785
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-19/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-19/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-20",
+      "name": "Xurkitree",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Electronica",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "20",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Satoshi Shirai",
+      "national_pokedex_numbers": [
+        796
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-20/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-20/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-21",
+      "name": "Zeraora",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Thunderclap Flash",
+          "text": "At the end of your first turn, take a [L] Energy from your Energy Zone and attach it to this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Lightning Claw",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        807
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-21/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-21/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-22",
+      "name": "Clefairy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "22",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sumiyoshi Kizuki",
+      "national_pokedex_numbers": [
+        35
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-22/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-22/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-23",
+      "name": "Clefable",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Clefairy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Moon Kick",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "23",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        36
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-23/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-23/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-24",
+      "name": "Phantump",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spooky Shot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "24",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        708
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-24/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-24/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-25",
+      "name": "Trevenant",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Phantump"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Wrack Down",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "25",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        709
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-25/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-25/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-26",
+      "name": "Morelull",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hook",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "26",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        755
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-26/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-26/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-27",
+      "name": "Shiinotic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Morelull"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Illuminate",
+          "text": "Once during your turn, you may put a random Pokémon from your deck into your hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Gentle Slap",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "27",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        756
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-27/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-27/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-28",
+      "name": "Meditite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Trip Over",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "28",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        307
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-28/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-28/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-29",
+      "name": "Medicham",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Meditite"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "High Jump Kick",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "29",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Misa Tsutsui",
+      "national_pokedex_numbers": [
+        308
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-29/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-29/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-30",
+      "name": "Baltoy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spinning Attack",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Uta",
+      "national_pokedex_numbers": [
+        343
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-30/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-30/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-31",
+      "name": "Claydol",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Baltoy"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Heal Block",
+          "text": "Pokémon (both yours and your opponent's) can't be healed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Power Beam",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "31",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Satoshi Shirai",
+      "national_pokedex_numbers": [
+        344
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-31/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-31/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-32",
+      "name": "Rockruff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rock Throw",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        744
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-32/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-32/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-33",
+      "name": "Lycanroc ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Rockruff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lycanfang",
+          "text": "Discard a Fighting Energy from this Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "33",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-33/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-33/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-34",
+      "name": "Passimian",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Let’s Throw",
+          "text": "If Passimian is on your Bench, this attack does 40 more damage.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        766
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-34/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-34/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-35",
+      "name": "Sandygast",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sandy Shot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "35",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        769
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-35/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-35/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-36",
+      "name": "Palossand",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Sandygast"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Sand Tomb",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "36",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        770
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-36/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-36/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-37",
+      "name": "Alolan Meowth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Meddle",
+          "text": "Discard a random Pokémon Tool card from your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "37",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sekio",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-37/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-37/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-38",
+      "name": "Alolan Persian",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Alolan Meowth"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fake Out",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "ryoma uratsuka",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-38/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-38/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-39",
+      "name": "Sandile",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "39",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        551
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-39/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-39/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-40",
+      "name": "Krokorok",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Sandile"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Light Punch",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "40",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        552
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-40/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-40/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-41",
+      "name": "Krookodile",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Krokorok"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Poaching Fangs",
+          "text": "Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "41",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        553
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-41/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-41/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-42",
+      "name": "Nihilego",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "More Poison",
+          "text": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "New Wave",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "42",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        793
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-42/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-42/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-43",
+      "name": "Guzzlord ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Grindcore",
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Tyrannical Hole",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "43",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA Yamashita",
+      "national_pokedex_numbers": [
+        799
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-43/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-43/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-44",
+      "name": "Poipole",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "2-Step 20x",
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        803
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-44/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-44/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-45",
+      "name": "Naganadel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Poipole"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Electro House",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "45",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        804
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-45/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-45/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-46",
+      "name": "Alolan Diglett",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Happened to Headbutt",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Megumi Mizutani",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-46/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-46/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-47",
+      "name": "Alolan Dugtrio ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Alolan Diglett"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Triplet Headbutt 60x",
+          "text": "Flip 3 coins. This attack does 60 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "rarity": "4 Diamond",
+      "rarity_code": "4 Diamond",
+      "artist": "PLANETA CG Works",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-47/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-47/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-48",
+      "name": "Aron",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Headbutt",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "48",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        304
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-48/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-48/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-49",
+      "name": "Lairon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Aron"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lunge Out",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "49",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        305
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-49/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-49/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-50",
+      "name": "Aggron",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Lairon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Giga Impact",
+          "text": "During your next turn, this Pokémon can't attack.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "50",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Satoshi Shirai",
+      "national_pokedex_numbers": [
+        306
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-50/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-50/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-51",
+      "name": "Ferroseed",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Spike Sting",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "51",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        597
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-51/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-51/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-52",
+      "name": "Ferrothorn",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Ferroseed"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Steel Spikes",
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Spinning Attack",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "52",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        598
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-52/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-52/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-53",
+      "name": "Stakataka",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Brass Rock",
+          "text": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "53",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Anesaki Dynamic",
+      "national_pokedex_numbers": [
+        805
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-53/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-53/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-54",
+      "name": "Lillipup",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "54",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        506
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-54/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-54/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-55",
+      "name": "Herdier",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Lillipup"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "55",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        507
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-55/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-55/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-56",
+      "name": "Stoutland",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Herdier"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Guard Dog Visage",
+          "text": "As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1 [C] more."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sharp Fang",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "56",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        508
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-56/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-56/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-57",
+      "name": "Stufful",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ram",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "57",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Sekio",
+      "national_pokedex_numbers": [
+        759
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-57/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-57/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-58",
+      "name": "Bewear",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Stufful"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Superpowered Hug",
+          "text": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "58",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Ryuta Fuse",
+      "national_pokedex_numbers": [
+        760
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-58/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-58/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-59",
+      "name": "Oranguru",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hammer In",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "59",
+      "rarity": "1 Diamond",
+      "rarity_code": "1 Diamond",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        765
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-59/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-59/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-60",
+      "name": "Type: Null",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Quick Blow",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "60",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        772
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-60/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-60/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-61",
+      "name": "Silvally",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Type: Null"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Brave Buddies",
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "61",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "Eske Yoshinob",
+      "national_pokedex_numbers": [
+        773
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-61/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-61/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-62",
+      "name": "Celesteela",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ultra Thrusters",
+          "text": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Moombahton",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "62",
+      "rarity": "3 Diamond",
+      "rarity_code": "3 Diamond",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        797
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-62/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-62/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-63",
+      "name": "Beast Wall",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "number": "63",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Toyste Beach",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-63/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-63/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-64",
+      "name": "Repel",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "number": "64",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Yoshinobu Saito",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-64/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-64/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-65",
+      "name": "Electrical Cord",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "number": "65",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Toyste Beach",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-65/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-65/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-65/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 65,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-66",
+      "name": "Beastite",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "number": "66",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "inose yukie",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-66/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-66/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-66/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 66,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-67",
+      "name": "Gladion",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "67",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "hncl",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-67/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-67/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-67/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 67,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-68",
+      "name": "Looker",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "68",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Hideki Ishikawa",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-68/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-68/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-68/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 68,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-69",
+      "name": "Lusamine",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "69",
+      "rarity": "2 Diamond",
+      "rarity_code": "2 Diamond",
+      "artist": "Taira Akitsu",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-69/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-69/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-69/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 69,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-70",
+      "name": "Rowlet",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fury Attack 10x",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "70",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "OKACHEKE",
+      "national_pokedex_numbers": [
+        722
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-70/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-70/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-70/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 70,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-71",
+      "name": "Pheromosa",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Jump Blues",
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "71",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "matazo",
+      "national_pokedex_numbers": [
+        795
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-71/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-71/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-71/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 71,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-72",
+      "name": "Blacephalon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Beat Punk",
+          "text": "This Pokémon also does 70 damage to itself.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "72",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "akagi",
+      "national_pokedex_numbers": [
+        806
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-72/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-72/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-72/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 72,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-73",
+      "name": "Alolan Meowth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Meddle",
+          "text": "Discard a random Pokémon Tool card from your opponent's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "73",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Mina Nakai",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-73/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-73/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-73/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 73,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-74",
+      "name": "Silvally",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Type: Null"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Brave Buddies",
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "74",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "hncl",
+      "national_pokedex_numbers": [
+        773
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-74/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-74/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-74/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 74,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-75",
+      "name": "Celesteela",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Ultra Thrusters",
+          "text": "Once during your turn, you may switch your Active Ultra Beast with 1 of your Benched Ultra Beasts."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Moombahton",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "75",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "REND",
+      "national_pokedex_numbers": [
+        797
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-75/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-75/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-75/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 75,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-76",
+      "name": "Buzzwole ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Punch",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Big Beat",
+          "text": "During your next turn, this Pokémon can't use Big Beat.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "76",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        794
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-76/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-76/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-76/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 76,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-77",
+      "name": "Tapu Koko ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Plasma Hurricane",
+          "text": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mach Bolt",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "77",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        785
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-77/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-77/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-77/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 77,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-78",
+      "name": "Lycanroc ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Rockruff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lycanfang",
+          "text": "Discard a Fighting Energy from this Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "78",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-78/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-78/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-78/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 78,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-79",
+      "name": "Guzzlord ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Grindcore",
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Tyrannical Hole",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "79",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Yamashita",
+      "national_pokedex_numbers": [
+        799
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-79/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-79/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-79/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 79,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-80",
+      "name": "Alolan Dugtrio ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Alolan Diglett"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Triplet Headbutt 60x",
+          "text": "Flip 3 coins. This attack does 60 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "80",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-80/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-80/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-80/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 80,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-81",
+      "name": "Gladion",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "81",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "hncl",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-81/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-81/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-81/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 81,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-82",
+      "name": "Looker",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "82",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Hideki Ishikawa",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-82/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-82/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-82/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 82,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-83",
+      "name": "Lusamine",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "number": "83",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Taira Akitsu",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-83/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-83/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-83/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 83,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-84",
+      "name": "Tapu Koko ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Plasma Hurricane",
+          "text": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Mach Bolt",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "84",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Dsuke",
+      "national_pokedex_numbers": [
+        785
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-84/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-84/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-84/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 84,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-85",
+      "name": "Lycanroc ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Rockruff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lycanfang",
+          "text": "Discard a Fighting Energy from this Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "85",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Jiro Sasumo",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-85/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-85/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-85/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 85,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-86",
+      "name": "Guzzlord ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Grindcore",
+          "text": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Tyrannical Hole",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "86",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "Nurikabe",
+      "national_pokedex_numbers": [
+        799
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-86/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-86/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-86/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 86,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-87",
+      "name": "Alolan Dugtrio ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Alolan Diglett"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Triplet Headbutt 60x",
+          "text": "Flip 3 coins. This attack does 60 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "87",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "KEIICHIRO ITO",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-87/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-87/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-87/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 87,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-88",
+      "name": "Buzzwole ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Punch",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Big Beat",
+          "text": "During your next turn, this Pokémon can't use Big Beat.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "88",
+      "rarity": "3 Star",
+      "rarity_code": "3 Star",
+      "artist": "akagi",
+      "national_pokedex_numbers": [
+        794
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-88/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-88/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-88/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 88,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-89",
+      "name": "Growlithe",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "89",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Saya Tsuruta",
+      "national_pokedex_numbers": [
+        58
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-89/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-89/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-89/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 89,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-90",
+      "name": "Arcanine",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Growlithe"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Heat Tackle",
+          "text": "This Pokémon also does 20 damage to itself.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "90",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Saya Tsuruta",
+      "national_pokedex_numbers": [
+        59
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-90/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-90/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-90/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 90,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-91",
+      "name": "Froakie",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flop",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "91",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        656
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-91/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-91/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-91/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 91,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-92",
+      "name": "Frogadier",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Froakie"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Water Drip",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "92",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        657
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-92/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-92/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-92/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 92,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-93",
+      "name": "Greninja",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Frogadier"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Water Shuriken",
+          "text": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mist Slash",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "93",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        658
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-93/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-93/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-93/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 93,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-94",
+      "name": "Jynx",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psychic",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "94",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "MAHOU",
+      "national_pokedex_numbers": [
+        124
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-94/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-94/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-94/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 94,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-95",
+      "name": "Pidgey",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gust",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "95",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Misa Tsutsui",
+      "national_pokedex_numbers": [
+        16
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-95/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-95/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-95/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 95,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-96",
+      "name": "Pidgeotto",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Pidgey"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gust",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "96",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Misa Tsutsui",
+      "national_pokedex_numbers": [
+        17
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-96/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-96/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-96/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 96,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-97",
+      "name": "Pidgeot",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Pidgeotto"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Drive Off",
+          "text": "Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wing Attack",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "97",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Misa Tsutsui",
+      "national_pokedex_numbers": [
+        18
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-97/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-97/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-97/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 97,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-98",
+      "name": "Aerodactyl",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Old Amber"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Primal Wingbeat",
+          "text": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "98",
+      "rarity": "1 Star",
+      "rarity_code": "1 Star",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        142
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-98/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-98/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-98/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 98,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-99",
+      "name": "Celebi ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Powerful Bloom 50x",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "99",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        251
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-99/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-99/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-99/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 99,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-100",
+      "name": "Arcanine ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Growlithe"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Inferno Onrush",
+          "text": "This Pokémon also does 20 damage to itself.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "100",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA Saito",
+      "national_pokedex_numbers": [
+        59
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-100/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-100/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-100/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 100,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-101",
+      "name": "Aerodactyl ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Old Amber"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Primeval Law",
+          "text": "Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Land Crush",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "101",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        142
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-101/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-101/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-101/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 101,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-102",
+      "name": "Pidgeot ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Pidgeotto"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Scattering Cyclone",
+          "text": "This attack does 20 more damage for each of your opponent's Benched Pokémon.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "102",
+      "rarity": "2 Star",
+      "rarity_code": "2 Star",
+      "artist": "PLANETA CG Works",
+      "national_pokedex_numbers": [
+        18
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-102/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-102/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-102/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 102,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "tcgp-A3a-103",
+      "name": "Nihilego",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "More Poison",
+          "text": "Your opponent's Active Pokémon takes +10 damage from being Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "New Wave",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "103",
+      "rarity": "Crown",
+      "rarity_code": "Crown",
+      "artist": "PLANETA Yamashita",
+      "national_pokedex_numbers": [
+        793
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/tcgp-A3a-103/small",
+          "medium": "https://images.scrydex.com/pokemon/tcgp-A3a-103/medium",
+          "large": "https://images.scrydex.com/pokemon/tcgp-A3a-103/large"
+        }
+      ],
+      "expansion": {
+        "id": "tcgp-A3a",
+        "name": "Extradimensional Crisis",
+        "series": "Pokémon TCG Pocket",
+        "code": "A3a",
+        "total": 103,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2025/05/28",
+        "is_online_only": true
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 103,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 103
+}

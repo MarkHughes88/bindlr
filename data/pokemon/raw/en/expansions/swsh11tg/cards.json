@@ -1,0 +1,2860 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "swsh11tg-TG01",
+      "name": "Parasect",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Paras"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Lethargy Spores",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may make both Active Pokémon Asleep and Poisoned."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "X-Scissor",
+          "text": "Flip a coin. If heads, this attack does 50 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG01",
+      "printed_number": "TG01/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Oswaldo KATO",
+      "national_pokedex_numbers": [
+        47
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG01/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG01/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG01/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG02",
+      "name": "Roserade",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Roselia"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Poisonous Whip",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Assassin's Rose",
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack also does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "TG02",
+      "printed_number": "TG02/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "saino misaki",
+      "national_pokedex_numbers": [
+        407
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "After captivating opponents with its sweet scent, it lashes them with its thorny whips.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG02/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG02/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG02/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG03",
+      "name": "Charizard",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Battle Sense",
+          "text": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Royal Blaze",
+          "text": "This attack does 50 more damage for each Leon card in your discard pile.",
+          "damage": "100+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "TG03",
+      "printed_number": "TG03/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "GIDORA",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG03/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG03/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG03/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG04",
+      "name": "Chandelure",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Lampent"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Mountain Roasting",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may discard the top 3 cards of your opponent's deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Heat Blast",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG04",
+      "printed_number": "TG04/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "chibi",
+      "national_pokedex_numbers": [
+        609
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG04/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG04/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG04/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG05",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Pika Dash",
+          "text": "If this Pokémon has any Energy attached, it has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Whimsy Tackle",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "TG05",
+      "printed_number": "TG05/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Atsushi Furusawa",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG05/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG05/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG05/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG06",
+      "name": "Gengar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Haunter"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Netherworld Gate",
+          "text": "Once during your turn, if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 3 damage counters on this Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Screaming Circle",
+          "text": "Put 2 damage counters on your opponent's Active Pokémon for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG06",
+      "printed_number": "TG06/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        94
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG06/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG06/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG06/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG07",
+      "name": "Banette",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1",
+        "Single Strike"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Shuppet"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Resolute Spite",
+          "text": "Put up to 7 damage counters on this Pokémon. This attack does 20 damage for each damage counter you placed in this way.",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Eerie Light",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "TG07",
+      "printed_number": "TG07/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Tomomi Kaneko",
+      "national_pokedex_numbers": [
+        354
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG07/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG07/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG07/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG08",
+      "name": "Hisuian Arcanine",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Hisuian Growlithe"
+      ],
+      "attacks": [
+        {
+          "cost": [],
+          "converted_energy_cost": 0,
+          "name": "Very Vulnerable",
+          "text": "If you have no cards in your hand, this attack does 150 more damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sharp Fang",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG08",
+      "printed_number": "TG08/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "You Iribi",
+      "national_pokedex_numbers": [
+        59
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG08/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG08/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG08/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG09",
+      "name": "Spiritomb",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Cursed Message",
+          "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for a card and put it into your hand. Then, shuffle your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Chain of Spirits",
+          "text": "This attack does 60 more damage for each Spiritomb in your discard pile.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "TG09",
+      "printed_number": "TG09/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        442
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It lays curses by thinking wicked thoughts. Writings tell that this Pokémon was born out of the assembly of five score and eight malevolent spirits.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG09/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG09/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG09/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG10",
+      "name": "Snorlax",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "150",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Unfazed Fat",
+          "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thumping Snore",
+          "text": "This Pokémon is now Asleep. During Pokémon Checkup, flip 2 coins instead of 1. If either of them is tails, this Pokémon is still Asleep.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "TG10",
+      "printed_number": "TG10/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        143
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This glutton appears in villages without warning and devours the entirety of their rice granaries—such occurrences have long been counted among the gravest of disasters.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG10/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG10/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG10/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG11",
+      "name": "Castform",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Weather Reading",
+          "text": "If you have 8 or more Stadium cards in your discard pile, ignore all Energy in this Pokémon's attack costs."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Weather Force",
+          "text": "Draw cards until you have 6 cards in your hand.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "number": "TG11",
+      "printed_number": "TG11/TG30",
+      "rarity": "Trainer Gallery Rare Holo",
+      "rarity_code": "Trainer Gallery Rare Holo",
+      "artist": "Atsushi Furusawa",
+      "national_pokedex_numbers": [
+        351
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its form changes depending on the weather. The rougher conditions get, the rougher Castform's disposition!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG11/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG11/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG11/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG12",
+      "name": "Orbeetle V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "180",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Strafe",
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mysterious Wave",
+          "text": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG12",
+      "printed_number": "TG12/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Nisota Niso",
+      "national_pokedex_numbers": [
+        826
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG12/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG12/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG12/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG13",
+      "name": "Orbeetle VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "310",
+      "evolves_from": [
+        "Orbeetle V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Eerie Beam",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may put 1 damage counter on each of your opponent's Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "G-Max Wave",
+          "text": "This attack does 50 more damage for each Energy attached to your opponent's Active Pokémon.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG13",
+      "printed_number": "TG13/TG30",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        826
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG13/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG13/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG13/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG14",
+      "name": "Centiskorch V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Radiating Heat",
+          "text": "You may discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Burning Train",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG14",
+      "printed_number": "TG14/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Yuya Oka",
+      "national_pokedex_numbers": [
+        851
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG14/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG14/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG14/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG15",
+      "name": "Centiskorch VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Centiskorch V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "G-Max Centiferno",
+          "text": "This attack does 40 more damage for each Fire Energy attached to this Pokémon. If you did any damage with this attack, you may attach a Fire Energy card from your discard pile to this Pokémon.",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG15",
+      "printed_number": "TG15/TG30",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "Oswaldo KATO",
+      "national_pokedex_numbers": [
+        851
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG15/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG15/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG15/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG16",
+      "name": "Pikachu V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "190",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Charge",
+          "text": "Search your deck for up to 2 Lightning Energy cards and attach them to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Thunderbolt",
+          "text": "Discard all Energy from this Pokémon.",
+          "damage": "200"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG16",
+      "printed_number": "TG16/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Ryota Murayama",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG16/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG16/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG16/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG17",
+      "name": "Pikachu VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "310",
+      "evolves_from": [
+        "Pikachu V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "G-Max Volt Tackle",
+          "text": "You may discard all Energy from this Pokémon. If you do, this attack does 150 more damage.",
+          "damage": "120+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG17",
+      "printed_number": "TG17/TG30",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG17/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG17/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG17/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG18",
+      "name": "Enamorus V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "210",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Guardian of Love",
+          "text": "Prevent all effects of your opponent's Pokémon's Abilities done to each of your Pokémon that has any Psychic Energy attached, except any Enamorus V."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Blossom Tail",
+          "text": "Attach up to 2 basic Energy cards from your discard pile to your Benched Pokémon in any way you like.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG18",
+      "printed_number": "TG18/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        905
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG18/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG18/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG18/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG19",
+      "name": "Gallade V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "220",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rising Sword",
+          "text": "This attack does 50 more damage for each Prize card you have taken.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Buster Swing",
+          "text": "This attack's damage isn't affected by Resistance.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG19",
+      "printed_number": "TG19/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Souichirou Gunjima",
+      "national_pokedex_numbers": [
+        475
+      ],
+      "regulation_mark": "F",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG19/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG19/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG19/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG20",
+      "name": "Crobat V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "180",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Dark Asset",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venomous Fang",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG20",
+      "printed_number": "TG20/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "GOSSAN",
+      "national_pokedex_numbers": [
+        169
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG20/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG20/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG20/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG21",
+      "name": "Eternatus V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "220",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Power Accelerator",
+          "text": "You may attach a Darkness Energy card from your hand to 1 of your Benched Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Dynamax Cannon",
+          "text": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 120 more damage.",
+          "damage": "120+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "TG21",
+      "printed_number": "TG21/TG30",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        890
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG21/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG21/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG21/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG22",
+      "name": "Eternatus VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Eternamax"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "340",
+      "evolves_from": [
+        "Eternatus V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Eternal Zone",
+          "text": "If all of your Pokémon in play are Darkness type, you can have up to 8 Pokémon on your Bench, and you can't put non-Darkness Pokémon into play. (If this Ability stops working, discard Pokémon from your Bench until you have 5.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Dread End",
+          "text": "This attack does 30 damage for each of your Darkness Pokémon in play.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG22",
+      "printed_number": "TG22/TG30",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        890
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG22/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG22/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG22/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG23",
+      "name": "Adventurer's Discovery",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for up to 3 Pokémon V, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG23",
+      "printed_number": "TG23/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Taira Akitsu",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG23/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG23/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG23/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG24",
+      "name": "Boss's Orders",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG24",
+      "printed_number": "TG24/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "NC Empire",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Lysandre",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG24/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG24/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG24/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG25",
+      "name": "Cook",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Heal 70 damage from your Active Pokémon.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG25",
+      "printed_number": "TG25/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Sanosuke Sakuma",
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG25/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG25/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG25/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG26",
+      "name": "Kabu",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG26",
+      "printed_number": "TG26/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Hideki Ishikawa",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG26/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG26/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG26/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG27",
+      "name": "Nessa",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG27",
+      "printed_number": "TG27/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "saino misaki",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG27/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG27/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG27/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG28",
+      "name": "Opal",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Flip 2 coins. Search your deck for a number of cards up to the number of heads, put them into your hand, and shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "TG28",
+      "printed_number": "TG28/TG30",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Taira Akitsu",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG28/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG28/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG28/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG29",
+      "name": "Pikachu VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "310",
+      "evolves_from": [
+        "Pikachu V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "G-Max Volt Tackle",
+          "text": "You may discard all Energy from this Pokémon. If you do, this attack does 150 more damage.",
+          "damage": "120+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG29",
+      "printed_number": "TG29/TG30",
+      "rarity": "Rare Secret",
+      "rarity_code": "Rare Secret",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG29/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG29/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG29/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh11tg-TG30",
+      "name": "Mew VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Fusion Strike"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "310",
+      "evolves_from": [
+        "Mew V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Cross Fusion Strike",
+          "text": "Choose 1 of your Benched Fusion Strike Pokémon's attacks and use it as this attack."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Max Miracle",
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "TG30",
+      "printed_number": "TG30/TG30",
+      "rarity": "Rare Secret",
+      "rarity_code": "Rare Secret",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh11tg-TG30/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh11tg-TG30/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh11tg-TG30/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh11tg",
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "code": "LOR",
+        "total": 30,
+        "printed_total": 30,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/09/09",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 30
+}

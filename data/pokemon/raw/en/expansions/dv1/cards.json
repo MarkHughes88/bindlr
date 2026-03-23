@@ -1,0 +1,2067 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "dv1-1",
+      "name": "Dratini",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Lightning"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Wrap",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        147
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-1/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-1/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-2",
+      "name": "Dratini",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hypnotic Gaze",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tail Whap",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "2/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        147
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is called the \"Mirage Pokémon\" because so few have seen it. Its shed skin has been found.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-2/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-2/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-3",
+      "name": "Dragonair",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Dratini"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tail Whap",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Pulse",
+          "text": "Discard the top card of your deck.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "3",
+      "printed_number": "3/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        148
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-3/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-3/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-4",
+      "name": "Dragonair",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Dratini"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Healing Melody",
+          "text": "Heal 10 damage from each of your Pokémon."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Slam",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "printed_number": "4/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        148
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-4/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-4/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-5",
+      "name": "Dragonite",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Dragonair"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hyper Beam",
+          "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon.",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Hurricane Tail",
+          "text": "Flip 4 coins. This attack does 60 damage times the number of heads.",
+          "damage": "60×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "5",
+      "printed_number": "5/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-5/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-5/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "cosmosHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-6",
+      "name": "Bagon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Headbutt",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Dragon Claw",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        371
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-6/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-6/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "leagueStamp",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-7",
+      "name": "Shelgon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Bagon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Knock Away",
+          "text": "Flip a coin. If heads, this attack does 20 more damage.",
+          "damage": "10+"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rollout",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "7",
+      "printed_number": "7/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        372
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-7/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-7/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "leagueStamp",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-8",
+      "name": "Salamence",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Shelgon"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Scornful Storm",
+          "text": "Once during your turn (before your attack), you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "8/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "BERUBURI",
+      "national_pokedex_numbers": [
+        373
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-8/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-8/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "cosmosHolofoil",
+          "prices": []
+        },
+        {
+          "name": "leagueStamp",
+          "prices": []
+        },
+        {
+          "name": "staffStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-9",
+      "name": "Latias",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energy Assist",
+          "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Fire",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sky Heal",
+          "text": "If Latios is on your Bench, heal 20 damage from this Pokémon.",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Hideaki Hakozaki",
+      "national_pokedex_numbers": [
+        380
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its body is covered in a down that can refract light in such a way that it becomes invisible.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-9/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-9/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "expansionStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-10",
+      "name": "Latios",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sky Blade",
+          "text": "If Latias is on your Bench, this attack does 20 more damage.",
+          "damage": "20+"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Speed Wing",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "10/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        381
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-10/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-10/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "expansionStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-11",
+      "name": "Rayquaza",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Dragon Pulse",
+          "text": "Discard the top 2 cards of your deck.",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Shred",
+          "text": "This attack's damage isn't affected by any effects on the Defending Pokémon.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "11",
+      "printed_number": "11/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        384
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-11/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-11/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "expansionStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-12",
+      "name": "Axew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Signs of Evolution",
+          "text": "Flip a coin. If heads, search your deck for Fraxure, reveal it, and put it into your hand, Shuffle your deck afterward."
+        },
+        {
+          "cost": [
+            "Metal"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scratch",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "12/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        610
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-12/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-12/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-13",
+      "name": "Axew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Metal"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Lunge",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "13/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "TOKIYA",
+      "national_pokedex_numbers": [
+        610
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-13/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-13/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-14",
+      "name": "Fraxure",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Axew"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Grit",
+          "text": "If this Pokémon is affected by a Special Condition, each of its attacks does 40 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Claw",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "14/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        611
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they've been fighting.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-14/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-14/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-15",
+      "name": "Fraxure",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Axew"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Scratch",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sharp Fang",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "15",
+      "printed_number": "15/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "match",
+      "national_pokedex_numbers": [
+        611
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-15/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-15/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-16",
+      "name": "Haxorus",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Fraxure"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Axe Slugger",
+          "text": "If the Defending Pokémon is a Colorless Pokémon, this attack does 60 more damage.",
+          "damage": "60+"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Dragon Pulse",
+          "text": "Discard the top card of your deck.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "16",
+      "printed_number": "16/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Eske Yoshinob",
+      "national_pokedex_numbers": [
+        612
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-16/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-16/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "expansionStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-17",
+      "name": "Druddigon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tight Jaw",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Tail",
+          "text": "Flip 2 coins. This attack does 80 damage times the number of heads.",
+          "damage": "80×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "17/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        621
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It races through narrow caves, using its sharp claws to catch prey. The skin on its face is harder than a rock.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-17/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-17/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "expansionStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-18",
+      "name": "Exp. Share",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Pokémon Tool"
+      ],
+      "rules": [
+        "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached to it.",
+        "When your Active Pokémon is Knocked Out by damage from an opponent's attack, you may move 1 basic Energy card that was attached to that Pokémon to the Pokémon this card is attached to.",
+        "You may play as many Item cards as you like during your turn (before your attack)."
+      ],
+      "number": "18",
+      "printed_number": "18/20",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-18/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-18/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-19",
+      "name": "First Ticket",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Before you flip a coin to decide who goes first in a game, you may play this card. Don't flip that coin, and you go first. If both players play First Ticket, flip the coin as normal. (You may play only 1 First Ticket before you flip that coin.)",
+        "You may play as many Item cards as you like during your turn (before your attack)."
+      ],
+      "number": "19",
+      "printed_number": "19/20",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-19/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-19/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-20",
+      "name": "Super Rod",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile back into your deck.",
+        "You may play as many Item cards as you like during your turn (before your attack)."
+      ],
+      "number": "20",
+      "printed_number": "20/20",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "5ban Graphics",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-20/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-20/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "andrewEstrada",
+          "prices": []
+        },
+        {
+          "name": "clementLamberton",
+          "prices": []
+        },
+        {
+          "name": "ianWhiton",
+          "prices": []
+        },
+        {
+          "name": "michikazuTsuda",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "dv1-21",
+      "name": "Kyurem",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dragon Claw",
+          "damage": "60"
+        },
+        {
+          "cost": [
+            "Water",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Blizzard",
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "21",
+      "printed_number": "21/20",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        646
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It can produce ultracold air. Its body is frozen.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/dv1-21/small",
+          "medium": "https://images.scrydex.com/pokemon/dv1-21/medium",
+          "large": "https://images.scrydex.com/pokemon/dv1-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "dv1",
+        "name": "Dragon Vault",
+        "series": "Black & White",
+        "code": "DRV",
+        "total": 21,
+        "printed_total": 20,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2012/10/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 21
+}

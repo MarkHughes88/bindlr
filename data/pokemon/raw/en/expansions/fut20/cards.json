@@ -1,0 +1,493 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "fut20-1",
+      "name": "Pikachu on the Ball",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tail Whap",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lightning Shot",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/005",
+      "artist": "The Pokémon Company Art Team",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/fut20-1/small",
+          "medium": "https://images.scrydex.com/pokemon/fut20-1/medium",
+          "large": "https://images.scrydex.com/pokemon/fut20-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "fut20",
+        "name": "Pokémon Futsal Collection",
+        "series": "Other",
+        "code": "FUT20",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "fut20-2",
+      "name": "Eevee on the Ball",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Make the Assist",
+          "text": "Attach a basic Energy card from your hand to 1 of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tackle",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/005",
+      "artist": "The Pokémon Company Art Team",
+      "national_pokedex_numbers": [
+        133
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It has the ability to alter the composition of its body to suit its surrounding environment.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/fut20-2/small",
+          "medium": "https://images.scrydex.com/pokemon/fut20-2/medium",
+          "large": "https://images.scrydex.com/pokemon/fut20-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "fut20",
+        "name": "Pokémon Futsal Collection",
+        "series": "Other",
+        "code": "FUT20",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "fut20-3",
+      "name": "Grookey on the Ball",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tenacious Defense",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Razor Leaf",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/005",
+      "artist": "The Pokémon Company Art Team",
+      "national_pokedex_numbers": [
+        810
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/fut20-3/small",
+          "medium": "https://images.scrydex.com/pokemon/fut20-3/medium",
+          "large": "https://images.scrydex.com/pokemon/fut20-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "fut20",
+        "name": "Pokémon Futsal Collection",
+        "series": "Other",
+        "code": "FUT20",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "fut20-4",
+      "name": "Scorbunny on the Ball",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Fiery Dribbling",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Reckless Charge",
+          "text": "This Pokémon also does 10 damage to itself.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/005",
+      "artist": "The Pokémon Company Art Team",
+      "national_pokedex_numbers": [
+        813
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/fut20-4/small",
+          "medium": "https://images.scrydex.com/pokemon/fut20-4/medium",
+          "large": "https://images.scrydex.com/pokemon/fut20-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "fut20",
+        "name": "Pokémon Futsal Collection",
+        "series": "Other",
+        "code": "FUT20",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "fut20-5",
+      "name": "Sobble on the Ball",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Spectacular Save",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon."
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Rain Splash",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/005",
+      "artist": "The Pokémon Company Art Team",
+      "national_pokedex_numbers": [
+        816
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/fut20-5/small",
+          "medium": "https://images.scrydex.com/pokemon/fut20-5/medium",
+          "large": "https://images.scrydex.com/pokemon/fut20-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "fut20",
+        "name": "Pokémon Futsal Collection",
+        "series": "Other",
+        "code": "FUT20",
+        "total": 5,
+        "printed_total": 5,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/11",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 5
+}

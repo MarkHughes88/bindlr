@@ -1,0 +1,687 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "C1-1",
+      "name": "Dragon Fire",
+      "number": "1",
+      "ink_types": [
+        "Ruby"
+      ],
+      "supertype": "Action",
+      "rarity": "Promo",
+      "cost": "5",
+      "inkwell": false,
+      "keywords": [],
+      "abilities": [],
+      "rules": [
+        "Banish chosen character."
+      ],
+      "source": "Sleeping Beauty",
+      "flavor_text": "Rare is the hero who can withstand a dragon's wrath.",
+      "artists": [
+        "Luis Huerta"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-1/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-1/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-2",
+      "name": "Let It Go",
+      "number": "2",
+      "ink_types": [
+        "Sapphire"
+      ],
+      "supertype": "Action",
+      "subtypes": [
+        "Song"
+      ],
+      "rarity": "Promo",
+      "cost": "5",
+      "inkwell": true,
+      "keywords": [],
+      "abilities": [],
+      "rules": [
+        "(A character with cost 5 or more can {Exert} to sing this song for free.)",
+        "Put chosen character into their player's inkwell facedown and exerted."
+      ],
+      "source": "Frozen",
+      "flavor_text": "It's time to see what I can do\nTo test the limits and break through",
+      "artists": [
+        "Milica Celikovic"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-2/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-2/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-3",
+      "name": "Cinderella",
+      "version": "Stouthearted",
+      "number": "3",
+      "ink_types": [
+        "Steel"
+      ],
+      "supertype": "Character",
+      "subtypes": [
+        "Floodborn",
+        "Hero",
+        "Princess",
+        "Knight"
+      ],
+      "rarity": "Promo",
+      "cost": "7",
+      "strength": "5",
+      "willpower": "5",
+      "lore_value": "3",
+      "inkwell": true,
+      "keywords": [
+        {
+          "name": "Shift 5",
+          "text": "(You may pay 5 {Ink} to play this on top of one of your characters named Cinderella.)"
+        },
+        {
+          "name": "Resist +2",
+          "text": "(Damage dealt to this character is reduced by 2.)"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "The Singing Sword",
+          "text": "Whenever you play a song, this character may challenge ready characters this turn."
+        }
+      ],
+      "rules": [],
+      "source": "Cinderella",
+      "artists": [
+        "Alice Pisoni"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-3/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-3/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-4",
+      "name": "Rapunzel",
+      "version": "Gifted with Healing",
+      "number": "4",
+      "ink_types": [
+        "Amber"
+      ],
+      "supertype": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Princess"
+      ],
+      "rarity": "Promo",
+      "cost": "4",
+      "strength": "1",
+      "willpower": "5",
+      "lore_value": "2",
+      "inkwell": true,
+      "keywords": [],
+      "abilities": [
+        {
+          "name": "Gleam and Glow",
+          "text": "When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way."
+        }
+      ],
+      "rules": [],
+      "source": "Tangled",
+      "artists": [
+        "Grace Tran"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-4/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-4/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-5",
+      "name": "Mickey Mouse",
+      "version": "Brave Little Tailor",
+      "number": "5",
+      "ink_types": [
+        "Ruby"
+      ],
+      "supertype": "Character",
+      "subtypes": [
+        "Dreamborn",
+        "Hero"
+      ],
+      "rarity": "Promo",
+      "cost": "8",
+      "strength": "5",
+      "willpower": "5",
+      "lore_value": "4",
+      "keywords": [
+        {
+          "name": "Evasive",
+          "text": "(Only characters with Evasive can challenge this character.)"
+        }
+      ],
+      "abilities": [],
+      "rules": [],
+      "source": "Standard Characters",
+      "flavor_text": "When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up through shear determination.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-5/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-5/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "coldFoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-6",
+      "name": "Invited to the Ball",
+      "number": "6",
+      "ink_types": [
+        "Amber"
+      ],
+      "supertype": "Action",
+      "rarity": "Promo",
+      "cost": "2",
+      "inkwell": false,
+      "keywords": [],
+      "abilities": [],
+      "rules": [
+        "Reveal the top 2 cards of your deck. Put revealed character cards into your hand. Put the rest on the bottom of your deck in any order."
+      ],
+      "source": "Cinderella",
+      "artists": [
+        "Taraneh"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-6/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-6/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-7",
+      "name": "Elsa's Ice Palace",
+      "version": "Place of Solitude",
+      "number": "7",
+      "ink_types": [
+        "Amethyst"
+      ],
+      "supertype": "Location",
+      "rarity": "Promo",
+      "cost": "3",
+      "willpower": "4",
+      "lore_value": "1",
+      "inkwell": false,
+      "keywords": [],
+      "abilities": [
+        {
+          "name": "Eternal Winter",
+          "text": "When you play this location, choose an exerted character. While this location is in play, that character can't ready at the start of their turn."
+        }
+      ],
+      "rules": [],
+      "source": "Frozen",
+      "artists": [
+        "Wietse Treurniet"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-7/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-7/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-8",
+      "name": "Kuzco",
+      "version": "Temperamental Emperor",
+      "number": "8",
+      "ink_types": [
+        "Emerald"
+      ],
+      "supertype": "Character",
+      "subtypes": [
+        "Storyborn",
+        "King"
+      ],
+      "rarity": "Promo",
+      "cost": "5",
+      "strength": "2",
+      "willpower": "4",
+      "lore_value": "3",
+      "inkwell": false,
+      "keywords": [
+        {
+          "name": "Ward",
+          "text": "(Opponents can't choose this character except to challenge.)"
+        }
+      ],
+      "abilities": [
+        {
+          "name": "No Touchy!",
+          "text": "When this character is challenged and banished, you may banish the challenging character."
+        }
+      ],
+      "rules": [],
+      "source": "The Emperor's New Groove",
+      "artists": [
+        "Koni"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-8/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-8/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-9",
+      "name": "Baymax",
+      "version": "Armored Companion",
+      "number": "9",
+      "ink_types": [
+        "Sapphire"
+      ],
+      "supertype": "Character",
+      "subtypes": [
+        "Storyborn",
+        "Hero",
+        "Robot"
+      ],
+      "rarity": "Promo",
+      "cost": "5",
+      "strength": "2",
+      "willpower": "6",
+      "lore_value": "2",
+      "inkwell": true,
+      "keywords": [],
+      "abilities": [
+        {
+          "name": "The Treatment Is Working",
+          "text": "When you play this character and whenever he quests, you may remove up to 2 damage from another chosen character of yours. Gain 1 lore for each 1 damage removed this way."
+        }
+      ],
+      "rules": [],
+      "source": "Big Hero 6",
+      "artists": [
+        "Amber Kommavongsa"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-9/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-9/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "C1-10",
+      "name": "A Whole New World",
+      "number": "10",
+      "ink_types": [
+        "Steel"
+      ],
+      "supertype": "Action",
+      "subtypes": [
+        "Song"
+      ],
+      "rarity": "Promo",
+      "cost": "5",
+      "inkwell": false,
+      "keywords": [],
+      "abilities": [],
+      "rules": [
+        "(A character with cost 5 or more can {Exert} to sing this song for free.)",
+        "Each player discards their hand and draws 7 cards."
+      ],
+      "source": "Aladdin",
+      "flavor_text": "Shining, shimmering, splendid...",
+      "artists": [
+        "Ian MacDonald"
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/lorcana/C1-10/small",
+          "medium": "https://images.scrydex.com/lorcana/C1-10/medium",
+          "large": "https://images.scrydex.com/lorcana/C1-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "C1",
+        "name": "Challenge Promos",
+        "code": "C1",
+        "total": 10,
+        "release_date": "2024/05/25",
+        "language": "English",
+        "language_code": "EN",
+        "logo": "https://images.scrydex.com/lorcana/C1-logo/logo"
+      },
+      "legalities": [
+        {
+          "format": "Core",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Infinity",
+          "status": "Legal"
+        }
+      ],
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 10
+}

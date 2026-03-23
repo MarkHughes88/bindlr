@@ -1,0 +1,1 @@
+export { BindersScreen as default } from "@/src/features/binders/screens/BindersScreen";

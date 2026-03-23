@@ -1,0 +1,4052 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "mp_ja-1",
+      "name": "チコリータ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "はっぱカッター",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Makura Tami",
+      "national_pokedex_numbers": [
+        152
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "日差しを 浴びるのが 大好き。 頭の 葉っぱを 使って 暖かい 場所を 探す。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Chikorita",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Razor Leaf",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-2",
+      "name": "ラプラスex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ハイドロターン",
+          "text": "このポケモンについているWaterエネルギーの数×30ダメージ。このポケモンをベンチポケモンと入れ替える。",
+          "damage": "30×"
+        },
+        {
+          "cost": [
+            "水",
+            "水",
+            "水"
+          ],
+          "converted_energy_cost": 3,
+          "name": "なみのり",
+          "text": "",
+          "damage": "140"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "002/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        131
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Lapras ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "ex"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hydro Turn",
+              "text": "This attack does 30 damage for each Water Energy attached to this Pokémon. Switch this Pokémon with 1 of your Benched Pokémon.",
+              "damage": "30×"
+            },
+            {
+              "cost": [
+                "Water",
+                "Water",
+                "Water"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Surf",
+              "text": "",
+              "damage": "140"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-3",
+      "name": "マシマシラ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "110",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "アドレナブレイン",
+          "text": "このポケモンにDarknessエネルギーがついているなら、自分の番に1回使える。自分の場のポケモン1匹にのっているダメカンを3個まで選び、相手の場のポケモン1匹にのせ替える。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "サイコトリップ",
+          "text": "相手のバトルポケモンをこんらんにする。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        1015
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "安全な 場所から 強烈な めまいを 引き起こす 念力を 放って 敵を 翻弄する。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Munkidori",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Adrena-Brain",
+              "text": "Once during your turn, if this Pokémon has any Darkness Energy attached, you may move up to 3 damage counters from 1 of your Pokémon to 1 of your opponent's Pokémon."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Mind Bend",
+              "text": "Your opponent's Active Pokémon is now Confused.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-4",
+      "name": "マクノシタ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "どつく",
+          "text": "",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "闘",
+            "闘"
+          ],
+          "converted_energy_cost": 2,
+          "name": "がちんこ",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "printed_number": "004/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Takeshi Nakamura",
+      "national_pokedex_numbers": [
+        296
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "厳しい 稽古を 繰り返して 強くなる。 どんな 攻撃にも 耐える 根性の ポケモン。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Makuhita",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Corkscrew Punch",
+              "text": "",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Fighting"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Confront",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-5",
+      "name": "あなあけスコップ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札を上から2枚トラッシュする。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "5",
+      "printed_number": "005/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Toyste Beach",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Digging Shovel",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-6",
+      "name": "カウンターゲイン",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "自分のサイドの残り枚数が、相手のサイドの残り枚数より多いなら、このカードをつけているポケモンがワザを使うためのエネルギーは、Colorlessエネルギー1個ぶん少なくなる。"
+      ],
+      "number": "6",
+      "printed_number": "006/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Toyste Beach",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Counter Gain",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-7",
+      "name": "リーリエの決心",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の手札をすべて山札にもどして切る。その後、山札を6枚引く。自分のサイドの残り枚数が6枚なら、引く枚数は8枚になる。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "7",
+      "printed_number": "007/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Atsushi Furusawa",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Lillie's Determination",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-8",
+      "name": "メガシグナル",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札から「メガシンカex」を1枚選び、相手に見せて、手札に加える。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "8",
+      "printed_number": "008/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "inose yukie",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-9",
+      "name": "基本草エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "9",
+      "printed_number": "009/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Grass Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-10",
+      "name": "基本炎エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "10",
+      "printed_number": "010/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Fire Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-11",
+      "name": "基本水エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "11",
+      "printed_number": "011/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Water Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-12",
+      "name": "基本雷エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "12",
+      "printed_number": "012/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Lightning Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-13",
+      "name": "基本超エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "13",
+      "printed_number": "013/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Psychic Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-14",
+      "name": "基本闘エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "14",
+      "printed_number": "014/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Fighting Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-15",
+      "name": "基本悪エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "15",
+      "printed_number": "015/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Darkness Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-16",
+      "name": "基本鋼エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "16",
+      "printed_number": "016/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Metal Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-17",
+      "name": "ニャオハ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ふみまくる",
+          "text": "コインを3回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "017/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Mina Nakai",
+      "national_pokedex_numbers": [
+        906
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "フワフワの 体毛は 植物に 近い 成分。 こまめに 顔を 洗って 乾燥を 防ぐ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Sprigatito",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Tons of Treading",
+              "text": "Flip 3 coins. This attack does 10 damage for each heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-18",
+      "name": "ホゲータ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ねつでこがす",
+          "text": "相手のバトルポケモンをやけどにする。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "18",
+      "printed_number": "018/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Tomomi Ozaki",
+      "national_pokedex_numbers": [
+        909
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "炎袋が 小さく あふれ出た エネルギーが 頭の くぼみから 放出され ゆらゆら 揺れる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Fuecoco",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Heat Burn",
+              "text": "Your opponent's Active Pokémon is now Burned.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-19",
+      "name": "クワッス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "つばめがえし",
+          "text": "コインを1回投げオモテなら、20ダメージ追加。",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "019/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Saboteri",
+      "national_pokedex_numbers": [
+        912
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "流れが 急な 川も 自由に 泳ぎまわる 脚力を 持つ。 きれい好きで 思い込みが 強い。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Quaxly",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Aerial Ace",
+              "text": "Flip a coin. If heads, this attack does 20 more damage.",
+              "damage": "10+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-20",
+      "name": "ピカチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "でんじスパーク",
+          "text": "相手のポケモン1匹に、10ダメージ。ベンチは弱点・抵抗力を計算しない。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "20",
+      "printed_number": "020/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Yuu Nishida",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "何匹かが 集まっていると そこに 猛烈な 電気が 溜まり 稲妻が 落ちることがあるという。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Pikachu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Random Spark",
+              "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-21",
+      "name": "ラルトス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "もってくる",
+          "text": "自分の山札を1枚引く。"
+        },
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ずつき",
+          "text": "",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "021/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Terada Tera",
+      "national_pokedex_numbers": [
+        280
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "人の 感情を 頭の 赤い ツノで 敏感に キャッチする 力を 持つ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Ralts",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Collect",
+              "text": "Draw a card."
+            },
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Headbutt",
+              "text": "",
+              "damage": "10"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-22",
+      "name": "リオル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "闘"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かそくづき",
+          "text": "次の自分の番、このポケモンは「かそくづき」が使えない。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "22",
+      "printed_number": "022/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "hncl",
+      "national_pokedex_numbers": [
+        447
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Riolu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Accelerating Stab",
+              "text": "During your next turn, this Pokémon can't use Accelerating Stab.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-23",
+      "name": "基本草エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "23",
+      "printed_number": "023/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Grass Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-24",
+      "name": "基本炎エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "24",
+      "printed_number": "024/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Fire Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-25",
+      "name": "基本水エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "25",
+      "printed_number": "025/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Water Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-26",
+      "name": "基本雷エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "26",
+      "printed_number": "026/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Lightning Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-27",
+      "name": "基本超エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "27",
+      "printed_number": "027/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Psychic Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-28",
+      "name": "基本闘エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "28",
+      "printed_number": "028/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Fighting Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-29",
+      "name": "基本悪エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "29",
+      "printed_number": "029/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Darkness Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-30",
+      "name": "基本鋼エネルギー",
+      "supertype": "エネルギー",
+      "number": "30",
+      "printed_number": "030/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Metal Energy",
+          "supertype": "Energy",
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-31",
+      "name": "夜のタンカ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分のトラッシュからポケモンまたは基本エネルギーを1枚選び、相手に見せて、手札に加える。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "31",
+      "printed_number": "031/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Toyste Beach",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Night Stretcher",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-32",
+      "name": "ラティアスex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "210",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "スカイライン",
+          "text": "このポケモンがいるかぎり、自分のたねポケモン全員のにげるためのエネルギーは、すべてなくなる。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "むげんのやいば",
+          "text": "次の自分の番、このポケモンはワザが使えない。",
+          "damage": "200"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "32",
+      "printed_number": "032/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "takuyoa",
+      "national_pokedex_numbers": [
+        380
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Latias ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "ex"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Skyliner",
+              "text": "Your Basic Pokémon in play have no Retreat Cost."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Eon Blade",
+              "text": "During your next turn, this Pokémon can't attack.",
+              "damage": "200"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-33",
+      "name": "Celebration Fanfare",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "number": "33",
+      "printed_number": "033/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Yuu Nishida",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Celebration Fanfare",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-34",
+      "name": "シェイミ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "はなのカーテン",
+          "text": "このポケモンがいるかぎり、自分のベンチポケモン（「ルールを持つポケモン」をのぞく）全員は、相手のワザのダメージを受けない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "けとばす",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "printed_number": "034/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "tono",
+      "national_pokedex_numbers": [
+        492
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Shaymin",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Flower Curtain",
+              "text": "Prevent all damage done to your Benched Pokémon that don't have a Rule Box by attacks from your opponent's Pokémon. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)"
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Smash Kick",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-35",
+      "name": "基本草エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "35",
+      "printed_number": "035/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Grass Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-36",
+      "name": "基本炎エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "36",
+      "printed_number": "036/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Fire Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-37",
+      "name": "基本水エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "37",
+      "printed_number": "037/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Water Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-38",
+      "name": "基本雷エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "38",
+      "printed_number": "038/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Lightning Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-39",
+      "name": "基本超エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "39",
+      "printed_number": "039/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Psychic Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-40",
+      "name": "基本闘エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "40",
+      "printed_number": "040/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Fighting Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-41",
+      "name": "基本悪エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "41",
+      "printed_number": "041/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Darkness Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-42",
+      "name": "基本鋼エネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "たね"
+      ],
+      "number": "42",
+      "printed_number": "042/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Metal Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Basic"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-43",
+      "name": "ロケット団のミュウツーex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "280",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "パワーセーバー",
+          "text": "自分の場の「ロケット団のポケモン」が4匹以上のときにしか、このポケモンはワザが使えない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "イレイザーボール",
+          "text": "のぞむなら、自分のベンチポケモンについているエネルギーを2枚までトラッシュし、その枚数×60ダメージ追加。",
+          "damage": "160+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "43",
+      "printed_number": "043/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Team Rocket's Mewtwo ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "ex"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Power Saver",
+              "text": "This Pokémon can't attack unless you have 4 or more Team Rocket's Pokémon in play."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Erasure Ball",
+              "text": "You may discard up to 2 Energy from your Benched Pokémon. This attack does 60 more damage for each card you discarded in this way.",
+              "damage": "160+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mp_ja-44",
+      "name": "ブレイブバングル",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "このカードをつけているポケモン（「ルールを持つポケモン」をのぞく）が使うワザの、相手のバトル場の「ポケモンex」へのダメージは「+30」される。"
+      ],
+      "number": "44",
+      "printed_number": "044/M-P",
+      "rarity": "プロモ",
+      "rarity_code": "PROMO",
+      "artist": "Toyste Beach",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mp_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/mp_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/mp_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "mp_ja",
+        "name": "Mega Evolution Promos",
+        "series": "Mega Evolution",
+        "code": "PROMO",
+        "total": 44,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Brave Bangle",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "Mega Evolution Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 44
+}

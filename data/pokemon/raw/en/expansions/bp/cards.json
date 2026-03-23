@@ -1,0 +1,937 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "bp-1",
+      "name": "Electabuzz",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thundershock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thunderpunch",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Electabuzz does 10 damage to itself.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "1",
+      "printed_number": "1",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        125
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "Normally found near power plants, it can wander away and cause major blackouts in cities.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-1/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-1/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bp-2",
+      "name": "Hitmonchan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Jab",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Special Punch",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "2",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        107
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "While seeming to do nothing, it fires punches in lightning-fast volleys that are impossible to see.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-2/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-2/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bp-3",
+      "name": "Professor Elm",
+      "supertype": "Trainer",
+      "rules": [
+        "Shuffle your hand into your deck. Then, draw 7 cards. You can't play any more Trainer cards this turn."
+      ],
+      "number": "3",
+      "printed_number": "3",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-3/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-3/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bp-4",
+      "name": "Rocket's Scizor",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Focus",
+          "text": "During your next turn, Rocket's Scizor's Agility attack's damage is doubled."
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Agility",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rocket's Scizor.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "printed_number": "4",
+      "rarity": "Promo",
+      "artist": "K Hoshiba",
+      "national_pokedex_numbers": [
+        212
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-4/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-4/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bp-5",
+      "name": "Rocket's Sneasel",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Entrap",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Continuous Scratch",
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Psychic",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "5",
+      "rarity": "Promo",
+      "artist": "Katsura Tabata",
+      "national_pokedex_numbers": [
+        215
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-5/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-5/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bp-6",
+      "name": "Dark Ivysaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "evolves_from": [
+        "Bulbasaur"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Vine Pull",
+          "text": "Once during your turn when Dark Ivysaur retreats, choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fury Strikes",
+          "text": "Your opponent puts 3 markers onto his or her Pokémon (divided as he or she chooses). (More than 1 marker can be put on the same Pokémon.) Then, this attack does 10 damage to each Pokémon for each marker on it. Don't apply Weakness and Resistance. Remove the markers at the end of the turn."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "6",
+      "printed_number": "6",
+      "rarity": "Promo",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        2
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-6/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-6/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bp-7",
+      "name": "Dark Venusaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Dark Ivysaur"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Horrid Pollen",
+          "text": "Flip 2 coins. If 1 is heads, the Defending Pokémon is now Asleep and Poisoned. If both are heads, the Defending Pokémon is now Confused and Poisoned. If both are tails, the Defending Pokémon is now Paralyzed and Poisoned.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "7",
+      "printed_number": "7",
+      "rarity": "Promo",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        3
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-7/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-7/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bp-8",
+      "name": "Rocket's Mewtwo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Juxtapose",
+          "text": "Flip a coin. If heads, switch the number of damage counters on Rocket's Mewtwo with the number of damage counters on the Defending Pokémon (even if it would Knock Out either Pokémon). (It's okay if 1 of the Pokémon has no damage counters on it.)"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hypnoblast",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Psyburn",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "8",
+      "rarity": "Promo",
+      "artist": "Shin-ichi Yoshida",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-8/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-8/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "bp-9",
+      "name": "Rocket's Hitmonchan",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Crosscounter",
+          "text": "If an attack does damage to Rocket's Hitmonchan during your opponent's next turn (even if Rocket's Hitmonchan is Knocked Out), flip a coin. If heads, Rocket's Hitmonchan attacks your opponent's Active Pokémon for double that amount of damage. (If Rocket's Hitmonchan takes 20 damage, it does 40 damage to that Pokémon.)"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Magnum Punch",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        107
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/bp-9/small",
+          "medium": "https://images.scrydex.com/pokemon/bp-9/medium",
+          "large": "https://images.scrydex.com/pokemon/bp-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "bp",
+        "name": "Best of Game",
+        "series": "Other",
+        "code": "BP",
+        "total": 9,
+        "printed_total": 9,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2002/12/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 9
+}

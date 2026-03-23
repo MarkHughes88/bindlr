@@ -1,0 +1,216 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "miscpj_ja-1",
+      "name": "Timeless Celebi",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/J",
+      "rarity": "プロモ",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        251
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/miscpj_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/miscpj_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/miscpj_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "miscpj_ja",
+        "name": "J Promos",
+        "series": "Other",
+        "total": 2,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Timeless Celebi",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "J Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "miscpj_ja-2",
+      "name": "Latias and Latios",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "120",
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "2",
+      "printed_number": "002/J",
+      "rarity": "プロモ",
+      "national_pokedex_numbers": [
+        380,
+        381
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/miscpj_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/miscpj_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/miscpj_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "miscpj_ja",
+        "name": "J Promos",
+        "series": "Other",
+        "total": 2,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2001/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Latias and Latios",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "rarity": "Promo",
+          "expansion": {
+            "name": "J Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 2
+}

@@ -1,0 +1,6062 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "ptp_ja-1",
+      "name": "マスキッパG",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "パワーウィップ",
+          "text": "相手のポケモン1匹に、自分のエネルギー×10ダメージ。"
+        },
+        {
+          "cost": [
+            "草",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "くさむすび",
+          "text": "相手のにげるエネルギー×10ダメージを追加。",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "水",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/DPt-P",
+      "artist": "Makoto Imai",
+      "national_pokedex_numbers": [
+        455
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Carnivine G",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Power Whip",
+              "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage for each Energy attached to Carnivine G to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Grass Knot",
+              "text": "Does 20 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost).",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Water",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-2",
+      "name": "マナフィ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ダイビング",
+          "text": "自分の山札のカードを上から7枚見て、その中のカードを1枚、手札に加える。その後、残りのカードを山札にもどし、山札を切る。"
+        },
+        {
+          "cost": [
+            "水"
+          ],
+          "converted_energy_cost": 1,
+          "name": "みずのひかり",
+          "text": "相手のポケモン1匹に、20ダメージ。その後、そのポケモンに与えたダメージぶんのダメージカウンターを、自分からとる。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/DPt-P",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        490
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "うまれたときから そなわっている ふしぎな ちからを つかうと どんな ポケモンとも こころが かよいあう。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Manaphy",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Dive",
+              "text": "Look at the top 7 cards of your deck, choose 1 of them, and put it into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Water"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Water Glow",
+              "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Remove from Manaphy the number of damage counters equal to the damage you did to that Pokémon."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "+20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-3",
+      "name": "ロトム",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Type Shift",
+          "text": "Once during your turn (before your attack), you may use this power. Rotom's type is Psychic until the end of your turn."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ポルターガイスト",
+          "text": "相手の手札を見て、その中の「トレーナーのカード」の枚数×10ダメージを追加。",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/DPt-P",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        479
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "でんきのような からだは いちぶの きかいに はいりこむことが できる。 そして そのからだで いたずらする。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Rotom",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Type Shift",
+              "text": "Once during your turn (before your attack), you may use this power. Rotom's type is Psychic until the end of your turn."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Poltergeist",
+              "text": "Look at your opponent's hand. This attack does 30 damage plus 10 more damage for each Trainer, Supporter, and Stadium card in your opponent's hand.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-4",
+      "name": "ダイノーズG",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "鋼",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ノーズユニット",
+          "text": "ポケボディーを持つ相手のポケモン全員に、それぞれ20ダメージ。"
+        },
+        {
+          "cost": [
+            "鋼",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "すごいはないき",
+          "text": "次の自分の番の終わりまで、自分のにげるエネルギーは、すべてなくなる。",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "4",
+      "printed_number": "004/DPt-P",
+      "artist": "Ryota Saito",
+      "national_pokedex_numbers": [
+        476
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Probopass G",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Nose Unit",
+              "text": "This attack does 20 damage to each of your opponent's Pokémon that has any Poké-Bodies. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+              "cost": [
+                "Metal",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Loud Snort",
+              "text": "Probopass G's Retreat Cost is 0 until the end of your next turn.",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-5",
+      "name": "ダークライG",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Eerie Aura",
+          "text": "Put 1 damage counter on each of your opponent's Pokémon that remains Asleep between turns."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ダークスリープ",
+          "text": "ダメージを与えるとき、すでに相手にダメージカウンターがのっているなら、相手をねむりにする。",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "5",
+      "printed_number": "005/DPt-P",
+      "artist": "Makoto Imai",
+      "national_pokedex_numbers": [
+        491
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Darkrai G",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Eerie Aura",
+              "text": "Put 1 damage counter on each of your opponent's Pokémon that remains Asleep between turns."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Darkness Sleep",
+              "text": "If the Defending Pokémon already has any damage counters on it, that Pokémon is now Asleep.",
+              "damage": "50"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-6",
+      "name": "ドータクンG",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "鋼"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Galactic Switch",
+          "text": "Once during your turn (before your attack), you may move an Energy card attached to one of your Pokémon SP to another of your Pokémon. Then, put 2 damage counters on Bronzong G. This power can't be used if Bronzong G is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "鋼",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ねんどうは",
+          "text": "ダメージカウンターがのっている相手のベンチポケモン全員にも、それぞれ10ダメージ。",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "炎",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "6",
+      "printed_number": "006/DPt-P",
+      "artist": "Makoto Imai",
+      "national_pokedex_numbers": [
+        437
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Bronzong G",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Metal"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Galactic Switch",
+              "text": "Once during your turn (before your attack), you may move an Energy card attached to one of your Pokémon SP to another of your Pokémon. Then, put 2 damage counters on Bronzong G. This power can't be used if Bronzong G is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Metal",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Psychic Pulse",
+              "text": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fire",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-7",
+      "name": "アカギの策略",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の山札から、「サポーター」と「基本エネルギー」と「名前に『ギンガ団の発明』とつくトレーナー」を、それぞれ1枚ずつ選び、相手プレイヤーに見せてから、手札に加える。その後、山札を切る。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "7",
+      "printed_number": "007/DPt-P",
+      "artist": "Ken Sugimori",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Cyrus's Conspiracy",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-8",
+      "name": "ドクロッグG",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Leap Away",
+          "text": "Once during your turn (before your attack), if Toxicroak G is your Active Pokémon, you may flip a coin. If heads, return Toxicroak G and all cards attached to it to your hand. This Power can't be used if Toxicroak G is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ポイズンリベンジ",
+          "text": "前の相手の番に、相手のワザのダメージで、自分のポケモンがきぜつしていたなら、40ダメージを追加し、相手をどくにする。",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "8",
+      "printed_number": "008/DPt-P",
+      "artist": "Ryota Saito",
+      "national_pokedex_numbers": [
+        454
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Toxicroak G",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Leap Away",
+              "text": "Once during your turn (before your attack), if Toxicroak G is your Active Pokémon, you may flip a coin. If heads, return Toxicroak G and all cards attached to it to your hand. This Power can't be used if Toxicroak G is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Poison Revenge",
+              "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Poisoned.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-9",
+      "name": "ゼニガメ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "水"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "おみやげえらび",
+          "text": "自分の山札のカードを上から2枚見て、どちらか1枚を手札に加える。その後、残りの1枚を、山札の一番下にもどす。"
+        },
+        {
+          "cost": [
+            "水",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "なみのり",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/DPt-P",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        7
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Squirtle",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Water"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Selecting Souvenirs",
+              "text": "Look at the top 2 cards of your deck, choose 1 of them, and put it into your hand. Put the other card on the bottom of your deck."
+            },
+            {
+              "cost": [
+                "Water",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Surf",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "+10"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-10",
+      "name": "マルマインG",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "雷"
+          ],
+          "converted_energy_cost": 1,
+          "name": "すてみボム",
+          "text": "相手のポケモン全員に、それぞれ20ダメージ。自分にも100ダメージ。"
+        },
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "エネリフレクト",
+          "text": "自分のエネルギーを1個、自分のベンチポケモンにつけ替える。（自分のベンチポケモンがいないなら、この効果はなくなる。）",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/DPt-P",
+      "artist": "Yusuke Ishikawa",
+      "national_pokedex_numbers": [
+        101
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Electrode G",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Lightning"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Reckless Bomb",
+              "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Electrode G does 100 damage to itself."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Reflect Energy",
+              "text": "Move an Energy card attached to Electrode G to 1 of your Benched Pokémon.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-11",
+      "name": "ムウマージGL［ジムリーダー］",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "レベルアップ"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "ムウマージGL［ジムリーダー］"
+      ],
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Magical Return",
+          "text": "As often as you like during your turn (before your attack), you may return a Pokémon Tool or Technical Machine card attached to your Pokémon to your hand. This power can't be used if Mismagius GL is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "やみのまじない",
+          "text": "自分の手札の枚数ぶんのダメージカウンターを、相手にのせる。このワザでのせられるダメージカウンターは、８個まで。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/DPt-P",
+      "artist": "Kent Kanetsuna",
+      "national_pokedex_numbers": [
+        429
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Mismagius GL LV.X",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Level-Up"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Magical Return",
+              "text": "As often as you like during your turn (before your attack), you may return a Pokémon Tool or Technical Machine card attached to your Pokémon to your hand. This power can't be used if Mismagius GL is affected by a Special Condition."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Darkness Magic",
+              "text": "Count the number of cards in your hand. Put that many damage counters on the Defending Pokémon. You can't put more than 8 damage counters in this way."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Mismagius GL"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-12",
+      "name": "フーディン四[してんのう]",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "超"
+          ],
+          "converted_energy_cost": 1,
+          "name": "じこさいせい",
+          "text": "自分のPsychicエネルギーを1個トラッシュし、自分のダメージカウンターを4個とる。"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ふしぎなビーム",
+          "text": "コインを1回投げオモテなら、相手のエネルギーを1個トラッシュ。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/DPt-P",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        65
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Alakazam E4",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Recover",
+              "text": "Discard a Psychic Energy attached to Alakazam E4 and remove 4 damage counters from Alakazam E4."
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Mysterious Beam",
+              "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-13",
+      "name": "ギンガ団の発明G-109 SPレーダー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の手札を1枚、山札にもどす。<br> 自分の山札のSPポケモンを1枚、相手プレイヤーに見せてから、手札に加える。その後、山札を切る。<br> （自分の手札がこのカード1枚だけなら、このカードは使えない。）",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "13",
+      "printed_number": "013/DPt-P",
+      "artist": "Kent Kanetsuna",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Team Galactic's Invention G-109 SP Radar",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-14",
+      "name": "レントラーGL［ジムリーダー］",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かみつく",
+          "text": "",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "トラッシュボルト",
+          "text": "自分の手札のエネルギーを1枚トラッシュ。（トラッシュできないなら、このワザは失敗。）",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "014/DPt-P",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        405
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Luxray GL",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Bite",
+              "text": "",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Trash Bolt",
+              "text": "Discard an Energy card from your hand. (If you can't discard a card from your hand, this attack does nothing.)",
+              "damage": "70"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-15",
+      "name": "ルカリオ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "闘"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ルカリオGX"
+      ],
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Roger",
+          "text": "Whenever a player responds to their opponent to express agreement during a game, that player places his or her hand on his or her chest and answers \"Roger\"."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "闘",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かわらわり",
+          "text": "このワザは、相手の抵抗力・すべての効果に関係なく、ダメージを与える。",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "闘",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "フィーバーステップ",
+          "text": "コインを１回投げオモテなら、相手のベンチポケモン全員にも、それぞれ10ダメージ。ウラなら、自分のベンチポケモン全員にも、それぞれ10ダメージ。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "015/DPt-P",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Lucario",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Fighting"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Roger",
+              "text": "Whenever a player responds to their opponent to express agreement during a game, that player places his or her hand on his or her chest and answers \"Roger\"."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fighting",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Brick Break",
+              "text": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+              "damage": "30"
+            },
+            {
+              "cost": [
+                "Fighting",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Fever Step",
+              "text": "Flip a coin. this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "+20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Riolu"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-16",
+      "name": "ピカチュウ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "じゅうでん",
+          "text": "コインを1回投げオモテなら、自分の山札のLightningエネルギーを1枚、自分につける。その後、山札を切る。"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "10まんボルト",
+          "text": "自分のエネルギーをすべてトラッシュ。",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "016/DPt-P",
+      "artist": "Kanako Eo",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "よわった なかまの ピカチュウに でんきをながし ショックをあたえて げんきを わけることも ある。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Pikachu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Recharge",
+              "text": "Flip a coin. If heads, search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Thunderbolt",
+              "text": "Discard all Energy attached to Pikachu.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "+10"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-17",
+      "name": "フワライドFB[フロンティアブレーン]",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Pump Up",
+          "text": "If your opponent has 3 or less Prize cards left, Drifblim FB gets +40 HP."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "シャドーボール",
+          "text": "相手のベンチポケモン1匹に、40ダメージ。このワザのダメージは、相手のベンチポケモンの弱点・抵抗力の影響を受ける。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "無",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "17",
+      "printed_number": "017/DPt-P",
+      "artist": "Lee HyunJung",
+      "national_pokedex_numbers": [
+        426
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Drifblim FB",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Pump Up",
+              "text": "If your opponent has 3 or less Prize cards left, Drifblim FB gets +40 HP."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Shadow Ball",
+              "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 40 damage to that Pokémon. Apply Weakness and Resistance for this attack."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Colorless",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-18",
+      "name": "カイリューFB[フロンティアブレーン]",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "マッハブロー",
+          "text": "相手がSPポケモンなら、このワザのダメージは「80」になる。",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "きょだいなしっぽ",
+          "text": "コインを1回投げウラなら、このワザは失敗。",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "無",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "18",
+      "printed_number": "018/DPt-P",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        149
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Dragonite FB",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Mach Blow",
+              "text": "If the Defending Pokémon is a Pokémon SP, this attack's base damage is 80 instead of 20.",
+              "damage": "20"
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Giant Tail",
+              "text": "Flip a coin. If tails, this attack does nothing.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Colorless",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-19",
+      "name": "バトルタワー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "rules": [
+        "おたがいのプレイヤーが、手札から「ポケモンのカード」を出してポケモンをレベルアップさせるたび、そのポケモンのダメージカウンターを4個とる。",
+        "スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。"
+      ],
+      "number": "19",
+      "printed_number": "019/DPt-P",
+      "artist": "Wataru Kawahara",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Battle Tower",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-20",
+      "name": "SPエネルギー",
+      "supertype": "エネルギー",
+      "number": "20",
+      "printed_number": "020/DPt-P",
+      "artist": "Kent Kanetsuna",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "SP Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-21",
+      "name": "レインボーエネルギー",
+      "supertype": "エネルギー",
+      "number": "21",
+      "printed_number": "021/DPt-P",
+      "artist": "Takumi Akabane",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Rainbow Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-22",
+      "name": "基本草エネルギー",
+      "supertype": "エネルギー",
+      "number": "22",
+      "printed_number": "022/DPt-P",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Grass Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-23",
+      "name": "基本炎エネルギー",
+      "supertype": "エネルギー",
+      "number": "23",
+      "printed_number": "023/DPt-P",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Fire Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-24",
+      "name": "基本水エネルギー",
+      "supertype": "エネルギー",
+      "number": "24",
+      "printed_number": "024/DPt-P",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Water Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-25",
+      "name": "基本雷エネルギー",
+      "supertype": "エネルギー",
+      "number": "25",
+      "printed_number": "025/DPt-P",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Lightning Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-26",
+      "name": "基本超エネルギー",
+      "supertype": "エネルギー",
+      "number": "26",
+      "printed_number": "026/DPt-P",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Psychic Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-27",
+      "name": "基本闘エネルギー",
+      "supertype": "エネルギー",
+      "number": "27",
+      "printed_number": "027/DPt-P",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Fighting Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-28",
+      "name": "基本悪エネルギー",
+      "supertype": "エネルギー",
+      "number": "28",
+      "printed_number": "028/DPt-P",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Darkness Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-29",
+      "name": "基本鋼エネルギー",
+      "supertype": "エネルギー",
+      "number": "29",
+      "printed_number": "029/DPt-P",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Metal Energy",
+          "supertype": "Energy",
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-30",
+      "name": "フシギダネ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "草"
+          ],
+          "converted_energy_cost": 1,
+          "name": "プレゼント",
+          "text": "コインを1回投げオモテなら、自分の山札の好きなカードを1枚、手札に加える。その後、山札を切る。"
+        },
+        {
+          "cost": [
+            "草",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "はっぱカッター",
+          "text": "",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "030/DPt-P",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        1
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Bulbasaur",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Grass"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Present",
+              "text": "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Grass",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Razor Leaf",
+              "text": "",
+              "damage": "40"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "+10"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-31",
+      "name": "勝利のメダル",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "コインを2回投げる。<br> オモテが1回なら、自分の山札からカードを1枚引く。<br> すべてオモテなら、自分の山札の好きなカードを1枚、手札に加える。その後、山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "31",
+      "printed_number": "031/DPt-P",
+      "artist": "Yusuke Ishikawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Victory Medal",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-32",
+      "name": "ペラップ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "アンコール",
+          "text": "相手のワザを1つ選ぶ。次の相手の番、その相手は、そのワザしか使えない。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "みだれづき",
+          "text": "コインを3回投げ、オモテ×20ダメージ。",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "32",
+      "printed_number": "032/DPt-P",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        441
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "ベロは にんげんのものに そっくり。 そのため にんげんの はなすことばを じょうずに まねることが できる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Chatot",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Encore",
+              "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can use only that attack during your opponent's next turn."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Fury Attack",
+              "text": "Flip 3 coins. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "+10"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-33",
+      "name": "ワンダー・プラチナ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "ウラになっている自分のサイドのオモテをすべて見て、もとにもどす。<br> のぞむなら、その中のエネルギーを1枚、相手プレイヤーに見せてから、手札に加えてよい。<br> 手札に加えた場合、このカードはトラッシュせず、オモテにして自分のサイドにおく。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "33",
+      "printed_number": "033/DPt-P",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Wonder Platinum",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-34",
+      "name": "ポニータ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "かえん",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "printed_number": "034/DPt-P",
+      "artist": "Kanako Eo",
+      "national_pokedex_numbers": [
+        77
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Ponyta",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "+10"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-35",
+      "name": "ポリゴンZG",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "SP"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Dowsing Code",
+          "text": "Once during your turn, when you put Porygon-Z G from your hand onto your Bench, you may search your discard pile for up to 2 Pokémon Tool cards, show them to your opponent, and shuffle them into your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "おそいかかる",
+          "text": "コインを1回投げオモテなら、40ダメージを追加。",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "35",
+      "printed_number": "035/DPt-P",
+      "artist": "Nobuyuki Fujimoto",
+      "national_pokedex_numbers": [
+        474
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Porygon-Z G",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "SP"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Dowsing Code",
+              "text": "Once during your turn, when you put Porygon-Z G from your hand onto your Bench, you may search your discard pile for up to 2 Pokémon Tool cards, show them to your opponent, and shuffle them into your deck."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Ambush",
+              "text": "Flip a coin. If heads, this attack does 20 damage plus 40 more damage.",
+              "damage": "20+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-36",
+      "name": "勝利のメダル",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "コインを2回投げる。<br> オモテが1回なら、自分の山札からカードを1枚引く。<br> すべてオモテなら、自分の山札の好きなカードを1枚、手札に加える。その後、山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "36",
+      "printed_number": "036/DPt-P",
+      "artist": "Yusuke Ishikawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Victory Medal",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-37",
+      "name": "はじまりの扉",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札の「アルセウス」を1枚、相手プレイヤーに見せてから、手札に加える。その後、山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "37",
+      "printed_number": "037/DPt-P",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Beginning Door",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-38",
+      "name": "ピチュー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "ポケパワー",
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            null
+          ],
+          "converted_energy_cost": 1,
+          "name": "おさんぽ",
+          "text": "自分の山札のカードを上から5枚見て、その中のカードを1枚、手札に加える。その後、残りのカードを山札にもどし、山札を切る。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "+10"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "printed_number": "038/DPt-P",
+      "artist": "Kanako Eo",
+      "national_pokedex_numbers": [
+        172
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Pichu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Power",
+              "name": "Baby Evolution",
+              "text": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                null
+              ],
+              "converted_energy_cost": 1,
+              "name": "Baby Steps",
+              "text": "Look at the top 5 cards of your deck, choose 1 of them, and put it into your hand. Shuffle the other cards back into your deck."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "+10"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-39",
+      "name": "ガーメイル",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ミノムッチ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            null
+          ],
+          "converted_energy_cost": 1,
+          "name": "ミノまつり",
+          "text": "自分の山札から、「ミノムッチ」または「ミノマダム」を合計3枚まで選び、相手プレイヤーに見せてから、手札に加える。その後、山札を切る。"
+        },
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "エネアシスト",
+          "text": "自分のトラッシュの基本エネルギーを1枚、自分のベンチポケモンにつける。",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "+20"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-20"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "39",
+      "printed_number": "039/DPt-P",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        414
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Mothim",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                null
+              ],
+              "converted_energy_cost": 1,
+              "name": "Cloak Party",
+              "text": "Search your deck for up to 3 in any combination of Burmy and Wormadam, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Energy Assist",
+              "text": "Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokémon.",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "+20"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-20"
+            }
+          ],
+          "evolves_from": [
+            "Burmy"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-40",
+      "name": "アルセウス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            null
+          ],
+          "converted_energy_cost": 1,
+          "name": "はもんのうねり",
+          "text": "自分の場に「アルセウス」が6匹いて、それらがそれぞれちがうタイプなら、自分の山札の基本エネルギーを6枚まで選び、自分のポケモンそれぞれに1枚ずつつける。その後、山札を切る。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "てんのやり",
+          "text": "相手のポケモン1匹に、80ダメージ。自分のエネルギーをすべてはがしてロストゾーンにおく。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "printed_number": "040/DPt-P",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "なにも ない ばしょに あった タマゴのなかから すがたを あらわし せかいを うみだしたと されている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Arceus",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                null
+              ],
+              "converted_energy_cost": 1,
+              "name": "Ripple Swell",
+              "text": "If you have 6 Arceus in play and each of them is a different type, search your deck for up to 6 basic Energy cards. Attach each of those Energy cards to a different Pokémon you have in play. Shuffle your deck afterward."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Sky Spear",
+              "text": "Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon). Remove all Energy cards attached to Arceus and put them in the Lost Zone."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-41",
+      "name": "アルセウス",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "さばきのつぶて",
+          "text": "自分のエネルギーをすべてトラッシュし、相手のベンチポケモン全員にも、それぞれ10ダメージ。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "41",
+      "printed_number": "041/DPt-P",
+      "artist": "Kunihiko Yuyama",
+      "national_pokedex_numbers": [
+        493
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "なにも ない ばしょに あった タマゴのなかから すがたを あらわし せかいを うみだしたと されている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Arceus",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Judgment",
+              "text": "Discard all Energy cards attached to Arceus and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-42",
+      "name": "ギザみみピチューM",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ともだちパーティー",
+          "text": "自分の山札から、「名前にMがつくポケモン」を好きなだけ選び、自分のベンチに出す。その後、山札を切る。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "42",
+      "printed_number": "042/DPt-P",
+      "artist": "Gosho Aoyama",
+      "national_pokedex_numbers": [
+        172
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Spiky-eared Pichu",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Friend Party",
+              "text": "Search your deck for as many Pokémon Pokémon M as you like and put them onto your Bench. Shuffle your deck afterward."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-43",
+      "name": "ピカチュウM",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "レベルアップ"
+      ],
+      "types": [
+        "雷"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "ピカチュウM"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "アイアンテール",
+          "text": "ウラが出るまでコインを投げ続け、オモテ×20ダメージ。",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "雷",
+            "雷",
+            "雷",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "ボルテッカー",
+          "text": "自分にも20ダメージ。",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "鋼",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "043/DPt-P",
+      "artist": "2009 Pikachu Project",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Pikachu LV.X",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Level-Up"
+          ],
+          "types": [
+            "Lightning"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Iron Tail",
+              "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+              "damage": "20×"
+            },
+            {
+              "cost": [
+                "Lightning",
+                "Lightning",
+                "Lightning",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Volt Tackle",
+              "text": "Pikachu Pokémon M does 20 damage to itself.",
+              "damage": "100"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Metal",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Pikachu M"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-44",
+      "name": "ミチーナしんでん",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "rules": [
+        "おたがいのプレイヤーは、それぞれ、自分の番ごとに1回、自分の場の「名前にMがつくポケモン」を1匹選んでもよい。その場合、そのポケモンのダメージカウンターを2個とる。",
+        "スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。"
+      ],
+      "number": "44",
+      "printed_number": "044/DPt-P",
+      "artist": "2009 Pikachu Project",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-44/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-44/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 44,
+      "translation": {
+        "en": {
+          "name": "Michina Temple",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-45",
+      "name": "クレセリア",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Lunar Aura",
+          "text": "If you have Darkrai in play, remove 1 damage counter from Cresselia between turns."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "超",
+            "超",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ルナフライト",
+          "text": "このワザのダメージは、自分のダメージカウンター×10ダメージぶん、小さくなる。",
+          "damage": "80-"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "45",
+      "printed_number": "045/DPt-P",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        488
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "みかづきに ちかい よるほど しっぽから のびる オーロラは ながく うつくしくなる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-45/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-45/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 45,
+      "translation": {
+        "en": {
+          "name": "Cresselia",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Lunar Aura",
+              "text": "If you have Darkrai in play, remove 1 damage counter from Cresselia between turns."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Psychic",
+                "Psychic",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Lunar Flight",
+              "text": "Does 80 damage minus 10 damage for each damage counter on Cresselia.",
+              "damage": "80-"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-46",
+      "name": "ダークライ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "90",
+      "abilities": [
+        {
+          "type": "ポケボディ",
+          "name": "Darkness Aura",
+          "text": "If you have Cresselia in play, each of Darkrai's attacks does 20 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "悪",
+            "悪",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "さいみんはどう",
+          "text": "コインを1回投げオモテなら、相手をねむりにする。",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "超",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "46",
+      "printed_number": "046/DPt-P",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        491
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "じぶんを まもるために まわりの ひとや ポケモンに あくむをみせるが ダークライに わるぎは ないのだ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-46/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-46/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 46,
+      "translation": {
+        "en": {
+          "name": "Darkrai",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "abilities": [
+            {
+              "type": "Poké-Body",
+              "name": "Darkness Aura",
+              "text": "If you have Cresselia in play, each of Darkrai's attacks does 20 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Darkness",
+                "Darkness",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Hypnoblast",
+              "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Psychic",
+              "value": "-20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-47",
+      "name": "プリン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "いっしょにおひるね",
+          "text": "自分と相手をねむりにする。"
+        },
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "たまのりアタック",
+          "text": "相手がねむりなら、20ダメージを追加。",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "+10"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "47",
+      "printed_number": "047/DPt-P",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        39
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "つぶらな ひとみが ゆれるとき だれもが ねむくなってしまう こもりうたを うたいはじめる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-47/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-47/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 47,
+      "translation": {
+        "en": {
+          "name": "Jigglypuff",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Sleep Together",
+              "text": "Both Active Pokémon are now Asleep."
+            },
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Balance Ball Attack",
+              "text": "If your opponent's Active Pokémon is Asleep, this attack does 20 more damage.",
+              "damage": "30+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "+10"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-48",
+      "name": "アルティメットゾーン",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "スタジアム"
+      ],
+      "rules": [
+        "おたがいのプレイヤーは、それぞれ、自分の番ごとに何回でも、自分のベンチポケモンのエネルギーを1個選び、自分のバトル場の「アルセウス」につけ替えてよい。",
+        "スタジアムは、自分の番に1枚だけ、バトル場の横に出せる。別の名前のスタジアムが場に出たなら、このカードをトラッシュする。"
+      ],
+      "number": "48",
+      "printed_number": "048/DPt-P",
+      "artist": "Kent Kanetsuna",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-48/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-48/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 48,
+      "translation": {
+        "en": {
+          "name": "Ultimate Zone",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Stadium"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-49",
+      "name": "ミュウツー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "さいみんはどう",
+          "text": "相手をねむりにする。",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "超",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "サイコキネシス",
+          "text": "相手のエネルギー×10ダメージを追加。",
+          "damage": "40+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "超",
+          "value": "+20"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "49",
+      "printed_number": "049/DPt-P",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-49/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-49/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 49,
+      "translation": {
+        "en": {
+          "name": "Mewtwo",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Hypnoblast",
+              "text": "The Defending Pokémon is now Asleep.",
+              "damage": "10"
+            },
+            {
+              "cost": [
+                "Psychic",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Psychic",
+              "text": "Does 40 damage plus 10 more damage for each Energy attached to the Defending Pokémon.",
+              "damage": "40+"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Psychic",
+              "value": "+20"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-50",
+      "name": "ヒードラン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "炎"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "炎"
+          ],
+          "converted_energy_cost": 1,
+          "name": "ねつかそく",
+          "text": "自分のトラッシュのFireエネルギーを2枚まで選び、自分のポケモン一匹につける。"
+        },
+        {
+          "cost": [
+            "炎",
+            "炎",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 4,
+          "name": "かえんほうしゃ",
+          "text": "自分のエネルギーを1個トラッシュ。",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "水",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無",
+        "無",
+        "無"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "50",
+      "printed_number": "050/DPt-P",
+      "artist": "Wataru Kawahara",
+      "national_pokedex_numbers": [
+        485
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "flavor_text": "がんじょうな はがねの からだだが じぶんが はっする こうねつの ため ところどころ とけてしまっている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-50/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-50/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 50,
+      "translation": {
+        "en": {
+          "name": "Heatran",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Fire"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Heat Acceleration",
+              "text": "Search your discard pile for up to 2 Fire Energy cards and attach them to 1 of your Pokémon."
+            },
+            {
+              "cost": [
+                "Fire",
+                "Fire",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 4,
+              "name": "Flamethrower",
+              "text": "Discard 1 Energy card attached to Heatran.",
+              "damage": "80"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Water",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ptp_ja-51",
+      "name": "勝利のメダル",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "コインを2回投げる。<br> オモテが1回なら、自分の山札からカードを1枚引く。<br> すべてオモテなら、自分の山札の好きなカードを1枚、手札に加える。その後、山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "51",
+      "printed_number": "051/DPt-P",
+      "artist": "Yusuke Ishikawa",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ptp_ja-51/small",
+          "medium": "https://images.scrydex.com/pokemon/ptp_ja-51/medium",
+          "large": "https://images.scrydex.com/pokemon/ptp_ja-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "ptp_ja",
+        "name": "Platinum Promos",
+        "series": "Platinum",
+        "total": 51,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2008/10/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 51,
+      "translation": {
+        "en": {
+          "name": "Victory Medal",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "Platinum Promos"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 51
+}

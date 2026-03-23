@@ -1,0 +1,3908 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "np-1",
+      "name": "Kyogre ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Major Flood",
+          "text": "Discard a Water Energy card attached to Kyogre ex. Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "1",
+      "printed_number": "001",
+      "rarity": "Promo",
+      "artist": "Hiromichi Sugiyama",
+      "national_pokedex_numbers": [
+        382
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-1/small",
+          "medium": "https://images.scrydex.com/pokemon/np-1/medium",
+          "large": "https://images.scrydex.com/pokemon/np-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-2",
+      "name": "Groudon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Major Earthquake",
+          "text": "Discard a Fighting Energy card attached to Groudon ex. Does 10 damage to your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "2",
+      "printed_number": "002",
+      "rarity": "Promo",
+      "artist": "Kazuo Yazawa",
+      "national_pokedex_numbers": [
+        383
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-2/small",
+          "medium": "https://images.scrydex.com/pokemon/np-2/medium",
+          "large": "https://images.scrydex.com/pokemon/np-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-3",
+      "name": "Treecko",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tail Slap",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Razor Leaf",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        252
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-3/small",
+          "medium": "https://images.scrydex.com/pokemon/np-3/medium",
+          "large": "https://images.scrydex.com/pokemon/np-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-4",
+      "name": "Grovyle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Treecko"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Poison Breath",
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Swift",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004",
+      "rarity": "Promo",
+      "artist": "Midori Harada",
+      "national_pokedex_numbers": [
+        253
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-4/small",
+          "medium": "https://images.scrydex.com/pokemon/np-4/medium",
+          "large": "https://images.scrydex.com/pokemon/np-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-5",
+      "name": "Mudkip",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        258
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-5/small",
+          "medium": "https://images.scrydex.com/pokemon/np-5/medium",
+          "large": "https://images.scrydex.com/pokemon/np-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-6",
+      "name": "Torchic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fireworks",
+          "text": "Flip a coin. If tails, discard a Fire Energy card attached to Torchic.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        255
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-6/small",
+          "medium": "https://images.scrydex.com/pokemon/np-6/medium",
+          "large": "https://images.scrydex.com/pokemon/np-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-7",
+      "name": "Treecko",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tail Slap",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Razor Leaf",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        252
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-7/small",
+          "medium": "https://images.scrydex.com/pokemon/np-7/medium",
+          "large": "https://images.scrydex.com/pokemon/np-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-8",
+      "name": "Torchic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fireworks",
+          "text": "Flip a coin. If tails, discard a Fire Energy card attached to Torchic.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        255
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-8/small",
+          "medium": "https://images.scrydex.com/pokemon/np-8/medium",
+          "large": "https://images.scrydex.com/pokemon/np-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-9",
+      "name": "Combusken",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Torchic"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flare",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Double Kick",
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads.",
+          "damage": "40×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009",
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        256
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-9/small",
+          "medium": "https://images.scrydex.com/pokemon/np-9/medium",
+          "large": "https://images.scrydex.com/pokemon/np-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "jumbo",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-10",
+      "name": "Mudkip",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        258
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-10/small",
+          "medium": "https://images.scrydex.com/pokemon/np-10/medium",
+          "large": "https://images.scrydex.com/pokemon/np-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-11",
+      "name": "Marshtomp",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "evolves_from": [
+        "Mudkip"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bubble",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slash",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        259
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-11/small",
+          "medium": "https://images.scrydex.com/pokemon/np-11/medium",
+          "large": "https://images.scrydex.com/pokemon/np-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-12",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Agility",
+          "text": "Flip a coin. If heads, prevent all effects of an attack, including damage, done to Pikachu during your opponent's next turn."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Thundershock",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012",
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-12/small",
+          "medium": "https://images.scrydex.com/pokemon/np-12/medium",
+          "large": "https://images.scrydex.com/pokemon/np-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "anniversaryStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-13",
+      "name": "Meowth",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Plunder",
+          "text": "Before doing damage, discard all Trainer cards attached to the Defending Pokémon (before they affect the damage.).",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Scratch",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "13",
+      "printed_number": "013",
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        52
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-13/small",
+          "medium": "https://images.scrydex.com/pokemon/np-13/medium",
+          "large": "https://images.scrydex.com/pokemon/np-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-14",
+      "name": "Latias",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Super Psy",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Searing Flame",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "014",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        380
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-14/small",
+          "medium": "https://images.scrydex.com/pokemon/np-14/medium",
+          "large": "https://images.scrydex.com/pokemon/np-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-15",
+      "name": "Latios",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Super Psy",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Psychic",
+            "Lightning"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Freeze Dry",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "15",
+      "printed_number": "015",
+      "rarity": "Promo",
+      "artist": "Ken Sugimori",
+      "national_pokedex_numbers": [
+        381
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-15/small",
+          "medium": "https://images.scrydex.com/pokemon/np-15/medium",
+          "large": "https://images.scrydex.com/pokemon/np-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-16",
+      "name": "Treecko",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sporadic Sponging",
+          "text": "Flip a coin. If heads, remove 1 damage counter from Treecko.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "16",
+      "printed_number": "016",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        252
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-16/small",
+          "medium": "https://images.scrydex.com/pokemon/np-16/medium",
+          "large": "https://images.scrydex.com/pokemon/np-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-17",
+      "name": "Torchic",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ember",
+          "text": "Discard a Fire Energy card attached to Torchic.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "017",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        255
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-17/small",
+          "medium": "https://images.scrydex.com/pokemon/np-17/medium",
+          "large": "https://images.scrydex.com/pokemon/np-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-18",
+      "name": "Mudkip",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Surf",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Whirlpool",
+          "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        258
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-18/small",
+          "medium": "https://images.scrydex.com/pokemon/np-18/medium",
+          "large": "https://images.scrydex.com/pokemon/np-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-19",
+      "name": "Whismur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Supersonic",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pound",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "19",
+      "printed_number": "019",
+      "rarity": "Promo",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        293
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-19/small",
+          "medium": "https://images.scrydex.com/pokemon/np-19/medium",
+          "large": "https://images.scrydex.com/pokemon/np-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-20",
+      "name": "Ludicolo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Lombre"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Rain Dish",
+          "text": "At any time between turns, remove 1 damage counter from Ludicolo."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Fury Swipes",
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads.",
+          "damage": "30×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "20",
+      "printed_number": "020",
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        272
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-20/small",
+          "medium": "https://images.scrydex.com/pokemon/np-20/medium",
+          "large": "https://images.scrydex.com/pokemon/np-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-21",
+      "name": "Jirachi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "The Third Eye",
+          "text": "Discard an Energy card attached to Jirachi and draw 3 cards."
+        },
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psywave",
+          "text": "Does 10 damage times the amount of Energy attached to the Defending Pokémon.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "21",
+      "printed_number": "021",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        385
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-21/small",
+          "medium": "https://images.scrydex.com/pokemon/np-21/medium",
+          "large": "https://images.scrydex.com/pokemon/np-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-22",
+      "name": "Beldum",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "Poké-Power",
+          "name": "Magnetic Call",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, search your deck for a Metal Basic Pokémon and put it onto your Bench. Shuffle your deck afterward. This power can't be used if Beldum is affected by a Special Condition."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Metal Charge",
+          "text": "Put 1 damage counter on Beldum.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "22",
+      "printed_number": "022",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        374
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-22/small",
+          "medium": "https://images.scrydex.com/pokemon/np-22/medium",
+          "large": "https://images.scrydex.com/pokemon/np-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-23",
+      "name": "Metang",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Beldum"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Metal Load",
+          "text": "Search your discard pile for a Metal Energy card and attach it to Metang."
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Metal Claw",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "23",
+      "printed_number": "023",
+      "rarity": "Promo",
+      "artist": "Mitsuhiro Arita",
+      "national_pokedex_numbers": [
+        375
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-23/small",
+          "medium": "https://images.scrydex.com/pokemon/np-23/medium",
+          "large": "https://images.scrydex.com/pokemon/np-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-24",
+      "name": "Chimecho",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Resonate",
+          "text": "Your opponent switches each Defending Pokémon with his or her Benched Pokémon. If your opponent has only 1 Benched Pokémon, you choose the Defending Pokémon to switch."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Healing Sound",
+          "text": "Remove 3 damage counters from each of your Active Pokémon. Each Defending Pokémon is now Asleep."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "24",
+      "printed_number": "024",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        358
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-24/small",
+          "medium": "https://images.scrydex.com/pokemon/np-24/medium",
+          "large": "https://images.scrydex.com/pokemon/np-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-25",
+      "name": "Flygon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Vibrava"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Sand Pit",
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Dragonbreath",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Lightning",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "25",
+      "printed_number": "025",
+      "rarity": "Promo",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        330
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-25/small",
+          "medium": "https://images.scrydex.com/pokemon/np-25/medium",
+          "large": "https://images.scrydex.com/pokemon/np-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "winnerStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-26",
+      "name": "Tropical Wind",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+      ],
+      "number": "26",
+      "printed_number": "026",
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-26/small",
+          "medium": "https://images.scrydex.com/pokemon/np-26/medium",
+          "large": "https://images.scrydex.com/pokemon/np-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-27",
+      "name": "Tropical Tidal Wave",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Flip a coin. If heads, discard all Trainer cards your opponent has in play. If tails, discard all Trainer (excluding Supporter cards) you have in play."
+      ],
+      "number": "27",
+      "printed_number": "027",
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-27/small",
+          "medium": "https://images.scrydex.com/pokemon/np-27/medium",
+          "large": "https://images.scrydex.com/pokemon/np-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-28",
+      "name": "Championship Arena",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you can't play this card.",
+        "At the end of each player's turn, if that player has 8 or more cards in his or her hand, that player discards a number of cards until that player has 7 cards left in his or her hand."
+      ],
+      "number": "28",
+      "printed_number": "028",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-28/small",
+          "medium": "https://images.scrydex.com/pokemon/np-28/medium",
+          "large": "https://images.scrydex.com/pokemon/np-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-29",
+      "name": "Celebi",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Leaf Slice",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "printed_number": "029",
+      "rarity": "Promo",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        251
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-29/small",
+          "medium": "https://images.scrydex.com/pokemon/np-29/medium",
+          "large": "https://images.scrydex.com/pokemon/np-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-30",
+      "name": "Suicune",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Pure Body",
+          "text": "Whenever you attach a Water Energy card from your hand to Suicune, discard an Energy card attached to Suicune. (You can't attach a Water Energy card from your hand if Suicune has no Energy cards attached.)"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Hypno Wave",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "30",
+      "printed_number": "030",
+      "rarity": "Promo",
+      "artist": "Atsuko Nishida",
+      "national_pokedex_numbers": [
+        245
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-30/small",
+          "medium": "https://images.scrydex.com/pokemon/np-30/medium",
+          "large": "https://images.scrydex.com/pokemon/np-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-31",
+      "name": "Moltres ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Synchronized Lift",
+          "text": "As long as you have Articuno ex and Zapdos ex in play, the Retreat Cost for Moltres ex is 0."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flame Gift",
+          "text": "You may move a Fire Energy card attached to Moltres ex to 1 of your Pokémon.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Scorching Wing",
+          "text": "Discard all Fire Energy attached to Moltres ex.",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "31",
+      "printed_number": "031",
+      "rarity": "Promo",
+      "artist": "Ken Ikuji",
+      "national_pokedex_numbers": [
+        146
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-31/small",
+          "medium": "https://images.scrydex.com/pokemon/np-31/medium",
+          "large": "https://images.scrydex.com/pokemon/np-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-32",
+      "name": "Articuno ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Synchronized Lift",
+          "text": "As long as you have Zapdos ex and Moltres ex in play, the Retreat Cost for Articuno ex is 0."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ice Gift",
+          "text": "You may move a Water Energy attached to Articuno ex to 1 of your Pokémon.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Freezing Wing",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "32",
+      "printed_number": "032",
+      "rarity": "Promo",
+      "artist": "Nakaoka",
+      "national_pokedex_numbers": [
+        144
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-32/small",
+          "medium": "https://images.scrydex.com/pokemon/np-32/medium",
+          "large": "https://images.scrydex.com/pokemon/np-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-33",
+      "name": "Zapdos ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Synchronized Lift",
+          "text": "As long as you have Articuno ex and Moltres ex in play, the Retreat Cost for Zapdos ex is 0."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thunder Gift",
+          "text": "You may move a Lightning Energy card attached to Zapdos ex to 1 of your Pokémon.",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Lightning Wing",
+          "text": "Does 10 damage to 1 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "33",
+      "printed_number": "033",
+      "rarity": "Promo",
+      "artist": "K. Hoshiba",
+      "national_pokedex_numbers": [
+        145
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-33/small",
+          "medium": "https://images.scrydex.com/pokemon/np-33/medium",
+          "large": "https://images.scrydex.com/pokemon/np-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-34",
+      "name": "Typhlosion",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Quilava"
+      ],
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Burning Aura",
+          "text": "As long as Typhlosion is your Active Pokémon, put 1 damage counter on each Active Pokémon (both yours and your opponent's) between turns."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flickering Flames",
+          "text": "The Defending Pokémon is now Asleep.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Rage",
+          "text": "Does 50 damage plus 10 more damage for each damage counter on Typhlosion.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "printed_number": "034",
+      "rarity": "Promo",
+      "artist": "Hajime Kusajima",
+      "national_pokedex_numbers": [
+        157
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-34/small",
+          "medium": "https://images.scrydex.com/pokemon/np-34/medium",
+          "large": "https://images.scrydex.com/pokemon/np-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-35",
+      "name": "Pikachu δ",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "Delta Species"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "40",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Thunder Wave",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Iron Tail",
+          "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "35",
+      "printed_number": "035",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-35/small",
+          "medium": "https://images.scrydex.com/pokemon/np-35/medium",
+          "large": "https://images.scrydex.com/pokemon/np-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-36",
+      "name": "Tropical Tidal Wave",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Flip a coin. If heads, discard all Trainer cards your opponent has in play. If tails, discard all Trainer cards (excluding Supporter cards) you have in play."
+      ],
+      "number": "36",
+      "printed_number": "036",
+      "rarity": "Promo",
+      "artist": "Sumiyoshi Kizuki",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-36/small",
+          "medium": "https://images.scrydex.com/pokemon/np-36/medium",
+          "large": "https://images.scrydex.com/pokemon/np-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-37",
+      "name": "Kyogre ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Frenzy",
+          "text": "As long as your opponent has Groudon, Groudon ex, Rayquaza, or Rayquaza ex in play. Kyogre ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Aqua Supply",
+          "text": "You may attach a basic Energy card from your hand to 1 of your Pokémon.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Tsunami",
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "37",
+      "printed_number": "037",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        382
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-37/small",
+          "medium": "https://images.scrydex.com/pokemon/np-37/medium",
+          "large": "https://images.scrydex.com/pokemon/np-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-38",
+      "name": "Groudon ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Frenzy",
+          "text": "As long as your opponent has Kyogre, Kyogre ex, Rayquaza, or Rayquaza ex in play, Groudon ex's attacks do 40 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Mix-Up",
+          "text": "Flip a coin. If heads, your opponent discards the top card from his or her deck.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Earthquake",
+          "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "38",
+      "printed_number": "038",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        383
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-38/small",
+          "medium": "https://images.scrydex.com/pokemon/np-38/medium",
+          "large": "https://images.scrydex.com/pokemon/np-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-39",
+      "name": "Rayquaza ex",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "EX"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "abilities": [
+        {
+          "type": "Poké-Body",
+          "name": "Frenzy",
+          "text": "As long as your opponent has Kyogre, Kyogre ex, Groudon, or Groudon ex in play, Rayquaza ex's attacks do 40 damage to the Defending Pokémon (before applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Dragon Bind",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Twister",
+          "text": "Flip 2 coins. If both are tails, this attack does nothing. For each heads, discard an Energy attached to the Defending Pokémon.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Water",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "39",
+      "printed_number": "039",
+      "rarity": "Promo",
+      "artist": "Ryo Ueda",
+      "national_pokedex_numbers": [
+        384
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-39/small",
+          "medium": "https://images.scrydex.com/pokemon/np-39/medium",
+          "large": "https://images.scrydex.com/pokemon/np-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "np-40",
+      "name": "Mew",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Psywave",
+          "text": "Does 10 damage times the amount of Energy attached to the Defending Pokémon.",
+          "damage": "10×"
+        },
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Devolution Beam",
+          "text": "Flip a coin. If heads, choose 1 of either player's Evolved Pokémon, remove the highest stage Evolution card from that Pokémon, and put it into that player's hand."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "printed_number": "040",
+      "rarity": "Promo",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/np-40/small",
+          "medium": "https://images.scrydex.com/pokemon/np-40/medium",
+          "large": "https://images.scrydex.com/pokemon/np-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "np",
+        "name": "Nintendo Black Star Promos",
+        "series": "NP",
+        "code": "PR-NP",
+        "total": 40,
+        "printed_total": 40,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2003/10/01",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 40
+}

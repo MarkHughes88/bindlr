@@ -1,0 +1,1740 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "det1-1",
+      "name": "Bulbasaur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Find a Friend",
+          "text": "Search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1/18",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        1
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-1/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-1/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-2",
+      "name": "Ludicolo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Lombre"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Table Service",
+          "text": "Once during your turn (before your attack), you may heal 30 damage from 1 of your Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Punch and Run",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon.",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "2",
+      "printed_number": "2/18",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Framestore",
+      "national_pokedex_numbers": [
+        272
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-2/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-2/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-3",
+      "name": "Morelull",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sleep Spore",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/18",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        755
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It scatters its shining spores around itself. Even though they're dangerous, nighttime tours of forests where Morelull live are popular.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-3/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-3/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-4",
+      "name": "Charmander",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Reckless Charge",
+          "text": "This Pokémon does 10 damage to itself.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "4/18",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        4
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The flame on its tail indicates Charmander's life force. If it is healthy, the flame burns brightly.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-4/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-4/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-5",
+      "name": "Charizard",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Charmeleon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slash",
+          "damage": "70"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Wild Tackle",
+          "text": "This Pokémon does 50 damage to itself.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "5",
+      "printed_number": "5/18",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Framestore",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When expelling a blast of superhot fire, the red flame at the tip of its tail burns more intensely.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-5/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-5/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-6",
+      "name": "Arcanine",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Growlithe"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Security Guard",
+          "text": "As long as this Pokémon is your Active Pokémon, all of your Pokémon take 30 less damage from your opponent's attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sharp Fang",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "6",
+      "printed_number": "6/18",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        59
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Legends tell of its fighting alongside a general and conquering a whole country.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-6/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-6/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-7",
+      "name": "Psyduck",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Panic",
+          "text": "This Pokémon is now Confused.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "7",
+      "printed_number": "7/18",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Framestore",
+      "national_pokedex_numbers": [
+        54
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Using psychokinesis gives it a headache, so it normally passes the time spacing out and doing as little as possible.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-7/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-7/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-8",
+      "name": "Magikarp",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Hold Still",
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "8/18",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Framestore",
+      "national_pokedex_numbers": [
+        129
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "In the distant past, they were fairly strong, but they have become gradually weaker over time.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-8/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-8/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-9",
+      "name": "Greninja",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Frogadier"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Evasion Jutsu",
+          "text": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Furious Shurikens",
+          "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "9/18",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        658
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-9/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-9/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-10",
+      "name": "Detective Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "90",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Scout",
+          "text": "Your opponent reveals their hand."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Surprise Attack",
+          "text": "Flip a coin. If tails, this attack does nothing.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "10",
+      "printed_number": "10/18",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "He loves to show off his vast knowledge. This expressive Pikachu is like a middle-aged man.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-10/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-10/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-11",
+      "name": "Mr. Mime",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Pantomime",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may switch 1 of your face-down Prize cards with the top card of your deck."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Juggling",
+          "text": "Flip 4 coins. This attack does 20 damage for each heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "11/18",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        122
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its pantomime skills are wonderful. You may become enraptured while watching it, but next thing you know, Mr. Mime has made a real wall.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-11/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-11/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-12",
+      "name": "Mewtwo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "130",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Psyjack",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Break Burn",
+          "text": "Discard 2 Psychic Energy from this Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "12",
+      "printed_number": "12/18",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        150
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "This Pokémon was created by years of horrific gene splicing and DNA engineering experiments.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-12/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-12/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-13",
+      "name": "Machamp",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "160",
+      "evolves_from": [
+        "Machoke"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Directing Traffic",
+          "text": "Look at the top 5 cards of your deck and put them back in any order."
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Cross Chop",
+          "text": "Flip a coin. If heads, this attack does 60 more damage.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "13",
+      "printed_number": "13/18",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        68
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It grasps its opponents with its four arms and twists them up in an intricate hold. People call it \"the Machamp special.\"",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-13/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-13/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-14",
+      "name": "Jigglypuff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Fairy"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Healing Melody",
+          "text": "Heal 10 damage from each of your Pokémon."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "14",
+      "printed_number": "14/18",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Framestore",
+      "national_pokedex_numbers": [
+        39
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Recordings of Jigglypuff's strange lullabies can be purchased from department stores. These CDs can be found near the bedding area.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-14/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-14/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-15",
+      "name": "Snubbull",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fairy"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Play Rough",
+          "text": "Flip a coin. If heads, this attack does 30 more damage.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Darkness",
+          "value": "-20"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "15",
+      "printed_number": "15/18",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Framestore",
+      "national_pokedex_numbers": [
+        209
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-15/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-15/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-16",
+      "name": "Lickitung",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Continuous Lick",
+          "text": "Flip a coin until you get tails. This attack does 20 damage for each heads.",
+          "damage": "20×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "16",
+      "printed_number": "16/18",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        108
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It checks out whatever's around it by licking everything. If you don't clean off a spot where it's licked you, you'll break out in a rash!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-16/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-16/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-17",
+      "name": "Ditto",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Copy Anything",
+          "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "17",
+      "printed_number": "17/18",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "MPC Film",
+      "national_pokedex_numbers": [
+        132
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "While it can transform into anything, each Ditto apparently has its own strengths and weaknesses when it comes to transformations.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-17/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-17/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "det1-18",
+      "name": "Slaking",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "180",
+      "evolves_from": [
+        "Vigoroth"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Pitch",
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "18",
+      "printed_number": "18/18",
+      "rarity": "Rare",
+      "rarity_code": "R",
+      "artist": "Framestore",
+      "national_pokedex_numbers": [
+        289
+      ],
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The world's laziest Pokémon. It moves to another spot when there's no food left within its reach.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/det1-18/small",
+          "medium": "https://images.scrydex.com/pokemon/det1-18/medium",
+          "large": "https://images.scrydex.com/pokemon/det1-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "det1",
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "code": "DET",
+        "total": 18,
+        "printed_total": 18,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2019/04/05",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 18
+}

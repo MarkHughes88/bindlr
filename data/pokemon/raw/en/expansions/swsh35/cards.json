@@ -1,0 +1,7548 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "swsh35-1",
+      "name": "Venusaur V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "220",
+      "attacks": [
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pollen Bomb",
+          "text": "Your opponent's Active Pokémon is now Asleep and Poisoned.",
+          "damage": "80"
+        },
+        {
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Solar Typhoon",
+          "text": "During your next turn, this Pokémon can't use Solar Typhoon.",
+          "damage": "220"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "1",
+      "printed_number": "001/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        3
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-1/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-1/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-2",
+      "name": "Weedle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Call for Family",
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "002/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Yuka Morii",
+      "national_pokedex_numbers": [
+        13
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its poison stinger is very powerful. Its bright-colored body is intended to warn off its enemies.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-2/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-2/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-3",
+      "name": "Kakuna",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "Weedle"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bug Bite",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "3",
+      "printed_number": "003/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Miki Tanaka",
+      "national_pokedex_numbers": [
+        14
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-3/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-3/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-4",
+      "name": "Beedrill",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Kakuna"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Poison Jab",
+          "text": "Your opponent's Active Pokémon is now Poisoned.",
+          "damage": "80"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Hideki Ishikawa",
+      "national_pokedex_numbers": [
+        15
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "May appear in a swarm. Flies at violent speeds, all the while stabbing with the toxic stinger on its rear.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-4/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-4/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-5",
+      "name": "Eldegoss V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "180",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Happy Match",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put a Supporter card from your discard pile into your hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Float Up",
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "5",
+      "printed_number": "005/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        830
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-5/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-5/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-6",
+      "name": "Vulpix",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Gnaw",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Singe",
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "006/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        37
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-6/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-6/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-7",
+      "name": "Victini",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Quick Draw",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Combustion",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "007/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Taira Akitsu",
+      "national_pokedex_numbers": [
+        494
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-7/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-7/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "cinderaceStamp4",
+          "prices": []
+        },
+        {
+          "name": "cinderaceStamp53",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-8",
+      "name": "Incineroar V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "220",
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Grand Flame",
+          "text": "Attach up to 2 Fire Energy cards from your discard pile to 1 of your Benched Pokémon.",
+          "damage": "90"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Flare Blitzer",
+          "text": "This Pokémon also does 30 damage to itself.",
+          "damage": "220"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "8",
+      "printed_number": "008/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        727
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-8/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-8/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-9",
+      "name": "Sizzlipede",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Combustion",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        850
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-9/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-9/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-10",
+      "name": "Centiskorch",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Sizzlipede"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Searing Flame",
+          "text": "Your opponent's Active Pokémon is now Burned.",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Heat Crawler",
+          "damage": "140"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "10",
+      "printed_number": "010/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        851
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-10/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-10/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-11",
+      "name": "Carvanha",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "11",
+      "printed_number": "011/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        318
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-11/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-11/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-12",
+      "name": "Sharpedo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Carvanha"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Aqua Jet",
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "12",
+      "printed_number": "012/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Ryuta Fuse",
+      "national_pokedex_numbers": [
+        319
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It drinks in seawater and jets it from its rear to propel itself. It's very sensitive to the scent of blood.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-12/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-12/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-13",
+      "name": "Wailord V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "280",
+      "attacks": [
+        {
+          "cost": [
+            "Water"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Draw Up",
+          "text": "Attach up to 3 Water Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Ocean Waves",
+          "text": "Flip 3 coins. This attack does 120 damage for each heads.",
+          "damage": "120×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "13",
+      "printed_number": "013/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        321
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-13/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-13/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-14",
+      "name": "Drednaw V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "210",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Powerful Bite",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "14",
+      "printed_number": "014/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        834
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-14/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-14/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-15",
+      "name": "Drednaw VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Drednaw V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "G-Max Headbutt",
+          "text": "Flip a coin. If heads, this attack does 80 more damage.",
+          "damage": "160+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "15",
+      "printed_number": "015/073",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        834
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-15/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-15/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-16",
+      "name": "Gardevoir V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Magical Shot",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Swelling Pulse",
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage.",
+          "damage": "120+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "16",
+      "printed_number": "016/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Kagemaru Himeno",
+      "national_pokedex_numbers": [
+        282
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-16/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-16/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 16,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-17",
+      "name": "Gardevoir VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Gardevoir V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Cure",
+          "text": "Heal 50 damage from this Pokémon.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "17",
+      "printed_number": "017/073",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        282
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-17/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-17/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 17,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-18",
+      "name": "Hatenna",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stampede",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Magical Shot",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "18",
+      "printed_number": "018/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        856
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-18/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-18/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 18,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "holidayStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-19",
+      "name": "Hattrem",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "90",
+      "evolves_from": [
+        "Hatenna"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Beat",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Super Psy Bolt",
+          "damage": "40"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "19",
+      "printed_number": "019/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Hitoshi Ariga",
+      "national_pokedex_numbers": [
+        857
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-19/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-19/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 19,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-20",
+      "name": "Hatterene",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "150",
+      "evolves_from": [
+        "Hattrem"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Hazard Sensor",
+          "text": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Confused."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Life Sucker",
+          "text": "Heal 30 damage from this Pokémon.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "20",
+      "printed_number": "020/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        858
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-20/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-20/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 20,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-21",
+      "name": "Galarian Cursola V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "190",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Gnawing Aura",
+          "text": "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 3 damage counters on that Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hollow Missile",
+          "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "21",
+      "printed_number": "021/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        864
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-21/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-21/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 21,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-22",
+      "name": "Alcremie V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "170",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sugary Sprinkles",
+          "text": "Heal 30 damage from each of your Benched Pokémon."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Sweet Splash",
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "damage": "100"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "22",
+      "printed_number": "022/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "Ayaka Yoshida",
+      "national_pokedex_numbers": [
+        869
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-22/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-22/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 22,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "playPokemonStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-23",
+      "name": "Alcremie VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "310",
+      "evolves_from": [
+        "Alcremie V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Adornment",
+          "text": "For each of your Benched Pokémon, search your deck for a Psychic Energy card and attach it to that Pokémon. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "converted_energy_cost": 2,
+          "name": "G-Max Whisk",
+          "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way.",
+          "damage": "60×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "23",
+      "printed_number": "023/073",
+      "rarity": "Rare Holo VMAX",
+      "rarity_code": "Rare Holo VMAX",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        869
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-23/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-23/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 23,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "playPokemonStampHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-24",
+      "name": "Machop",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Low Kick",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Steady Punch",
+          "text": "Flip a coin. If heads, this attack does 40 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "24",
+      "printed_number": "024/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Shibuzoh.",
+      "national_pokedex_numbers": [
+        66
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-24/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-24/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 24,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-25",
+      "name": "Machoke",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Machop"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Low Kick",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Pummel",
+          "text": "Flip a coin. If heads, this attack does 70 more damage.",
+          "damage": "50+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "25",
+      "printed_number": "025/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        67
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-25/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-25/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 25,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-26",
+      "name": "Machamp",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Machoke"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Macho Revenge",
+          "text": "This attack does 20 damage for each Fighting Pokémon in your discard pile.",
+          "damage": "20×"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Dynamite Punch",
+          "text": "This Pokémon also does 50 damage to itself.",
+          "damage": "200"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "26",
+      "printed_number": "026/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Anesaki Dynamic",
+      "national_pokedex_numbers": [
+        68
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-26/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-26/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 26,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-27",
+      "name": "Lucario V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Aura Sphere",
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Beatdown Smash",
+          "text": "During your next turn, this Pokémon can't use Beatdown Smash.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "27",
+      "printed_number": "027/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "AKIRA EGAWA",
+      "national_pokedex_numbers": [
+        448
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-27/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-27/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 27,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-28",
+      "name": "Zygarde",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "140",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Bite",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Power Blast",
+          "text": "Discard a Fighting Energy from this Pokémon.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "28",
+      "printed_number": "028/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        718
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-28/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-28/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 28,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-29",
+      "name": "Rockruff",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Collect",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Bite",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "29",
+      "printed_number": "029/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        744
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-29/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-29/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 29,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-30",
+      "name": "Lycanroc",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Rockruff"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Rock Throw",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slashing Strike",
+          "text": "During your next turn, this Pokémon can't use Slashing Strike.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "30",
+      "printed_number": "030/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Ryuta Fuse",
+      "national_pokedex_numbers": [
+        745
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-30/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-30/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 30,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-31",
+      "name": "Rolycoly",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ram",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "31",
+      "printed_number": "031/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Masakazu Fukuda",
+      "national_pokedex_numbers": [
+        837
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-31/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-31/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 31,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-32",
+      "name": "Grapploct V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tie Up",
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Moonsault Press",
+          "text": "Flip a coin. If heads, this attack does 100 more damage.",
+          "damage": "120+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "32",
+      "printed_number": "032/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        853
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-32/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-32/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 32,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-33",
+      "name": "Ekans",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Ram",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tail Snap",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "33",
+      "printed_number": "033/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Uta",
+      "national_pokedex_numbers": [
+        23
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The eggs of bird Pokémon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-33/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-33/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 33,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-34",
+      "name": "Arbok",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Ekans"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Sharp Fang",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tail Snap",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "34",
+      "printed_number": "034/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        24
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-34/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-34/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 34,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-35",
+      "name": "Galarian Zigzagoon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Pin Missile",
+          "text": "Flip 4 coins. This attack does 10 damage for each heads.",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "35",
+      "printed_number": "035/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        263
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-35/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-35/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 35,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "eeveeStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-36",
+      "name": "Galarian Linoone",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Galarian Zigzagoon"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Double-Edge",
+          "text": "This Pokémon also does 20 damage to itself.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "36",
+      "printed_number": "036/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Akira Komayama",
+      "national_pokedex_numbers": [
+        264
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-36/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-36/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 36,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "eeveeStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-37",
+      "name": "Galarian Obstagoon",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "170",
+      "evolves_from": [
+        "Galarian Linoone"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Wicked Ruler",
+          "text": "Once during your turn, you may have your opponent discard cards from their hand until they have 4 cards in their hand."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Knuckle Impact",
+          "text": "During your next turn, this Pokémon can't attack.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "37",
+      "printed_number": "037/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Shin Nagasawa",
+      "national_pokedex_numbers": [
+        862
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-37/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-37/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 37,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-38",
+      "name": "Absol",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Dark Cutter",
+          "damage": "70"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "38",
+      "printed_number": "038/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "kodama",
+      "national_pokedex_numbers": [
+        359
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-38/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-38/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 38,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-39",
+      "name": "Purrloin",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Dig Claws",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Fake Out",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed.",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "39",
+      "printed_number": "039/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "sowsow",
+      "national_pokedex_numbers": [
+        509
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-39/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-39/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 39,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-40",
+      "name": "Liepard",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Purrloin"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Limber",
+          "text": "This Pokémon can't be Paralyzed."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Slashing Claw",
+          "damage": "90"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "40",
+      "printed_number": "040/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Hasuno",
+      "national_pokedex_numbers": [
+        510
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-40/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-40/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 40,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-41",
+      "name": "Scraggy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Stampede",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Ram",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "41",
+      "printed_number": "041/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "miki kudo",
+      "national_pokedex_numbers": [
+        559
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-41/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-41/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 41,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-42",
+      "name": "Scrafty",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Scraggy"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Corner",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Bad Brawl",
+          "text": "If you played Piers from your hand during this turn, this attack does 90 more damage.",
+          "damage": "90+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "42",
+      "printed_number": "042/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "tetsuya koizumi",
+      "national_pokedex_numbers": [
+        560
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "As halfhearted as this Pokémon's kicks may seem, they pack enough power to shatter Conkeldurr's concrete pillars.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-42/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-42/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 42,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-43",
+      "name": "Trubbish",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Venoshock",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "43",
+      "printed_number": "043/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "nagimiso",
+      "national_pokedex_numbers": [
+        568
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-43/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-43/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 43,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-44",
+      "name": "Inkay",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Darkness"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tackle",
+          "damage": "10"
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Attack from Behind",
+          "text": "If your opponent's Active Pokémon is Confused, this attack does 50 more damage.",
+          "damage": "20+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "44",
+      "printed_number": "044/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        686
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It spins while making its luminescent spots flash. These spots allow it to communicate with others by using different patterns of light.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-44/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-44/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-44/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 44,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-45",
+      "name": "Malamar",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "120",
+      "evolves_from": [
+        "Inkay"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Eerie Wave",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": "50"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Random Peck",
+          "text": "Flip 2 coins. This attack does 40 more damage for each heads.",
+          "damage": "80+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "45",
+      "printed_number": "045/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "kawayoo",
+      "national_pokedex_numbers": [
+        687
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-45/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-45/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-45/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 45,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-46",
+      "name": "Nickit",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Filch",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Tail Smack",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "46",
+      "printed_number": "046/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Naoki Saito",
+      "national_pokedex_numbers": [
+        827
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-46/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-46/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-46/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 46,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-47",
+      "name": "Duraludon V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Metal"
+      ],
+      "hp": "220",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Hard Coat",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Gatling Slug",
+          "text": "This attack does 40 more damage for each Metal Energy attached to this Pokémon.",
+          "damage": "10+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Grass",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "47",
+      "printed_number": "047/073",
+      "rarity": "Rare Holo V",
+      "rarity_code": "Rare Holo V",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        884
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-47/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-47/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-47/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 47,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-48",
+      "name": "Swablu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Peck",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "48",
+      "printed_number": "048/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "0313",
+      "national_pokedex_numbers": [
+        333
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-48/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-48/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-48/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 48,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-49",
+      "name": "Altaria",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "110",
+      "evolves_from": [
+        "Swablu"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Miraculous Charm",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Speed Dive",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "49",
+      "printed_number": "049/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Taira Akitsu",
+      "national_pokedex_numbers": [
+        334
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-49/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-49/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-49/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 49,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "playPokemonStamp",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-50",
+      "name": "Bede",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Attach a basic Energy card from your hand to 1 of your Benched Pokémon.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "50",
+      "printed_number": "050/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Naoki Saito",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-50/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-50/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-50/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 50,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-51",
+      "name": "Full Heal",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Remove all Special Conditions from your Active Pokémon.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "51",
+      "printed_number": "051/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Yoshinobu Saito",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-51/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-51/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-51/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 51,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-52",
+      "name": "Great Ball",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "52",
+      "printed_number": "052/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Toyste Beach",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-52/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-52/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-52/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 52,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-53",
+      "name": "Hop",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Draw 3 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "53",
+      "printed_number": "053/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Sanosuke Sakuma",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-53/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-53/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-53/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 53,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-54",
+      "name": "Hyper Potion",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Heal 120 damage from 1 of your Pokémon that has at least 2 Energy attached. If you healed any damage in this way, discard 2 Energy from it.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "54",
+      "printed_number": "054/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-54/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-54/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-54/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 54,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-55",
+      "name": "Kabu",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "55",
+      "printed_number": "055/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "take",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-55/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-55/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-55/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 55,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-56",
+      "name": "Marnie",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "56",
+      "printed_number": "056/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "kirisAki",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-56/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-56/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-56/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 56,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-57",
+      "name": "Milo",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard up to 2 cards from your hand, and draw 2 cards for each card you discarded in this way.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "57",
+      "printed_number": "057/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "take",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-57/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-57/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-57/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 57,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-58",
+      "name": "Piers",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "58",
+      "printed_number": "058/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "take",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-58/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-58/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-58/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 58,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-59",
+      "name": "Poké Ball",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "59",
+      "printed_number": "059/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-59/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-59/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-59/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 59,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-60",
+      "name": "Pokémon Center Lady",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Heal 60 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "60",
+      "printed_number": "060/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "kirisAki",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-60/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-60/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-60/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 60,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-61",
+      "name": "Potion",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Heal 30 damage from 1 of your Pokémon.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "61",
+      "printed_number": "061/073",
+      "rarity": "Common",
+      "rarity_code": "C",
+      "artist": "Ryo Ueda",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-61/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-61/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-61/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 61,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-62",
+      "name": "Professor's Research (Professor Magnolia)",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Discard your hand and draw 7 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "62",
+      "printed_number": "062/073",
+      "rarity": "Rare Holo",
+      "rarity_code": "R",
+      "artist": "Yusuke Ohmura",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-62/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-62/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-62/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 62,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "holofoil",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-63",
+      "name": "Rotom Bike",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Draw cards until you have 6 cards in your hand. Your turn ends.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "63",
+      "printed_number": "063/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "5ban Graphics",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-63/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-63/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-63/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 63,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-64",
+      "name": "Rotom Phone",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Look at the top 5 cards of your deck, choose 1 of them, and shuffle the other cards back into your deck. Then, put the card you chose on top of your deck.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "64",
+      "printed_number": "064/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-64/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-64/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-64/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 64,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        },
+        {
+          "name": "andreChiasson",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-65",
+      "name": "Sonia",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for up to 2 Basic Pokémon or up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "65",
+      "printed_number": "065/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Yusuke Ohmura",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-65/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-65/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-65/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 65,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-66",
+      "name": "Suspicious Food Tin",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Heal 80 damage from 1 of your Pokémon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "66",
+      "printed_number": "066/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "Ryo Ueda",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-66/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-66/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-66/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 66,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-67",
+      "name": "Team Yell Grunt",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Put an Energy attached to 1 of your opponent's Pokémon into their hand.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "67",
+      "printed_number": "067/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "nagimiso",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-67/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-67/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-67/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 67,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-68",
+      "name": "Turffield Stadium",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rules": [
+        "Once during each player's turn, that player may search their deck for an Evolution Grass Pokémon, reveal it, and put it into their hand. Then, that player shuffles their deck.",
+        "This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you can't play this card."
+      ],
+      "number": "68",
+      "printed_number": "068/073",
+      "rarity": "Uncommon",
+      "rarity_code": "U",
+      "artist": "aky CG Works",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-68/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-68/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-68/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 68,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        },
+        {
+          "name": "reverseHolofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-69",
+      "name": "Drednaw V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "210",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Powerful Bite",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "69",
+      "printed_number": "069/073",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        834
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-69/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-69/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-69/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 69,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-70",
+      "name": "Gardevoir V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Psychic"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Magical Shot",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Swelling Pulse",
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage.",
+          "damage": "120+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "70",
+      "printed_number": "070/073",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        282
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-70/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-70/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-70/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 70,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-71",
+      "name": "Galarian Cursola V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "190",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Gnawing Aura",
+          "text": "As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 3 damage counters on that Pokémon."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Hollow Missile",
+          "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like.",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "Fighting",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "71",
+      "printed_number": "071/073",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        864
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-71/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-71/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-71/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 71,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-72",
+      "name": "Grapploct V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "210",
+      "attacks": [
+        {
+          "cost": [
+            "Fighting"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tie Up",
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn.",
+          "damage": "20"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Moonsault Press",
+          "text": "Flip a coin. If heads, this attack does 100 more damage.",
+          "damage": "120+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "72",
+      "printed_number": "072/073",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "PLANETA Igarashi",
+      "national_pokedex_numbers": [
+        853
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-72/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-72/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-72/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 72,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-73",
+      "name": "Hop",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Draw 3 cards.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "73",
+      "printed_number": "073/073",
+      "rarity": "Rare Ultra",
+      "rarity_code": "Rare Ultra",
+      "artist": "Naoki Saito",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-73/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-73/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-73/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 73,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-74",
+      "name": "Charizard VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "330",
+      "evolves_from": [
+        "Charizard V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Claw Slash",
+          "damage": "100"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 5,
+          "name": "G-Max Wildfire",
+          "text": "Discard 2 Energy from this Pokémon.",
+          "damage": "300"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "74",
+      "printed_number": "074/073",
+      "rarity": "Rare Rainbow",
+      "rarity_code": "Rare Rainbow",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-74/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-74/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-74/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 74,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-75",
+      "name": "Drednaw VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Drednaw V"
+      ],
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "G-Max Headbutt",
+          "text": "Flip a coin. If heads, this attack does 80 more damage.",
+          "damage": "160+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "75",
+      "printed_number": "075/073",
+      "rarity": "Rare Rainbow",
+      "rarity_code": "Rare Rainbow",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        834
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-75/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-75/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-75/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 75,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-76",
+      "name": "Gardevoir VMAX",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "320",
+      "evolves_from": [
+        "Gardevoir V"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Max Cure",
+          "text": "Heal 50 damage from this Pokémon.",
+          "damage": "180"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "number": "76",
+      "printed_number": "076/073",
+      "rarity": "Rare Rainbow",
+      "rarity_code": "Rare Rainbow",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        282
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-76/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-76/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-76/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 76,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-77",
+      "name": "Kabu",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Shuffle your hand into your deck. Then, draw 4 cards. If your Active Pokémon is your only Pokémon in play, draw 8 cards instead.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "77",
+      "printed_number": "077/073",
+      "rarity": "Rare Rainbow",
+      "rarity_code": "Rare Rainbow",
+      "artist": "Hitoshi Ariga",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-77/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-77/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-77/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 77,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-78",
+      "name": "Piers",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rules": [
+        "Search your deck for an Energy card and a Darkness Pokémon, reveal them, and put them into your hand. Then, shuffle your deck.",
+        "You may play only 1 Supporter card during your turn."
+      ],
+      "number": "78",
+      "printed_number": "078/073",
+      "rarity": "Rare Rainbow",
+      "rarity_code": "Rare Rainbow",
+      "artist": "kirisAki",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-78/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-78/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-78/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 78,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-79",
+      "name": "Charizard V",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic",
+        "V"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "220",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Claw Slash",
+          "damage": "80"
+        },
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Fire Spin",
+          "text": "Discard 2 Energy from this Pokémon.",
+          "damage": "220"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "number": "79",
+      "printed_number": "079/073",
+      "rarity": "Rare Secret",
+      "rarity_code": "Rare Secret",
+      "artist": "5ban Graphics",
+      "national_pokedex_numbers": [
+        6
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-79/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-79/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-79/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 79,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "swsh35-80",
+      "name": "Suspicious Food Tin",
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rules": [
+        "Heal 80 damage from 1 of your Pokémon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it.",
+        "You may play any number of Item cards during your turn."
+      ],
+      "number": "80",
+      "printed_number": "080/073",
+      "rarity": "Rare Secret",
+      "rarity_code": "Rare Secret",
+      "artist": "Ryo Ueda",
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/swsh35-80/small",
+          "medium": "https://images.scrydex.com/pokemon/swsh35-80/medium",
+          "large": "https://images.scrydex.com/pokemon/swsh35-80/large"
+        }
+      ],
+      "expansion": {
+        "id": "swsh35",
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "code": "CPA",
+        "total": 80,
+        "printed_total": 73,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2020/09/25",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 80,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 80
+}

@@ -1,0 +1,3936 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "ma_ja-1",
+      "name": "シェイミ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "草"
+      ],
+      "hp": "80",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "はなのカーテン",
+          "text": "このポケモンがいるかぎり、自分のベンチポケモン（「ルールを持つポケモン」をのぞく）全員は、相手のワザのダメージを受けない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "けとばす",
+          "text": "",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "炎",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "001/043",
+      "artist": "tono",
+      "national_pokedex_numbers": [
+        492
+      ],
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "グラシデアの花が 咲く 季節  感謝の 心を 届けるために  飛び立つと 言われている。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-1/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-1/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 1,
+      "translation": {
+        "en": {
+          "name": "Shaymin",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Grass"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Flower Curtain",
+              "text": "Prevent all damage done to your Benched Pokémon that don't have a Rule Box by attacks from your opponent's Pokémon. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)"
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Smash Kick",
+              "text": "",
+              "damage": "30"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fire",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-2",
+      "name": "ミュウex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "超"
+      ],
+      "hp": "180",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "リスタート",
+          "text": "自分の番に1回使える。自分の手札が3枚になるように、山札を引く。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "ゲノムハック",
+          "text": "相手のバトルポケモンが持っているワザを1つ選び、このワザとして使う。"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "悪",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "2",
+      "printed_number": "002/043",
+      "artist": "aky CG Works",
+      "national_pokedex_numbers": [
+        151
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-2/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-2/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 2,
+      "translation": {
+        "en": {
+          "name": "Mew ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "ex"
+          ],
+          "types": [
+            "Psychic"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Restart",
+              "text": "Once during your turn, you may draw cards until you have 3 cards in your hand."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Genome Hacking",
+              "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Darkness",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-3",
+      "name": "キチキギスex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "悪"
+      ],
+      "hp": "210",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "さかてにとる",
+          "text": "前の相手の番に、自分のポケモンがきぜつしていたなら、自分の番に1回使える。自分の山札を3枚引く。この番、すでに別の「さかてにとる」を使っていたなら、この特性は使えない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 3,
+          "name": "クルーエルアロー",
+          "text": "相手のポケモン1匹に、100ダメージ。［ベンチは弱点・抵抗力を計算しない。］"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "闘",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "003/043",
+      "artist": "takuyoa",
+      "national_pokedex_numbers": [
+        1016
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-3/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-3/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 3,
+      "translation": {
+        "en": {
+          "name": "Fezandipiti ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "ex"
+          ],
+          "types": [
+            "Darkness"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Flip the Script",
+              "text": "Once during your turn, if any of your Pokémon were Knocked Out during your opponent's last turn, you may draw 3 cards. You can't use more than 1 Flip the Script Ability each turn."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 3,
+              "name": "Cruel Arrow",
+              "text": "This attack does 100 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Fighting",
+              "value": "×2"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-4",
+      "name": "シャリタツ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "竜"
+      ],
+      "hp": "70",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "きゃくよせ",
+          "text": "このポケモンがバトル場にいるなら、自分の番に1回使える。自分の山札を上から6枚見て、その中からサポートを1枚選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "炎",
+            "水"
+          ],
+          "converted_energy_cost": 2,
+          "name": "なみのり",
+          "text": "",
+          "damage": "50"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "4",
+      "printed_number": "004/043",
+      "artist": "Jerky",
+      "national_pokedex_numbers": [
+        978
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "非常に 悪賢い ポケモン。 弱ったふりで 獲物を おびき寄せ 仲間の ポケモンに 襲わせる。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-4/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-4/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 4,
+      "translation": {
+        "en": {
+          "name": "Tatsugiri",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Dragon"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Attract Customers",
+              "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal a Supporter card you find there, and put it into your hand. Shuffle the other cards back into your deck."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Fire",
+                "Water"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Surf",
+              "text": "",
+              "damage": "50"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-5",
+      "name": "ポッポ",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "かぜおこし",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "005/043",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        16
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "戦いを 好まない おとなしい 性格だが 下手に 手を 出すと 強烈に 反撃されるぞ。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-5/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-5/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 5,
+      "translation": {
+        "en": {
+          "name": "Pidgey",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Gust",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-6",
+      "name": "ピジョン",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "80",
+      "evolves_from": [
+        "ポッポ"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "はばたく",
+          "text": "",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "6",
+      "printed_number": "006/043",
+      "artist": "Oswaldo KATO",
+      "national_pokedex_numbers": [
+        17
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "広い 縄張りを 持っており  侵入する 邪魔者は  徹底的に つつかれてしまう。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-6/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-6/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 6,
+      "translation": {
+        "en": {
+          "name": "Pidgeotto",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Flap",
+              "text": "",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Pidgey"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-7",
+      "name": "ピジョットex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "2進化",
+        "ex"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "280",
+      "evolves_from": [
+        "ピジョン"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "マッハサーチ",
+          "text": "自分の番に1回使える。自分の山札から好きなカードを1枚選び、手札に加える。そして山札を切る。この番、すでに別の「マッハサーチ」を使っていたなら、この特性は使えない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "ふきすさぶ",
+          "text": "のぞむなら、場に出ているスタジアムをトラッシュする。",
+          "damage": "120"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "converted_retreat_cost": 0,
+      "number": "7",
+      "printed_number": "007/043",
+      "artist": "takuyoa",
+      "national_pokedex_numbers": [
+        18
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-7/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-7/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 7,
+      "translation": {
+        "en": {
+          "name": "Pidgeot ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 2",
+            "ex"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Quick Search",
+              "text": "Once during your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. You can't use more than 1 Quick Search Ability each turn."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Blustery Wind",
+              "text": "You may discard a Stadium in play.",
+              "damage": "120"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "evolves_from": [
+            "Pidgeotto"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-8",
+      "name": "ホーホー",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "さんどづき",
+          "text": "コインを3回投げ、オモテの数×10ダメージ。",
+          "damage": "10×"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "008/043",
+      "artist": "Yukihiro Tada",
+      "national_pokedex_numbers": [
+        163
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "正確に 時を 告げることから 世界の ことわりを わきまえた 知恵の神様 とする 国もある。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-8/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-8/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 8,
+      "translation": {
+        "en": {
+          "name": "Hoothoot",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Triple Stab",
+              "text": "Flip 3 coins. This attack does 10 damage for each heads.",
+              "damage": "10×"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-9",
+      "name": "ヨルノズク",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "1進化"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "ホーホー"
+      ],
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "ほうせきさがし",
+          "text": "自分の番に、このカードを手札から出して進化させたとき、自分の場に「テラスタル」のポケモンがいるなら、1回使える。自分の山札からトレーナーズを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無",
+            "無"
+          ],
+          "converted_energy_cost": 2,
+          "name": "スピードウイング",
+          "text": "",
+          "damage": "60"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "9",
+      "printed_number": "009/043",
+      "artist": "matazo",
+      "national_pokedex_numbers": [
+        164
+      ],
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "非常に 柔らかい 羽は 飛ぶとき 音を 出さないので こっそり 獲物に 近づける。",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-9/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-9/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 9,
+      "translation": {
+        "en": {
+          "name": "Noctowl",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Stage 1"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Jewel Seeker",
+              "text": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, if you have any Tera Pokémon in play, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless",
+                "Colorless"
+              ],
+              "converted_energy_cost": 2,
+              "name": "Speed Wing",
+              "text": "",
+              "damage": "60"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "evolves_from": [
+            "Hoothoot"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-10",
+      "name": "イキリンコex",
+      "supertype": "ポケモン",
+      "subtypes": [
+        "たね",
+        "ex"
+      ],
+      "types": [
+        "無"
+      ],
+      "hp": "160",
+      "abilities": [
+        {
+          "type": "特性",
+          "name": "イキリテイク",
+          "text": "最初の自分の番にだけ1回使える。自分の手札をすべてトラッシュし、山札を6枚引く。この番、すでに別の「イキリテイク」を使っていたなら、この特性は使えない。"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "きあいをいれる",
+          "text": "自分のトラッシュから基本エネルギーを2枚まで選び、ベンチポケモン1匹につける。",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "雷",
+          "value": "×2"
+        }
+      ],
+      "resistances": [
+        {
+          "type": "闘",
+          "value": "-30"
+        }
+      ],
+      "retreat_cost": [
+        "無"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "010/043",
+      "artist": "PLANETA Mochizuki",
+      "national_pokedex_numbers": [
+        931
+      ],
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-10/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-10/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 10,
+      "translation": {
+        "en": {
+          "name": "Squawkabilly ex",
+          "supertype": "Pokémon",
+          "subtypes": [
+            "Basic",
+            "ex"
+          ],
+          "types": [
+            "Colorless"
+          ],
+          "abilities": [
+            {
+              "type": "Ability",
+              "name": "Squawk and Seize",
+              "text": "Once during your first turn, you may discard your hand and draw 6 cards. You can't use more than 1 Squawk and Seize Ability during your turn."
+            }
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Motivate",
+              "text": "Attach up to 2 Basic Energy cards from your discard pile to 1 of your Benched Pokémon.",
+              "damage": "20"
+            }
+          ],
+          "weaknesses": [
+            {
+              "type": "Lightning",
+              "value": "×2"
+            }
+          ],
+          "resistances": [
+            {
+              "type": "Fighting",
+              "value": "-30"
+            }
+          ],
+          "retreat_cost": [
+            "Colorless"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-11",
+      "name": "アンフェアスタンプ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "このカードは、前の相手の番に、自分のポケモンがきぜつしていなければ使えない。",
+        "おたがいのプレイヤーは、それぞれ手札をすべて山札にもどして切る。その後、自分は5枚、相手は2枚、山札を引く。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "11",
+      "printed_number": "011/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-11/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-11/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 11,
+      "translation": {
+        "en": {
+          "name": "Unfair Stamp",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-12",
+      "name": "エネルギーつけかえ",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の場のポケモンについている基本エネルギーを1個選び、自分の別のポケモンにつけ替える。"
+      ],
+      "number": "12",
+      "printed_number": "012/043",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-12/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-12/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 12,
+      "translation": {
+        "en": {
+          "name": "Energy Switch",
+          "supertype": "Energy",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-13",
+      "name": "エレキジェネレーター",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札を上から5枚見て、その中から「基本Lightningポケモンに好きなようにつける。残りのカードは山札にもどして切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "13",
+      "printed_number": "013/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-13/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-13/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 13,
+      "translation": {
+        "en": {
+          "name": "Electric Generator",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-14",
+      "name": "カウンターキャッチャー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "このカードは、自分のサイドの残り枚数が、相手のサイドの残り枚数より多いときにしか使えない。",
+        "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "14",
+      "printed_number": "014/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-14/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-14/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 14,
+      "translation": {
+        "en": {
+          "name": "Counter Catcher",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-15",
+      "name": "すごいつりざお",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分のトラッシュからポケモンと基本エネルギーを合計3枚まで選び、相手に見せて、山札にもどして切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "15",
+      "printed_number": "015/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-15/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-15/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 15,
+      "translation": {
+        "en": {
+          "name": "Super Rod",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-16",
+      "name": "大地の器",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具",
+        "古代"
+      ],
+      "rules": [
+        "このカードは、自分の手札を1枚トラッシュしなければ使えない。",
+        "自分の山札から基本エネルギーを2枚まで選び、相手に見せて、手札に加える。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "16",
+      "printed_number": "016/043",
+      "artist": "AYUMI ODASHIMA",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-16/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-16/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-16/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 16,
+      "translation": {
+        "en": {
+          "name": "Earthen Vessel",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item",
+            "Ancient"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-17",
+      "name": "ツールスクラッパー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "おたがいの場のポケモンについている「ポケモンのどうぐ」を2枚まで選び、トラッシュする。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "17",
+      "printed_number": "017/043",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-17/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-17/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-17/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 17,
+      "translation": {
+        "en": {
+          "name": "Tool Scrapper",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-18",
+      "name": "なかよしポフィン",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札から、HPが「70」以下のたねポケモンを2枚まで選び、ベンチに出す。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "18",
+      "printed_number": "018/043",
+      "artist": "AYUMI ODASHIMA",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-18/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-18/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-18/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 18,
+      "translation": {
+        "en": {
+          "name": "Buddy-Buddy Poffin",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-19",
+      "name": "ネストボール",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札からたねポケモンを1枚選び、ベンチに出す。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "19",
+      "printed_number": "019/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-19/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-19/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-19/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 19,
+      "translation": {
+        "en": {
+          "name": "Nest Ball",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-20",
+      "name": "ハイパーボール",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "このカードは、自分の手札を2枚トラッシュしなければ使えない。",
+        "自分の山札からポケモンを1枚選び、相手に見せて、手札に加える。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "20",
+      "printed_number": "020/043",
+      "artist": "Ayaka Yoshida",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-20/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-20/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-20/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 20,
+      "translation": {
+        "en": {
+          "name": "Ultra Ball",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-21",
+      "name": "ふしぎなアメ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の手札から2進化ポケモンを1枚選び、そのポケモンへと進化する自分の場のたねポケモンにのせ、1進化をとばして進化させる。（最初の自分の番や、出したばかりのポケモンには使えない。）",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "21",
+      "printed_number": "021/043",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-21/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-21/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-21/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 21,
+      "translation": {
+        "en": {
+          "name": "Rare Candy",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-22",
+      "name": "プライムキャッチャー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。その後、自分のバトルポケモンをベンチポケモンと入れ替える。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "22",
+      "printed_number": "022/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-22/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-22/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-22/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 22,
+      "translation": {
+        "en": {
+          "name": "Prime Catcher",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-23",
+      "name": "ポケモンいれかえ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分のバトルポケモンをベンチポケモンと入れ替える。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "23",
+      "printed_number": "023/043",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-23/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-23/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-23/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 23,
+      "translation": {
+        "en": {
+          "name": "Switch",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-24",
+      "name": "むしとりセット",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分の山札を上から7枚見て、その中からGrassエネルギー」を合計2枚まで選び、相手に見せて、手札に加える。残りのカードは山札にもどして切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "24",
+      "printed_number": "024/043",
+      "artist": "AYUMI ODASHIMA",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-24/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-24/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-24/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 24,
+      "translation": {
+        "en": {
+          "name": "Bug Catching Set",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-25",
+      "name": "メガシグナル",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "メガ",
+        "道具"
+      ],
+      "rules": [
+        "自分の山札から「メガシンカex」を1枚選び、相手に見せて、手札に加える。そして山札を切る。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "25",
+      "printed_number": "025/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Not Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-25/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-25/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-25/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 25,
+      "translation": {
+        "en": {
+          "name": "Mega Signal",
+          "supertype": "Trainer",
+          "subtypes": [
+            "MEGA",
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-26",
+      "name": "夜のタンカ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "道具"
+      ],
+      "rules": [
+        "自分のトラッシュからポケモンまたは基本エネルギーを1枚選び、相手に見せて、手札に加える。",
+        "グッズは、自分の番に何枚でも使える。"
+      ],
+      "number": "26",
+      "printed_number": "026/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-26/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-26/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-26/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 26,
+      "translation": {
+        "en": {
+          "name": "Night Stretcher",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Item"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-27",
+      "name": "カウンターゲイン",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "自分のサイドの残り枚数が、相手のサイドの残り枚数より多いなら、このカードをつけているポケモンがワザを使うためのエネルギーは、Colorlessエネルギー1個ぶん少なくなる。"
+      ],
+      "number": "27",
+      "printed_number": "027/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-27/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-27/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-27/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 27,
+      "translation": {
+        "en": {
+          "name": "Counter Gain",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-28",
+      "name": "ガチガチバンド",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "このカードをつけている1進化ポケモンが、相手のポケモンから受けるワザのダメージは「-30」される。"
+      ],
+      "number": "28",
+      "printed_number": "028/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-28/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-28/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-28/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 28,
+      "translation": {
+        "en": {
+          "name": "Rigid Band",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-29",
+      "name": "ヒーローマント",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "このカードをつけているポケモンの最大HPは「+100」される。"
+      ],
+      "number": "29",
+      "printed_number": "029/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-29/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-29/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-29/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 29,
+      "translation": {
+        "en": {
+          "name": "Hero's Cape",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-30",
+      "name": "ふうせん",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "このカードをつけているポケモンは、にげるためのエネルギーが2個ぶん少なくなる。"
+      ],
+      "number": "30",
+      "printed_number": "030/043",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-30/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-30/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-30/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 30,
+      "translation": {
+        "en": {
+          "name": "Air Balloon",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-31",
+      "name": "マキシマムベルト",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "このカードをつけているポケモンが使うワザの、相手のバトル場の「ポケモンex」へのダメージは「+50」される。"
+      ],
+      "number": "31",
+      "printed_number": "031/043",
+      "artist": "inose yukie",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-31/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-31/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-31/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 31,
+      "translation": {
+        "en": {
+          "name": "Maximum Belt",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-32",
+      "name": "勇気のおまもり",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "rules": [
+        "このカードをつけているたねポケモンの最大HPは「+50」される。"
+      ],
+      "number": "32",
+      "printed_number": "032/043",
+      "artist": "Toyste Beach",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-32/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-32/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-32/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 32,
+      "translation": {
+        "en": {
+          "name": "Bravery Charm",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-33",
+      "name": "ワザマシン エヴォリューション",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Evolution",
+          "text": "Choose up to 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a card that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
+        }
+      ],
+      "rules": [
+        "このカードをつけているポケモンは、このカードに書かれているワザを使える。［ワザを使うためのエネルギーは必要。］<br> ポケモンについているこのカードは、自分の番の終わりにトラッシュする。"
+      ],
+      "number": "33",
+      "printed_number": "033/043",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-33/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-33/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-33/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 33,
+      "translation": {
+        "en": {
+          "name": "Technical Machine: Evolution",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Evolution",
+              "text": "Choose up to 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a card that evolves from that Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
+            }
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-34",
+      "name": "ワザマシン デヴォリューション",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "ポケモンの道具"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "無"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Devolution",
+          "text": "Devolve each of your opponent's evolved Pokémon by putting the highest Stage Evolution card on it into your opponent's hand."
+        }
+      ],
+      "rules": [
+        "このカードをつけているポケモンは、このカードに書かれているワザを使える。［ワザを使うためのエネルギーは必要。］<br> ポケモンについているこのカードは、自分の番の終わりにトラッシュする。"
+      ],
+      "number": "34",
+      "printed_number": "034/043",
+      "artist": "Studio Bora Inc.",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-34/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-34/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-34/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 34,
+      "translation": {
+        "en": {
+          "name": "Technical Machine: Devolution",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Pokémon Tool"
+          ],
+          "attacks": [
+            {
+              "cost": [
+                "Colorless"
+              ],
+              "converted_energy_cost": 1,
+              "name": "Devolution",
+              "text": "Devolve each of your opponent's evolved Pokémon by putting the highest Stage Evolution card on it into your opponent's hand."
+            }
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-35",
+      "name": "スグリ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "このカードは、2つの効果から1つを選んで使う。\n◆自分のバトルポケモンをベンチポケモンと入れ替える。\n◆この番、自分のポケモンが使うワザの、相手のバトル場の「ポケモンex・V」へのダメージは「+30」される。\nサポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "35",
+      "printed_number": "035/043",
+      "artist": "GIDORA",
+      "regulation_mark": "H",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-35/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-35/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-35/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 35,
+      "translation": {
+        "en": {
+          "name": "Kieran",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-36",
+      "name": "ナンジャモ",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "おたがいのプレイヤーは、それぞれ自分の手札をすべてウラにして切り、山札の下にもどす。その後、それぞれ自分のサイドの残り枚数ぶん、山札を引く。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "36",
+      "printed_number": "036/043",
+      "artist": "Sanosuke Sakuma",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-36/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-36/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-36/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 36,
+      "translation": {
+        "en": {
+          "name": "Iono",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-37",
+      "name": "博士の研究",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の手札をすべてトラッシュし、山札を7枚引く。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "37",
+      "printed_number": "037/043",
+      "artist": "Taira Akitsu",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-37/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-37/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-37/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 37,
+      "translation": {
+        "en": {
+          "name": "Professor's Research",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-38",
+      "name": "ペパー",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の山札から「グッズ」と「ポケモンのどうぐ」を1枚ずつ選び、相手に見せて、手札に加える。そして山札を切る。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "38",
+      "printed_number": "038/043",
+      "artist": "GIDORA",
+      "regulation_mark": "G",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-38/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-38/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-38/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 38,
+      "translation": {
+        "en": {
+          "name": "Arven",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-39",
+      "name": "ボスの指令",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "相手のベンチポケモンを1匹選び、バトルポケモンと入れ替える。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "39",
+      "printed_number": "039/043",
+      "artist": "NC Empire",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-39/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-39/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-39/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 39,
+      "translation": {
+        "en": {
+          "name": "Boss's Orders",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-40",
+      "name": "ミツルの思いやり",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の「メガシンカex」1匹のHPを、すべて回復する。その後、回復したポケモンについているエネルギーを、すべて手札にもどす。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "40",
+      "printed_number": "040/043",
+      "artist": "Iori Suzuki",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-40/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-40/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-40/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 40,
+      "translation": {
+        "en": {
+          "name": "Wally's Compassion",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-41",
+      "name": "リーリエの決心",
+      "supertype": "トレーナー",
+      "subtypes": [
+        "支援"
+      ],
+      "rules": [
+        "自分の手札をすべて山札にもどして切る。その後、山札を6枚引く。自分のサイドの残り枚数が6枚なら、引く枚数は8枚になる。",
+        "サポートは、自分の番に1枚しか使えない。"
+      ],
+      "number": "41",
+      "printed_number": "041/043",
+      "artist": "Atsushi Furusawa",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-41/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-41/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-41/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 41,
+      "translation": {
+        "en": {
+          "name": "Lillie's Determination",
+          "supertype": "Trainer",
+          "subtypes": [
+            "Supporter"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-42",
+      "name": "イグニッションエネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "特別"
+      ],
+      "rules": [
+        "ポケモンについているこのカードは、自分の番の終わりにトラッシュする。",
+        "このカードは、ポケモンについているかぎり、Colorlessエネルギー1個ぶんとしてはたらく。",
+        "進化ポケモンについているなら、Colorlessエネルギー3個ぶんとしてはたらく。"
+      ],
+      "number": "42",
+      "printed_number": "042/043",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-42/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-42/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-42/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 42,
+      "translation": {
+        "en": {
+          "name": "Ignition Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Special"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "ma_ja-43",
+      "name": "プリズムエネルギー",
+      "supertype": "エネルギー",
+      "subtypes": [
+        "特別"
+      ],
+      "rules": [
+        "このカードは、ポケモンについているかぎり、Colorlessエネルギー1個ぶんとしてはたらく。",
+        "たねポケモンについているなら、すべてのタイプのエネルギー1個ぶんとしてはたらく。"
+      ],
+      "number": "43",
+      "printed_number": "043/043",
+      "regulation_mark": "I",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/ma_ja-43/small",
+          "medium": "https://images.scrydex.com/pokemon/ma_ja-43/medium",
+          "large": "https://images.scrydex.com/pokemon/ma_ja-43/large"
+        }
+      ],
+      "expansion": {
+        "id": "ma_ja",
+        "name": "MEGA Premium Trainer Box",
+        "series": "Mega Evolution",
+        "code": "MA",
+        "total": 43,
+        "printed_total": 43,
+        "language": "Japanese",
+        "language_code": "JA",
+        "release_date": "2025/08/01",
+        "is_online_only": false
+      },
+      "language": "Japanese",
+      "language_code": "JA",
+      "expansion_sort_order": 43,
+      "translation": {
+        "en": {
+          "name": "Prism Energy",
+          "supertype": "Energy",
+          "subtypes": [
+            "Special"
+          ],
+          "expansion": {
+            "name": "MEGA Premium Trainer Box"
+          }
+        }
+      },
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 43
+}

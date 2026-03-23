@@ -1,0 +1,1403 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "mcd22-1",
+      "name": "Ledyba",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Collect",
+          "text": "Draw a card."
+        },
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Punch",
+          "damage": "20"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "1",
+      "printed_number": "1/15",
+      "artist": "Naoyo Kimura",
+      "national_pokedex_numbers": [
+        165
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "These very cowardly Pokémon join together and use Reflect to protect their nest.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-1/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-1/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-1/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 1,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-2",
+      "name": "Rowlet",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Sky Circus",
+          "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Wind Shard",
+          "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "2",
+      "printed_number": "2/15",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        722
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "At a distance, it launches its sharp feathers while flying about. If the enemy gets too close, Rowlet switches tactics and delivers vicious kicks.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-2/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-2/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-2/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 2,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-3",
+      "name": "Gossifleur",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Grass"
+      ],
+      "hp": "50",
+      "attacks": [
+        {
+          "cost": [
+            "Grass"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Blot",
+          "text": "Heal 10 damage from this Pokémon.",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "3",
+      "printed_number": "3/15",
+      "artist": "Mizue",
+      "national_pokedex_numbers": [
+        829
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-3/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-3/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-3/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 3,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-4",
+      "name": "Growlithe",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Warm Up",
+          "text": "Search your deck for a Fire Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Combustion",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "4",
+      "printed_number": "4/15",
+      "artist": "Narumi Sato",
+      "national_pokedex_numbers": [
+        58
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Extremely loyal, it will fearlessly bark at any opponent to protect its own Trainer from harm.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-4/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-4/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-4/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 4,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-5",
+      "name": "Victini",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Fire"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Victory Dive",
+          "text": "You may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "5",
+      "printed_number": "5/15",
+      "artist": "Teeziro",
+      "national_pokedex_numbers": [
+        494
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When it shares the infinite energy it creates, that being's entire body will be overflowing with power.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-5/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-5/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-5/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 5,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-6",
+      "name": "Lapras",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Water"
+      ],
+      "hp": "110",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Wintry Call",
+          "text": "Search your deck for up to 2 Melony cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Icy Wind",
+          "text": "Your opponent's Active Pokémon is now Asleep.",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "6",
+      "printed_number": "6/15",
+      "artist": "Atsushi Furusawa",
+      "national_pokedex_numbers": [
+        131
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-6/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-6/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-6/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 6,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-7",
+      "name": "Pikachu",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "60",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Energize",
+          "text": "Attach a Lightning Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Electro Ball",
+          "damage": "30"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "7",
+      "printed_number": "7/15",
+      "artist": "chibi",
+      "national_pokedex_numbers": [
+        25
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-7/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-7/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-7/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 7,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-8",
+      "name": "Chinchou",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "70",
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Electro Ball",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "8",
+      "printed_number": "8/15",
+      "artist": "sowsow",
+      "national_pokedex_numbers": [
+        170
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "On the dark ocean floor, its only means of communication is its constantly flashing lights.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-8/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-8/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-8/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 8,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-9",
+      "name": "Flaaffy",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "100",
+      "evolves_from": [
+        "Mareep"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Electro Ball",
+          "damage": "50"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "9",
+      "printed_number": "9/15",
+      "artist": "sui",
+      "national_pokedex_numbers": [
+        180
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-9/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-9/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-9/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 9,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-10",
+      "name": "Tynamo",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Lightning"
+      ],
+      "hp": "40",
+      "abilities": [
+        {
+          "type": "Ability",
+          "name": "Levitate",
+          "text": "If this Pokémon has any Energy attached, it has no Retreat Cost."
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Lightning"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Tiny Charge",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "10",
+      "printed_number": "10/15",
+      "artist": "sowsow",
+      "national_pokedex_numbers": [
+        602
+      ],
+      "regulation_mark": "D",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "One alone can emit only trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-10/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-10/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-10/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 10,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-11",
+      "name": "Cutiefly",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Psychic"
+      ],
+      "hp": "30",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Flap",
+          "damage": "10"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "number": "11",
+      "printed_number": "11/15",
+      "artist": "Yukiko Baba",
+      "national_pokedex_numbers": [
+        742
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "An opponent's aura can tell Cutiefly what that opponent's next move will be. Then Cutiefly can glide around the attack and strike back.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-11/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-11/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-11/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 11,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-12",
+      "name": "Bewear",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Fighting"
+      ],
+      "hp": "130",
+      "evolves_from": [
+        "Stufful"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Split Spiral Punch",
+          "text": "Your opponent's Active Pokémon is now Confused.",
+          "damage": "40"
+        },
+        {
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Strength",
+          "damage": "130"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 3,
+      "number": "12",
+      "printed_number": "12/15",
+      "artist": "Shigenori Negishi",
+      "national_pokedex_numbers": [
+        760
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-12/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-12/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-12/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 12,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-13",
+      "name": "Pangoro",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "types": [
+        "Darkness"
+      ],
+      "hp": "140",
+      "evolves_from": [
+        "Pancham"
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 3,
+          "name": "Knocking Hammer",
+          "text": "Discard the top card of your opponent's deck.",
+          "damage": "90"
+        },
+        {
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "converted_energy_cost": 4,
+          "name": "Shakedown",
+          "text": "Discard a random card from your opponent's hand.",
+          "damage": "150"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 4,
+      "number": "13",
+      "printed_number": "13/15",
+      "artist": "HYOGONOSUKE",
+      "national_pokedex_numbers": [
+        675
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-13/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-13/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-13/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 13,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-14",
+      "name": "Drampa",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Dragon"
+      ],
+      "hp": "120",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless"
+          ],
+          "converted_energy_cost": 1,
+          "name": "Corkscrew Punch",
+          "damage": "30"
+        },
+        {
+          "cost": [
+            "Water",
+            "Fighting"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Berserk",
+          "text": "If your Benched Pokémon have any damage counters on them, this attack does 90 more damage.",
+          "damage": "70+"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "converted_retreat_cost": 2,
+      "number": "14",
+      "printed_number": "14/15",
+      "artist": "Tomokazu Komiya",
+      "national_pokedex_numbers": [
+        780
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "Drampa is a kind and friendly Pokémon—up until it's angered. When that happens, it stirs up a gale and flattens everything around.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-14/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-14/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-14/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 14,
+      "variants": [
+        {
+          "name": "normal",
+          "prices": []
+        }
+      ]
+    },
+    {
+      "id": "mcd22-15",
+      "name": "Smeargle",
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "types": [
+        "Colorless"
+      ],
+      "hp": "80",
+      "attacks": [
+        {
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "converted_energy_cost": 2,
+          "name": "Live Painting",
+          "text": "Reveal any number of basic Energy cards from your hand. This attack does 30 more damage for each type of basic Energy you revealed in this way.",
+          "damage": "30+"
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "retreat_cost": [
+        "Colorless"
+      ],
+      "converted_retreat_cost": 1,
+      "number": "15",
+      "printed_number": "15/15",
+      "artist": "Kouki Saitou",
+      "national_pokedex_numbers": [
+        235
+      ],
+      "regulation_mark": "E",
+      "legalities": [
+        {
+          "format": "Standard",
+          "status": "Not Legal"
+        },
+        {
+          "format": "Unlimited",
+          "status": "Legal"
+        },
+        {
+          "format": "Expanded",
+          "status": "Legal"
+        },
+        {
+          "format": "Gym Leader Challenge",
+          "status": "Legal"
+        }
+      ],
+      "flavor_text": "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.",
+      "images": [
+        {
+          "type": "front",
+          "small": "https://images.scrydex.com/pokemon/mcd22-15/small",
+          "medium": "https://images.scrydex.com/pokemon/mcd22-15/medium",
+          "large": "https://images.scrydex.com/pokemon/mcd22-15/large"
+        }
+      ],
+      "expansion": {
+        "id": "mcd22",
+        "name": "McDonald's Collection 2022",
+        "series": "Other",
+        "total": 15,
+        "printed_total": 15,
+        "language": "English",
+        "language_code": "EN",
+        "release_date": "2022/08/03",
+        "is_online_only": false
+      },
+      "language": "English",
+      "language_code": "EN",
+      "expansion_sort_order": 15,
+      "variants": [
+        {
+          "name": "holofoil",
+          "prices": []
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 100,
+  "totalCount": 15
+}
