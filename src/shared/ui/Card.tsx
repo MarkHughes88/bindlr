@@ -5,7 +5,7 @@ type PaddingSize = 'none' | 'sm' | 'md' | 'lg' | 'xl';
 
 type CardProps = {
     children: React.ReactNode;
-    borderRadius?: 'xs' | 'sm' | 'md' | 'lg' | 'xl' | 'xxl';
+    borderRadius?: 'none' | 'xs' | 'sm' | 'md' | 'lg' | 'xl' | 'xxl';
     backgroundColor?: 'background' | 'surface' | 'surfaceAlt';
     padding?: PaddingSize;
     onPress?: () => void;

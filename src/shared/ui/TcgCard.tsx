@@ -28,9 +28,14 @@ export type TcgCardItem = {
 type TcgCardProps = {
 	tcgCard: TcgCardItem;
 	resizeMode?: "cover" | "contain" | "stretch" | "center";
+	borderRadius?: 'none' | 'xs' | 'sm' | 'md' | 'lg' | 'xl' | 'xxl';
 };
 
-export function TcgCard({ tcgCard, resizeMode = "cover" }: TcgCardProps) {
+export function TcgCard({
+	tcgCard,
+	resizeMode = "cover",
+	borderRadius = 'none'
+}: TcgCardProps) {
 	const theme = useAppTheme();
 	const { preferences } = useUserSettingsState();
 	const styles = useMemo(() => createStyles(theme), [theme]);
@@ -45,7 +50,7 @@ export function TcgCard({ tcgCard, resizeMode = "cover" }: TcgCardProps) {
 	const shouldShowFallback = !tcgCard.imageSource || hasImageError || shouldBlockForOffline;
 
 	return (
-		<Card padding="none"> 
+		<Card padding="none" borderRadius={borderRadius}>
 			<View style={styles.imageContainer}>
 				{!shouldShowFallback ? (
 					<Image
