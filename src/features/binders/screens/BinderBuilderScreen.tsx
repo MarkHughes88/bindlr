@@ -5,7 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
 import * as ImagePicker from 'expo-image-picker';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
-import Animated, { useAnimatedStyle, useSharedValue } from 'react-native-reanimated';
+import Animated, { useAnimatedStyle, useSharedValue, runOnJS } from 'react-native-reanimated';
 
 import { AppText, BackButton, Header, Icon, SkeletonBlock } from '@/src/shared/ui';
 import { bindersRepository } from '@/src/lib/repositories';
@@ -165,7 +165,25 @@ export function BinderBuilderScreen({ binderId }: Props) {
 			   translateY.value = clamp(nextY, -maxY, maxY);
 	       });
 
-	const binderGesture = Gesture.Simultaneous(doubleTapGesture, pinchGesture, panGesture);
+
+	// Horizontal swipe gesture for page navigation
+	const swipeGesture = Gesture.Pan()
+		.minDistance(20)
+		.onEnd((event) => {
+			// Only consider horizontal swipes
+			if (Math.abs(event.translationX) > Math.abs(event.translationY)) {
+				if (event.translationX > 40) {
+					console.log("swipe right detected");
+					// Swipe right: go forward a page
+					runOnJS(setCurrentSpread)((s) => (s < totalSpreads - 1 ? s + 1 : s));
+				} else if (event.translationX < -40) {
+					// Swipe left: go back a page
+					runOnJS(setCurrentSpread)((s) => (s > 0 ? s - 1 : s));
+				}
+			}
+		});
+
+	const binderGesture = Gesture.Simultaneous(doubleTapGesture, pinchGesture, panGesture, swipeGesture);
 
 	async function handleChooseImage() {
 		const result = await ImagePicker.launchImageLibraryAsync({
@@ -295,7 +313,7 @@ export function BinderBuilderScreen({ binderId }: Props) {
 									<Icon iconName="chevronsLeft" size={24} color={theme.colors.text} />
 								</View>
 							</Pressable>
-							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => Math.max(0, s - 1))}>
+							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => (s > 0 ? s - 1 : s))}>
 								<View style={styles.bottomNavIconWrap}>
 									<Icon iconName="chevronLeft" size={24} color={theme.colors.text} />
 								</View>
@@ -344,7 +362,7 @@ export function BinderBuilderScreen({ binderId }: Props) {
 							</Pressable>
 						</View>
 						<View style={[styles.bottomNavSideGroup, styles.bottomNavSideGroupRight]}>
-							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => Math.min(totalSpreads - 1, s + 1))}>
+							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => (s < totalSpreads - 1 ? s + 1 : s))}>
 								<View style={styles.bottomNavIconWrap}>
 									<Icon iconName="chevronRight" size={24} color={theme.colors.text} />
 								</View>

@@ -11,11 +11,13 @@ import { useAppTheme } from "@/src/theme/useAppTheme";
 import { useUserSettingsState } from "@/src/features/settings/settings.store";
 
 // Import components
-import { Card } from "@/src/shared/ui";
 import { AppText } from "@/src/shared/ui/AppText";
 
 // Import config
 import { TCG_CARD_ASPECT_RATIO } from "@/src/shared/config/tcg";
+
+// Import components
+import { Card } from "./Card"; // Updated import to avoid require cycle
 
 export type TcgCardItem = {
 	id: string;
@@ -43,7 +45,7 @@ export function TcgCard({ tcgCard, resizeMode = "cover" }: TcgCardProps) {
 	const shouldShowFallback = !tcgCard.imageSource || hasImageError || shouldBlockForOffline;
 
 	return (
-		<Card padding="none">
+		<Card padding="none"> 
 			<View style={styles.imageContainer}>
 				{!shouldShowFallback ? (
 					<Image

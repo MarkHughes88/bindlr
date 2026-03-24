@@ -5,7 +5,8 @@ import { StyleSheet, View } from 'react-native';
 import { useAppTheme } from '@/src/theme/useAppTheme';
 
 // Import components
-import { AppText, BackButton } from "@/src/shared/ui";
+import { AppText } from "./AppText";
+import { BackButton } from "./BackButton";
 
 type HeaderProps = {
 	customIcon?: React.ReactNode;

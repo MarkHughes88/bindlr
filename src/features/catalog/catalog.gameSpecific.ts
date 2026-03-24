@@ -360,7 +360,7 @@ export const GAME_SPECIFIC_FILTER_DESCRIPTORS: CatalogGameSpecificFilterDescript
 		key: 'onePieceCardType',
 		tcg: 'one-piece',
 		label: 'Card type',
-		extractValues: (card) => uniqueSorted(card.types ?? []),
+		extractValues: (card) => uniqueSorted(card.subtypes ?? []),
 	},
 	{
 		key: 'onePieceCost',

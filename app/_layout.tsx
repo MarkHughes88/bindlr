@@ -1,3 +1,4 @@
+import React from "react";
 import { Stack } from "expo-router";
 import { useFonts } from "expo-font";
 import { useEffect, useState } from "react";

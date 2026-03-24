@@ -5,7 +5,8 @@ import { Pressable, StyleSheet } from 'react-native';
 import { useAppTheme } from '@/src/theme/useAppTheme';
 
 // Import components
-import { AppText, Icon } from '@/src/shared/ui';
+import { AppText } from './AppText';
+import { Icon } from './Icon';
 
 type PillProps = {
     text: string;

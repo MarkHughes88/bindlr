@@ -532,7 +532,7 @@ const createStyles = (theme: ReturnType<typeof useAppTheme>) =>
 			gap: theme.spacing.sm,
 		},
 		title: {
-			fontSize: theme.fontSize.xxxl,
+			fontSize: theme.fontSize.xxl,
 		},
 		cancelDeleteButton: {
 			height: 36,
