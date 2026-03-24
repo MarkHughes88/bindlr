@@ -18,15 +18,6 @@ export interface DownloadsRepository {
 		language?: CatalogLanguage;
 		imageQuality?: DownloadImageQuality;
 	}): Promise<number>;
-	getDownloadedCardBreakdownByTcg(input: {
-		tcg: CatalogTcg;
-		language?: CatalogLanguage;
-	}): Promise<{
-		total: number;
-		small: number;
-		medium: number;
-		large: number;
-	}>;
 	getCardImageLocalUri(input: {
 		tcg: CatalogTcg;
 		catalogTcgCardId: string;

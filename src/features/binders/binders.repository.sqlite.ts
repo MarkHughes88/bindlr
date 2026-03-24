@@ -20,26 +20,6 @@ function createLocalId(prefix: string): string {
 }
 
 export class SqliteBindersRepository implements BindersRepository {
-    async getBindersData(): Promise<BindersData> {
-        const db = await getDatabase();
-        const rows = await db.getAllAsync<BinderRow>(
-            `SELECT id, name, description, current_count, total_capacity, cover_image_uri, color, inside_color, page_color
-             FROM binders
-             ORDER BY updated_at DESC`
-        );
-
-        return {
-            binders: rows.map((row) => ({
-                id: row.id,
-                title: row.name,
-                current: row.current_count,
-                total: row.total_capacity,
-                coverImageUri: row.cover_image_uri ?? undefined,
-                // insideColor is not used in list, but could be added if needed
-            })),
-        };
-    }
-
     async createBinder(input: {
         name: string;
         description?: string | null;
@@ -47,42 +27,88 @@ export class SqliteBindersRepository implements BindersRepository {
         color?: string | null;
         insideColor?: string | null;
         pageColor?: string | null;
-    }): Promise<{ id: string; name: string; currentCount: number; totalCapacity: number }> {
+        rows?: number;
+        columns?: number;
+    }): Promise<{ id: string; name: string; currentCount: number; totalCapacity: number; rows?: number; columns?: number }> {
         const db = await getDatabase();
-        const now = new Date().toISOString();
         const binderId = createLocalId('binder');
+        const now = new Date().toISOString();
         const totalCapacity = input.totalCapacity ?? 360;
-        const color = input.color ?? '#111111';
-        const insideColor = input.insideColor ?? color;
-        const pageColor = input.pageColor ?? color;
-
+        const color = input.color ?? null;
+        const insideColor = input.insideColor ?? null;
+        const pageColor = input.pageColor ?? null;
+        const rowsVal = input.rows ?? 3;
+        const columnsVal = input.columns ?? 3;
         await db.runAsync(
             `INSERT INTO binders (
-                id,
-                user_id,
-                name,
-                description,
-                current_count,
-                total_capacity,
-                cover_image_uri,
+                id, name, description, current_count, total_capacity, cover_image_uri, color, inside_color, page_color, rows, columns, created_at, updated_at
+            ) VALUES (?, ?, ?, 0, ?, NULL, ?, ?, ?, ?, ?, ?, ?)`,
+            [
+                binderId,
+                input.name,
+                input.description ?? null,
+                totalCapacity,
                 color,
-                inside_color,
-                page_color,
-                created_at,
-                updated_at
-            ) VALUES (?, 'local', ?, ?, 0, ?, NULL, ?, ?, ?, ?, ?)`,
-            [binderId, input.name, input.description ?? null, totalCapacity, color, insideColor, pageColor, now, now]
+                insideColor,
+                pageColor,
+                rowsVal,
+                columnsVal,
+                now,
+                now
+            ]
         );
-
         return {
             id: binderId,
             name: input.name,
             currentCount: 0,
             totalCapacity,
+            rows: rowsVal,
+            columns: columnsVal,
+        };
+    }
+    async getCardsForBinder(binderId: string): Promise<{ slotIndex: number; catalogTcgCardId: string; id: string; tcg: string; language: string | null }[]> {
+        const db = await getDatabase();
+        const rows = await db.getAllAsync<{
+            id: string;
+            slot_index: number;
+            catalog_tcg_card_id: string;
+            tcg: string;
+            language: string | null;
+        }>(
+            `SELECT id, slot_index, catalog_tcg_card_id, tcg, language
+             FROM binder_cards
+             WHERE binder_id = ?
+             ORDER BY slot_index ASC`,
+            [binderId]
+        );
+        return rows.map(row => ({
+            id: row.id,
+            slotIndex: row.slot_index,
+            catalogTcgCardId: row.catalog_tcg_card_id,
+            tcg: row.tcg,
+            language: row.language,
+        }));
+    }
+    async getBindersData(): Promise<BindersData> {
+        const db = await getDatabase();
+        const rows = await db.getAllAsync<BinderRow & { rows?: number; columns?: number }>(
+            `SELECT id, name, current_count, total_capacity, cover_image_uri, rows, columns
+             FROM binders`
+        );
+        return {
+            binders: rows.map(row => ({
+                id: row.id,
+                title: row.name,
+                current: row.current_count,
+                total: row.total_capacity,
+                coverImageUri: row.cover_image_uri ?? undefined,
+                rows: row.rows ?? undefined,
+                columns: row.columns ?? undefined,
+            }))
         };
     }
 
-    async getBinderById(binderId: string): Promise<{ id: string; name: string; currentCount: number; totalCapacity: number; color: string | null; coverImageUri: string | null; insideColor: string | null; pageColor: string | null } | null> {
+    async getBinderById(binderId: string): Promise<import('./binders.types').BinderDetail | null> {
         const db = await getDatabase();
         const row = await db.getFirstAsync<{
             id: string;
@@ -93,18 +119,16 @@ export class SqliteBindersRepository implements BindersRepository {
             cover_image_uri: string | null;
             inside_color: string | null;
             page_color: string | null;
+            rows?: number;
+            columns?: number;
         }>(
-            `SELECT id, name, current_count, total_capacity, color, cover_image_uri, inside_color, page_color
-             FROM binders
-             WHERE id = ?
-             LIMIT 1`,
+            `SELECT id, name, current_count, total_capacity, color, cover_image_uri, inside_color, page_color, rows, columns
+             FROM binders WHERE id = ?`,
             [binderId]
         );
-
         if (!row) {
             return null;
         }
-
         return {
             id: row.id,
             name: row.name,
@@ -114,6 +138,8 @@ export class SqliteBindersRepository implements BindersRepository {
             coverImageUri: row.cover_image_uri,
             insideColor: row.inside_color,
             pageColor: row.page_color,
+            rows: row.rows ?? undefined,
+            columns: row.columns ?? undefined,
         };
     }
 
@@ -234,4 +260,4 @@ export class SqliteBindersRepository implements BindersRepository {
             values
         );
     }
-}
+    }

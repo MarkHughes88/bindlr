@@ -14,17 +14,17 @@ type BinderSizePreset = {
 	id: string;
 	label: string;
 	rows: number;
-	columns: number;
+	cols: number;
 	totalSlots: number;
 };
 
 const BINDER_SIZE_PRESETS: BinderSizePreset[] = [
-	{ id: '2x2-160', label: '4 pocket', rows: 2, columns: 2, totalSlots: 160 },
-	{ id: '3x3-360', label: '9 pocket', rows: 3, columns: 3, totalSlots: 360 },
-	{ id: '4x3-480', label: '9 pocket XL', rows: 4, columns: 3, totalSlots: 480 },
-	{ id: '4x3-624', label: '12 pocket', rows: 4, columns: 3, totalSlots: 624 },
-	{ id: '4x4-1088', label: '16 pocket', rows: 4, columns: 4, totalSlots: 1088 },
-	{ id: '5x4-1280', label: '20 pocket', rows: 5, columns: 4, totalSlots: 1280 },
+	{ id: '2x2-160', label: '4 pocket', rows: 2, cols: 2, totalSlots: 160 },
+	{ id: '3x3-360', label: '9 pocket', rows: 3, cols: 3, totalSlots: 360 },
+	{ id: '4x3-480', label: '9 pocket XL', rows: 3, cols: 4, totalSlots: 480 },
+	{ id: '4x3-624', label: '12 pocket', rows: 3, cols: 4, totalSlots: 624 },
+	{ id: '4x4-1088', label: '16 pocket', rows: 4, cols: 4, totalSlots: 1088 },
+	{ id: '5x4-1280', label: '20 pocket', rows: 4, cols: 5, totalSlots: 1280 },
 ];
 
 const BINDER_COLOR_PRESETS = ['black', 'navy', 'forest', 'red', 'teal', 'yellow'] as const;
@@ -227,13 +227,16 @@ export function BindersScreen() {
 
 		setIsCreatingBinder(true);
 		try {
-			       const created = await bindersRepository.createBinder({
-				       name: trimmedName,
-				       totalCapacity,
-				       color: COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
-				       insideColor: COLOR_SWATCH_BY_NAME[insideColor] ?? COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
-				       pageColor: COLOR_SWATCH_BY_NAME[pageColor] ?? COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
-			       });
+					       const created = await bindersRepository.createBinder({
+						       name: trimmedName,
+						       totalCapacity,
+						       color: COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
+						       insideColor: COLOR_SWATCH_BY_NAME[insideColor] ?? COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
+						       pageColor: COLOR_SWATCH_BY_NAME[pageColor] ?? COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
+						       // Always treat columns as horizontal count, rows as vertical
+						       columns: sizeMode === 'custom' ? parsedColumns : selectedPreset.cols,
+						       rows: sizeMode === 'custom' ? parsedRows : selectedPreset.rows,
+					       });
 			setBinders((prev) => [
 				{
 					id: created.id,

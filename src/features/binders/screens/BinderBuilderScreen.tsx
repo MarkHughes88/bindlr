@@ -1,5 +1,4 @@
 import { useEffect, useMemo, useState } from 'react';
-import { useCallback } from 'react';
 import { Image, Modal, Pressable, StyleSheet, View, useWindowDimensions } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
@@ -7,10 +6,21 @@ import * as ImagePicker from 'expo-image-picker';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
 import Animated, { useAnimatedStyle, useSharedValue, runOnJS } from 'react-native-reanimated';
 
-import { AppText, BackButton, Header, Icon, SkeletonBlock } from '@/src/shared/ui';
+import { AppText, BackButton, Icon, Grid } from '@/src/shared/ui';
 import { bindersRepository } from '@/src/lib/repositories';
 import { useAppTheme } from '@/src/theme/useAppTheme';
 import { lockLandscape, lockPortrait } from '@/src/lib/orientation';
+
+import { TcgCard } from '@/src/shared/ui';
+
+import { getCatalogTcgCardById } from '@/src/lib/catalog/catalog.lookup';
+import { BINDER_PRESETS } from '@/src/shared/config/binder-presets';
+import { getCardsPerPage, mapSlotsToPages } from '@/src/features/binders/utils/binderLayout';
+import { TCG_CARD_ASPECT_RATIO } from '@/src/shared/config/tcg';
+// Card and binder page layout constants
+export const tcgCardWidth = 66;
+export const binderPagePadding = 24; // Will be set to theme.spacing.lg in styles
+
 
 const DEFAULT_BINDER_COLOR = '#111111';
 
@@ -29,20 +39,24 @@ type Props = {
 	binderId?: string;
 };
 
-type BinderDetail = {
-	id: string;
-	name: string;
-	currentCount: number;
-	totalCapacity: number;
-	color: string | null;
-	coverImageUri: string | null;
-	insideColor: string | null;
-	pageColor: string | null;
-};
+import type { BinderDetail } from '../binders.types';
 
 function clamp(value: number, min: number, max: number): number {
 	'worklet';
 	return Math.min(Math.max(value, min), max);
+}
+
+// Centralized card renderer
+function renderTcgCard(card: { id: string; slotIndex: number; catalogTcgCardId: string; tcg: string; language: string | null }, getCatalogTcgCardById: any, styles: any) {
+	const catalogCard = getCatalogTcgCardById(card.tcg as CatalogTcg, card.catalogTcgCardId, card.language || undefined);
+	if (catalogCard) {
+		return (
+			<View style={styles.tcgCardContainer} key={card.id}>
+				<TcgCard borderRadius="none" tcgCard={{ id: catalogCard.id, title: catalogCard.name, imageSource: { uri: catalogCard.imageLargeLocal || catalogCard.imageLarge || '' } }} />
+			</View>
+		);
+	}
+	return <AppText style={styles.tcgCardContainer} key={card.id} muted>No card</AppText>;
 }
 
 export function BinderBuilderScreen({ binderId }: Props) {
@@ -60,15 +74,31 @@ export function BinderBuilderScreen({ binderId }: Props) {
 	}, []);
 
 	const [binder, setBinder] = useState<BinderDetail | null>(null);
+	const [cards, setCards] = useState<{ id: string; slotIndex: number; catalogTcgCardId: string; tcg: string; language: string | null }[]>([]);
 	const [isLoading, setIsLoading] = useState(true);
 	const [colorPickerVisible, setColorPickerVisible] = useState(false);
 	const [currentSpread, setCurrentSpread] = useState(0);
-	// Assume 9 cards per page by default; TODO: get from binder preset if available
-	const cardsPerPage = 9;
+	// Use binder-stored rows/columns for grid and cards per page
+
+	const binderRows = binder?.rows ?? 3;
+	const binderCols = binder?.columns ?? 3;
+	const gap = theme.spacing.xs;
+	const cardsPerPage = binderRows * binderCols;
 	const totalPages = binder?.totalCapacity ? Math.ceil(binder.totalCapacity / cardsPerPage) : 0;
 	const numDoubleSpreads = Math.ceil(totalPages / 2);
 	// totalSpreads: 1 (cover) + numDoubleSpreads + 1 (last page)
 	const totalSpreads = 1 + numDoubleSpreads + 1;
+
+	// Calculate binder page size
+	const binderPageWidth = (binderCols * tcgCardWidth) + (gap * (binderCols - 1)) + (theme.spacing.lg * 2);
+	const binderPageHeight = (binderRows * (tcgCardWidth / TCG_CARD_ASPECT_RATIO)) + (gap * (binderRows - 1)) + (theme.spacing.lg * 2);
+
+	// Map slot indices to pages using binderRows and binderCols
+	const slotIndicesByPage = useMemo(() => {
+		// Create a fake preset object for compatibility with mapSlotsToPages
+		const dynamicPreset = { rows: binderRows, cols: binderCols };
+		return mapSlotsToPages(binder?.totalCapacity || 0, dynamicPreset);
+	}, [binder?.totalCapacity, binderRows, binderCols]);
 	const scale = useSharedValue(1);
 	const scaleStart = useSharedValue(1);
 	const translateX = useSharedValue(0);
@@ -99,19 +129,26 @@ export function BinderBuilderScreen({ binderId }: Props) {
 		       }
 	       });
 
+
 	useEffect(() => {
 		let cancelled = false;
 
 		if (!binderId) {
 			setBinder(null);
+			setCards([]);
 			setIsLoading(false);
 			return;
 		}
 
 		setIsLoading(true);
-		void bindersRepository.getBinderById(binderId).then((result) => {
+		Promise.all([
+			bindersRepository.getBinderById(binderId),
+			bindersRepository.getCardsForBinder(binderId),
+		]).then(([binderResult, cardsResult]) => {
 			if (cancelled) return;
-			setBinder(result);
+			console.log('Loaded binder data:', binderResult);
+			setBinder(binderResult);
+			setCards(cardsResult);
 			setIsLoading(false);
 		});
 
@@ -132,8 +169,9 @@ export function BinderBuilderScreen({ binderId }: Props) {
 	const coverImageUri = binder?.coverImageUri ?? null;
 	const availableCanvasHeight = Math.max(0, height - bottomNavHeight - theme.spacing.md);
 	const availableCanvasWidth = Math.max(0, width);
-	const coverHeight = Math.round(availableCanvasHeight);
-	const coverWidth = Math.round(Math.min(availableCanvasWidth, coverHeight * 0.714));
+	// Use calculated binder page size for cover/page
+	const coverWidth = Math.round(binderPageWidth);
+	const coverHeight = Math.round(binderPageHeight);
 
 	const pinchGesture = Gesture.Pinch()
 		.onBegin(() => {
@@ -245,7 +283,7 @@ export function BinderBuilderScreen({ binderId }: Props) {
 								{/* Left page: only first double spread gets insideColor */}
 											 {/* Render exactly two pages per double spread, with page numbers */}
 											   <View style={{ flexDirection: 'row' }}>
-													{(() => {
+												   {(() => {
 													   // Calculate the page numbers for this spread
 													   const spreadIndex = currentSpread - 1; // since 0 is cover
 													   const leftPageNum = spreadIndex * 2 + 1;
@@ -257,7 +295,8 @@ export function BinderBuilderScreen({ binderId }: Props) {
 													   // Right page color logic
 													   const rightColor = (currentSpread === totalSpreads - 2) ? insideColor : pageColor;
 													   return [
-														   leftPageNum <= totalPages && (
+														   // Always render the left page (inside cover or card page)
+														   (
 															   <View key="left" style={[styles.binderCover, {
 																   width: coverWidth,
 																   height: coverHeight,
@@ -265,13 +304,30 @@ export function BinderBuilderScreen({ binderId }: Props) {
 																   alignItems: 'center',
 																   justifyContent: 'center',
 															   }]}> 
-																   <AppText weight="semibold" style={{ color: '#bbb', fontSize: 20 }}>
-																	   {currentSpread === 1 ? 'Inside Color' : 'Page Color'}
-																	   {`\nPage ${leftPageNum}`}
-																   </AppText>
+																   {currentSpread === 1
+																	   ? null // First spread left page: empty (inside cover)
+																	   : <Grid columns={binderCols} gap={theme.spacing.xs}>
+																		   {(() => {
+																			   const slotIndices = slotIndicesByPage[leftPageNum - 1] || [];
+																			   const pageCards = cards.filter(c => slotIndices.includes(c.slotIndex));
+																			   const totalSlots = slotIndices.length;
+																			   const emptySlots = totalSlots - pageCards.length;
+																			   console.log('LEFT PAGE', leftPageNum, { slotIndices, pageCards, cards });
+																			   return [
+																				   ...pageCards.map(card => renderTcgCard(card, getCatalogTcgCardById, styles)),
+																				   ...Array.from({ length: emptySlots > 0 ? emptySlots : 0 }).map((_, i) => (
+																					   <View style={[styles.tcgCardContainer, { justifyContent: 'center', alignItems: 'center', borderWidth: 1, borderColor: theme.colors.borderSubtle, backgroundColor: theme.colors.surfaceAlt }]} key={`empty-left-${i}`}>
+																						   <AppText muted>Empty Slot</AppText>
+																					   </View>
+																				   ))
+																			   ];
+																		   })()}
+																	   </Grid>
+																   }
 															   </View>
 														   ),
-														   rightPageNum <= totalPages && (
+														   // Always render the right page (inside cover or card page)
+														   (
 															   <View key="right" style={[styles.binderCover, {
 																   width: coverWidth,
 																   height: coverHeight,
@@ -279,10 +335,26 @@ export function BinderBuilderScreen({ binderId }: Props) {
 																   alignItems: 'center',
 																   justifyContent: 'center',
 															   }]}> 
-																   <AppText weight="semibold" style={{ color: '#bbb', fontSize: 20 }}>
-																	   {currentSpread === totalSpreads - 2 ? 'Inside Color' : 'Page Color'}
-																	   {`\nPage ${rightPageNum}`}
-																   </AppText>
+																   {currentSpread === totalSpreads - 2
+																	   ? null // Last spread right page: empty (inside cover)
+																	   : <Grid columns={binderCols} gap={theme.spacing.xs}>
+																		   {(() => {
+																			   const slotIndices = slotIndicesByPage[rightPageNum - 1] || [];
+																			   const pageCards = cards.filter(c => slotIndices.includes(c.slotIndex));
+																			   const totalSlots = slotIndices.length;
+																			   const emptySlots = totalSlots - pageCards.length;
+																			   console.log('RIGHT PAGE', rightPageNum, { slotIndices, pageCards, cards });
+																			   return [
+																				   ...pageCards.map(card => renderTcgCard(card, getCatalogTcgCardById, styles)),
+																				   ...Array.from({ length: emptySlots > 0 ? emptySlots : 0 }).map((_, i) => (
+																					   <View style={[styles.tcgCardContainer, { justifyContent: 'center', alignItems: 'center', borderWidth: 1, borderColor: theme.colors.borderSubtle, backgroundColor: theme.colors.surfaceAlt }]} key={`empty-right-${i}`}>
+																						   <AppText muted>Empty Slot</AppText>
+																					   </View>
+																				   ))
+																			   ];
+																		   })()}
+																	   </Grid>
+																   }
 															   </View>
 														   )
 													   ];
@@ -313,7 +385,7 @@ export function BinderBuilderScreen({ binderId }: Props) {
 									<Icon iconName="chevronsLeft" size={24} color={theme.colors.text} />
 								</View>
 							</Pressable>
-							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => (s > 0 ? s - 1 : s))}>
+							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => Math.max(0, s - 1))}>
 								<View style={styles.bottomNavIconWrap}>
 									<Icon iconName="chevronLeft" size={24} color={theme.colors.text} />
 								</View>
@@ -362,7 +434,7 @@ export function BinderBuilderScreen({ binderId }: Props) {
 							</Pressable>
 						</View>
 						<View style={[styles.bottomNavSideGroup, styles.bottomNavSideGroupRight]}>
-							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => (s < totalSpreads - 1 ? s + 1 : s))}>
+							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => Math.min(totalSpreads - 1, s + 1))}>
 								<View style={styles.bottomNavIconWrap}>
 									<Icon iconName="chevronRight" size={24} color={theme.colors.text} />
 								</View>
@@ -471,6 +543,7 @@ const createStyles = (theme: ReturnType<typeof useAppTheme>) =>
 			overflow: 'hidden',
 			alignItems: 'center',
 			justifyContent: 'center',
+			padding: theme.spacing.lg,
 		},
 		coverButtons: {
 			gap: theme.spacing.sm,
@@ -590,6 +663,12 @@ const createStyles = (theme: ReturnType<typeof useAppTheme>) =>
 		},
 		colorSwatchActive: {
 			borderColor: theme.colors.primary,
+		},
+		tcgCardContainer: {
+			width: tcgCardWidth,
+			aspectRatio: TCG_CARD_ASPECT_RATIO,
+			borderRadius: theme.radius.xs,
+			overflow: 'hidden',
 		},
 	});
 

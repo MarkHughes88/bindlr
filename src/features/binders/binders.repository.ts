@@ -21,4 +21,5 @@ export interface BindersRepository {
 	       variantName?: string;
        }): Promise<{ added: boolean; reason?: 'full' | 'missing' }>;
        deleteBinders(binderIds: string[]): Promise<void>;
+	getCardsForBinder(binderId: string): Promise<{ slotIndex: number; catalogTcgCardId: string; id: string; tcg: string; language: string | null }[]>;
 }
