@@ -36,6 +36,8 @@ type BinderDetail = {
 	totalCapacity: number;
 	color: string | null;
 	coverImageUri: string | null;
+	insideColor: string | null;
+	pageColor: string | null;
 };
 
 function clamp(value: number, min: number, max: number): number {
@@ -60,6 +62,13 @@ export function BinderBuilderScreen({ binderId }: Props) {
 	const [binder, setBinder] = useState<BinderDetail | null>(null);
 	const [isLoading, setIsLoading] = useState(true);
 	const [colorPickerVisible, setColorPickerVisible] = useState(false);
+	const [currentSpread, setCurrentSpread] = useState(0);
+	// Assume 9 cards per page by default; TODO: get from binder preset if available
+	const cardsPerPage = 9;
+	const totalPages = binder?.totalCapacity ? Math.ceil(binder.totalCapacity / cardsPerPage) : 0;
+	const numDoubleSpreads = Math.ceil(totalPages / 2);
+	// totalSpreads: 1 (cover) + numDoubleSpreads + 1 (last page)
+	const totalSpreads = 1 + numDoubleSpreads + 1;
 	const scale = useSharedValue(1);
 	const scaleStart = useSharedValue(1);
 	const translateX = useSharedValue(0);
@@ -118,6 +127,8 @@ export function BinderBuilderScreen({ binderId }: Props) {
 	const backplateHeight = 33 + navLift;
 	const bottomNavHeight = 58 + theme.spacing.xs + navLift;
 	const coverColor = binder?.color ?? DEFAULT_BINDER_COLOR;
+	const insideColor = binder?.insideColor ?? coverColor;
+	const pageColor = binder?.pageColor ?? coverColor;
 	const coverImageUri = binder?.coverImageUri ?? null;
 	const availableCanvasHeight = Math.max(0, height - bottomNavHeight - theme.spacing.md);
 	const availableCanvasWidth = Math.max(0, width);
@@ -176,61 +187,115 @@ export function BinderBuilderScreen({ binderId }: Props) {
 		setBinder((prev) => (prev ? { ...prev, color } : prev));
 	}
 
-	       return (
-		       <SafeAreaView
-			       edges={['top']}
-			       style={styles.safeArea}
-		       >
-			       <View style={styles.builderShell}>
-				<View style={styles.backBtnWrap}>
-					<BackButton onPress={() => router.back()} />
-				</View>
+		return (
+			<SafeAreaView
+				edges={['top']}
+				style={styles.safeArea}
+			>
+				<View style={styles.builderShell}>
+					<View style={styles.backBtnWrap}>
+						<BackButton onPress={() => router.back()} />
+					</View>
 
-				{/* Binder canvas */}
-				<View style={styles.canvasArea}>
-					{isLoading ? (
-						<SkeletonBlock width={coverWidth} height={coverHeight} borderRadius={theme.radius.md} />
-					) : (
-							       <GestureDetector gesture={binderGesture}>
-								       {/* Entire canvas area is now gesturable */}
-								       <View style={styles.canvasArea}>
-									       {isLoading ? (
-										       <SkeletonBlock width={coverWidth} height={coverHeight} borderRadius={theme.radius.md} />
-									       ) : (
-										       <Animated.View style={binderTransformStyle}>
-											       <View style={[styles.binderCover, { width: coverWidth, height: coverHeight, backgroundColor: coverColor }]}> 
-												       {coverImageUri ? (
-													       <Image source={{ uri: coverImageUri }} style={StyleSheet.absoluteFill} resizeMode="cover" />
-												       ) : null}
-												       <View style={styles.coverButtons}>
-													       <Pressable style={styles.coverBtn} onPress={() => void handleChooseImage()}>
-														       <Icon iconName="imagePlus" size={16} color="#111111" />
-														       <AppText weight="semibold" style={styles.coverBtnText}>Choose image</AppText>
-													       </Pressable>
-													       <Pressable style={styles.coverBtn} onPress={() => setColorPickerVisible(true)}>
-														       <Icon iconName="palette" size={16} color="#111111" />
-														       <AppText weight="semibold" style={styles.coverBtnText}>Choose colour</AppText>
-													       </Pressable>
-												       </View>
-											       </View>
-										       </Animated.View>
-									       )}
-								       </View>
-							       </GestureDetector>
-					)}
-				</View>
+					{/* Binder canvas: cover uses original UI, spreads are blank */}
+					<View style={[styles.canvasArea, { flexDirection: 'row', justifyContent: 'center', alignItems: 'center' }]}> 
+						{currentSpread === 0 ? (
+							<GestureDetector gesture={binderGesture}>
+								<View style={styles.canvasArea}>
+									<Animated.View style={binderTransformStyle}>
+										<View style={[styles.binderCover, { width: coverWidth, height: coverHeight, backgroundColor: coverColor }]}> 
+											{coverImageUri ? (
+												<Image source={{ uri: coverImageUri }} style={StyleSheet.absoluteFill} resizeMode="cover" />
+											) : null}
+											<View style={styles.coverButtons}>
+												<AppText weight="semibold" style={{ color: '#bbb', fontSize: 20 }}>Cover Color</AppText>
+												<Pressable style={styles.coverBtn} onPress={() => void handleChooseImage()}>
+													<Icon iconName="imagePlus" size={16} color="#111111" />
+													<AppText weight="semibold" style={styles.coverBtnText}>Choose image</AppText>
+												</Pressable>
+												<Pressable style={styles.coverBtn} onPress={() => setColorPickerVisible(true)}>
+													<Icon iconName="palette" size={16} color="#111111" />
+													<AppText weight="semibold" style={styles.coverBtnText}>Choose colour</AppText>
+												</Pressable>
+											</View>
+										</View>
+									</Animated.View>
+								</View>
+							</GestureDetector>
+						) : currentSpread < totalSpreads - 1 ? (
+							<>
+								{/* Left page: only first double spread gets insideColor */}
+											 {/* Render exactly two pages per double spread, with page numbers */}
+											   <View style={{ flexDirection: 'row' }}>
+													{(() => {
+													   // Calculate the page numbers for this spread
+													   const spreadIndex = currentSpread - 1; // since 0 is cover
+													   const leftPageNum = spreadIndex * 2 + 1;
+													   const rightPageNum = leftPageNum + 1;
+													   // Total number of card pages (not counting cover/last)
+													   const totalPages = binder?.totalCapacity ? Math.ceil(binder.totalCapacity / cardsPerPage) : 0;
+													   // Left page color logic
+													   const leftColor = currentSpread === 1 ? insideColor : pageColor;
+													   // Right page color logic
+													   const rightColor = (currentSpread === totalSpreads - 2) ? insideColor : pageColor;
+													   return [
+														   leftPageNum <= totalPages && (
+															   <View key="left" style={[styles.binderCover, {
+																   width: coverWidth,
+																   height: coverHeight,
+																   backgroundColor: leftColor,
+																   alignItems: 'center',
+																   justifyContent: 'center',
+															   }]}> 
+																   <AppText weight="semibold" style={{ color: '#bbb', fontSize: 20 }}>
+																	   {currentSpread === 1 ? 'Inside Color' : 'Page Color'}
+																	   {`\nPage ${leftPageNum}`}
+																   </AppText>
+															   </View>
+														   ),
+														   rightPageNum <= totalPages && (
+															   <View key="right" style={[styles.binderCover, {
+																   width: coverWidth,
+																   height: coverHeight,
+																   backgroundColor: rightColor,
+																   alignItems: 'center',
+																   justifyContent: 'center',
+															   }]}> 
+																   <AppText weight="semibold" style={{ color: '#bbb', fontSize: 20 }}>
+																	   {currentSpread === totalSpreads - 2 ? 'Inside Color' : 'Page Color'}
+																	   {`\nPage ${rightPageNum}`}
+																   </AppText>
+															   </View>
+														   )
+													   ];
+												   })()}
+											   </View>
+							</>
+						) : (
+							<View style={[styles.binderCover, {
+								width: coverWidth,
+								height: coverHeight,
+								marginHorizontal: 8,
+								backgroundColor: coverColor,
+								alignItems: 'center',
+								justifyContent: 'center',
+							}]}> 
+								<AppText weight="semibold" style={{ color: '#bbb', fontSize: 20 }}>Cover Color (Last Page)</AppText>
+							</View>
+						)}
+					</View>
 
 				{/* Bottom nav */}
 				<View style={[styles.bottomNavOuterWrap, { paddingBottom: bottomInset + navLift }]}> 
 					<View pointerEvents="none" style={[styles.bottomNavBackplate, { height: backplateHeight }]} />
 					<View style={styles.bottomNavRow}>
 						<View style={[styles.bottomNavSideGroup, styles.bottomNavSideGroupLeft]}>
-							<Pressable style={styles.bottomNavButton}>
+							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread(0)}>
 								<View style={styles.bottomNavIconWrap}>
 									<Icon iconName="chevronsLeft" size={24} color={theme.colors.text} />
 								</View>
 							</Pressable>
-							<Pressable style={styles.bottomNavButton}>
+							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => Math.max(0, s - 1))}>
 								<View style={styles.bottomNavIconWrap}>
 									<Icon iconName="chevronLeft" size={24} color={theme.colors.text} />
 								</View>
@@ -279,12 +344,12 @@ export function BinderBuilderScreen({ binderId }: Props) {
 							</Pressable>
 						</View>
 						<View style={[styles.bottomNavSideGroup, styles.bottomNavSideGroupRight]}>
-							<Pressable style={styles.bottomNavButton}>
+							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread((s) => Math.min(totalSpreads - 1, s + 1))}>
 								<View style={styles.bottomNavIconWrap}>
 									<Icon iconName="chevronRight" size={24} color={theme.colors.text} />
 								</View>
 							</Pressable>
-							<Pressable style={styles.bottomNavButton}>
+							<Pressable style={styles.bottomNavButton} onPress={() => setCurrentSpread(totalSpreads - 1)}>
 								<View style={styles.bottomNavIconWrap}>
 									<Icon iconName="chevronsRight" size={24} color={theme.colors.text} />
 								</View>

@@ -227,11 +227,13 @@ export function BindersScreen() {
 
 		setIsCreatingBinder(true);
 		try {
-			const created = await bindersRepository.createBinder({
-				name: trimmedName,
-				totalCapacity,
-				description: `cover:${coverColor};inside:${insideColor};page:${pageColor}`,
-			});
+			       const created = await bindersRepository.createBinder({
+				       name: trimmedName,
+				       totalCapacity,
+				       color: COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
+				       insideColor: COLOR_SWATCH_BY_NAME[insideColor] ?? COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
+				       pageColor: COLOR_SWATCH_BY_NAME[pageColor] ?? COLOR_SWATCH_BY_NAME[coverColor] ?? '#111111',
+			       });
 			setBinders((prev) => [
 				{
 					id: created.id,

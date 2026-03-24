@@ -10,7 +10,10 @@ import { migration008DownloadAssetLocalPaths } from './008_download_asset_local_
 import { migration009DownloadQualitySetting } from './009_download_quality_setting';
 import { migration010DownloadScopeQuality } from './010_download_scope_quality';
 import { migration011ForceOfflineModeSetting } from './011_force_offline_mode_setting';
+
 import { migration012BinderColor } from './012_binder_color';
+import { migration013BinderInsideColor } from './XXX_binder_inside_color';
+import { migration014BinderPageColor } from './014_binder_page_color';
 
 export type Migration = {
 	version: number;
@@ -19,16 +22,18 @@ export type Migration = {
 };
 
 export const migrations: Migration[] = [
-	migration001Initial,
-	migration002CardDestinations,
-	migration003UserSettings,
-	migration004FavoriteSets,
-	migration005CardIdentity,
-	migration006CatalogFilterPersistence,
-	migration007DownloadsFoundation,
-	migration008DownloadAssetLocalPaths,
-	migration009DownloadQualitySetting,
-	migration010DownloadScopeQuality,
-	migration011ForceOfflineModeSetting,
-	migration012BinderColor,
+  migration001Initial,
+  migration002CardDestinations,
+  migration003UserSettings,
+  migration004FavoriteSets,
+  migration005CardIdentity,
+  migration006CatalogFilterPersistence,
+  migration007DownloadsFoundation,
+  migration008DownloadAssetLocalPaths,
+  migration009DownloadQualitySetting,
+  migration010DownloadScopeQuality,
+  migration011ForceOfflineModeSetting,
+  migration012BinderColor,
+  migration013BinderInsideColor,
+  migration014BinderPageColor,
 ];

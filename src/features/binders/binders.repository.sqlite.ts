@@ -11,6 +11,8 @@ type BinderRow = {
     total_capacity: number;
     cover_image_uri: string | null;
     color: string | null;
+    inside_color: string | null;
+    page_color: string | null;
 };
 
 function createLocalId(prefix: string): string {
@@ -21,7 +23,7 @@ export class SqliteBindersRepository implements BindersRepository {
     async getBindersData(): Promise<BindersData> {
         const db = await getDatabase();
         const rows = await db.getAllAsync<BinderRow>(
-            `SELECT id, name, description, current_count, total_capacity, cover_image_uri
+            `SELECT id, name, description, current_count, total_capacity, cover_image_uri, color, inside_color, page_color
              FROM binders
              ORDER BY updated_at DESC`
         );
@@ -33,6 +35,7 @@ export class SqliteBindersRepository implements BindersRepository {
                 current: row.current_count,
                 total: row.total_capacity,
                 coverImageUri: row.cover_image_uri ?? undefined,
+                // insideColor is not used in list, but could be added if needed
             })),
         };
     }
@@ -41,11 +44,17 @@ export class SqliteBindersRepository implements BindersRepository {
         name: string;
         description?: string | null;
         totalCapacity?: number;
+        color?: string | null;
+        insideColor?: string | null;
+        pageColor?: string | null;
     }): Promise<{ id: string; name: string; currentCount: number; totalCapacity: number }> {
         const db = await getDatabase();
         const now = new Date().toISOString();
         const binderId = createLocalId('binder');
         const totalCapacity = input.totalCapacity ?? 360;
+        const color = input.color ?? '#111111';
+        const insideColor = input.insideColor ?? color;
+        const pageColor = input.pageColor ?? color;
 
         await db.runAsync(
             `INSERT INTO binders (
@@ -56,10 +65,13 @@ export class SqliteBindersRepository implements BindersRepository {
                 current_count,
                 total_capacity,
                 cover_image_uri,
+                color,
+                inside_color,
+                page_color,
                 created_at,
                 updated_at
-            ) VALUES (?, 'local', ?, ?, 0, ?, NULL, ?, ?)`,
-            [binderId, input.name, input.description ?? null, totalCapacity, now, now]
+            ) VALUES (?, 'local', ?, ?, 0, ?, NULL, ?, ?, ?, ?, ?)`,
+            [binderId, input.name, input.description ?? null, totalCapacity, color, insideColor, pageColor, now, now]
         );
 
         return {
@@ -70,7 +82,7 @@ export class SqliteBindersRepository implements BindersRepository {
         };
     }
 
-    async getBinderById(binderId: string): Promise<{ id: string; name: string; currentCount: number; totalCapacity: number; color: string | null; coverImageUri: string | null } | null> {
+    async getBinderById(binderId: string): Promise<{ id: string; name: string; currentCount: number; totalCapacity: number; color: string | null; coverImageUri: string | null; insideColor: string | null; pageColor: string | null } | null> {
         const db = await getDatabase();
         const row = await db.getFirstAsync<{
             id: string;
@@ -79,8 +91,10 @@ export class SqliteBindersRepository implements BindersRepository {
             total_capacity: number;
             color: string | null;
             cover_image_uri: string | null;
+            inside_color: string | null;
+            page_color: string | null;
         }>(
-            `SELECT id, name, current_count, total_capacity, color, cover_image_uri
+            `SELECT id, name, current_count, total_capacity, color, cover_image_uri, inside_color, page_color
              FROM binders
              WHERE id = ?
              LIMIT 1`,
@@ -98,6 +112,8 @@ export class SqliteBindersRepository implements BindersRepository {
             totalCapacity: row.total_capacity,
             color: row.color,
             coverImageUri: row.cover_image_uri,
+            insideColor: row.inside_color,
+            pageColor: row.page_color,
         };
     }
 
@@ -188,7 +204,7 @@ export class SqliteBindersRepository implements BindersRepository {
         );
     }
 
-    async updateBinderCover(binderId: string, update: { color?: string | null; coverImageUri?: string | null }): Promise<void> {
+    async updateBinderCover(binderId: string, update: { color?: string | null; coverImageUri?: string | null; insideColor?: string | null }): Promise<void> {
         const db = await getDatabase();
         const now = new Date().toISOString();
         const sets: string[] = [];
@@ -201,6 +217,10 @@ export class SqliteBindersRepository implements BindersRepository {
         if ('coverImageUri' in update) {
             sets.push('cover_image_uri = ?');
             values.push(update.coverImageUri ?? null);
+        }
+        if ('insideColor' in update) {
+            sets.push('inside_color = ?');
+            values.push(update.insideColor ?? null);
         }
 
         if (sets.length === 0) return;
