@@ -258,7 +258,7 @@ export function enterWishlistContext(input: CatalogBrowseContextInput = {}) {
     level: input.level ?? 'cards',
     filters: createTemporaryContextFilters('wishlist', input.routeTcg),
     searchQuery: input.routeSearchQuery ?? '',
-    selectedSort: state.browseSelectedSort,
+    selectedSort: null,
   });
 }
 

@@ -1,13 +1,13 @@
-import type { HomeRepository } from "./home.repository";
-import type { HomeData, HomeRecentViewRecord, HomeTcgCardRailItem, RecordRecentViewInput } from "./home.types";
-import type { InventoryRepository } from "@/src/features/inventory/inventory.repository";
-import type { CatalogRepository } from "@/src/features/catalog/catalog.repository";
+import type { CatalogLanguage, CatalogTcg } from '@/src/domain/catalog/catalog.types';
 import type { BindersRepository } from "@/src/features/binders/binders.repository";
-import { getDatabase } from "@/src/lib/db/client";
-import { createId } from "@/src/lib/db/id";
+import type { CatalogRepository } from "@/src/features/catalog/catalog.repository";
+import type { InventoryRepository } from "@/src/features/inventory/inventory.repository";
 import { getCatalogTcgCardById } from '@/src/lib/catalog/catalog.lookup';
 import { resolveTcgCardImageSource } from "@/src/lib/catalog/resolveTcgCardImageSource";
-import type { CatalogLanguage, CatalogTcg } from '@/src/domain/catalog/catalog.types';
+import { getDatabase } from "@/src/lib/db/client";
+import { createId } from "@/src/lib/db/id";
+import type { HomeRepository } from "./home.repository";
+import type { HomeData, HomeRecentViewRecord, HomeTcgCardRailItem, RecordRecentViewInput } from "./home.types";
 
 type RecentViewRow = {
 	id: string;
@@ -21,7 +21,6 @@ type RecentViewRow = {
 
 const RECENT_VIEWS_RETENTION_LIMIT = 100;
 const HOME_RAIL_LIMIT = 10;
-const HOME_RUNTIME_SHUFFLE_SEED = Date.now();
 
 type CatalogCardReferenceRow = {
 	catalog_tcg_card_id: string;
@@ -29,21 +28,6 @@ type CatalogCardReferenceRow = {
 	language: CatalogLanguage | null;
 	added_at: string;
 };
-
-function hashString(value: string): number {
-	let hash = 0;
-	for (let index = 0; index < value.length; index += 1) {
-		hash = (hash * 31 + value.charCodeAt(index)) >>> 0;
-	}
-
-	return hash;
-}
-
-function orderByRuntimeShuffle<T extends { id: string }>(items: T[]): T[] {
-	return [...items].sort((left, right) => (
-		hashString(`${HOME_RUNTIME_SHUFFLE_SEED}:${left.id}`) - hashString(`${HOME_RUNTIME_SHUFFLE_SEED}:${right.id}`)
-	));
-}
 
 function toHomeRailItem(input: {
 	mode: 'wishlist' | 'missingCards';
@@ -126,7 +110,8 @@ export class SqliteHomeRepository implements HomeRepository {
 			`SELECT catalog_tcg_card_id, tcg, language, MAX(added_at) AS added_at
 			 FROM wishlist_cards
 			 WHERE tcg IS NOT NULL
-			 GROUP BY catalog_tcg_card_id, tcg, COALESCE(language, '')`
+			 GROUP BY catalog_tcg_card_id, tcg, COALESCE(language, '')
+			 ORDER BY added_at DESC`
 		);
 
 		const items = rows
@@ -140,8 +125,7 @@ export class SqliteHomeRepository implements HomeRepository {
 			}))
 			.filter((item): item is HomeTcgCardRailItem => Boolean(item));
 
-		const ordered = orderByRuntimeShuffle(items);
-		return typeof limit === 'number' ? ordered.slice(0, limit) : ordered;
+		return typeof limit === 'number' ? items.slice(0, limit) : items;
 	}
 
 	async getMissingBinderCards(limit?: number): Promise<HomeTcgCardRailItem[]> {
@@ -173,8 +157,7 @@ export class SqliteHomeRepository implements HomeRepository {
 			}))
 			.filter((item): item is HomeTcgCardRailItem => Boolean(item));
 
-		const ordered = orderByRuntimeShuffle(items);
-		return typeof limit === 'number' ? ordered.slice(0, limit) : ordered;
+		return typeof limit === 'number' ? items.slice(0, limit) : items;
 	}
 
 	async recordRecentView(input: RecordRecentViewInput): Promise<void> {

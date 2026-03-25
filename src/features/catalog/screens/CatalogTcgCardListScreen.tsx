@@ -1,27 +1,11 @@
+import { useFocusEffect, useRouter } from "expo-router";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Pressable, StyleSheet, View } from "react-native";
-import { useFocusEffect, useRouter } from "expo-router";
 
 // Import theme
 import { useAppTheme } from "@/src/theme/useAppTheme";
 
 // Import components
-import {
-	Screen,
-	Header,
-	AppText,
-	Grid,
-	TcgCard,
-	Section,
-	Button,
-	Divider,
-	SkeletonBlock,
-	FadeInView,
-} from "@/src/shared/ui";
-import { resolveTcgCardImageSource } from "@/src/lib/catalog/resolveTcgCardImageSource";
-import { normalizeSearchQuery, matchesSearchValue } from "@/src/features/search/search.utils";
-import { sortCatalogTcgCards } from "@/src/features/catalog/catalog.sort";
-import { CatalogBrowseToolbar } from '@/src/features/catalog/components/CatalogBrowseToolbar';
 import {
 	CatalogScreenFilters,
 	DEFAULT_CATALOG_FILTERS,
@@ -30,27 +14,47 @@ import {
 import {
 	matchesGameSpecificSelections,
 } from '@/src/features/catalog/catalog.gameSpecific';
+import { sortCatalogTcgCards } from "@/src/features/catalog/catalog.sort";
+import { CatalogBrowseToolbar } from '@/src/features/catalog/components/CatalogBrowseToolbar';
+import { matchesSearchValue, normalizeSearchQuery } from "@/src/features/search/search.utils";
+import { resolveTcgCardImageSource } from "@/src/lib/catalog/resolveTcgCardImageSource";
+import {
+	AppText,
+	Button,
+	Divider,
+	FadeInView,
+	Grid,
+	Header,
+	Screen,
+	Section,
+	SkeletonBlock,
+	TcgCard,
+} from "@/src/shared/ui";
 
 // Import repositories
-import { homeRepository, catalogRepository, inventoryRepository, downloadsRepository } from "@/src/lib/repositories";
+import { catalogRepository, downloadsRepository, homeRepository, inventoryRepository } from "@/src/lib/repositories";
 
 // Import types
 import type { CatalogLanguage, CatalogTcg, CatalogTcgCardAttributes } from "@/src/domain/catalog/catalog.types";
-import type { CatalogTcgCardSortDirection, CatalogTcgCardSortKey } from "@/src/features/catalog/catalog.types";
-import type { TcgCardItem } from "@/src/shared/ui/TcgCard";
-import type { HomeTcgCardRailItem } from '@/src/features/home/home.types';
+import type { CatalogTcgCardSortDirection } from "@/src/features/catalog/catalog.types";
 import {
-	updateCatalogBrowseToolbarFilters,
-	updateCatalogBrowseToolbarSearchQuery,
-	updateCatalogBrowseToolbarSort,
+	type CatalogBrowseContext,
+	clearCatalogTemporaryContextAndRestoreBrowse,
+	getCatalogBrowseToolbarSnapshot,
+	updateActiveCatalogFilters,
+	updateActiveCatalogSearchQuery,
+	updateActiveCatalogSort,
 	useCatalogBrowseToolbarState,
 } from '@/src/features/catalog/catalogBrowseToolbar.state';
+import type { HomeTcgCardRailItem } from '@/src/features/home/home.types';
+import type { TcgCardItem } from "@/src/shared/ui/TcgCard";
 
 type Row = {
 	id: string;
 	rowKey: string;
 	tcg: CatalogTcg;
 	catalogTcgCardId: string;
+	activityAt: string | undefined;
 	language: CatalogLanguage | undefined;
 	title: string;
 	setId: string | undefined;
@@ -74,12 +78,23 @@ type CatalogTcgCardListScreenProps = {
 const DEFAULT_PAGE_SIZE = 99;
 const DEFAULT_SORT_DIRECTION: CatalogTcgCardSortDirection = 'asc';
 
-const PERSISTED_SEARCH_QUERY_BY_MODE: Record<'catalog' | 'recentlyViewed' | 'wishlist' | 'missingCards', string> = {
-	catalog: '',
-	recentlyViewed: '',
-	wishlist: '',
-	missingCards: '',
-};
+function toCatalogContextFromSpecialMode(
+	specialMode?: 'recentlyViewed' | 'wishlist' | 'missingCards'
+): CatalogBrowseContext | null {
+	if (specialMode === 'recentlyViewed') {
+		return 'recent';
+	}
+
+	if (specialMode === 'wishlist') {
+		return 'wishlist';
+	}
+
+	if (specialMode === 'missingCards') {
+		return 'missing';
+	}
+
+	return null;
+}
 
 export function CatalogTcgCardListScreen({
 	searchPlaceholder,
@@ -104,56 +119,24 @@ export function CatalogTcgCardListScreen({
 	const [pageSize] = useState(DEFAULT_PAGE_SIZE);
 	const [totalPages, setTotalPages] = useState(1);
 	const [totalItems, setTotalItems] = useState(0);
-	const initialModeKey = (specialMode ?? (initialFilters?.recentlyViewed ? 'recentlyViewed' : 'catalog')) as 'catalog' | 'recentlyViewed' | 'wishlist' | 'missingCards';
-	const [searchQuery, setSearchQuery] = useState(() => (
-		typeof initialSearchQuery === 'string'
-			? initialSearchQuery
-			: PERSISTED_SEARCH_QUERY_BY_MODE[initialModeKey]
-	));
-	const savedSearchByModeRef = useRef<Record<'catalog' | 'recentlyViewed' | 'wishlist' | 'missingCards', string>>({
-		...PERSISTED_SEARCH_QUERY_BY_MODE,
-	});
 	const loadRequestIdRef = useRef(0);
-	const [selectedSort, setSelectedSort] = useState<{
-		key: CatalogTcgCardSortKey;
-		direction: CatalogTcgCardSortDirection;
-	} | null>(null);
-	const [currentFilters, setCurrentFilters] = useState<CatalogScreenFilters>(() => ({
+	const bootstrapContext = toCatalogContextFromSpecialMode(specialMode);
+	const shouldUseBootstrapState = bootstrapContext !== null && toolbarState.context !== bootstrapContext;
+	const bootstrapFilters = useMemo<CatalogScreenFilters>(() => ({
 		...DEFAULT_CATALOG_FILTERS,
 		...initialFilters,
-	}));
-	const savedFiltersByModeRef = useRef<{
-		catalog: CatalogScreenFilters;
-		recentlyViewed: CatalogScreenFilters;
-		wishlist: CatalogScreenFilters;
-		missingCards: CatalogScreenFilters;
-	}>((() => {
-		const mergedInitial = {
-			...DEFAULT_CATALOG_FILTERS,
-			...initialFilters,
-		};
-
-		return {
-			catalog: {
-				...mergedInitial,
-				recentlyViewed: false,
-			},
-			recentlyViewed: {
-				...mergedInitial,
-				recentlyViewed: true,
-			},
-			wishlist: {
-				...mergedInitial,
-				recentlyViewed: false,
-			},
-			missingCards: {
-				...mergedInitial,
-				recentlyViewed: false,
-			},
-		};
-	})());
-
-	const currentModeKey = specialMode ?? (currentFilters.recentlyViewed ? 'recentlyViewed' : 'catalog');
+		gameSpecificSelections: initialFilters?.gameSpecificSelections ?? DEFAULT_CATALOG_FILTERS.gameSpecificSelections,
+	}), [initialFilters]);
+	const currentContext = shouldUseBootstrapState ? bootstrapContext : toolbarState.context;
+	const currentFilters = shouldUseBootstrapState ? bootstrapFilters : toolbarState.filters;
+	const searchQuery = shouldUseBootstrapState
+		? (typeof initialSearchQuery === 'string' ? initialSearchQuery : '')
+		: toolbarState.searchQuery;
+	const selectedSort = toolbarState.selectedSort;
+	const isSpecialCollectionContext = currentContext === 'recent' || currentContext === 'wishlist' || currentContext === 'missing';
+	const activeToolbarContext = currentContext === 'recent' || currentContext === 'wishlist' || currentContext === 'missing'
+		? currentContext
+		: null;
 
 	const mapHomeRailItemsToRows = useCallback((itemsToMap: HomeTcgCardRailItem[]): Row[] => (
 		itemsToMap
@@ -165,6 +148,7 @@ export function CatalogTcgCardListScreen({
 				rowKey: `${item.tcg}:${item.catalogTcgCardId}:${item.language ?? 'en'}:${item.id}`,
 				tcg: item.tcg,
 				catalogTcgCardId: item.catalogTcgCardId,
+				activityAt: item.viewedAt,
 				language: item.language,
 				title: item.title,
 				setId: undefined,
@@ -218,64 +202,69 @@ export function CatalogTcgCardListScreen({
 		});
 	}, []);
 
-	useEffect(() => {
-		savedFiltersByModeRef.current[currentModeKey] = currentFilters;
-	}, [currentFilters, currentModeKey]);
-
-	useEffect(() => {
-		const routeQuery = typeof initialSearchQuery === 'string' ? initialSearchQuery : undefined;
-		const nextSearch = routeQuery ?? (savedSearchByModeRef.current[currentModeKey] ?? '');
-		setSearchQuery((prev) => (prev === nextSearch ? prev : nextSearch));
-
-		if (routeQuery !== undefined) {
-			savedSearchByModeRef.current[currentModeKey] = routeQuery;
-			PERSISTED_SEARCH_QUERY_BY_MODE[currentModeKey] = routeQuery;
-			setPage((prev) => (prev === 1 ? prev : 1));
-		}
-	}, [currentModeKey, initialSearchQuery]);
-
-	useEffect(() => {
-		savedSearchByModeRef.current[currentModeKey] = searchQuery;
-		PERSISTED_SEARCH_QUERY_BY_MODE[currentModeKey] = searchQuery;
-	}, [currentModeKey, searchQuery]);
-
-	useEffect(() => {
-		if (specialMode || hideChrome) {
-			return;
+	const sortRowsWithSelectedSort = useCallback((rows: Row[]): Row[] => {
+		if (!sortBy) {
+			return rows;
 		}
 
-		updateCatalogBrowseToolbarSearchQuery(searchQuery);
-		updateCatalogBrowseToolbarFilters(currentFilters);
-		updateCatalogBrowseToolbarSort(selectedSort);
-	}, [currentFilters, hideChrome, searchQuery, selectedSort, specialMode]);
+		const sortedRows = sortCatalogTcgCards(
+			rows.map((row) => ({
+				id: row.catalogTcgCardId,
+				tcg: row.tcg,
+				language: row.language,
+				name: row.title,
+				number: undefined,
+				setReleaseDate: undefined,
+				pokemonNationalPokedexNumber: undefined,
+				imageSmall: undefined,
+				imageMedium: undefined,
+				imageLarge: undefined,
+				imageSmallLocal: undefined,
+				imageMediumLocal: undefined,
+				imageLargeLocal: undefined,
+				setId: '',
+				setName: row.setName,
+				rarity: row.rarity,
+				types: row.cardTypes,
+			})),
+			sortBy,
+			sortDirection,
+		);
 
-	useEffect(() => {
-		if (specialMode || !hideChrome) {
-			return;
+		const sortedRowsByKey = new Map(
+			rows.map((row) => [`${row.tcg}:${row.catalogTcgCardId}:${row.title}`, row]),
+		);
+
+		return sortedRows
+			.map((item) => sortedRowsByKey.get(`${item.tcg}:${item.id}:${item.name}`))
+			.filter((row): row is NonNullable<typeof row> => Boolean(row));
+	}, [sortBy, sortDirection]);
+
+	const sortRowsByActivityDesc = useCallback((rows: Row[]): Row[] => (
+		[...rows].sort((left, right) => (right.activityAt ?? '').localeCompare(left.activityAt ?? ''))
+	), []);
+
+	const paginateRows = useCallback((rows: Row[]) => {
+		const nextTotalItems = rows.length;
+		const nextTotalPages = Math.max(1, Math.ceil(nextTotalItems / pageSize));
+		const currentPage = Math.min(page, nextTotalPages);
+		const startIndex = (currentPage - 1) * pageSize;
+
+		if (currentPage !== page) {
+			setPage(currentPage);
 		}
 
-		if (searchQuery !== toolbarState.searchQuery) {
-			setSearchQuery(toolbarState.searchQuery);
-			setPage(1);
-		}
-
-		const filtersChanged = JSON.stringify(currentFilters) !== JSON.stringify(toolbarState.filters);
-		if (filtersChanged) {
-			setCurrentFilters(toolbarState.filters);
-			setPage(1);
-		}
-
-		const sortChanged = JSON.stringify(selectedSort) !== JSON.stringify(toolbarState.selectedSort);
-		if (sortChanged) {
-			setSelectedSort(toolbarState.selectedSort);
-			setPage(1);
-		}
-	}, [currentFilters, hideChrome, searchQuery, selectedSort, specialMode, toolbarState.filters, toolbarState.searchQuery, toolbarState.selectedSort]);
+		return {
+			pageRows: rows.slice(startIndex, startIndex + pageSize),
+			totalItems: nextTotalItems,
+			totalPages: nextTotalPages,
+		};
+	}, [page, pageSize]);
 
 	useEffect(() => {
 		const isPokemonOnly = currentFilters.tcgs.length === 1 && currentFilters.tcgs[0] === 'pokemon';
 		if (selectedSort?.key === 'pokedex' && !isPokemonOnly) {
-			setSelectedSort({ key: 'name', direction: selectedSort.direction });
+			updateActiveCatalogSort({ key: 'name', direction: selectedSort.direction });
 			setPage(1);
 		}
 	}, [currentFilters.tcgs, selectedSort]);
@@ -285,6 +274,8 @@ export function CatalogTcgCardListScreen({
 
 	const load = useCallback(async () => {
 		const requestId = ++loadRequestIdRef.current;
+		const revisionAtStart = toolbarState.revision;
+		const hasStaleRevision = () => revisionAtStart !== getCatalogBrowseToolbarSnapshot().revision;
 
 		try {
 			if (hasLoadedOnce) {
@@ -294,158 +285,129 @@ export function CatalogTcgCardListScreen({
 			}
 			setError(null);
 
-			if (currentModeKey !== 'catalog') {
+			if (currentContext === 'recent') {
 				let specialRows: Row[] = [];
+				const recents = await homeRepository.getRecentViews(pageSize);
+				const normalizedQuery = normalizeSearchQuery(searchQuery);
+				const ownedExact = new Set<string>();
+				const ownedAnyLanguage = new Set<string>();
 
-				if (currentModeKey === 'recentlyViewed') {
-					const recents = await homeRepository.getRecentViews(pageSize);
-					const normalizedQuery = normalizeSearchQuery(searchQuery);
-					const ownedExact = new Set<string>();
-					const ownedAnyLanguage = new Set<string>();
+				if (currentFilters.ownershipMode !== 'all') {
+					const ownedItems = await inventoryRepository.getOwnedItems();
+					ownedItems
+						.filter((item) => (
+							item.kind === 'catalog-tcg-card' &&
+							item.tcg &&
+							item.catalogTcgCardId &&
+							item.quantity > 0
+						))
+						.forEach((item) => {
+							const tcg = item.tcg as CatalogTcg;
+							const cardId = item.catalogTcgCardId as string;
+							ownedExact.add(`${tcg}:${cardId}:${item.language ?? ''}`);
+							ownedAnyLanguage.add(`${tcg}:${cardId}`);
+						});
+				}
 
-					if (currentFilters.ownershipMode !== 'all') {
-						const ownedItems = await inventoryRepository.getOwnedItems();
-						ownedItems
-							.filter((item) => (
-								item.kind === 'catalog-tcg-card' &&
-								item.tcg &&
-								item.catalogTcgCardId &&
-								item.quantity > 0
-							))
-							.forEach((item) => {
-								const tcg = item.tcg as CatalogTcg;
-								const cardId = item.catalogTcgCardId as string;
-								ownedExact.add(`${tcg}:${cardId}:${item.language ?? ''}`);
-								ownedAnyLanguage.add(`${tcg}:${cardId}`);
-							});
-					}
+				const recentRows = await Promise.all(
+					recents
+						.filter(
+							(r): r is Extract<typeof r, { kind: "catalog-tcg-card" }> =>
+								r.kind === "catalog-tcg-card"
+						)
+						.map(async (r) => {
+							const catalogTcgCard = await catalogRepository.getCatalogTcgCardById(
+								r.tcg,
+								r.catalogTcgCardId,
+								r.language
+							);
 
-					const recentRows = await Promise.all(
-						recents
-							.filter(
-								(r): r is Extract<typeof r, { kind: "catalog-tcg-card" }> =>
-									r.kind === "catalog-tcg-card"
-							)
-							.map(async (r) => {
-								const catalogTcgCard = await catalogRepository.getCatalogTcgCardById(
-									r.tcg,
-									r.catalogTcgCardId,
-									r.language
-								);
-
-								return {
+							return {
+								id: r.id,
+								rowKey: `${r.tcg}:${r.catalogTcgCardId}:${r.language ?? 'en'}:${r.id}`,
+								tcg: r.tcg,
+								catalogTcgCardId: r.catalogTcgCardId,
+								activityAt: r.viewedAt,
+								language: r.language,
+								title: catalogTcgCard?.name ?? r.catalogTcgCardId,
+								setId: catalogTcgCard?.setId,
+								setName: catalogTcgCard?.setName,
+								rarity: catalogTcgCard?.rarity,
+								cardTypes: catalogTcgCard?.types,
+								subtypes: catalogTcgCard?.subtypes,
+								attributes: catalogTcgCard?.attributes,
+								tcgCard: {
 									id: r.id,
-									rowKey: `${r.tcg}:${r.catalogTcgCardId}:${r.language ?? 'en'}:${r.id}`,
-									tcg: r.tcg,
-									catalogTcgCardId: r.catalogTcgCardId,
-									language: r.language,
 									title: catalogTcgCard?.name ?? r.catalogTcgCardId,
-									setId: catalogTcgCard?.setId,
-									setName: catalogTcgCard?.setName,
-									rarity: catalogTcgCard?.rarity,
-									cardTypes: catalogTcgCard?.types,
-									subtypes: catalogTcgCard?.subtypes,
-									attributes: catalogTcgCard?.attributes,
-									tcgCard: {
-										id: r.id,
-										title: catalogTcgCard?.name ?? r.catalogTcgCardId,
-										imageSource: resolveTcgCardImageSource({
-											imageSmall:
-												catalogTcgCard?.imageSmall ??
-												catalogTcgCard?.imageMedium ??
-												catalogTcgCard?.imageLarge,
-										}),
-									},
-								} satisfies Row;
-							})
-					);
+									imageSource: resolveTcgCardImageSource({
+										imageSmall:
+											catalogTcgCard?.imageSmall ??
+											catalogTcgCard?.imageMedium ??
+											catalogTcgCard?.imageLarge,
+									}),
+								},
+							} satisfies Row;
+						})
+				);
 
-					specialRows = recentRows;
+				specialRows = recentRows;
 
-					const filteredRecentRows = specialRows.filter((row) => {
-						const isOwned =
-							ownedExact.has(`${row.tcg}:${row.catalogTcgCardId}:${row.language ?? ''}`) ||
-							ownedAnyLanguage.has(`${row.tcg}:${row.catalogTcgCardId}`);
+				const filteredRecentRows = specialRows.filter((row) => {
+					const isOwned =
+						ownedExact.has(`${row.tcg}:${row.catalogTcgCardId}:${row.language ?? ''}`) ||
+						ownedAnyLanguage.has(`${row.tcg}:${row.catalogTcgCardId}`);
 
-						const matchesOwnership =
-							currentFilters.ownershipMode === 'all' ||
-							(currentFilters.ownershipMode === 'owned' && isOwned) ||
-							(currentFilters.ownershipMode === 'missing' && !isOwned);
+					const matchesOwnership =
+						currentFilters.ownershipMode === 'all' ||
+						(currentFilters.ownershipMode === 'owned' && isOwned) ||
+						(currentFilters.ownershipMode === 'missing' && !isOwned);
 
-						const matchesFilters = (
-							(currentFilters.tcgs.length === 0 || currentFilters.tcgs.includes(row.tcg)) &&
-							(currentFilters.languages.length === 0 || currentFilters.languages.includes(row.language ?? 'en')) &&
-							(currentFilters.setIds.length === 0 || currentFilters.setIds.includes(row.setId ?? '')) &&
-							(
-								currentFilters.rarityKeys.length === 0 ||
-								currentFilters.rarityKeys.includes(`${row.tcg}:${row.rarity ?? ''}`)
-							) &&
-							(
-								currentFilters.cardTypeKeys.length === 0 ||
-								(row.cardTypes ?? []).some((cardType) => currentFilters.cardTypeKeys.includes(`${row.tcg}:${cardType}`))
-							) &&
-							matchesGameSpecificSelections({
-								tcg: row.tcg,
-								subtypes: row.subtypes,
-								attributes: row.attributes,
-							}, currentFilters.gameSpecificSelections) &&
-							matchesOwnership
-						);
-
-						if (!matchesFilters) {
-							return false;
-						}
-
-						return (
-							matchesSearchValue(row.title, normalizedQuery) ||
-							matchesSearchValue(row.setName, normalizedQuery) ||
-							matchesSearchValue(row.catalogTcgCardId, normalizedQuery)
-						);
-					});
-
-					const sortedRecentRows = sortCatalogTcgCards(
-						filteredRecentRows.map((row) => ({
-							id: row.catalogTcgCardId,
+					const matchesFilters = (
+						(currentFilters.tcgs.length === 0 || currentFilters.tcgs.includes(row.tcg)) &&
+						(currentFilters.languages.length === 0 || currentFilters.languages.includes(row.language ?? 'en')) &&
+						(currentFilters.setIds.length === 0 || currentFilters.setIds.includes(row.setId ?? '')) &&
+						(
+							currentFilters.rarityKeys.length === 0 ||
+							currentFilters.rarityKeys.includes(`${row.tcg}:${row.rarity ?? ''}`)
+						) &&
+						(
+							currentFilters.cardTypeKeys.length === 0 ||
+							(row.cardTypes ?? []).some((cardType) => currentFilters.cardTypeKeys.includes(`${row.tcg}:${cardType}`))
+						) &&
+						matchesGameSpecificSelections({
 							tcg: row.tcg,
-							language: row.language,
-							name: row.title,
-							number: undefined,
-							setReleaseDate: undefined,
-							pokemonNationalPokedexNumber: undefined,
-							imageSmall: undefined,
-							imageMedium: undefined,
-							imageLarge: undefined,
-							imageSmallLocal: undefined,
-							imageMediumLocal: undefined,
-							imageLargeLocal: undefined,
-							setId: '',
-							setName: row.setName,
-							rarity: row.rarity,
-							types: row.cardTypes,
-						})),
-						sortBy ?? 'name',
-						sortDirection,
+							subtypes: row.subtypes,
+							attributes: row.attributes,
+						}, currentFilters.gameSpecificSelections) &&
+						matchesOwnership
 					);
 
-					const sortedRowsByKey = new Map(
-						filteredRecentRows.map((row) => [`${row.tcg}:${row.catalogTcgCardId}:${row.title}`, row]),
-					);
-
-					const sortedRecentUiRows = sortedRecentRows
-						.map((item) => sortedRowsByKey.get(`${item.tcg}:${item.id}:${item.name}`))
-						.filter((row): row is NonNullable<typeof row> => Boolean(row));
-
-					const recentRowsWithLocalImages = await hydrateRowsWithLocalImages(sortedRecentUiRows);
-
-					if (requestId !== loadRequestIdRef.current) {
-						return;
+					if (!matchesFilters) {
+						return false;
 					}
 
-					setItems(recentRowsWithLocalImages);
-					setTotalPages(1);
-					setTotalItems(recentRowsWithLocalImages.length);
+					return (
+						matchesSearchValue(row.title, normalizedQuery) ||
+						matchesSearchValue(row.setName, normalizedQuery) ||
+						matchesSearchValue(row.catalogTcgCardId, normalizedQuery)
+					);
+				});
+
+				const pagedRecentRows = paginateRows(filteredRecentRows);
+				const recentRowsWithLocalImages = await hydrateRowsWithLocalImages(pagedRecentRows.pageRows);
+
+				if (requestId !== loadRequestIdRef.current || hasStaleRevision()) {
 					return;
 				}
+
+				setItems(recentRowsWithLocalImages);
+				setTotalPages(pagedRecentRows.totalPages);
+				setTotalItems(pagedRecentRows.totalItems);
+				return;
+			}
+
+			if (isSpecialCollectionContext) {
+				let specialRows: Row[] = [];
 
 				const normalizedQuery = normalizeSearchQuery(searchQuery);
 				const ownedExact = new Set<string>();
@@ -468,7 +430,7 @@ export function CatalogTcgCardListScreen({
 						});
 				}
 
-				const specialItems = currentModeKey === 'wishlist'
+				const specialItems = currentContext === 'wishlist'
 					? await homeRepository.getWishlistCards()
 					: await homeRepository.getMissingBinderCards();
 
@@ -502,47 +464,19 @@ export function CatalogTcgCardListScreen({
 					);
 				});
 
-				const sortedSpecialRows = sortCatalogTcgCards(
-					filteredSpecialRows.map((row) => ({
-						id: row.catalogTcgCardId,
-						tcg: row.tcg,
-						language: row.language,
-						name: row.title,
-						number: undefined,
-						setReleaseDate: undefined,
-						pokemonNationalPokedexNumber: undefined,
-						imageSmall: undefined,
-						imageMedium: undefined,
-						imageLarge: undefined,
-						imageSmallLocal: undefined,
-						imageMediumLocal: undefined,
-						imageLargeLocal: undefined,
-						setId: '',
-						setName: row.setName,
-						rarity: row.rarity,
-						types: row.cardTypes,
-					})),
-					sortBy ?? 'name',
-					sortDirection,
-				);
+				const orderedSpecialRows = sortBy
+					? sortRowsWithSelectedSort(filteredSpecialRows)
+					: sortRowsByActivityDesc(filteredSpecialRows);
+				const pagedSpecialRows = paginateRows(orderedSpecialRows);
+				const specialRowsWithLocalImages = await hydrateRowsWithLocalImages(pagedSpecialRows.pageRows);
 
-				const sortedRowsByKey = new Map(
-					filteredSpecialRows.map((row) => [`${row.tcg}:${row.catalogTcgCardId}:${row.title}`, row]),
-				);
-
-				const sortedSpecialUiRows = sortedSpecialRows
-					.map((item) => sortedRowsByKey.get(`${item.tcg}:${item.id}:${item.name}`))
-					.filter((row): row is NonNullable<typeof row> => Boolean(row));
-
-				const specialRowsWithLocalImages = await hydrateRowsWithLocalImages(sortedSpecialUiRows);
-
-				if (requestId !== loadRequestIdRef.current) {
+				if (requestId !== loadRequestIdRef.current || hasStaleRevision()) {
 					return;
 				}
 
 				setItems(specialRowsWithLocalImages);
-				setTotalPages(1);
-				setTotalItems(specialRowsWithLocalImages.length);
+				setTotalPages(pagedSpecialRows.totalPages);
+				setTotalItems(pagedSpecialRows.totalItems);
 				return;
 			}
 
@@ -584,7 +518,7 @@ export function CatalogTcgCardListScreen({
 
 			const pagedRowsWithLocalImages = await hydrateRowsWithLocalImages(pagedRows);
 
-			if (requestId !== loadRequestIdRef.current) {
+			if (requestId !== loadRequestIdRef.current || hasStaleRevision()) {
 				return;
 			}
 
@@ -592,11 +526,11 @@ export function CatalogTcgCardListScreen({
 			setTotalPages(cardPage.totalPages);
 			setTotalItems(cardPage.total);
 		} catch {
-			if (requestId === loadRequestIdRef.current) {
+			if (requestId === loadRequestIdRef.current && !hasStaleRevision()) {
 				setError("Failed to load cards.");
 			}
 		} finally {
-			if (requestId === loadRequestIdRef.current) {
+			if (requestId === loadRequestIdRef.current && !hasStaleRevision()) {
 				setIsLoading(false);
 				setIsRefreshing(false);
 				setHasLoadedOnce(true);
@@ -604,15 +538,20 @@ export function CatalogTcgCardListScreen({
 		}
 	}, [
 		currentFilters,
+		currentContext,
 		hasLoadedOnce,
-		currentModeKey,
 		mapHomeRailItemsToRows,
 		hydrateRowsWithLocalImages,
+		isSpecialCollectionContext,
 		page,
 		pageSize,
+		paginateRows,
 		searchQuery,
 		sortBy,
+		sortRowsByActivityDesc,
+		sortRowsWithSelectedSort,
 		sortDirection,
+		toolbarState.revision,
 	]);
 
 	useFocusEffect(
@@ -623,19 +562,29 @@ export function CatalogTcgCardListScreen({
 
 	const onSearchQueryChange = (query: string) => {
 		setPage(1);
-		setSearchQuery(query);
+		updateActiveCatalogSearchQuery(query);
 	};
 
 	const onApplyFilters = (filters: CatalogScreenFilters) => {
-		setCurrentFilters(filters);
+		updateActiveCatalogFilters(filters);
 		setPage(1);
 	};
+
+	const onClearActiveContext = useCallback(() => {
+		if (!activeToolbarContext) {
+			return;
+		}
+
+		clearCatalogTemporaryContextAndRestoreBrowse({ level: 'cards' });
+		setPage(1);
+		router.replace('/catalog?level=cards');
+	}, [activeToolbarContext, router]);
 
 	const topResultCountText = isLoading
 		? 'Loading cards...'
 		: `Showing ${totalItems} ${totalItems === 1 ? 'card' : 'cards'}`;
 
-	const paginationControls = !currentFilters.recentlyViewed ? (
+	const paginationControls = (
 		<Section spacing="none">
 			<View style={styles.paginationContainer}>
 				<Button
@@ -653,9 +602,9 @@ export function CatalogTcgCardListScreen({
 				/>
 			</View>
 		</Section>
-	) : null;
+	);
 
-	const topPaginationControls = !currentFilters.recentlyViewed ? (
+	const topPaginationControls = (
 		<Section spacing="none">
 			<View style={[styles.paginationContainer, styles.topPaginationContainer]}>
 				<Button
@@ -673,14 +622,22 @@ export function CatalogTcgCardListScreen({
 				/>
 			</View>
 		</Section>
-	) : null;
+	);
 
 	const cardsContent = (
 		<>
 			{hideChrome ? null : <Header hasBackBtn />}
 			{error ? <AppText muted>{error}</AppText> : null}
 			{!isLoading && !isRefreshing && !error && items.length === 0 ? (
-				<AppText muted>{currentFilters.recentlyViewed ? 'No recently viewed cards match these filters.' : 'No cards match these filters.'}</AppText>
+				<AppText muted>{
+					currentContext === 'recent'
+						? 'No recently viewed cards match these filters.'
+						: currentContext === 'wishlist'
+							? 'No wishlist cards match these filters.'
+							: currentContext === 'missing'
+								? 'No missing cards match these filters.'
+								: 'No cards match these filters.'
+				}</AppText>
 			) : null}
 
 			{!error ? (
@@ -694,9 +651,11 @@ export function CatalogTcgCardListScreen({
 						onApplyFilters={onApplyFilters}
 						selectedSort={selectedSort}
 						onSortChange={(sort) => {
-							setSelectedSort(sort);
+							updateActiveCatalogSort(sort);
 							setPage(1);
 						}}
+						activeContext={activeToolbarContext}
+						onClearActiveContext={onClearActiveContext}
 						visibleControls={['tcg', 'set', 'language', 'inventory', 'sort']}
 						resultCountText={topResultCountText}
 					/>}
