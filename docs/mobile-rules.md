@@ -59,6 +59,13 @@ router.push({
 });
 ```
 
+TODO: Catalog Navigation Consistency
+- Standardize all catalog navigation to a single Expo Router path-based pattern
+- Avoid mixing different catalog route styles across the app
+- Prefer one consistent route structure for catalog flows, for example:
+  '/(tabs)/catalog?...'
+- This should be cleaned up in a future pass to prevent subtle navigation regressions
+
 ## Screen Layout Rules
 
 - Shared `Screen` wrapper is the universal shell for scrollable feature screens

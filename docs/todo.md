@@ -107,6 +107,7 @@ This checklist is intentionally ordered. Work top to bottom.
 - [ ] Standardize loading/error/empty components for all feature screens
 - [ ] Ensure all new routes validate params before rendering
 - [ ] Remove temporary debug logs from production paths
+- [ ] Standardize catalog navigation route usage across all catalog flows (prefer a single Expo Router path pattern, avoid mixed route styles)
 
 ## 5. Images and Performance
 
@@ -140,3 +141,4 @@ This checklist is intentionally ordered. Work top to bottom.
 - [ ] Add smoke tests for navigation-critical flows
 - [ ] Validate migration behavior on clean and existing installs
 - [ ] Re-investigate and reproduce intermittent advanced-filter bug reported during manual testing (could not recreate consistently)
+- [ ] Add smoke-test checklist for catalog context transitions (browse, search, wishlist, recent, missing, filter clear/reset)

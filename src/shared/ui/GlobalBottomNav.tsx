@@ -1,16 +1,16 @@
+import { usePathname, useRouter, type Href } from 'expo-router';
 import { useMemo } from 'react';
 import { Image, Pressable, StyleSheet, View } from 'react-native';
-import { usePathname, useRouter, type Href } from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
-import { useAppTheme } from '@/src/theme/useAppTheme';
-import { useUserSettingsState } from '@/src/features/settings/settings.store';
 import {
-	useCatalogBrowseToolbarState,
-	updateCatalogBrowseToolbarLevel,
+    updateCatalogLevel,
+    useCatalogBrowseToolbarState,
 } from '@/src/features/catalog/catalogBrowseToolbar.state';
+import { useUserSettingsState } from '@/src/features/settings/settings.store';
 import { AppText } from '@/src/shared/ui/AppText';
 import { APP_ICON_NAMES, Icon, type IconName } from '@/src/shared/ui/Icon';
+import { useAppTheme } from '@/src/theme/useAppTheme';
 
 type NavRoute = {
 	key: 'home' | 'tcgs' | 'sets' | 'cards' | 'binders' | 'settings';
@@ -96,7 +96,7 @@ export function GlobalBottomNav() {
 								}
 
 								if (route.key === 'tcgs' || route.key === 'sets' || route.key === 'cards') {
-									updateCatalogBrowseToolbarLevel(route.key);
+									updateCatalogLevel(route.key);
 								}
 
 								router.navigate(route.path);

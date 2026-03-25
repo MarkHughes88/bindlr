@@ -7,20 +7,20 @@ import type { CatalogLanguage, CatalogTcg } from '@/src/domain/catalog/catalog.t
 import type { CatalogScreenFilters } from '@/src/features/catalog/catalog.filters';
 import type { CatalogSetSummary } from '@/src/features/catalog/catalog.types';
 import {
-	updateCatalogBrowseToolbarFilters,
-	updateCatalogBrowseToolbarLevel,
-	updateCatalogBrowseToolbarSearchQuery,
-	updateCatalogBrowseToolbarSort,
-	useCatalogBrowseToolbarState,
+    updateActiveCatalogFilters,
+    updateActiveCatalogSearchQuery,
+    updateActiveCatalogSort,
+    updateCatalogLevel,
+    useCatalogBrowseToolbarState,
 } from '@/src/features/catalog/catalogBrowseToolbar.state';
 import { CatalogBrowseToolbar } from '@/src/features/catalog/components/CatalogBrowseToolbar';
 import {
-	buildSetNavigationFilters,
-	resolveActiveSetsLanguage,
+    buildSetNavigationFilters,
+    resolveActiveSetsLanguage,
 } from '@/src/features/collections/sets.screen.logic';
 import {
-	setLastSelectedSetsTcg,
-	updateSetsScreenState,
+    setLastSelectedSetsTcg,
+    updateSetsScreenState,
 } from '@/src/features/collections/setsScreen.state';
 import type { DownloadScopeStatus } from '@/src/features/downloads/downloads.types';
 import { useUserSettingsState } from '@/src/features/settings/settings.store';
@@ -83,7 +83,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 					label: 'Name',
 					selected: effectiveSortKey === 'name',
 					onPress: () => {
-						updateCatalogBrowseToolbarSort({ key: 'name', direction: effectiveSortDirection });
+						updateActiveCatalogSort({ key: 'name', direction: effectiveSortDirection });
 					},
 				},
 				{
@@ -91,7 +91,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 					label: 'Release Date',
 					selected: effectiveSortKey === 'newest',
 					onPress: () => {
-						updateCatalogBrowseToolbarSort({ key: 'newest', direction: effectiveSortDirection });
+						updateActiveCatalogSort({ key: 'newest', direction: effectiveSortDirection });
 					},
 				},
 			],
@@ -104,7 +104,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 					label: 'Ascending',
 					selected: effectiveSortDirection === 'asc',
 					onPress: () => {
-						updateCatalogBrowseToolbarSort({ key: effectiveSortKey, direction: 'asc' });
+						updateActiveCatalogSort({ key: effectiveSortKey, direction: 'asc' });
 					},
 				},
 				{
@@ -112,7 +112,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 					label: 'Descending',
 					selected: effectiveSortDirection === 'desc',
 					onPress: () => {
-						updateCatalogBrowseToolbarSort({ key: effectiveSortKey, direction: 'desc' });
+						updateActiveCatalogSort({ key: effectiveSortKey, direction: 'desc' });
 					},
 				},
 			],
@@ -307,7 +307,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 			return;
 		}
 
-		updateCatalogBrowseToolbarFilters({
+		updateActiveCatalogFilters({
 			...toolbarState.filters,
 			setIds: [],
 			setNamesById: {},
@@ -326,14 +326,14 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 
 	const navigateToSet = (set: CatalogSetSummary) => {
 		const scopedSetId = `${activeTcg}:${set.id}`;
-		updateCatalogBrowseToolbarFilters(buildSetNavigationFilters({
+		updateActiveCatalogFilters(buildSetNavigationFilters({
 			currentFilters: toolbarState.filters,
 			activeTcg,
 			activeLanguage,
 			scopedSetId,
 			setName: set.name,
 		}));
-		updateCatalogBrowseToolbarLevel('cards');
+		updateCatalogLevel('cards');
 		router.replace(`/(tabs)/catalog?level=cards&tcg=${activeTcg}`);
 	};
 
@@ -375,13 +375,13 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 				<CatalogBrowseToolbar
 					searchPlaceholder="Find a set"
 					searchQuery={toolbarState.searchQuery}
-					onSearchQueryChange={updateCatalogBrowseToolbarSearchQuery}
+					onSearchQueryChange={updateActiveCatalogSearchQuery}
 					currentFilters={toolbarState.filters}
 					onApplyFilters={(nextFilters: CatalogScreenFilters) => {
-						updateCatalogBrowseToolbarFilters(nextFilters);
+						updateActiveCatalogFilters(nextFilters);
 					}}
 					selectedSort={toolbarState.selectedSort}
-					onSortChange={updateCatalogBrowseToolbarSort}
+					onSortChange={updateActiveCatalogSort}
 					visibleControls={['tcg', 'set', 'language', 'inventory', 'sort']}
 					sortMenuTitle="Sort Sets"
 					customSortMenuSections={setsSortMenuSections}

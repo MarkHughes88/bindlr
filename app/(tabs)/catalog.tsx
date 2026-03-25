@@ -12,9 +12,9 @@ import {
   enterRecentContext,
   enterSearchContext,
   enterWishlistContext,
-  updateCatalogBrowseToolbarFilters,
-  updateCatalogBrowseToolbarSearchQuery,
-  updateCatalogBrowseToolbarSort,
+  updateActiveCatalogFilters,
+  updateActiveCatalogSearchQuery,
+  updateActiveCatalogSort,
   useCatalogBrowseToolbarState,
 } from '@/src/features/catalog/catalogBrowseToolbar.state';
 import { CatalogBrowseToolbar } from '@/src/features/catalog/components/CatalogBrowseToolbar';
@@ -395,17 +395,17 @@ export default function CatalogRoute() {
           level === 'tcgs' ? 'Find a TCG' : level === 'sets' ? 'Find a set' : 'Find a card'
         }
         searchQuery={toolbarState.searchQuery}
-        onSearchQueryChange={updateCatalogBrowseToolbarSearchQuery}
+        onSearchQueryChange={updateActiveCatalogSearchQuery}
         currentFilters={toolbarState.filters}
         onApplyFilters={(nextFilters: CatalogScreenFilters) => {
-          updateCatalogBrowseToolbarFilters(nextFilters);
+          updateActiveCatalogFilters(nextFilters);
 
           if (level === 'sets' && nextFilters.tcgs.length === 0) {
             router.push('/(tabs)/catalog?level=tcgs');
           }
         }}
         selectedSort={toolbarState.selectedSort}
-        onSortChange={updateCatalogBrowseToolbarSort}
+        onSortChange={updateActiveCatalogSort}
         activeContext={activeToolbarContext}
         onClearActiveContext={onClearActiveContext}
         visibleControls={['tcg', 'set', 'language', 'inventory', 'sort']}

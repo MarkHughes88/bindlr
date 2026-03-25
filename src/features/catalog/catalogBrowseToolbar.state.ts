@@ -147,26 +147,6 @@ export function updateCatalogBrowseToolbarState(next: Partial<CatalogBrowseToolb
   applyCatalogBrowseToolbarState(mergedState);
 }
 
-export function updateCatalogBrowseToolbarFilters(next: CatalogScreenFilters) {
-  updateActiveCatalogFilters(next);
-}
-
-export function updateCatalogBrowseToolbarSearchQuery(searchQuery: string) {
-  updateActiveCatalogSearchQuery(searchQuery);
-}
-
-export function updateCatalogBrowseToolbarSort(selectedSort: CatalogToolbarSort) {
-  updateActiveCatalogSort(selectedSort);
-}
-
-export function updateCatalogBrowseToolbarLevel(level: CatalogBrowseLevel) {
-  updateCatalogLevel(level);
-}
-
-export function clearCatalogBrowseToolbarState() {
-  void resetActiveCatalogFiltersToDefault();
-}
-
 export async function hydrateCatalogBrowseState() {
   if (state.isHydrated) {
     return;
