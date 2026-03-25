@@ -1,19 +1,12 @@
+import { useRouter } from 'expo-router';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Keyboard, Pressable, StyleSheet, View } from 'react-native';
-import { useRouter } from 'expo-router';
 
-import { catalogRepository } from '@/src/lib/repositories';
+import type { CatalogTcgCardSummary } from '@/src/features/catalog/catalog.types';
 import { SEARCH_COPY } from '@/src/lib/copy';
+import { catalogRepository } from '@/src/lib/repositories';
 import { AppText, Input } from '@/src/shared/ui';
 import { useAppTheme } from '@/src/theme/useAppTheme';
-import type { CatalogTcgCardSummary } from '@/src/features/catalog/catalog.types';
-import {
-	useCatalogBrowseToolbarState,
-	updateCatalogBrowseToolbarFilters,
-	updateCatalogBrowseToolbarLevel,
-	updateCatalogBrowseToolbarSearchQuery,
-} from '@/src/features/catalog/catalogBrowseToolbar.state';
-import { DEFAULT_CATALOG_FILTERS } from '@/src/features/catalog/catalog.filters';
 
 const HOME_SEARCH_DROPDOWN_LIMIT = 4;
 const HOME_SEARCH_DEBOUNCE_MS = 160;
@@ -22,7 +15,6 @@ export function SearchSection() {
 	const router = useRouter();
 	const theme = useAppTheme();
 	const styles = useMemo(() => createStyles(theme), [theme]);
-  const toolbarState = useCatalogBrowseToolbarState();
 
 	const [query, setQuery] = useState('');
 	const [results, setResults] = useState<CatalogTcgCardSummary[]>([]);
@@ -90,21 +82,6 @@ export function SearchSection() {
 		if (!normalizedQuery) {
 			return;
 		}
-
-		updateCatalogBrowseToolbarLevel('cards');
-		updateCatalogBrowseToolbarSearchQuery(normalizedQuery);
-		// Clear only conflicting filters, keep others as-is, and use correct default for gameSpecificSelections
-		const { tcgs, setIds, setNamesById, rarityKeys, cardTypeKeys, gameSpecificSelections, setScope, ...rest } = toolbarState.filters;
-		updateCatalogBrowseToolbarFilters({
-			...rest,
-			tcgs: [],
-			setIds: [],
-			setNamesById: {},
-			rarityKeys: [],
-			cardTypeKeys: [],
-			gameSpecificSelections: DEFAULT_CATALOG_FILTERS.gameSpecificSelections,
-			setScope: 'all',
-		});
 
 		Keyboard.dismiss();
 		setQuery('');
