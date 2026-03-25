@@ -51,6 +51,7 @@ type Props = {
       onPress: () => void;
     }[];
   }[];
+  isBusy?: boolean;
 };
 
 const SORT_OPTIONS: CatalogTcgCardSortKey[] = ['name', 'cardNumber', 'tcg', 'set', 'rarity', 'newest', 'pokedex'];
@@ -100,6 +101,7 @@ export function CatalogBrowseToolbar({
   resultCountText,
   sortMenuTitle = 'Sort Options',
   customSortMenuSections,
+  isBusy = false,
 }: Props) {
   const theme = useAppTheme();
   const styles = useMemo(() => createStyles(theme), [theme]);
@@ -108,6 +110,10 @@ export function CatalogBrowseToolbar({
   const [initialExpandedFilterSection, setInitialExpandedFilterSection] = useState<CatalogFilterSectionKey | undefined>(undefined);
 
   const openFilters = (section?: CatalogFilterSectionKey) => {
+    if (isBusy) {
+      return;
+    }
+
     setInitialExpandedFilterSection(section);
     setIsFiltersVisible(true);
   };
@@ -218,6 +224,10 @@ export function CatalogBrowseToolbar({
   }, [currentFilters, selectedSort]);
 
   const clearPill = (pill: ActiveFilterPill) => {
+    if (isBusy) {
+      return;
+    }
+
     if (pill.key === 'clearAll') {
       onApplyFilters(createClearedFiltersKeepingMode(currentFilters));
       onSortChange(null);
@@ -393,6 +403,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="TCG"
+                disabled={isBusy}
                 iconName="rectangleVertical"
                 layout="vertical"
                 textSize="sm"
@@ -406,6 +417,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="Sets"
+                disabled={isBusy}
                 iconName="layers"
                 layout="vertical"
                 textSize="sm"
@@ -419,6 +431,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="Lang"
+                disabled={isBusy}
                 iconName="languages"
                 layout="vertical"
                 textSize="sm"
@@ -432,6 +445,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="Inv"
+                disabled={isBusy}
                 iconName="library"
                 layout="vertical"
                 textSize="sm"
@@ -445,6 +459,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="Sort"
+                disabled={isBusy}
                 iconName="arrowDownWideNarrow"
                 layout="vertical"
                 textSize="sm"

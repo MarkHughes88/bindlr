@@ -46,7 +46,7 @@ function getActiveRouteKey(pathname: string, catalogLevel: 'tcgs' | 'sets' | 'ca
 		return 'binders';
 	}
 
-	if (pathname.startsWith('/card-list')) {
+	if (pathname.startsWith('/(tabs)/catalog')) {
 		return 'cards';
 	}
 

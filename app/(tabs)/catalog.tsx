@@ -1,28 +1,28 @@
+import { useLocalSearchParams, useRouter } from 'expo-router';
+import { Check, CloudDownload } from 'lucide-react-native';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { ActivityIndicator, Alert, Image, Pressable, StyleSheet, View } from 'react-native';
-import { useLocalSearchParams, useRouter } from 'expo-router';
-import { CloudDownload, Check } from 'lucide-react-native';
 
 import type { CatalogTcg } from '@/src/domain/catalog/catalog.types';
-import { TCG_META } from '@/src/shared/config/tcg';
-import { getSupportedCatalogLanguages } from '@/src/lib/catalog/catalog.lookup';
-import { catalogRepository, downloadsRepository, inventoryRepository } from '@/src/lib/repositories';
-import { useUserSettingsState } from '@/src/features/settings/settings.store';
-import { AppText, Header, Screen, FadeInView, useTopBanner } from '@/src/shared/ui';
-import { CatalogBrowseToolbar } from '@/src/features/catalog/components/CatalogBrowseToolbar';
-import { SEARCH_COPY } from '@/src/lib/copy';
-import { useAppTheme } from '@/src/theme/useAppTheme';
 import type { CatalogScreenFilters } from '@/src/features/catalog/catalog.filters';
 import {
-  useCatalogBrowseToolbarState,
-  updateCatalogBrowseToolbarFilters,
-  updateCatalogBrowseToolbarLevel,
-  updateCatalogBrowseToolbarSearchQuery,
-  updateCatalogBrowseToolbarSort,
+    updateCatalogBrowseToolbarFilters,
+    updateCatalogBrowseToolbarLevel,
+    updateCatalogBrowseToolbarSearchQuery,
+    updateCatalogBrowseToolbarSort,
+    useCatalogBrowseToolbarState,
 } from '@/src/features/catalog/catalogBrowseToolbar.state';
-import type { DownloadScopeStatus } from '@/src/features/downloads/downloads.types';
-import { TcgSetsScreen } from '@/src/features/collections/screens/TcgSetsScreen';
+import { CatalogBrowseToolbar } from '@/src/features/catalog/components/CatalogBrowseToolbar';
 import { CatalogTcgCardListScreen } from '@/src/features/catalog/screens/CatalogTcgCardListScreen';
+import { TcgSetsScreen } from '@/src/features/collections/screens/TcgSetsScreen';
+import type { DownloadScopeStatus } from '@/src/features/downloads/downloads.types';
+import { useUserSettingsState } from '@/src/features/settings/settings.store';
+import { getSupportedCatalogLanguages } from '@/src/lib/catalog/catalog.lookup';
+import { SEARCH_COPY } from '@/src/lib/copy';
+import { catalogRepository, downloadsRepository, inventoryRepository } from '@/src/lib/repositories';
+import { TCG_META } from '@/src/shared/config/tcg';
+import { AppText, FadeInView, Header, Screen, useTopBanner } from '@/src/shared/ui';
+import { useAppTheme } from '@/src/theme/useAppTheme';
 
 const TCGS: CatalogTcg[] = ['pokemon', 'lorcana', 'mtg', 'one-piece'];
 
@@ -119,14 +119,28 @@ export default function CatalogRoute() {
     : specialMode
     ? ''
     : toolbarState.searchQuery;
+  const cameFromHomeSearch = level === 'cards' && typeof params.q === 'string' && !specialMode;
+
   const cardInitialFilters = specialMode
     ? {
         ...(paramTcg ? { tcgs: [paramTcg] } : {}),
         ...(specialMode === 'recentlyViewed' ? { recentlyViewed: true } : {}),
       }
-    : toolbarState.filters;
+    : cameFromHomeSearch
+      ? {
+          ...toolbarState.filters,
+          tcgs: [],
+          setIds: [],
+          setNamesById: {},
+          rarityKeys: [],
+          cardTypeKeys: [],
+          gameSpecificSelections: {},
+          setScope: 'all',
+        }
+      : toolbarState.filters;
   const contentAnimationKey = `${level}:${activeTcg ?? 'none'}:${toolbarState.filters.setIds.join('|')}:${specialMode ?? 'catalog'}:${typeof params.q === 'string' ? params.q : ''}`;
   const previousLevelRef = useRef(level);
+  const toolbarFiltersRef = useRef(toolbarState.filters);
   const isSetsCardsTransition = (
     (previousLevelRef.current === 'sets' && level === 'cards') ||
     (previousLevelRef.current === 'cards' && level === 'sets')
@@ -143,17 +157,23 @@ export default function CatalogRoute() {
   }, [level]);
 
   useEffect(() => {
+    toolbarFiltersRef.current = toolbarState.filters;
+  }, [toolbarState.filters]);
+
+  useEffect(() => {
     if (level === 'tcgs') {
       return;
     }
 
-    if (params.tcg && TCGS.includes(params.tcg as CatalogTcg) && toolbarState.filters.tcgs[0] !== params.tcg) {
+    const currentFilters = toolbarFiltersRef.current;
+
+    if (params.tcg && TCGS.includes(params.tcg as CatalogTcg) && currentFilters.tcgs[0] !== params.tcg) {
       updateCatalogBrowseToolbarFilters({
-        ...toolbarState.filters,
+        ...currentFilters,
         tcgs: [params.tcg as CatalogTcg],
       });
     }
-  }, [level, params.tcg, toolbarState.filters]);
+  }, [level, params.tcg]);
 
   useEffect(() => {
     let cancelled = false;
@@ -344,6 +364,7 @@ export default function CatalogRoute() {
     <Screen edges={['left', 'right']}>
       <Header />
       <CatalogBrowseToolbar
+        isBusy={isSetsLoading}
         searchPlaceholder={
           level === 'tcgs' ? 'Find a TCG' : level === 'sets' ? 'Find a set' : 'Find a card'
         }

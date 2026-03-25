@@ -1,3 +1,4 @@
+// LEGACY REDIRECT ROUTE: This file exists only to redirect to the canonical catalog route for Cards. Remove when all usages are migrated.
 import { Redirect, useLocalSearchParams } from 'expo-router';
 
 import { CatalogTcgCardListScreen } from '@/src/features/catalog/screens/CatalogTcgCardListScreen';

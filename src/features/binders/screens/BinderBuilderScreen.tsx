@@ -1,15 +1,15 @@
+import * as ImagePicker from 'expo-image-picker';
+import { useRouter } from 'expo-router';
 import { useEffect, useMemo, useState } from 'react';
 import { Image, Modal, Pressable, StyleSheet, View, useWindowDimensions } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
-import { useRouter } from 'expo-router';
-import * as ImagePicker from 'expo-image-picker';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
-import Animated, { useAnimatedStyle, useSharedValue, runOnJS } from 'react-native-reanimated';
+import Animated, { runOnJS, useAnimatedStyle, useSharedValue } from 'react-native-reanimated';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
-import { AppText, BackButton, Icon, Grid, TcgCard } from '@/src/shared/ui';
-import { bindersRepository } from '@/src/lib/repositories';
-import { useAppTheme } from '@/src/theme/useAppTheme';
 import { lockLandscape, lockPortrait } from '@/src/lib/orientation';
+import { bindersRepository } from '@/src/lib/repositories';
+import { AppText, BackButton, Grid, Icon, TcgCard } from '@/src/shared/ui';
+import { useAppTheme } from '@/src/theme/useAppTheme';
 
 import { getCatalogTcgCardById } from '@/src/lib/catalog/catalog.lookup';
 import type { CatalogTcg } from '@/src/lib/catalog/catalog.types';
@@ -315,7 +315,7 @@ export function BinderBuilderScreen({ binderId }: Props) {
 				]}
 			>
 				{pageNum == null ? null : (
-					<Grid columns={binderCols} gap={theme.spacing.xs}>
+					<Grid columns={binderCols} gap={theme.spacing.md}>
 						{(() => {
 							const slotIndices = slotIndicesByPage[pageNum - 1] || [];
 							const pageCards = cards.filter((c) => slotIndices.includes(c.slotIndex));
@@ -766,6 +766,8 @@ const createStyles = (theme: ReturnType<typeof useAppTheme>) =>
 			aspectRatio: TCG_CARD_ASPECT_RATIO,
 			borderRadius: theme.radius.xs,
 			overflow: 'hidden',
+			borderWidth: 2,
+			borderColor: '#fff',
 		},
 		emptySlot: {
 			justifyContent: 'center',

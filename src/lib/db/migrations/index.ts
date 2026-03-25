@@ -12,8 +12,9 @@ import { migration010DownloadScopeQuality } from './010_download_scope_quality';
 import { migration011ForceOfflineModeSetting } from './011_force_offline_mode_setting';
 
 import { migration012BinderColor } from './012_binder_color';
-import { migration013BinderInsideColor } from './XXX_binder_inside_color';
+import { migration013BinderInsideColor } from './013_binder_inside_color';
 import { migration014BinderPageColor } from './014_binder_page_color';
+import { migration015BinderRowsCols } from './015_binder_rows_cols';
 
 export type Migration = {
 	version: number;
@@ -36,4 +37,5 @@ export const migrations: Migration[] = [
   migration012BinderColor,
   migration013BinderInsideColor,
   migration014BinderPageColor,
+  migration015BinderRowsCols,
 ];

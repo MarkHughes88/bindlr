@@ -74,8 +74,7 @@ export default function RootLayout() {
             }}
           >
             <Stack.Screen name="(tabs)" options={{ animation: 'none' }} />
-            <Stack.Screen name="tcg-sets" options={{ fullScreenGestureEnabled: true }} />
-            <Stack.Screen name="card-list" options={{ fullScreenGestureEnabled: true }} />
+            // Removed legacy Stack.Screens for tcg-sets and card-list
             <Stack.Screen name="tcg-card/[tcgCardId]" options={{ fullScreenGestureEnabled: true }} />
             <Stack.Screen name="binder-builder" options={{ fullScreenGestureEnabled: true }} />
           </Stack>
