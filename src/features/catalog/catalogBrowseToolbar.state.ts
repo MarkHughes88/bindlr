@@ -12,12 +12,19 @@ type CatalogToolbarSort = {
 } | null;
 
 export type CatalogBrowseLevel = 'tcgs' | 'sets' | 'cards';
+export type CatalogBrowseContext = 'browse' | 'search' | 'recent' | 'wishlist' | 'missing';
 
 type CatalogBrowseToolbarState = {
+  context: CatalogBrowseContext;
   level: CatalogBrowseLevel;
   searchQuery: string;
   filters: CatalogScreenFilters;
   selectedSort: CatalogToolbarSort;
+  browseFilters: CatalogScreenFilters;
+  browseSearchQuery: string;
+  browseSelectedSort: CatalogToolbarSort;
+  isHydrated: boolean;
+  revision: number;
 };
 
 type CatalogBrowseToolbarPersistenceRow = {
@@ -29,21 +36,33 @@ type CatalogBrowseToolbarPersistenceRow = {
   set_scope: string;
 };
 
+type CatalogBrowseContextInput = {
+  level?: CatalogBrowseLevel;
+  routeTcg?: CatalogTcg;
+  routeSearchQuery?: string;
+};
+
+type CatalogSearchContextInput = {
+  level?: CatalogBrowseLevel;
+  query: string;
+  routeTcg?: CatalogTcg;
+};
+
 type PersistedCatalogBrowseToolbarState = {
+  context?: unknown;
   level?: unknown;
   searchQuery?: unknown;
   selectedSort?: unknown;
   filters?: unknown;
+  browseSearchQuery?: unknown;
+  browseSelectedSort?: unknown;
+  browseFilters?: unknown;
 };
 
-let state: CatalogBrowseToolbarState = {
-  level: 'tcgs',
-  searchQuery: '',
-  filters: createEmptyCatalogFilters(),
-  selectedSort: null,
-};
+let state: CatalogBrowseToolbarState = createInitialCatalogBrowseToolbarState();
 
 let hasStartedHydration = false;
+let hydrationPromise: Promise<void> | null = null;
 let persistTimeout: ReturnType<typeof setTimeout> | null = null;
 
 const listeners = new Set<() => void>();
@@ -54,6 +73,19 @@ function areFiltersEqual(left: CatalogScreenFilters, right: CatalogScreenFilters
 
 function areSortsEqual(left: CatalogToolbarSort, right: CatalogToolbarSort): boolean {
   return JSON.stringify(left) === JSON.stringify(right);
+}
+
+function areToolbarStatesEqual(left: CatalogBrowseToolbarState, right: CatalogBrowseToolbarState): boolean {
+  return left.context === right.context
+    && left.level === right.level
+    && left.searchQuery === right.searchQuery
+    && areFiltersEqual(left.filters, right.filters)
+    && areSortsEqual(left.selectedSort, right.selectedSort)
+    && left.browseSearchQuery === right.browseSearchQuery
+    && areFiltersEqual(left.browseFilters, right.browseFilters)
+    && areSortsEqual(left.browseSelectedSort, right.browseSelectedSort)
+    && left.isHydrated === right.isHydrated
+    && left.revision === right.revision;
 }
 
 function emitChange() {
@@ -79,84 +111,259 @@ export function getCatalogBrowseToolbarSnapshot() {
 }
 
 export function updateCatalogBrowseToolbarState(next: Partial<CatalogBrowseToolbarState>) {
+  const hasActiveReplacement = hasOwnProperty(next, 'context')
+    || hasOwnProperty(next, 'filters')
+    || hasOwnProperty(next, 'searchQuery')
+    || hasOwnProperty(next, 'selectedSort');
+  const nextContext = next.context ?? state.context;
   const mergedState: CatalogBrowseToolbarState = {
     ...state,
     ...next,
-    filters: next.filters ? cloneCatalogFilters(next.filters) : state.filters,
+    context: nextContext,
+    filters: hasOwnProperty(next, 'filters') && next.filters ? cloneCatalogFilters(next.filters) : state.filters,
+    selectedSort: hasOwnProperty(next, 'selectedSort') ? (next.selectedSort ?? null) : state.selectedSort,
+    browseFilters: hasOwnProperty(next, 'browseFilters') && next.browseFilters
+      ? cloneCatalogFilters(next.browseFilters)
+      : nextContext === 'browse' && hasOwnProperty(next, 'filters') && next.filters
+        ? cloneCatalogFilters(next.filters)
+        : state.browseFilters,
+    browseSearchQuery: hasOwnProperty(next, 'browseSearchQuery')
+      ? (next.browseSearchQuery ?? '')
+      : nextContext === 'browse' && hasOwnProperty(next, 'searchQuery')
+        ? (next.searchQuery ?? '')
+        : state.browseSearchQuery,
+    browseSelectedSort: hasOwnProperty(next, 'browseSelectedSort')
+      ? (next.browseSelectedSort ?? null)
+      : nextContext === 'browse' && hasOwnProperty(next, 'selectedSort')
+        ? (next.selectedSort ?? null)
+        : state.browseSelectedSort,
+    revision: hasOwnProperty(next, 'revision')
+      ? (next.revision ?? state.revision)
+      : hasActiveReplacement
+        ? state.revision + 1
+        : state.revision,
   };
 
-  if (
-    mergedState.level === state.level &&
-    mergedState.searchQuery === state.searchQuery &&
-    areFiltersEqual(mergedState.filters, state.filters) &&
-    areSortsEqual(mergedState.selectedSort, state.selectedSort)
-  ) {
-    return;
-  }
-
-  state = mergedState;
-  emitChange();
-  schedulePersistCatalogBrowseToolbarState();
+  applyCatalogBrowseToolbarState(mergedState);
 }
 
 export function updateCatalogBrowseToolbarFilters(next: CatalogScreenFilters) {
-  if (areFiltersEqual(state.filters, next)) {
-    return;
-  }
-
-  state = {
-    ...state,
-    filters: cloneCatalogFilters(next),
-  };
-  emitChange();
-  schedulePersistCatalogBrowseToolbarState();
+  updateActiveCatalogFilters(next);
 }
 
 export function updateCatalogBrowseToolbarSearchQuery(searchQuery: string) {
-  if (state.searchQuery === searchQuery) {
-    return;
-  }
-
-  state = {
-    ...state,
-    searchQuery,
-  };
-  emitChange();
-  schedulePersistCatalogBrowseToolbarState();
+  updateActiveCatalogSearchQuery(searchQuery);
 }
 
 export function updateCatalogBrowseToolbarSort(selectedSort: CatalogToolbarSort) {
-  if (areSortsEqual(state.selectedSort, selectedSort)) {
-    return;
-  }
-
-  state = {
-    ...state,
-    selectedSort,
-  };
-  emitChange();
-  schedulePersistCatalogBrowseToolbarState();
+  updateActiveCatalogSort(selectedSort);
 }
 
 export function updateCatalogBrowseToolbarLevel(level: CatalogBrowseLevel) {
+  updateCatalogLevel(level);
+}
+
+export function clearCatalogBrowseToolbarState() {
+  void resetActiveCatalogFiltersToDefault();
+}
+
+export async function hydrateCatalogBrowseState() {
+  if (state.isHydrated) {
+    return;
+  }
+
+  if (hydrationPromise) {
+    return hydrationPromise;
+  }
+
+  hydrationPromise = (async () => {
+    try {
+      const row = await getCatalogBrowseToolbarPersistenceRow();
+      const defaultsFilters = row ? buildFiltersFromUserDefaults(row) : createEmptyCatalogFilters();
+      const defaultState = createCatalogBrowseToolbarStateFromBrowseSnapshot({
+        context: 'browse',
+        level: state.level,
+        browseFilters: defaultsFilters,
+        browseSearchQuery: '',
+        browseSelectedSort: null,
+        isHydrated: true,
+        revision: state.revision,
+      });
+
+      if (row?.remember_catalog_filters === 1 && row.last_catalog_state) {
+        const restoredState = parsePersistedCatalogBrowseToolbarState(row.last_catalog_state);
+        if (restoredState && hasActiveCatalogBrowseState(restoredState)) {
+          applyCatalogBrowseToolbarState(buildHydratedCatalogBrowseToolbarState(defaultState, restoredState));
+          return;
+        }
+      }
+
+      applyCatalogBrowseToolbarState(defaultState);
+    } catch {
+      applyCatalogBrowseToolbarState({
+        ...state,
+        isHydrated: true,
+      });
+    } finally {
+      hydrationPromise = null;
+    }
+  })();
+
+  return hydrationPromise;
+}
+
+export function enterBrowseContext(input: CatalogBrowseContextInput = {}) {
+  const nextFilters = cloneCatalogFilters(state.browseFilters);
+  const nextSearchQuery = input.routeSearchQuery ?? state.browseSearchQuery;
+
+  if (input.routeTcg) {
+    nextFilters.tcgs = [input.routeTcg];
+  }
+
+  replaceCatalogContextState({
+    context: 'browse',
+    level: input.level ?? state.level,
+    filters: nextFilters,
+    searchQuery: nextSearchQuery,
+    selectedSort: state.browseSelectedSort,
+    browseFilters: nextFilters,
+    browseSearchQuery: nextSearchQuery,
+    browseSelectedSort: state.browseSelectedSort,
+  });
+}
+
+export function enterSearchContext(input: CatalogSearchContextInput) {
+  replaceCatalogContextState({
+    context: 'search',
+    level: input.level ?? 'cards',
+    filters: createTemporaryContextFilters('search', input.routeTcg),
+    searchQuery: input.query,
+    selectedSort: state.browseSelectedSort,
+  });
+}
+
+export function enterRecentContext(input: CatalogBrowseContextInput = {}) {
+  replaceCatalogContextState({
+    context: 'recent',
+    level: input.level ?? 'cards',
+    filters: createTemporaryContextFilters('recent', input.routeTcg),
+    searchQuery: input.routeSearchQuery ?? '',
+    selectedSort: state.browseSelectedSort,
+  });
+}
+
+export function enterWishlistContext(input: CatalogBrowseContextInput = {}) {
+  replaceCatalogContextState({
+    context: 'wishlist',
+    level: input.level ?? 'cards',
+    filters: createTemporaryContextFilters('wishlist', input.routeTcg),
+    searchQuery: input.routeSearchQuery ?? '',
+    selectedSort: state.browseSelectedSort,
+  });
+}
+
+export function enterMissingContext(input: CatalogBrowseContextInput = {}) {
+  replaceCatalogContextState({
+    context: 'missing',
+    level: input.level ?? 'cards',
+    filters: createTemporaryContextFilters('missing', input.routeTcg),
+    searchQuery: input.routeSearchQuery ?? '',
+    selectedSort: state.browseSelectedSort,
+  });
+}
+
+export function updateActiveCatalogFilters(next: CatalogScreenFilters) {
+  if (areFiltersEqual(state.filters, next) && (state.context !== 'browse' || areFiltersEqual(state.browseFilters, next))) {
+    return;
+  }
+
+  updateCatalogBrowseToolbarState({
+    filters: next,
+    ...(state.context === 'browse' ? { browseFilters: next } : {}),
+    revision: state.revision,
+  });
+}
+
+export function updateActiveCatalogSearchQuery(searchQuery: string) {
+  if (state.searchQuery === searchQuery && (state.context !== 'browse' || state.browseSearchQuery === searchQuery)) {
+    return;
+  }
+
+  updateCatalogBrowseToolbarState({
+    searchQuery,
+    ...(state.context === 'browse' ? { browseSearchQuery: searchQuery } : {}),
+    revision: state.revision,
+  });
+}
+
+export function updateActiveCatalogSort(selectedSort: CatalogToolbarSort) {
+  if (areSortsEqual(state.selectedSort, selectedSort) && (state.context !== 'browse' || areSortsEqual(state.browseSelectedSort, selectedSort))) {
+    return;
+  }
+
+  updateCatalogBrowseToolbarState({
+    selectedSort,
+    ...(state.context === 'browse' ? { browseSelectedSort: selectedSort } : {}),
+    revision: state.revision,
+  });
+}
+
+export function updateCatalogLevel(level: CatalogBrowseLevel) {
   if (state.level === level) {
     return;
   }
 
-  state = {
-    ...state,
+  updateCatalogBrowseToolbarState({
     level,
-  };
-  emitChange();
-  schedulePersistCatalogBrowseToolbarState();
+    revision: state.revision,
+  });
 }
 
-export function clearCatalogBrowseToolbarState() {
-  updateCatalogBrowseToolbarState({
-    searchQuery: '',
-    filters: createEmptyCatalogFilters(),
-    selectedSort: null,
+export async function resetActiveCatalogFiltersToDefault(input: CatalogBrowseContextInput = {}) {
+  const defaultsFilters = await getCatalogBrowseDefaultFilters();
+
+  if (state.context === 'browse') {
+    const nextFilters = cloneCatalogFilters(defaultsFilters);
+    if (input.routeTcg) {
+      nextFilters.tcgs = [input.routeTcg];
+    }
+
+    replaceCatalogContextState({
+      context: 'browse',
+      level: input.level ?? state.level,
+      filters: nextFilters,
+      searchQuery: input.routeSearchQuery ?? '',
+      selectedSort: null,
+      browseFilters: nextFilters,
+      browseSearchQuery: input.routeSearchQuery ?? '',
+      browseSelectedSort: null,
+    });
+    return;
+  }
+
+  const routeTcg = input.routeTcg ?? getSingleSelectedTcg(state.filters);
+  const nextSearchQuery = state.context === 'search'
+    ? (input.routeSearchQuery ?? state.searchQuery)
+    : (input.routeSearchQuery ?? '');
+
+  replaceCatalogContextState({
+    context: state.context,
+    level: input.level ?? state.level,
+    filters: createTemporaryContextFilters(state.context, routeTcg),
+    searchQuery: nextSearchQuery,
+    selectedSort: state.browseSelectedSort,
   });
+}
+
+export function clearCatalogTemporaryContextAndRestoreBrowse(input: CatalogBrowseContextInput = {}) {
+  if (state.context === 'browse'
+    && input.level === undefined
+    && input.routeTcg === undefined
+    && input.routeSearchQuery === undefined) {
+    return;
+  }
+
+  enterBrowseContext(input);
 }
 
 function ensureCatalogBrowseToolbarHydrated() {
@@ -165,45 +372,31 @@ function ensureCatalogBrowseToolbarHydrated() {
   }
 
   hasStartedHydration = true;
-  void hydrateCatalogBrowseToolbarState();
+  void hydrateCatalogBrowseState();
 }
 
-async function hydrateCatalogBrowseToolbarState() {
+async function getCatalogBrowseToolbarPersistenceRow() {
+  const db = await getDatabase();
+  return db.getFirstAsync<CatalogBrowseToolbarPersistenceRow>(
+    `SELECT
+        remember_catalog_filters,
+        last_catalog_state,
+        default_tcg,
+        preferred_language,
+        ownership_mode,
+        set_scope
+     FROM user_settings
+     WHERE id = 'local'
+     LIMIT 1`
+  );
+}
+
+async function getCatalogBrowseDefaultFilters(): Promise<CatalogScreenFilters> {
   try {
-    const db = await getDatabase();
-    const row = await db.getFirstAsync<CatalogBrowseToolbarPersistenceRow>(
-      `SELECT
-          remember_catalog_filters,
-          last_catalog_state,
-          default_tcg,
-          preferred_language,
-          ownership_mode,
-          set_scope
-       FROM user_settings
-       WHERE id = 'local'
-       LIMIT 1`
-    );
-
-    if (!row) {
-      return;
-    }
-
-    if (row.remember_catalog_filters === 1 && row.last_catalog_state) {
-      const restoredState = parsePersistedCatalogBrowseToolbarState(row.last_catalog_state);
-      if (restoredState && hasActiveCatalogBrowseState(restoredState)) {
-        updateCatalogBrowseToolbarState(restoredState);
-        return;
-      }
-    }
-
-    const defaultsState: Partial<CatalogBrowseToolbarState> = {
-      filters: buildFiltersFromUserDefaults(row),
-      searchQuery: '',
-      selectedSort: null,
-    };
-    updateCatalogBrowseToolbarState(defaultsState);
+    const row = await getCatalogBrowseToolbarPersistenceRow();
+    return row ? buildFiltersFromUserDefaults(row) : createEmptyCatalogFilters();
   } catch {
-    // Keep defaults when hydration fails.
+    return createEmptyCatalogFilters();
   }
 }
 
@@ -246,10 +439,16 @@ async function persistCatalogBrowseToolbarState() {
 
 function serializeCatalogBrowseToolbarState(snapshot: CatalogBrowseToolbarState): CatalogBrowseToolbarState {
   return {
+    context: 'browse',
     level: snapshot.level,
-    searchQuery: snapshot.searchQuery,
-    selectedSort: snapshot.selectedSort,
-    filters: cloneCatalogFilters(snapshot.filters),
+    searchQuery: snapshot.browseSearchQuery,
+    selectedSort: snapshot.browseSelectedSort,
+    filters: cloneCatalogFilters(snapshot.browseFilters),
+    browseSearchQuery: snapshot.browseSearchQuery,
+    browseSelectedSort: snapshot.browseSelectedSort,
+    browseFilters: cloneCatalogFilters(snapshot.browseFilters),
+    isHydrated: snapshot.isHydrated,
+    revision: snapshot.revision,
   };
 }
 
@@ -269,6 +468,11 @@ function normalizePersistedCatalogBrowseToolbarState(
 ): Partial<CatalogBrowseToolbarState> {
   const next: Partial<CatalogBrowseToolbarState> = {};
 
+  const context = toCatalogBrowseContext(input.context);
+  if (context) {
+    next.context = context;
+  }
+
   if (input.level === 'tcgs' || input.level === 'sets' || input.level === 'cards') {
     next.level = input.level;
   }
@@ -277,65 +481,51 @@ function normalizePersistedCatalogBrowseToolbarState(
     next.searchQuery = input.searchQuery;
   }
 
-  if (input.selectedSort === null) {
-    next.selectedSort = null;
-  } else if (isRecord(input.selectedSort)) {
-    const key = typeof input.selectedSort.key === 'string' ? input.selectedSort.key : null;
-    const direction = input.selectedSort.direction === 'asc' || input.selectedSort.direction === 'desc'
-      ? input.selectedSort.direction
-      : null;
-
-    if (isSortKey(key) && direction) {
-      next.selectedSort = { key, direction };
-    }
+  const selectedSort = normalizePersistedSort(input.selectedSort);
+  if (selectedSort !== undefined) {
+    next.selectedSort = selectedSort;
   }
 
   if (isRecord(input.filters)) {
-    const filters = createEmptyCatalogFilters();
-    filters.tcgs = toCatalogTcgArray(input.filters.tcgs);
-    filters.setIds = toStringArray(input.filters.setIds);
-    filters.setNamesById = toStringMap(input.filters.setNamesById);
-    filters.languages = toCatalogLanguageArray(input.filters.languages);
-    filters.rarityKeys = toStringArray(input.filters.rarityKeys);
-    filters.cardTypeKeys = toStringArray(input.filters.cardTypeKeys);
-    const ownershipMode = toOwnershipMode(input.filters.ownershipMode);
-    if (ownershipMode) {
-      filters.ownershipMode = ownershipMode;
-    }
+    next.filters = normalizePersistedFilters(input.filters);
+  }
 
-    const setScope = toSetScope(input.filters.setScope);
-    if (setScope) {
-      filters.setScope = setScope;
-    }
-    filters.recentlyViewed = input.filters.recentlyViewed === true;
+  if (typeof input.browseSearchQuery === 'string') {
+    next.browseSearchQuery = input.browseSearchQuery;
+  }
 
-    if (isRecord(input.filters.gameSpecificSelections)) {
-      filters.gameSpecificSelections = {
-        ...filters.gameSpecificSelections,
-        ...input.filters.gameSpecificSelections,
-      };
-    }
+  const browseSelectedSort = normalizePersistedSort(input.browseSelectedSort);
+  if (browseSelectedSort !== undefined) {
+    next.browseSelectedSort = browseSelectedSort;
+  }
 
-    next.filters = filters;
+  if (isRecord(input.browseFilters)) {
+    next.browseFilters = normalizePersistedFilters(input.browseFilters);
   }
 
   return next;
 }
 
 function hasActiveCatalogBrowseState(nextState: Partial<CatalogBrowseToolbarState>): boolean {
-  if (typeof nextState.searchQuery === 'string' && nextState.searchQuery.trim().length > 0) {
+  const searchQuery = nextState.browseSearchQuery ?? nextState.searchQuery;
+  const selectedSort = hasOwnProperty(nextState, 'browseSelectedSort')
+    ? nextState.browseSelectedSort
+    : nextState.selectedSort;
+  const filters = nextState.browseFilters ?? nextState.filters;
+
+  if (typeof searchQuery === 'string' && searchQuery.trim().length > 0) {
     return true;
   }
 
-  if (nextState.selectedSort) {
+  if (selectedSort) {
     return true;
   }
 
-  if (!nextState.filters) {
+  if (!filters) {
     return false;
   }
 
-  return !areFiltersEqual(nextState.filters, createEmptyCatalogFilters());
+  return !areFiltersEqual(filters, createEmptyCatalogFilters());
 }
 
 function buildFiltersFromUserDefaults(row: CatalogBrowseToolbarPersistenceRow): CatalogScreenFilters {
@@ -389,8 +579,193 @@ function cloneCatalogFilters(filters: CatalogScreenFilters): CatalogScreenFilter
   };
 }
 
+function createInitialCatalogBrowseToolbarState(): CatalogBrowseToolbarState {
+  const filters = createEmptyCatalogFilters();
+
+  return {
+    context: 'browse',
+    level: 'tcgs',
+    searchQuery: '',
+    filters,
+    selectedSort: null,
+    browseFilters: createEmptyCatalogFilters(),
+    browseSearchQuery: '',
+    browseSelectedSort: null,
+    isHydrated: false,
+    revision: 0,
+  };
+}
+
+function createCatalogBrowseToolbarStateFromBrowseSnapshot(input: {
+  context: CatalogBrowseContext;
+  level: CatalogBrowseLevel;
+  browseFilters: CatalogScreenFilters;
+  browseSearchQuery: string;
+  browseSelectedSort: CatalogToolbarSort;
+  isHydrated: boolean;
+  revision: number;
+}): CatalogBrowseToolbarState {
+  return {
+    context: input.context,
+    level: input.level,
+    searchQuery: input.browseSearchQuery,
+    filters: cloneCatalogFilters(input.browseFilters),
+    selectedSort: input.browseSelectedSort,
+    browseFilters: cloneCatalogFilters(input.browseFilters),
+    browseSearchQuery: input.browseSearchQuery,
+    browseSelectedSort: input.browseSelectedSort,
+    isHydrated: input.isHydrated,
+    revision: input.revision,
+  };
+}
+
+function buildHydratedCatalogBrowseToolbarState(
+  baseState: CatalogBrowseToolbarState,
+  restoredState: Partial<CatalogBrowseToolbarState>
+): CatalogBrowseToolbarState {
+  const browseFilters = restoredState.browseFilters
+    ? cloneCatalogFilters(restoredState.browseFilters)
+    : restoredState.filters
+      ? cloneCatalogFilters(restoredState.filters)
+      : cloneCatalogFilters(baseState.browseFilters);
+  const browseSearchQuery = restoredState.browseSearchQuery ?? restoredState.searchQuery ?? baseState.browseSearchQuery;
+  const browseSelectedSort = hasOwnProperty(restoredState, 'browseSelectedSort')
+    ? (restoredState.browseSelectedSort ?? null)
+    : hasOwnProperty(restoredState, 'selectedSort')
+      ? (restoredState.selectedSort ?? null)
+      : baseState.browseSelectedSort;
+
+  return {
+    context: 'browse',
+    level: restoredState.level ?? baseState.level,
+    searchQuery: browseSearchQuery,
+    filters: browseFilters,
+    selectedSort: browseSelectedSort,
+    browseFilters,
+    browseSearchQuery,
+    browseSelectedSort,
+    isHydrated: true,
+    revision: baseState.revision,
+  };
+}
+
+function applyCatalogBrowseToolbarState(nextState: CatalogBrowseToolbarState) {
+  if (areToolbarStatesEqual(nextState, state)) {
+    return;
+  }
+
+  state = nextState;
+  emitChange();
+  schedulePersistCatalogBrowseToolbarState();
+}
+
+function replaceCatalogContextState(input: {
+  context: CatalogBrowseContext;
+  level: CatalogBrowseLevel;
+  filters: CatalogScreenFilters;
+  searchQuery: string;
+  selectedSort: CatalogToolbarSort;
+  browseFilters?: CatalogScreenFilters;
+  browseSearchQuery?: string;
+  browseSelectedSort?: CatalogToolbarSort;
+}) {
+  updateCatalogBrowseToolbarState({
+    context: input.context,
+    level: input.level,
+    filters: input.filters,
+    searchQuery: input.searchQuery,
+    selectedSort: input.selectedSort,
+    ...(input.browseFilters ? { browseFilters: input.browseFilters } : {}),
+    ...(input.browseSearchQuery !== undefined ? { browseSearchQuery: input.browseSearchQuery } : {}),
+    ...(input.browseSelectedSort !== undefined ? { browseSelectedSort: input.browseSelectedSort } : {}),
+  });
+}
+
+function normalizePersistedFilters(value: Record<string, unknown>): CatalogScreenFilters {
+  const filters = createEmptyCatalogFilters();
+  filters.tcgs = toCatalogTcgArray(value.tcgs);
+  filters.setIds = toStringArray(value.setIds);
+  filters.setNamesById = toStringMap(value.setNamesById);
+  filters.languages = toCatalogLanguageArray(value.languages);
+  filters.rarityKeys = toStringArray(value.rarityKeys);
+  filters.cardTypeKeys = toStringArray(value.cardTypeKeys);
+  const ownershipMode = toOwnershipMode(value.ownershipMode);
+  if (ownershipMode) {
+    filters.ownershipMode = ownershipMode;
+  }
+
+  const setScope = toSetScope(value.setScope);
+  if (setScope) {
+    filters.setScope = setScope;
+  }
+  filters.recentlyViewed = value.recentlyViewed === true;
+
+  if (isRecord(value.gameSpecificSelections)) {
+    filters.gameSpecificSelections = {
+      ...filters.gameSpecificSelections,
+      ...value.gameSpecificSelections,
+    };
+  }
+
+  return filters;
+}
+
+function normalizePersistedSort(value: unknown): CatalogToolbarSort | undefined {
+  if (value === null) {
+    return null;
+  }
+
+  if (!isRecord(value)) {
+    return undefined;
+  }
+
+  const key = typeof value.key === 'string' ? value.key : null;
+  const direction = value.direction === 'asc' || value.direction === 'desc'
+    ? value.direction
+    : null;
+
+  if (isSortKey(key) && direction) {
+    return { key, direction };
+  }
+
+  return undefined;
+}
+
+function createTemporaryContextFilters(context: CatalogBrowseContext, routeTcg?: CatalogTcg): CatalogScreenFilters {
+  const filters = createEmptyCatalogFilters();
+
+  if (routeTcg) {
+    filters.tcgs = [routeTcg];
+  }
+
+  if (context === 'recent') {
+    filters.recentlyViewed = true;
+  }
+
+  return filters;
+}
+
+function getSingleSelectedTcg(filters: CatalogScreenFilters): CatalogTcg | undefined {
+  return filters.tcgs.length === 1 ? filters.tcgs[0] : undefined;
+}
+
+function hasOwnProperty<T extends object, K extends PropertyKey>(
+  value: T,
+  key: K
+): value is T & Record<K, unknown> {
+  return Object.prototype.hasOwnProperty.call(value, key);
+}
+
 function isRecord(value: unknown): value is Record<string, unknown> {
   return !!value && typeof value === 'object';
+}
+
+function toCatalogBrowseContext(value: unknown): CatalogBrowseContext | null {
+  if (value === 'browse' || value === 'search' || value === 'recent' || value === 'wishlist' || value === 'missing') {
+    return value;
+  }
+
+  return null;
 }
 
 function toCatalogTcg(value: unknown): CatalogTcg | null {
