@@ -1,6 +1,6 @@
 # Mobile Rules
 
-Last updated: 2026-03-23
+Last updated: 2026-03-25
 
 These rules reflect the current Expo Router structure and card-browsing flows.
 
@@ -87,3 +87,14 @@ TODO: Catalog Navigation Consistency
 - Prefer `TcgCard` for reusable card visual components
 - Use `Catalog` naming for cross-TCG browse/filter flows (`catalog.*`)
 - Keep user-facing language specific: `TCG cards`, `catalog`, `recently viewed`
+
+### Future Catalog State Model (Planned)
+
+- The current system uses a store-driven model for catalog state
+- A future version may move to route-driven state
+- When implemented:
+	- route params will become the single source of truth
+	- store will act as a cache and persistence layer
+- Until then:
+	- the store remains the authoritative source of catalog state
+	- do not bypass store logic

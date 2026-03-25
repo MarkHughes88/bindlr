@@ -1,6 +1,6 @@
 # Architecture
 
-Last updated: 2026-03-23
+Last updated: 2026-03-25
 
 Current feature architecture is organized around `catalog` + user-owned domains.
 
@@ -90,3 +90,27 @@ src/features/
 - `SlideUpMenu`, `Pill`, and shared `Button` variants are reused across list controls.
 - Shared icon usage goes through `src/shared/ui/Icon.tsx`.
 - Add new reusable icons there first using a semantic app-level name (`APP_ICON_NAMES`) and then consume that semantic name from screens/components instead of hard-coding raw Lucide names in each feature.
+
+## Future Direction: Route-as-Source-of-Truth
+
+The catalog system currently uses a store-driven model:
+route → context → store → UI
+
+In the future, this may evolve toward a route-as-source-of-truth model:
+route = state, store = cache/persistence layer
+
+In that model:
+- URL parameters fully define catalog state (level, tcg, search query, filters, sort)
+- UI reads directly from route params
+- store is used for caching, async safety, and optional persistence
+- pre-navigation store mutations are eliminated entirely
+
+This would improve:
+- deep linking
+- state reproducibility
+- debugging
+- consistency between navigation and UI state
+
+This is not implemented yet and should not be attempted until:
+- catalog system is stable
+- feature set is complete enough to justify the change
