@@ -5,7 +5,6 @@ import { ActivityIndicator, Alert, Image, Pressable, StyleSheet, View } from 're
 
 import type { CatalogTcg } from '@/src/domain/catalog/catalog.types';
 import type { CatalogScreenFilters } from '@/src/features/catalog/catalog.filters';
-import { DEFAULT_CATALOG_FILTERS } from '@/src/features/catalog/catalog.filters';
 import {
   clearCatalogTemporaryContextAndRestoreBrowse,
   enterBrowseContext,
@@ -132,28 +131,6 @@ export default function CatalogRoute() {
     : specialMode === 'missingCards'
     ? SEARCH_COPY.placeholders.missingCards
     : 'Find a card';
-  const cardInitialSearchQuery = routeSearchQuery
-    ? routeSearchQuery
-    : specialMode
-    ? ''
-    : toolbarState.searchQuery;
-  const cardInitialFilters: Partial<CatalogScreenFilters> = specialMode
-    ? {
-        ...(paramTcg ? { tcgs: [paramTcg] } : {}),
-        ...(specialMode === 'recentlyViewed' ? { recentlyViewed: true } : {}),
-      }
-    : routeSearchQuery
-      ? {
-          ...toolbarState.filters,
-          tcgs: [],
-          setIds: [],
-          setNamesById: {},
-          rarityKeys: [],
-          cardTypeKeys: [],
-          gameSpecificSelections: DEFAULT_CATALOG_FILTERS.gameSpecificSelections,
-          setScope: 'all',
-        }
-      : toolbarState.filters;
   const cardListScreenKey = `${specialMode ?? 'catalog'}:${routeSearchQuery ?? ''}:${paramTcg ?? 'all'}`;
   const contentAnimationKey = `${level}:${activeTcg ?? 'none'}:${toolbarState.filters.setIds.join('|')}:${specialMode ?? 'catalog'}:${typeof params.q === 'string' ? params.q : ''}`;
   const previousLevelRef = useRef(level);
@@ -392,7 +369,7 @@ export default function CatalogRoute() {
       return;
     }
 
-    router.replace('/catalog?level=tcgs');
+    router.push('/(tabs)/catalog?level=tcgs');
     showBanner({
       message: 'Select a TCG to browse sets.',
       tone: 'info',
@@ -424,7 +401,7 @@ export default function CatalogRoute() {
           updateCatalogBrowseToolbarFilters(nextFilters);
 
           if (level === 'sets' && nextFilters.tcgs.length === 0) {
-            router.replace('/catalog?level=tcgs');
+            router.push('/(tabs)/catalog?level=tcgs');
           }
         }}
         selectedSort={toolbarState.selectedSort}
@@ -568,8 +545,6 @@ export default function CatalogRoute() {
           key={cardListScreenKey}
           searchPlaceholder={cardSearchPlaceholder}
           specialMode={specialMode}
-          initialFilters={cardInitialFilters}
-          initialSearchQuery={cardInitialSearchQuery}
           hideChrome
           hideToolbar
         />

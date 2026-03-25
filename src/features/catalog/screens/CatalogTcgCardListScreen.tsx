@@ -8,8 +8,7 @@ import { useAppTheme } from "@/src/theme/useAppTheme";
 // Import components
 import {
 	CatalogScreenFilters,
-	DEFAULT_CATALOG_FILTERS,
-	toCatalogCardFilters,
+	toCatalogCardFilters
 } from "@/src/features/catalog/catalog.filters";
 import {
 	matchesGameSpecificSelections,
@@ -68,8 +67,6 @@ type Row = {
 
 type CatalogTcgCardListScreenProps = {
 	searchPlaceholder: string;
-	initialFilters?: Partial<CatalogScreenFilters>;
-	initialSearchQuery?: string;
 	specialMode?: 'recentlyViewed' | 'wishlist' | 'missingCards';
 	hideChrome?: boolean;
 	hideToolbar?: boolean;
@@ -98,8 +95,6 @@ function toCatalogContextFromSpecialMode(
 
 export function CatalogTcgCardListScreen({
 	searchPlaceholder,
-	initialFilters,
-	initialSearchQuery,
 	specialMode,
 	hideChrome = false,
 	hideToolbar = false,
@@ -120,18 +115,10 @@ export function CatalogTcgCardListScreen({
 	const [totalPages, setTotalPages] = useState(1);
 	const [totalItems, setTotalItems] = useState(0);
 	const loadRequestIdRef = useRef(0);
-	const bootstrapContext = toCatalogContextFromSpecialMode(specialMode);
-	const shouldUseBootstrapState = bootstrapContext !== null && toolbarState.context !== bootstrapContext;
-	const bootstrapFilters = useMemo<CatalogScreenFilters>(() => ({
-		...DEFAULT_CATALOG_FILTERS,
-		...initialFilters,
-		gameSpecificSelections: initialFilters?.gameSpecificSelections ?? DEFAULT_CATALOG_FILTERS.gameSpecificSelections,
-	}), [initialFilters]);
-	const currentContext = shouldUseBootstrapState ? bootstrapContext : toolbarState.context;
-	const currentFilters = shouldUseBootstrapState ? bootstrapFilters : toolbarState.filters;
-	const searchQuery = shouldUseBootstrapState
-		? (typeof initialSearchQuery === 'string' ? initialSearchQuery : '')
-		: toolbarState.searchQuery;
+// All state now comes from the catalog browse store
+	const currentContext = toolbarState.context;
+	const currentFilters = toolbarState.filters;
+	const searchQuery = toolbarState.searchQuery;
 	const selectedSort = toolbarState.selectedSort;
 	const isSpecialCollectionContext = currentContext === 'recent' || currentContext === 'wishlist' || currentContext === 'missing';
 	const activeToolbarContext = currentContext === 'recent' || currentContext === 'wishlist' || currentContext === 'missing'
