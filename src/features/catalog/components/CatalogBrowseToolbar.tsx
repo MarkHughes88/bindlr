@@ -1,29 +1,29 @@
 import { useMemo, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 
-import { useAppTheme } from '@/src/theme/useAppTheme';
-import { AppText, Button, Grid, Pill, Section, SlideUpMenu } from '@/src/shared/ui';
-import { BasicSearch } from '@/src/features/search/components/BasicSearch';
-import { CatalogFiltersSheet } from '@/src/features/catalog/components/CatalogFiltersSheet';
-import {
-  CATALOG_LANGUAGE_LABELS,
-  type CatalogFilterSectionKey,
-  type CatalogScreenFilters,
-  DEFAULT_CATALOG_FILTERS,
-} from '@/src/features/catalog/catalog.filters';
-import type { CatalogTcgCardSortDirection, CatalogTcgCardSortKey } from '@/src/features/catalog/catalog.types';
-import {
-  GAME_SPECIFIC_FILTERS_BY_KEY,
-  GAME_SPECIFIC_FILTER_DESCRIPTORS,
-  fromScopedGameSpecificValue,
-  type CatalogGameSpecificFilterKey,
-} from '@/src/features/catalog/catalog.gameSpecific';
-import { getTcgTitle } from '@/src/shared/config/tcg';
 import type { CatalogTcg } from '@/src/domain/catalog/catalog.types';
+import {
+    CATALOG_LANGUAGE_LABELS,
+    DEFAULT_CATALOG_FILTERS,
+    type CatalogFilterSectionKey,
+    type CatalogScreenFilters,
+} from '@/src/features/catalog/catalog.filters';
+import {
+    GAME_SPECIFIC_FILTERS_BY_KEY,
+    GAME_SPECIFIC_FILTER_DESCRIPTORS,
+    fromScopedGameSpecificValue,
+    type CatalogGameSpecificFilterKey,
+} from '@/src/features/catalog/catalog.gameSpecific';
+import type { CatalogTcgCardSortDirection, CatalogTcgCardSortKey } from '@/src/features/catalog/catalog.types';
+import { CatalogFiltersSheet } from '@/src/features/catalog/components/CatalogFiltersSheet';
+import { BasicSearch } from '@/src/features/search/components/BasicSearch';
+import { getTcgTitle } from '@/src/shared/config/tcg';
+import { AppText, Button, Grid, Pill, Section, SlideUpMenu } from '@/src/shared/ui';
+import { useAppTheme } from '@/src/theme/useAppTheme';
 
 type ActiveFilterPill = {
   id: string;
-  key: 'tcg' | 'setId' | 'language' | 'rarity' | 'cardType' | 'gameSpecific' | 'ownershipMode' | 'setScope' | 'recentlyViewed' | 'sort' | 'clearAll';
+  key: 'tcg' | 'setId' | 'language' | 'rarity' | 'cardType' | 'gameSpecific' | 'ownershipMode' | 'setScope' | 'recentlyViewed' | 'context' | 'sort' | 'clearAll';
   text: string;
   value?: string;
 };
@@ -51,6 +51,9 @@ type Props = {
       onPress: () => void;
     }[];
   }[];
+  isBusy?: boolean;
+  activeContext?: 'recent' | 'wishlist' | 'missing' | null;
+  onClearActiveContext?: () => void;
 };
 
 const SORT_OPTIONS: CatalogTcgCardSortKey[] = ['name', 'cardNumber', 'tcg', 'set', 'rarity', 'newest', 'pokedex'];
@@ -100,6 +103,9 @@ export function CatalogBrowseToolbar({
   resultCountText,
   sortMenuTitle = 'Sort Options',
   customSortMenuSections,
+  isBusy = false,
+  activeContext = null,
+  onClearActiveContext,
 }: Props) {
   const theme = useAppTheme();
   const styles = useMemo(() => createStyles(theme), [theme]);
@@ -108,6 +114,10 @@ export function CatalogBrowseToolbar({
   const [initialExpandedFilterSection, setInitialExpandedFilterSection] = useState<CatalogFilterSectionKey | undefined>(undefined);
 
   const openFilters = (section?: CatalogFilterSectionKey) => {
+    if (isBusy) {
+      return;
+    }
+
     setInitialExpandedFilterSection(section);
     setIsFiltersVisible(true);
   };
@@ -142,7 +152,31 @@ export function CatalogBrowseToolbar({
       });
     });
 
-    if (currentFilters.recentlyViewed) {
+    if (activeContext === 'recent') {
+      filterPills.push({
+        id: 'context:recent',
+        key: 'context',
+        text: 'Recently Viewed',
+      });
+    }
+
+    if (activeContext === 'wishlist') {
+      filterPills.push({
+        id: 'context:wishlist',
+        key: 'context',
+        text: 'Wishlist',
+      });
+    }
+
+    if (activeContext === 'missing') {
+      filterPills.push({
+        id: 'context:missing',
+        key: 'context',
+        text: 'Missing Cards',
+      });
+    }
+
+    if (currentFilters.recentlyViewed && activeContext !== 'recent') {
       filterPills.push({
         id: 'recentlyViewed',
         key: 'recentlyViewed',
@@ -215,9 +249,13 @@ export function CatalogBrowseToolbar({
     return pillsWithSort.length > 0
       ? [{ id: 'clear-all', key: 'clearAll', text: 'Clear all' }, ...pillsWithSort]
       : pillsWithSort;
-  }, [currentFilters, selectedSort]);
+  }, [activeContext, currentFilters, selectedSort]);
 
   const clearPill = (pill: ActiveFilterPill) => {
+    if (isBusy) {
+      return;
+    }
+
     if (pill.key === 'clearAll') {
       onApplyFilters(createClearedFiltersKeepingMode(currentFilters));
       onSortChange(null);
@@ -226,6 +264,11 @@ export function CatalogBrowseToolbar({
 
     if (pill.key === 'sort') {
       onSortChange(null);
+      return;
+    }
+
+    if (pill.key === 'context') {
+      onClearActiveContext?.();
       return;
     }
 
@@ -393,6 +436,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="TCG"
+                disabled={isBusy}
                 iconName="rectangleVertical"
                 layout="vertical"
                 textSize="sm"
@@ -406,6 +450,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="Sets"
+                disabled={isBusy}
                 iconName="layers"
                 layout="vertical"
                 textSize="sm"
@@ -419,6 +464,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="Lang"
+                disabled={isBusy}
                 iconName="languages"
                 layout="vertical"
                 textSize="sm"
@@ -432,6 +478,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="Inv"
+                disabled={isBusy}
                 iconName="library"
                 layout="vertical"
                 textSize="sm"
@@ -445,6 +492,7 @@ export function CatalogBrowseToolbar({
               <Button
                 type="secondary"
                 text="Sort"
+                disabled={isBusy}
                 iconName="arrowDownWideNarrow"
                 layout="vertical"
                 textSize="sm"

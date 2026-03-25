@@ -1,6 +1,6 @@
 # Mobile Rules
 
-Last updated: 2026-03-23
+Last updated: 2026-03-25
 
 These rules reflect the current Expo Router structure and card-browsing flows.
 
@@ -59,6 +59,13 @@ router.push({
 });
 ```
 
+TODO: Catalog Navigation Consistency
+- Standardize all catalog navigation to a single Expo Router path-based pattern
+- Avoid mixing different catalog route styles across the app
+- Prefer one consistent route structure for catalog flows, for example:
+  '/(tabs)/catalog?...'
+- This should be cleaned up in a future pass to prevent subtle navigation regressions
+
 ## Screen Layout Rules
 
 - Shared `Screen` wrapper is the universal shell for scrollable feature screens
@@ -80,3 +87,14 @@ router.push({
 - Prefer `TcgCard` for reusable card visual components
 - Use `Catalog` naming for cross-TCG browse/filter flows (`catalog.*`)
 - Keep user-facing language specific: `TCG cards`, `catalog`, `recently viewed`
+
+### Future Catalog State Model (Planned)
+
+- The current system uses a store-driven model for catalog state
+- A future version may move to route-driven state
+- When implemented:
+	- route params will become the single source of truth
+	- store will act as a cache and persistence layer
+- Until then:
+	- the store remains the authoritative source of catalog state
+	- do not bypass store logic

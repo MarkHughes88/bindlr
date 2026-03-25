@@ -230,7 +230,7 @@ export class SqliteBindersRepository implements BindersRepository {
         );
     }
 
-    async updateBinderCover(binderId: string, update: { color?: string | null; coverImageUri?: string | null; insideColor?: string | null }): Promise<void> {
+    async updateBinderCover(binderId: string, update: { color?: string | null; coverImageUri?: string | null; insideColor?: string | null; pageColor?: string | null }): Promise<void> {
         const db = await getDatabase();
         const now = new Date().toISOString();
         const sets: string[] = [];
@@ -247,6 +247,10 @@ export class SqliteBindersRepository implements BindersRepository {
         if ('insideColor' in update) {
             sets.push('inside_color = ?');
             values.push(update.insideColor ?? null);
+        }
+        if ('pageColor' in update) {
+            sets.push('page_color = ?');
+            values.push(update.pageColor ?? null);
         }
 
         if (sets.length === 0) return;

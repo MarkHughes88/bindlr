@@ -1,6 +1,6 @@
 # TODO - Bindlr (Execution Order)
 
-Last updated: 2026-03-23
+Last updated: 2026-03-25
 
 This checklist is intentionally ordered. Work top to bottom.
 
@@ -102,11 +102,15 @@ This checklist is intentionally ordered. Work top to bottom.
 
 ## 4. Frontend Consistency and UX
 
+- [ ] Evaluate migration of catalog system to route-as-source-of-truth model (long-term)
+- [ ] Define canonical route schema for catalog state (level, tcg, query, filters, sort)
+
 - [x] Reuse `TcgCard` for TCG card visuals across contexts
 - [x] Reuse shared back navigation via `Header hasBackBtn`
 - [ ] Standardize loading/error/empty components for all feature screens
 - [ ] Ensure all new routes validate params before rendering
 - [ ] Remove temporary debug logs from production paths
+- [ ] Standardize catalog navigation route usage across all catalog flows (prefer a single Expo Router path pattern, avoid mixed route styles)
 
 ## 5. Images and Performance
 
@@ -135,8 +139,11 @@ This checklist is intentionally ordered. Work top to bottom.
 
 ## 7. Reliability and Release
 
+- [ ] Add deep link test coverage for catalog routes (ensure state can be reconstructed from URL)
+
 - [ ] Add repository tests for recent-view upsert/prune behavior
 - [ ] Add tests for binder slot writes and reads
 - [ ] Add smoke tests for navigation-critical flows
 - [ ] Validate migration behavior on clean and existing installs
 - [ ] Re-investigate and reproduce intermittent advanced-filter bug reported during manual testing (could not recreate consistently)
+- [ ] Add smoke-test checklist for catalog context transitions (browse, search, wishlist, recent, missing, filter clear/reset)

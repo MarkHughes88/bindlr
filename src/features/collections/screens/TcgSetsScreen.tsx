@@ -1,33 +1,33 @@
+import { useRouter } from 'expo-router';
+import { Check, CloudDownload, Heart } from 'lucide-react-native';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { ActivityIndicator, Alert, Image, Pressable, StyleSheet, View } from 'react-native';
-import { useRouter } from 'expo-router';
-import { Heart, CloudDownload, Check } from 'lucide-react-native';
 
-import { useAppTheme } from '@/src/theme/useAppTheme';
-import { Screen, Header, AppText, ProgressBar, SkeletonBlock, FadeInView } from '@/src/shared/ui';
-import { catalogRepository, downloadsRepository, inventoryRepository } from '@/src/lib/repositories';
-import { getSupportedCatalogLanguages } from '@/src/lib/catalog/catalog.lookup';
-import { CatalogBrowseToolbar } from '@/src/features/catalog/components/CatalogBrowseToolbar';
-import type { CatalogScreenFilters } from '@/src/features/catalog/catalog.filters';
 import type { CatalogLanguage, CatalogTcg } from '@/src/domain/catalog/catalog.types';
+import type { CatalogScreenFilters } from '@/src/features/catalog/catalog.filters';
 import type { CatalogSetSummary } from '@/src/features/catalog/catalog.types';
 import {
-	setLastSelectedSetsTcg,
-	updateSetsScreenState,
-} from '@/src/features/collections/setsScreen.state';
+    updateActiveCatalogFilters,
+    updateActiveCatalogSearchQuery,
+    updateActiveCatalogSort,
+    updateCatalogLevel,
+    useCatalogBrowseToolbarState,
+} from '@/src/features/catalog/catalogBrowseToolbar.state';
+import { CatalogBrowseToolbar } from '@/src/features/catalog/components/CatalogBrowseToolbar';
 import {
-	buildSetNavigationFilters,
-	resolveActiveSetsLanguage,
+    buildSetNavigationFilters,
+    resolveActiveSetsLanguage,
 } from '@/src/features/collections/sets.screen.logic';
 import {
-	useCatalogBrowseToolbarState,
-	updateCatalogBrowseToolbarFilters,
-	updateCatalogBrowseToolbarLevel,
-	updateCatalogBrowseToolbarSearchQuery,
-	updateCatalogBrowseToolbarSort,
-} from '@/src/features/catalog/catalogBrowseToolbar.state';
+    setLastSelectedSetsTcg,
+    updateSetsScreenState,
+} from '@/src/features/collections/setsScreen.state';
 import type { DownloadScopeStatus } from '@/src/features/downloads/downloads.types';
 import { useUserSettingsState } from '@/src/features/settings/settings.store';
+import { getSupportedCatalogLanguages } from '@/src/lib/catalog/catalog.lookup';
+import { catalogRepository, downloadsRepository, inventoryRepository } from '@/src/lib/repositories';
+import { AppText, FadeInView, Header, ProgressBar, Screen, SkeletonBlock } from '@/src/shared/ui';
+import { useAppTheme } from '@/src/theme/useAppTheme';
 
 type Props = {
 	initialTcg: CatalogTcg;
@@ -43,6 +43,10 @@ function toSetsSortKey(key?: string): 'favorites' | 'name' | 'releaseDate' {
 	return 'name';
 }
 
+function delay(ms: number) {
+	return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountChange }: Props) {
 	const router = useRouter();
 	const theme = useAppTheme();
@@ -56,14 +60,20 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 		selectedLanguages: toolbarState.filters.languages,
 		supportedLanguages: [...supportedLanguages],
 	});
+
 	const [sets, setSets] = useState<CatalogSetSummary[]>([]);
 	const [isLoading, setIsLoading] = useState(true);
 	const [favoriteSetIds, setFavoriteSetIds] = useState<Set<string>>(new Set());
 	const [downloadStatusBySetId, setDownloadStatusBySetId] = useState<Record<string, DownloadScopeStatus>>({});
 	const [ownedCountBySetId, setOwnedCountBySetId] = useState<Record<string, number>>({});
+
 	const previousLanguageRef = useRef<CatalogLanguage | undefined>(activeLanguage);
+	const loadRequestIdRef = useRef(0);
+	const statusRequestIdRef = useRef(0);
+
 	const effectiveSortKey = toolbarState.selectedSort?.key === 'newest' ? 'newest' : 'name';
 	const effectiveSortDirection = toolbarState.selectedSort?.direction ?? 'asc';
+
 	const setsSortMenuSections = useMemo(() => ([
 		{
 			title: 'Sort sets by',
@@ -73,7 +83,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 					label: 'Name',
 					selected: effectiveSortKey === 'name',
 					onPress: () => {
-						updateCatalogBrowseToolbarSort({ key: 'name', direction: effectiveSortDirection });
+						updateActiveCatalogSort({ key: 'name', direction: effectiveSortDirection });
 					},
 				},
 				{
@@ -81,7 +91,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 					label: 'Release Date',
 					selected: effectiveSortKey === 'newest',
 					onPress: () => {
-						updateCatalogBrowseToolbarSort({ key: 'newest', direction: effectiveSortDirection });
+						updateActiveCatalogSort({ key: 'newest', direction: effectiveSortDirection });
 					},
 				},
 			],
@@ -94,7 +104,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 					label: 'Ascending',
 					selected: effectiveSortDirection === 'asc',
 					onPress: () => {
-						updateCatalogBrowseToolbarSort({ key: effectiveSortKey, direction: 'asc' });
+						updateActiveCatalogSort({ key: effectiveSortKey, direction: 'asc' });
 					},
 				},
 				{
@@ -102,7 +112,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 					label: 'Descending',
 					selected: effectiveSortDirection === 'desc',
 					onPress: () => {
-						updateCatalogBrowseToolbarSort({ key: effectiveSortKey, direction: 'desc' });
+						updateActiveCatalogSort({ key: effectiveSortKey, direction: 'desc' });
 					},
 				},
 			],
@@ -142,23 +152,26 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 	}, [activeTcg]);
 
 	useEffect(() => {
+		const requestId = ++loadRequestIdRef.current;
 		let cancelled = false;
+
 		setIsLoading(true);
 		setSets([]);
 		setOwnedCountBySetId({});
+		setDownloadStatusBySetId({});
 
 		void Promise.all([
 			catalogRepository.getSetsByTcg(activeTcg, activeLanguage),
 			inventoryRepository.getOwnedUniqueCountBySet({ tcg: activeTcg, language: activeLanguage }),
 		]).then(([nextSets, nextOwnedCounts]) => {
-			if (cancelled) {
+			if (cancelled || requestId !== loadRequestIdRef.current) {
 				return;
 			}
 
 			setSets(nextSets);
 			setOwnedCountBySetId(nextOwnedCounts);
 		}).finally(() => {
-			if (!cancelled) {
+			if (!cancelled && requestId === loadRequestIdRef.current) {
 				setIsLoading(false);
 			}
 		});
@@ -199,6 +212,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 
 		const sortKey = toolbarState.selectedSort?.key ?? 'name';
 		const direction = toolbarState.selectedSort?.direction === 'desc' ? -1 : 1;
+
 		return [...nextSets].sort((left, right) => {
 			if (sortKey === 'newest') {
 				const leftDate = left.releaseDate ?? '';
@@ -211,32 +225,74 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 
 			return left.name.localeCompare(right.name) * direction;
 		});
-	}, [activeTcg, favoriteSetIds, ownedCountBySetId, sets, toolbarState.filters.ownershipMode, toolbarState.filters.setIds, toolbarState.filters.setScope, toolbarState.searchQuery, toolbarState.selectedSort]);
+	}, [
+		activeTcg,
+		favoriteSetIds,
+		ownedCountBySetId,
+		sets,
+		toolbarState.filters.ownershipMode,
+		toolbarState.filters.setIds,
+		toolbarState.filters.setScope,
+		toolbarState.searchQuery,
+		toolbarState.selectedSort,
+	]);
 
 	useEffect(() => {
 		onFilteredCountChange?.(filteredSets.length, isLoading);
 	}, [filteredSets.length, isLoading, onFilteredCountChange]);
 
 	const refreshSetDownloadStatuses = useCallback(async (setIds: string[]) => {
+		const requestId = ++statusRequestIdRef.current;
+
 		if (setIds.length === 0) {
 			setDownloadStatusBySetId({});
 			return;
 		}
 
-		const statuses = await Promise.all(
-			setIds.map(async (setId) => {
-				const status = await downloadsRepository.getScopeStatus({
-					scopeType: 'set',
-					tcg: activeTcg,
-					setId,
-					language: activeLanguage,
-					imageQuality: userDownloads.imageQuality,
-				});
-				return [setId, status] as const;
-			})
-		);
+		// Reset first so stale statuses from the previous TCG/language don't hang around.
+		setDownloadStatusBySetId({});
 
-		setDownloadStatusBySetId(Object.fromEntries(statuses));
+		const chunkSize = 24;
+		const nextStatusMap: Record<string, DownloadScopeStatus> = {};
+
+		for (let index = 0; index < setIds.length; index += chunkSize) {
+			const chunk = setIds.slice(index, index + chunkSize);
+
+			const chunkStatuses = await Promise.all(
+				chunk.map(async (setId) => {
+					const status = await downloadsRepository.getScopeStatus({
+						scopeType: 'set',
+						tcg: activeTcg,
+						setId,
+						language: activeLanguage,
+						imageQuality: userDownloads.imageQuality,
+					});
+					return [setId, status] as const;
+				}),
+			);
+
+			if (requestId !== statusRequestIdRef.current) {
+				return;
+			}
+
+			for (const [setId, status] of chunkStatuses) {
+				nextStatusMap[setId] = status;
+			}
+
+			// Progressive update so the UI can breathe on very large TCGs like Pokémon.
+			setDownloadStatusBySetId((prev) => ({
+				...prev,
+				...Object.fromEntries(chunkStatuses),
+			}));
+
+			if (index + chunkSize < setIds.length) {
+				await delay(0);
+			}
+		}
+
+		if (requestId === statusRequestIdRef.current) {
+			setDownloadStatusBySetId(nextStatusMap);
+		}
 	}, [activeLanguage, activeTcg, userDownloads.imageQuality]);
 
 	useEffect(() => {
@@ -251,7 +307,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 			return;
 		}
 
-		updateCatalogBrowseToolbarFilters({
+		updateActiveCatalogFilters({
 			...toolbarState.filters,
 			setIds: [],
 			setNamesById: {},
@@ -259,40 +315,25 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 	}, [activeLanguage, toolbarState.filters]);
 
 	useEffect(() => {
+		// One refresh after the sets are loaded.
+		if (sets.length === 0) {
+			setDownloadStatusBySetId({});
+			return;
+		}
+
 		void refreshSetDownloadStatuses(sets.map((set) => set.id));
-	}, [refreshSetDownloadStatuses, sets]);
-
-	useEffect(() => {
-		let cancelled = false;
-
-		const refresh = async () => {
-			if (cancelled) {
-				return;
-			}
-
-			await refreshSetDownloadStatuses(sets.map((set) => set.id));
-		};
-
-		const intervalId = setInterval(() => {
-			void refresh();
-		}, 1500);
-
-		return () => {
-			cancelled = true;
-			clearInterval(intervalId);
-		};
 	}, [refreshSetDownloadStatuses, sets]);
 
 	const navigateToSet = (set: CatalogSetSummary) => {
 		const scopedSetId = `${activeTcg}:${set.id}`;
-		updateCatalogBrowseToolbarFilters(buildSetNavigationFilters({
+		updateActiveCatalogFilters(buildSetNavigationFilters({
 			currentFilters: toolbarState.filters,
 			activeTcg,
 			activeLanguage,
 			scopedSetId,
 			setName: set.name,
 		}));
-		updateCatalogBrowseToolbarLevel('cards');
+		updateCatalogLevel('cards');
 		router.replace(`/(tabs)/catalog?level=cards&tcg=${activeTcg}`);
 	};
 
@@ -310,7 +351,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 
 	const toggleFavorite = async (setId: string, currentlyFavorited: boolean) => {
 		await catalogRepository.toggleSetFavorite(activeTcg, setId, !currentlyFavorited);
-		setFavoriteSetIds(prev => {
+		setFavoriteSetIds((prev) => {
 			const next = new Set(prev);
 			if (!currentlyFavorited) {
 				next.add(setId);
@@ -321,7 +362,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 		});
 	};
 
- 	const setsContent = (
+	const setsContent = (
 		<>
 			{hideChrome ? null : (
 				<Header
@@ -334,17 +375,18 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 				<CatalogBrowseToolbar
 					searchPlaceholder="Find a set"
 					searchQuery={toolbarState.searchQuery}
-					onSearchQueryChange={updateCatalogBrowseToolbarSearchQuery}
+					onSearchQueryChange={updateActiveCatalogSearchQuery}
 					currentFilters={toolbarState.filters}
 					onApplyFilters={(nextFilters: CatalogScreenFilters) => {
-						updateCatalogBrowseToolbarFilters(nextFilters);
+						updateActiveCatalogFilters(nextFilters);
 					}}
 					selectedSort={toolbarState.selectedSort}
-					onSortChange={updateCatalogBrowseToolbarSort}
+					onSortChange={updateActiveCatalogSort}
 					visibleControls={['tcg', 'set', 'language', 'inventory', 'sort']}
 					sortMenuTitle="Sort Sets"
 					customSortMenuSections={setsSortMenuSections}
 					resultCountText={isLoading ? 'Loading sets...' : `Showing ${filteredSets.length} ${filteredSets.length === 1 ? 'set' : 'sets'}`}
+					isBusy={isLoading}
 				/>
 			)}
 
@@ -378,7 +420,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 							</AppText>
 						</View>
 					) : null}
-					{filteredSets.map((set, index) => {
+					{filteredSets.map((set) => {
 						const total = set.totalTcgCards ?? 0;
 						const owned = ownedCountBySetId[set.id] ?? 0;
 						const pct = total > 0 ? Math.round((owned / total) * 100) : 0;
@@ -391,19 +433,21 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 						const failedTotal = scopeStatus?.failedTotal ?? 0;
 						const hasAnyDownloadState = requestedTotal > 0;
 						const qualityMismatchFrom = scopeStatus?.qualityMismatchFrom;
+
 						const downloadStatusText = isDownloading
 							? `Downloading ${downloadedTotal}/${requestedTotal}`
 							: isDownloaded
-							? `Downloaded ${downloadedTotal}/${requestedTotal}`
-							: qualityMismatchFrom
-							? `Downloaded at ${qualityMismatchFrom}. Tap to download ${userDownloads.imageQuality}.`
-							: scopeStatus?.status === 'failed'
-							? `Download failed (${failedTotal})`
-							: scopeStatus?.status === 'partial'
-							? `Partial ${downloadedTotal}/${requestedTotal} (${failedTotal} failed)`
-							: hasAnyDownloadState
-							? `Queued ${downloadedTotal}/${requestedTotal}`
-							: 'Not downloaded';
+								? `Downloaded ${downloadedTotal}/${requestedTotal}`
+								: qualityMismatchFrom
+									? `Downloaded at ${qualityMismatchFrom}. Tap to download ${userDownloads.imageQuality}.`
+									: scopeStatus?.status === 'failed'
+										? `Download failed (${failedTotal})`
+										: scopeStatus?.status === 'partial'
+											? `Partial ${downloadedTotal}/${requestedTotal} (${failedTotal} failed)`
+											: hasAnyDownloadState
+												? `Queued ${downloadedTotal}/${requestedTotal}`
+												: 'Not downloaded';
+
 						const logoUri =
 							typeof set.logoImage === 'string' && set.logoImage.length > 0
 								? set.logoImage
@@ -412,7 +456,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 									: undefined;
 
 						return (
-						<FadeInView key={set.id} style={styles.setRowContainer}>
+							<FadeInView key={set.id} style={styles.setRowContainer}>
 								<Pressable
 									style={styles.setRow}
 									onPress={() => navigateToSet(set)}
@@ -463,7 +507,7 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 													[
 														{ text: 'Cancel', style: 'cancel' },
 														{ text: 'Re-download', onPress: () => queueSetDownload(set.id, true) },
-													]
+													],
 												);
 												return;
 											}
@@ -474,8 +518,8 @@ export function TcgSetsScreen({ initialTcg, hideChrome = false, onFilteredCountC
 										{isDownloading
 											? <ActivityIndicator size="small" color={theme.colors.secondary} />
 											: isDownloaded
-											? <Check size={20} color={theme.colors.secondary} />
-											: <CloudDownload size={20} color={theme.colors.secondary} />
+												? <Check size={20} color={theme.colors.secondary} />
+												: <CloudDownload size={20} color={theme.colors.secondary} />
 										}
 									</Pressable>
 								</View>
@@ -520,33 +564,32 @@ const createStyles = (theme: ReturnType<typeof useAppTheme>) =>
 			borderRadius: theme.radius.md,
 			borderWidth: theme.border.width.default,
 			borderColor: theme.colors.borderSubtle,
-			overflow: 'hidden',
+			padding: theme.spacing.md,
 		},
 		setRow: {
 			flex: 1,
 			flexDirection: 'row',
 			alignItems: 'center',
 			gap: theme.spacing.md,
-			padding: theme.spacing.md,
 		},
 		setLogoContainer: {
 			width: 100,
 			height: 56,
-			padding: theme.spacing.sm,
-			justifyContent: 'center',
-			alignItems: 'center',
-			backgroundColor: theme.colors.surfaceAlt,
 			borderRadius: theme.radius.sm,
+			backgroundColor: theme.colors.surfaceAlt,
+			alignItems: 'center',
+			justifyContent: 'center',
+			overflow: 'hidden',
 		},
 		setLogo: {
 			width: '100%',
 			height: '100%',
 		},
 		setLogoPlaceholder: {
-			width: '100%',
-			height: '100%',
-			backgroundColor: theme.colors.surfaceAlt,
-			borderRadius: theme.radius.sm,
+			width: 56,
+			height: 24,
+			borderRadius: theme.radius.xs,
+			backgroundColor: theme.colors.borderSubtle,
 		},
 		setInfo: {
 			flex: 1,
@@ -557,33 +600,38 @@ const createStyles = (theme: ReturnType<typeof useAppTheme>) =>
 			alignItems: 'baseline',
 		},
 		setCountOwned: {
-			fontSize: theme.fontSize.lg,
+			fontSize: theme.fontSize.sm,
 		},
 		setCountTotal: {
-			fontSize: theme.fontSize.md,
+			fontSize: theme.fontSize.sm,
+			marginLeft: 2,
 		},
 		setPct: {
-			fontSize: theme.fontSize.sm,
+			fontSize: theme.fontSize.xs,
+			marginLeft: theme.spacing.xs,
 		},
 		downloadStatusText: {
 			fontSize: theme.fontSize.xs,
-			color: theme.colors.textHighlighted,
-		},
-		favoriteButton: {
-			padding: theme.spacing.md,
-			justifyContent: 'center',
-			alignItems: 'center',
+			color: theme.colors.textMuted,
 		},
 		actionColumn: {
-			flexDirection: 'column',
-			justifyContent: 'center',
 			alignItems: 'center',
-			paddingHorizontal: theme.spacing.xs,
-			gap: theme.spacing.xs,
+			gap: theme.spacing.sm,
 		},
 		actionButton: {
-			padding: theme.spacing.sm,
-			justifyContent: 'center',
+			width: 36,
+			height: 36,
+			borderRadius: 18,
 			alignItems: 'center',
+			justifyContent: 'center',
+			backgroundColor: theme.colors.surfaceAlt,
+		},
+		favoriteButton: {
+			width: 36,
+			height: 36,
+			borderRadius: 18,
+			alignItems: 'center',
+			justifyContent: 'center',
+			backgroundColor: theme.colors.surfaceAlt,
 		},
 	});

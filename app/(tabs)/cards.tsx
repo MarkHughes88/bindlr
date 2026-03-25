@@ -1,10 +1,11 @@
+// LEGACY REDIRECT ROUTE: This file exists only to redirect to the canonical catalog route for Cards. Remove when all usages are migrated.
 import { Redirect, useLocalSearchParams } from 'expo-router';
 
-import { CatalogTcgCardListScreen } from '@/src/features/catalog/screens/CatalogTcgCardListScreen';
-import { getCatalogBrowseToolbarSnapshot } from '@/src/features/catalog/catalogBrowseToolbar.state';
-import { SEARCH_COPY } from '@/src/lib/copy';
-import { useUserSettingsState } from '@/src/features/settings/settings.store';
 import type { CatalogTcg } from '@/src/domain/catalog/catalog.types';
+import { getCatalogBrowseToolbarSnapshot } from '@/src/features/catalog/catalogBrowseToolbar.state';
+import { CatalogTcgCardListScreen } from '@/src/features/catalog/screens/CatalogTcgCardListScreen';
+import { useUserSettingsState } from '@/src/features/settings/settings.store';
+import { SEARCH_COPY } from '@/src/lib/copy';
 
 const ALL_TCGS: CatalogTcg[] = ['pokemon', 'mtg', 'lorcana', 'one-piece'];
 
@@ -37,42 +38,12 @@ export default function CardsScreenRoute() {
 				? SEARCH_COPY.placeholders.missingCards
 				: SEARCH_COPY.placeholders.homeSearch;
 	const baseFilters = !specialMode ? toolbarState.filters : undefined;
-	const initialSearchQuery = typeof q === 'string'
-		? q
-		: shouldResetSearchFromRoute
-			? ''
-			: !specialMode
-				? toolbarState.searchQuery
-				: undefined;
 
 	return (
 		<CatalogTcgCardListScreen
-			key={`${validTcg ?? 'all'}:${specialMode ?? 'catalog'}:${initialSearchQuery ?? ''}:${JSON.stringify(baseFilters ?? null)}:${settings.filters.defaultTcg}:${settings.filters.preferredLanguage}:${settings.filters.ownershipMode}:${settings.filters.setScope}`}
+			key={`${validTcg ?? 'all'}:${specialMode ?? 'catalog'}:${settings.filters.defaultTcg}:${settings.filters.preferredLanguage}:${settings.filters.ownershipMode}:${settings.filters.setScope}`}
 			searchPlaceholder={placeholder}
 			specialMode={specialMode}
-			initialSearchQuery={initialSearchQuery}
-			initialFilters={{
-				...baseFilters,
-				...(validTcg
-					? { tcgs: [validTcg] }
-					: (!specialMode && !(baseFilters?.tcgs.length) && settings.filters.defaultTcg ? { tcgs: [settings.filters.defaultTcg] } : {})),
-				...(isRecentlyViewed ? { recentlyViewed: true } : {}),
-				...(specialMode
-					? {}
-					: {
-						...(baseFilters?.languages.length
-							? { languages: baseFilters.languages }
-							: settings.filters.preferredLanguage
-							? { languages: [settings.filters.preferredLanguage] }
-							: {}),
-					}),
-				ownershipMode: baseFilters?.ownershipMode
-					? baseFilters.ownershipMode
-					: (settings.filters.ownershipMode
-						? (settings.filters.ownershipMode === 'binder-needed' ? 'all' : settings.filters.ownershipMode)
-						: 'all'),
-				setScope: baseFilters?.setScope ?? settings.filters.setScope ?? 'all',
-			}}
 		/>
 	);
 }
